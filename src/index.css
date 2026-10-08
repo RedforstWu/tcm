@@ -19,11 +19,36 @@ body,
   min-height: 100%;
 }
 
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
 body {
   margin: 0;
   font-family: var(--font-sans);
   color: var(--color-ink);
   background: radial-gradient(circle at top, #fffdf8 0%, var(--color-paper) 45%, #efe8dc 100%);
+  /* clip 不会创建滚动容器，sticky 顶栏仍然有效 */
+  overflow-x: clip;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* iOS Safari 对小于 16px 的输入框聚焦时会自动放大页面 */
+@media (max-width: 767px) {
+  input,
+  select,
+  textarea {
+    font-size: 16px;
+  }
+}
+
+.scrollbar-none {
+  scrollbar-width: none;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
 }
 
 .prose-classic {

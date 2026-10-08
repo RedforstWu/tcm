@@ -1,0 +1,234 @@
+{
+  "book": "funanke",
+  "batch": 8,
+  "promptFile": "data/annotations/chenfu-reasoning/prompt.md",
+  "vocab": {
+    "organTags": [
+      "心",
+      "肝",
+      "脾",
+      "肺",
+      "肾",
+      "胃",
+      "胆",
+      "大肠",
+      "小肠",
+      "膀胱",
+      "三焦",
+      "心包",
+      "命门"
+    ],
+    "relationKinds": [
+      "生",
+      "克",
+      "乘",
+      "侮",
+      "移邪"
+    ],
+    "disputeKinds": [
+      "misdiagnosis",
+      "mistreatment",
+      "drugDoubt",
+      "commonPractice"
+    ],
+    "disputeKindLabels": {
+      "misdiagnosis": "病机误诊",
+      "mistreatment": "误治警示",
+      "drugDoubt": "用药辨难",
+      "commonPractice": "批驳世俗之见"
+    }
+  },
+  "entries": [
+    {
+      "clauseId": "funanke-0211",
+      "contentHash": "b50b6b140670aaf5",
+      "book": "funanke",
+      "chapter": "小儿科",
+      "heading": "吐",
+      "text": "此症虽胃气之弱，亦脾气之虚，小儿恣意饱食，不能消化,久之上冲于胃口而吐也。\n方用\n止吐速效汤\n\n人参 白术（ 各壹钱） 砂仁（ 壹粒） 茯苓（ 贰钱） 陈皮（ 贰分） 麦芽（ 伍分）半夏 干姜（ 各壹分） 山查（ 参个）\n\n水煎服。\n\n==== 咳嗽 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0211-1",
+          "name": "吐·方1",
+          "preparation": "水煎服。==== 咳嗽 ====",
+          "fangjie": ""
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0212",
+      "contentHash": "437d638850cc7417",
+      "book": "funanke",
+      "chapter": "小儿科",
+      "heading": "咳嗽",
+      "text": "方用 苏叶（ 伍分） 桔梗 甘草（ 各壹钱）\n\n水煎热服,有痰加白芥子（ 伍分） 便是。\n\n==== 疳症 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0212-1",
+          "name": "咳嗽·方1",
+          "preparation": "水煎热服,有痰加白芥子（ 伍分） 便是。==== 疳症 ====",
+          "fangjie": ""
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0213",
+      "contentHash": "d7136386ba55bc88",
+      "book": "funanke",
+      "chapter": "小儿科",
+      "heading": "疳症",
+      "text": "此脾热而因乎心热也，遂至口中流涎，若不平其心火，则脾火更旺，湿热上蒸,而口涎不能止。\n方用\n\n\n芦荟 桑白皮（ 各壹钱） 黄连 薄荷 半夏（ 各参分） 茯苓（ 贰钱） 甘草（ 壹分）\n\n水煎服。\n\n此心脾两清之圣药也，引火下行，而疳自去矣。\n\n==== 口疳流水口烂神方 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0213-1",
+          "name": "疳症·方1",
+          "preparation": "水煎服。此心脾两清之圣药也，引火下行，而疳自去矣。==== 口疳流水口烂神方 ====",
+          "fangjie": ""
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0214",
+      "contentHash": "e963ea359cbe5c54",
+      "book": "funanke",
+      "chapter": "小儿科",
+      "heading": "口疳流水口烂神方",
+      "text": "黄柏（ 贰钱） 人参（ 壹钱） 共为细末，敷口内，一日三次即愈。\n\n此方用\n黄柏去火，人参健脾，大人用之亦效。\n\n==== 疳症泻痢眼障神效方 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0214-1",
+          "name": "口疳流水口烂神方·方1",
+          "preparation": "",
+          "fangjie": ""
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0215",
+      "contentHash": "fec99889de69c1d2",
+      "book": "funanke",
+      "chapter": "小儿科",
+      "heading": "疳症泻痢眼障神效方",
+      "text": "石决明（ 壹两醋煅） 芦荟 川芎 白蒺藜 胡黄连 五灵脂 细辛 谷精草（ 各伍钱） 甘草（ 叁钱） 菊花（ 肆钱）\n\n猪苓去筋，捣烂为丸如桐子大，每服贰拾伍丸，不拘时,米汤下。\n\n==== 疟疾 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0215-1",
+          "name": "疳症泻痢眼障神效方·方1",
+          "preparation": "",
+          "fangjie": ""
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0216",
+      "contentHash": "675eb2d425c4b843",
+      "book": "funanke",
+      "chapter": "小儿科",
+      "heading": "疟疾",
+      "text": "方用\n\n柴胡（ 陆分） 白术 茯苓 归身（ 各壹钱） 白芍（ 壹钱伍分） 半夏 青皮 厚朴（ 各伍分）\n\n水煎成，露一宿,再温与服。\n\n热多者加人参、黄耆各伍分，寒多者加干姜参分，痰多者加白芥子壹钱,夜热加何首乌、熟地各贰钱，日发者不用加，腹痛加槟榔参分。\n\n==== 便虫 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0216-1",
+          "name": "疟疾·方1",
+          "preparation": "水煎成，露一宿,再温与服。",
+          "fangjie": "热多者加人参、黄耆各伍分，寒多者加干姜参分，痰多者加白芥子壹钱,夜热加何首乌、熟地各贰钱，日发者不用加，腹痛加槟榔参分。==== 便虫 ===="
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0217",
+      "contentHash": "1f787e5690101c06",
+      "book": "funanke",
+      "chapter": "小儿科",
+      "heading": "便虫",
+      "text": "方用\n\n榧子（ 伍个去壳） 甘草（ 参分） 米饭为丸，服二次,则虫化为水矣。\n\n==== 积虫 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0217-1",
+          "name": "便虫·方1",
+          "preparation": "",
+          "fangjie": ""
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0218",
+      "contentHash": "4a372e514dcc3a3f",
+      "book": "funanke",
+      "chapter": "小儿科",
+      "heading": "积虫",
+      "text": "方用\n\n史君子（ 去壳炒） 榧子（ 各拾个去壳） 槟榔 甘草（ 各壹钱） 米饭为丸如桐子大，每服十丸，二日虫出，五日全愈。\n\n==== 痘症回毒或疔肿 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0218-1",
+          "name": "积虫·方1",
+          "preparation": "",
+          "fangjie": ""
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0219",
+      "contentHash": "338b9493df40437c",
+      "book": "funanke",
+      "chapter": "小儿科",
+      "heading": "痘症回毒或疔肿",
+      "text": "方用\n\n银花（ 伍钱） 人参（ 贰钱） 甘草 元参（ 贰钱）\n\n水煎服。\n\n==== 痘疮坏症已黑 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0219-1",
+          "name": "痘症回毒或疔肿·方1",
+          "preparation": "水煎服。==== 痘疮坏症已黑 ====",
+          "fangjie": ""
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0220",
+      "contentHash": "62226be9ff2c4072",
+      "book": "funanke",
+      "chapter": "小儿科",
+      "heading": "痘疮坏症已黑",
+      "text": "痘疮坏症已黑者，人将弃之，药下喉即活。\n方用\n\n\n人参（ 叁钱） 陈皮 荆芥（ 各壹钱） 蝉退（ 伍分） 元参 当归（ 各贰钱）\n\n水煎服。\n\n此乃元气虚而火不能发也，故用人参以补元气,元参去浮游之火，陈皮去痰开胃，则参无碍，而相得益彰，荆芥以发之,又能引火以归经，当归生新去旧，消瘀血，蝉退解毒除风，世人何知此妙法,初起时不可服，必坏症乃可服。\n\n==== 急慢风 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0220-1",
+          "name": "痘疮坏症已黑·方1",
+          "preparation": "水煎服。",
+          "fangjie": "此乃元气虚而火不能发也，故用人参以补元气,元参去浮游之火，陈皮去痰开胃，则参无碍，而相得益彰，荆芥以发之,又能引火以归经，当归生新去旧，消瘀血，蝉退解毒除风，世人何知此妙法,初起时不可服，必坏症乃可服。==== 急慢风 ===="
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0221",
+      "contentHash": "0cfc40b22208fcd0",
+      "book": "funanke",
+      "chapter": "小儿科",
+      "heading": "急慢风",
+      "text": "三六九日一切风俱治。\n\n陈胆星 雄黄 朱砂 人参 茯苓 天竺黄 钩藤 牛黄 麝香 川郁金 柴胡 青皮 甘草\n\n为细末，煎膏为丸如莞豆大，真金一张为衣,阴干勿泄气，薄荷汤磨服。\n\n==== 治火丹神方 ====",
+      "formulas": []
+    },
+    {
+      "clauseId": "funanke-0222",
+      "contentHash": "7235f2443ba05dbd",
+      "book": "funanke",
+      "chapter": "小儿科",
+      "heading": "治火丹神方",
+      "text": "丝瓜子 元参（ 各壹两） 柴胡 升麻（ 各壹钱） 当归（ 伍钱）\n\n水煎服。\n\n又方\n\n升麻 青蒿 黄耆（ 各叁钱） 元参（ 壹两） 干葛（ 参两）\n\n水煎服。 此二方详火症，小儿用之亦效,\n\n故又出之。\n\n此方妙在用青蒿，肝胃之火俱平，又佐以群药重剂,而火安有不灭者乎。",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0025-1",
+          "name": "治火丹神方·方1",
+          "preparation": "水煎服 小儿服之亦效==== 消食病 ====",
+          "fangjie": ""
+        },
+        {
+          "formulaId": "funanke-formula-funanke-0222-1",
+          "name": "治火丹神方·方1",
+          "preparation": "水煎服。又方升麻 青蒿 黄耆（ 各叁钱） 元参（ 壹两） 干葛（ 参两）水煎服。 此二方详火症，小儿用之亦效,故又出之。",
+          "fangjie": "此方妙在用青蒿，肝胃之火俱平，又佐以群药重剂,而火安有不灭者乎。"
+        }
+      ]
+    }
+  ]
+}

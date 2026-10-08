@@ -1,0 +1,512 @@
+{
+  "entries": [
+    {
+      "clauseId": "funanke-0091",
+      "contentHash": "4203f3e9050c4817",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "呕吐",
+          "disputes": [
+            { "kind": "commonPractice", "claim": "世人皆以呕吐为胃虚", "rebuttal": "谁知由于肾虚乎" }
+          ],
+          "pathogenesis": "谁知由于肾虚乎",
+          "organs": ["胃", "肾"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0091-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0092",
+      "contentHash": "ebd0d18642b8c569",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "mistreatment", "claim": "此症若降火", "rebuttal": "则火由脾而入于大肠，必变为便血之症" }
+          ],
+          "organs": ["脾", "大肠"],
+          "relations": [],
+          "treatmentPrinciple": "法宜清火止吐",
+          "formulaIds": ["funanke-formula-funanke-0092-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0093",
+      "contentHash": "e9009cb22f84d509",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "mistreatment", "claim": "此症若降寒", "rebuttal": "则又引入肾而流于膀胱，必变为遗尿之症" }
+          ],
+          "organs": ["肾", "膀胱", "脾"],
+          "relations": [],
+          "treatmentPrinciple": "法宜散寒止吐",
+          "formulaIds": ["funanke-formula-funanke-0093-1"],
+          "keySentence": "此方散寒而用补脾之品，则寒不能上越，而亦不得下行"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0094",
+      "contentHash": "71f1768353143f26",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "此方治胃病，以补脾者何也", "rebuttal": "盖胃为脾之关，关门之沸腾, 由于关中之溃乱" }
+          ],
+          "pathogenesis": "此症由于脾虚，脾气不得下行，自必上反而吐",
+          "organs": ["脾", "胃"],
+          "relations": [],
+          "treatmentPrinciple": "补脾则胃安",
+          "formulaIds": ["funanke-formula-funanke-0094-1"],
+          "keySentence": "此脾胃两补之法也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0095",
+      "contentHash": "c92821ceaf3e7a1e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有食入而即出者",
+          "disputes": [],
+          "pathogenesis": "乃肾水虚不能润喉，故喉燥而即出也",
+          "organs": ["肾"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0095-1"]
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "此症又有食久而反出者",
+          "disputes": [],
+          "pathogenesis": "乃肾火虚不能温脾，故脾寒而反出也",
+          "organs": ["肾", "脾"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0095-2"],
+          "keySentence": "此即八味地黄"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0096",
+      "contentHash": "157f371a283970e7",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "若单胃之虚寒",
+          "disputes": [],
+          "organs": ["胃", "心"],
+          "relations": [],
+          "treatmentPrinciple": "自宜独治心之为妙",
+          "formulaIds": ["funanke-formula-funanke-0096-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0097",
+      "contentHash": "4140454168571331",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "呕吐不已，食久而出是也，下痢不止, 五更时痛泻三五次者是也",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为脾胃之寒，服脾胃之药而不效者何也", "rebuttal": "盖胃为肾之关，而脾为肾之海" }
+          ],
+          "pathogenesis": "此症由于心寒胃弱",
+          "organs": ["心", "胃", "脾", "肾", "命门", "心包"],
+          "relations": [{ "from": "心包", "to": "胃", "kind": "生" }],
+          "treatmentPrinciple": "故补脾胃，莫急于补肾也",
+          "formulaIds": ["funanke-formula-funanke-0097-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0098",
+      "contentHash": "e8cb02579682bbe0",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此症满身皆水，按之如泥者",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "断勿与三剂也", "rebuttal": "与三剂反杀之矣" },
+            { "kind": "commonPractice", "claim": "市医多用五皮饮", "rebuttal": "描头画角百无一效" }
+          ],
+          "organs": ["膀胱"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0098-1"],
+          "keySentence": "引火以入膀胱，利水而不走气"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0099",
+      "contentHash": "f59908c59f0346ad",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "必先从脚面上肿起, 后渐肿至身上，于是头面皆肿者有之",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "似水", "rebuttal": "而实非水也" },
+            { "kind": "mistreatment", "claim": "若以治水臌治之", "rebuttal": "是速之死也" }
+          ],
+          "pathogenesis": "此症气虚作肿，似水而实非水也",
+          "organs": ["脾"],
+          "relations": [],
+          "treatmentPrinciple": "宜于健脾行气之中, 加引水之品",
+          "formulaIds": ["funanke-formula-funanke-0099-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0100",
+      "contentHash": "721644abeec22a63",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此症小腹痛，四肢浮肿而未甚，面色红而有白点，如虫食之状",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0100-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0101",
+      "contentHash": "9b058138c487a034",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "辨血臌惟腹账如臌，而四肢手足并无臌意也",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "倘以治水法逐之", "rebuttal": "而症非水，徒伤元气" },
+            { "kind": "mistreatment", "claim": "以治气法治之", "rebuttal": "而又非气，徒增饱满" }
+          ],
+          "pathogenesis": "此症或因跌闪而瘀血不散，或忧郁而结血不行，或风邪而蓄血不散，留在腹中, 致成血臌",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0101-1"],
+          "keySentence": "当改四物汤调理，于补血内加白术茯苓人参，补元气而利水"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0102",
+      "contentHash": "0971b93acce73e9f",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "pathogenesis": "此症土不能克水也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0102-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0103",
+      "contentHash": "409a8402bcbcc737",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "呃逆不止",
+          "disputes": [],
+          "pathogenesis": "此症乃水气凌心包也",
+          "organs": ["心包"],
+          "relations": [],
+          "treatmentPrinciple": "治法当利湿分水",
+          "formulaIds": ["funanke-formula-funanke-0103-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0104",
+      "contentHash": "b2a00bb2c7a7fd6c",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此症目突口张，足肿气喘",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为不治之症", "rebuttal": "不知膀胱与肾，相为表里" }
+          ],
+          "pathogenesis": "膀胱之开合，肾司其权",
+          "organs": ["膀胱", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "特通其肾气而膀胱自通矣",
+          "formulaIds": ["funanke-formula-funanke-0104-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0105",
+      "contentHash": "abf31e61ec13776d",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "mistreatment", "claim": "若内伤之湿, 泻水", "rebuttal": "则气消" },
+            { "kind": "mistreatment", "claim": "发汗", "rebuttal": "则精泄" }
+          ],
+          "pathogenesis": "此症外感之湿易治，内伤之湿难疗",
+          "organs": ["脾"],
+          "relations": [],
+          "treatmentPrinciple": "必健脾行气而后可也",
+          "formulaIds": ["funanke-formula-funanke-0105-1"],
+          "keySentence": "此方治内感之湿，不治外感之湿"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0106",
+      "contentHash": "81746b9e0a77eb5a",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "mistreatment", "claim": "倘攻邪而不补正", "rebuttal": "则难愈矣" }
+          ],
+          "pathogenesis": "此症虽因风寒湿而来，亦因元气之虚，邪治得趁虚而入",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "今于补正之中，佐以去风寒湿之品",
+          "formulaIds": ["funanke-formula-funanke-0106-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0107",
+      "contentHash": "89b4b12b5de6d5ed",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此症恶湿，身重足肿，小便短赤",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0107-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0108",
+      "contentHash": "b6aa41be296a44f0",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "commonPractice", "claim": "今人以五苓散去湿，亦是正理", "rebuttal": "然不升其气，而湿未必尽去也" }
+          ],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "必须提气而水乃散也",
+          "formulaIds": ["funanke-formula-funanke-0108-1"],
+          "keySentence": "防风用于黄耆之中, 已足提气而去湿"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0109",
+      "contentHash": "5018a412aebe9581",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "一日五六十回，倾肠而出，完谷不化，粪门肿痛，如火之热",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0109-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0110",
+      "contentHash": "73fe22de9c5e5482",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "pathogenesis": "皆由于膀胱不能化气，胃中所纳水谷不得分消，直由大肠而出",
+          "organs": ["肾", "脾", "膀胱", "胃", "大肠"],
+          "relations": [],
+          "treatmentPrinciple": "故以利小便为主",
+          "formulaIds": ["funanke-formula-funanke-0110-1"],
+          "keySentence": "此方补肾健脾，利水去湿，治泻神效"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0111",
+      "contentHash": "b77e35cbcf49ac72",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "完谷不化，饮食下喉即出，日夜数十次，甚至百次",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人皆知为热也", "rebuttal": "然而热之生也何故，生于肾中之水衰不能制火" },
+            { "kind": "mistreatment", "claim": "论其势之急迫，似乎宜治其标", "rebuttal": "然治其标而不能使火之骤降" }
+          ],
+          "pathogenesis": "生于肾中之水衰不能制火，使胃土关门，不守于上下",
+          "organs": ["肾", "胃"],
+          "relations": [],
+          "treatmentPrinciple": "必须急补肾中之水，使火有可居之地",
+          "formulaIds": ["funanke-formula-funanke-0111-1"],
+          "keySentence": "此乃补肾之药，非止泻之品"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0112",
+      "contentHash": "186d6a1ab565ae93",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此乃纯是下清水，非言下痢也",
+          "disputes": [
+            { "kind": "commonPractice", "claim": "痢无止法，岂泻水亦无止法乎", "rebuttal": "故人患水泻者, 急宜止遏" }
+          ],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "急宜止遏",
+          "formulaIds": ["funanke-formula-funanke-0112-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0113",
+      "contentHash": "68a5eb0d7e46bf85",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "泄泻，寒也，吞酸，火也，似乎寒热殊而治法异矣", "rebuttal": "不知吞酸虽热, 由于肝气之郁结，泄泻虽寒，由于肝木之克脾" },
+            { "kind": "mistreatment", "claim": "茍用一方以治水郁, 又一方以培脾土", "rebuttal": "土必大崩，木必大雕矣" }
+          ],
+          "pathogenesis": "不知吞酸虽热, 由于肝气之郁结，泄泻虽寒，由于肝木之克脾",
+          "organs": ["肝", "脾", "胃"],
+          "relations": [{ "from": "肝", "to": "脾", "kind": "克" }],
+          "treatmentPrinciple": "不若一方而两治之为愈也",
+          "formulaIds": ["funanke-formula-funanke-0113-1"],
+          "keySentence": "此方妙在白芍以舒肝木之郁"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0114",
+      "contentHash": "be832ad4718befe0",
+      "cases": []
+    },
+    {
+      "clauseId": "funanke-0115",
+      "contentHash": "d4c7173c47798d58",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "红白相见，如脓如血，至危至急者也",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "茍用凉药止血, 热药攻邪", "rebuttal": "俱非善治之法" }
+          ],
+          "pathogenesis": "此症感湿热而成",
+          "organs": ["肝", "脾", "大肠"],
+          "relations": [{ "from": "肝", "to": "脾", "kind": "克" }],
+          "formulaIds": ["funanke-formula-funanke-0115-1"],
+          "keySentence": "此方妙在用归芍至二两之多，则肝血有余, 不去克脾土，自然大肠有传送之功"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0116",
+      "contentHash": "c34ddc896caebdd8",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "凡血痢腹痛者",
+          "disputes": [],
+          "pathogenesis": "火也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0116-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0117",
+      "contentHash": "e92e16ea5a2031c6",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "凡痢腹不痛者",
+          "disputes": [],
+          "pathogenesis": "寒也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0117-1"],
+          "keySentence": "此方治寒痢，腹不痛者"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "更有内伤劳倦，与中气虚寒之人, 脾不摄血而成血痢者",
+          "disputes": [],
+          "pathogenesis": "脾不摄血",
+          "organs": ["脾"],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "当用理中汤，加木香肉桂，或用补中益气汤加熟地炒干姜"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0118",
+      "contentHash": "e86d823d37dad75e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "大便不通",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "此症人以为大肠燥也", "rebuttal": "谁知是肺气燥乎" }
+          ],
+          "pathogenesis": "盖肺燥则清肃之气，不能下行于大肠, 而肾经之水，仅足自顾",
+          "organs": ["肺", "大肠", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "此下病上治之法也",
+          "formulaIds": ["funanke-formula-funanke-0118-1"],
+          "keySentence": "此方不在润大肠而在补肾及清肺"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0119",
+      "contentHash": "adee1a0cfc9425fe",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0119-1"],
+          "keySentence": "况有升麻以提之，则泄中有留"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0120",
+      "contentHash": "00993d385d88ad97",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有病后大便秘者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0120-1"]
+        }
+      ]
+    }
+  ]
+}

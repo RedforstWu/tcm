@@ -1,0 +1,209 @@
+{
+  "entries": [
+    { "clauseId": "shishi-0211", "contentHash": "e0de920e35e83a4a", "cases": [] },
+    { "clauseId": "shishi-0212", "contentHash": "a9cd2f48ea9dac6d", "cases": [] },
+    {
+      "clauseId": "shishi-0213",
+      "contentHash": "0371027dca4db68e",
+      "cases": [
+        { "caseIndex": 0, "symptomText": "凡见舌系白苔者", "disputes": [], "pathogenesis": "邪火未甚也", "organs": [], "relations": [], "formulaIds": [], "formulaText": "用小柴胡汤解之" },
+        { "caseIndex": 1, "symptomText": "舌系黄苔者", "disputes": [], "pathogenesis": "心热也", "organs": ["心"], "relations": [], "formulaIds": [], "formulaText": "可用黄连、栀子以凉之" },
+        { "caseIndex": 2, "symptomText": "凡见黄而带灰色者", "disputes": [], "pathogenesis": "系胃热也", "organs": ["胃"], "relations": [], "formulaIds": [], "formulaText": "可用石膏。知母以凉之" },
+        { "caseIndex": 3, "symptomText": "凡见黄而带红者", "disputes": [], "pathogenesis": "乃小肠膀胱热也", "organs": ["小肠", "膀胱"], "relations": [], "formulaIds": [], "formulaText": "可用栀子以清之" },
+        { "caseIndex": 4, "symptomText": "见舌红而白者", "disputes": [], "pathogenesis": "乃肺热也", "organs": ["肺"], "relations": [], "formulaIds": [], "formulaText": "用黄连、苏叶以解之" },
+        { "caseIndex": 5, "symptomText": "见舌黑而带红者", "disputes": [], "pathogenesis": "乃肾虚而挟邪也", "organs": ["肾"], "relations": [], "formulaIds": [], "formulaText": "用生地，元参，又入柴胡以和解之" },
+        { "caseIndex": 6, "symptomText": "见舌红而有黑星者", "disputes": [], "pathogenesis": "乃胃热极也", "organs": ["胃"], "relations": [], "formulaIds": [], "formulaText": "用石膏以治之" },
+        { "caseIndex": 7, "symptomText": "见舌红而有白点者", "disputes": [], "pathogenesis": "乃心中有邪也", "organs": ["心", "肝"], "relations": [], "treatmentPrinciple": "心肝同治也", "formulaIds": [], "formulaText": "宜用柴胡、黄连以解之" },
+        { "caseIndex": 8, "symptomText": "而有大红点者", "disputes": [], "pathogenesis": "乃胃热而带湿也", "organs": ["胃", "膀胱"], "relations": [], "formulaIds": [], "formulaText": "须茵陈五苓散以利之" },
+        { "caseIndex": 9, "symptomText": "见舌白苔而带黑点", "disputes": [], "pathogenesis": "亦胃热也", "organs": ["胃"], "relations": [], "formulaIds": [], "formulaText": "宜用石膏以凉之" },
+        { "caseIndex": 10, "symptomText": "见舌黄而有黑者", "disputes": [], "pathogenesis": "乃肝经实热也", "organs": ["肝"], "relations": [], "formulaIds": [], "formulaText": "用柴胡、栀子以解之" },
+        { "caseIndex": 11, "symptomText": "见舌白而黄者", "disputes": [], "pathogenesis": "邪将入里也", "organs": [], "relations": [], "formulaIds": [], "formulaText": "急用柴胡、栀子以解之" },
+        { "caseIndex": 12, "symptomText": "见舌中白而外黄者", "disputes": [], "pathogenesis": "乃邪入大肠也", "organs": ["大肠"], "relations": [], "formulaIds": [], "formulaText": "必须五苓散以分水" },
+        { "caseIndex": 13, "symptomText": "见舌中黄而外白者", "disputes": [], "pathogenesis": "乃邪在内而非外，邪在上而非下", "organs": [], "relations": [], "formulaIds": [], "formulaText": "止可加柴胡、枳壳以和解" },
+        { "caseIndex": 14, "symptomText": "见根黄而光白者", "disputes": [], "pathogenesis": "亦胃热而带湿也", "organs": ["胃"], "relations": [], "formulaIds": [], "formulaText": "亦须用石膏为君，而少加去水之品，如猪苓、泽泻之味也" },
+        { "caseIndex": 15, "symptomText": "见舌黄而隔一瓣一瓣者", "disputes": [], "pathogenesis": "乃邪湿已入大肠", "organs": ["大肠"], "relations": [], "formulaIds": [], "formulaText": "急用大黄、茵陈下之" },
+        { "caseIndex": 16, "symptomText": "见舌有红中如虫蚀者", "disputes": [], "pathogenesis": "乃水未升而火来乘也", "organs": [], "relations": [], "formulaIds": [], "formulaText": "亦须用黄连、柴胡以和解之" },
+        { "caseIndex": 17, "symptomText": "见舌红而开裂如人字者", "disputes": [], "pathogenesis": "乃邪初入心", "organs": ["心"], "relations": [], "formulaIds": [], "formulaText": "宜用石膏、黄连以解之" },
+        { "caseIndex": 18, "symptomText": "见舌有根黑而尖带红者", "disputes": [], "pathogenesis": "乃肾中有邪未散", "organs": ["肾"], "relations": [], "formulaIds": [], "formulaText": "宜用柴胡、栀子以解之" },
+        { "caseIndex": 19, "symptomText": "见舌根黑而舌尖白者", "disputes": [], "pathogenesis": "乃胃火乘肾", "organs": ["胃", "肾"], "relations": [{ "from": "胃", "to": "肾", "kind": "乘" }], "formulaIds": [], "formulaText": "宜用石膏、知母、元参以解之" },
+        { "caseIndex": 20, "symptomText": "舌根黑而舌尖黄者", "disputes": [], "pathogenesis": "亦邪将入肾", "organs": ["肾"], "relations": [], "formulaIds": [], "formulaText": "须急用大黄下之" },
+        {
+          "caseIndex": 21,
+          "symptomText": "见舌纯红而独尖黑者",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "肾既虚而又用石膏", "rebuttal": "是速之死也" }
+          ],
+          "pathogenesis": "乃肾虚而邪火来乘也",
+          "organs": ["肾"],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "当用元参一两或二两以救之"
+        },
+        { "caseIndex": 22, "symptomText": "见舌有中心红晕，而四围边防纯黑者", "disputes": [], "pathogenesis": "乃君相之火炎腾", "organs": [], "relations": [], "formulaIds": [], "formulaText": "急用大黄加生地两许" },
+        {
+          "caseIndex": 23,
+          "symptomText": "见舌有中央灰黑，而四边微红者",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "此时又不可竟用熟地补肾之药", "rebuttal": "盖邪未散不可补，补则愈加胀急，适所以害之也" }
+          ],
+          "pathogenesis": "乃邪结于大肠也",
+          "organs": ["大肠", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "下之则愈",
+          "formulaIds": [],
+          "formulaText": "必邪下而后以生地滋之则可"
+        },
+        { "caseIndex": 24, "symptomText": "见舌有纯灰色，中间独两晕黑者", "disputes": [], "pathogenesis": "亦邪将入肾也", "organs": ["肾"], "relations": [], "formulaIds": [], "formulaText": "急用元参两许，少加柴胡治之" },
+        { "caseIndex": 25, "symptomText": "见舌有外红而内黑者", "disputes": [], "pathogenesis": "此火极似水也", "organs": [], "relations": [], "formulaIds": [], "formulaText": "急用柴胡、栀子、大黄、枳实以和利之" }
+      ]
+    },
+    {
+      "clauseId": "shishi-0214",
+      "contentHash": "a33ce2e5fc657005",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "通治小儿脾胃弱病",
+          "disputes": [],
+          "pathogenesis": "然而，小儿之病，虚者十之九，实者十之一",
+          "organs": ["脾", "胃"],
+          "relations": [],
+          "treatmentPrinciple": "故药宜补为先",
+          "formulaIds": ["shishi-formula-shishi-0214-1"],
+          "formulaText": "第一方∶人参三分，白术五分，茯苓一钱，甘草一分，陈皮二分，神曲三分，半夏一分"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "或伤风伤寒，或咳嗽，或发热，或不发热，或头痛，或鼻塞，或痰多，或惊悸，或角弓反张",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "方用柴胡七分，甘草三分，桔梗五分，半夏三分，黄芩三分，白芍二钱，白术二钱，当归五分，陈皮二分，茯苓五分，水煎服"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "夜热出汗、夜啼不寐、怔忡、久嗽不已、行迟语迟、龟背狗肚、将成痨瘵等症",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "方用熟地三钱，山茱萸二钱，麦冬二钱，北五味五分，元参二钱，白术二钱，茯苓一钱，薏仁三钱，丹皮一钱，沙参二钱，地骨皮二钱，水煎服"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "见小儿身热，眼如醉眼者，此出痘兆也",
+          "disputes": [
+            { "kind": "commonPractice", "claim": "今人看痘为难治", "rebuttal": "不知得其法则无难也" },
+            { "kind": "commonPractice", "claim": "无如世人皆以寒凉之品为主，又助以劫散之味", "rebuttal": "此所以轻变重，重至死也" }
+          ],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "先以补气补血之药为君，加之发散之药",
+          "formulaIds": [],
+          "formulaText": "白术一钱，甘草一钱，当归二钱，川芎二钱，茯苓三钱，柴胡一钱五分，升麻五分，麦冬二钱，元参三钱，陈皮五分，荆芥一钱"
+        },
+        {
+          "caseIndex": 4,
+          "symptomText": "服后见点",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "第二日方∶白术二钱，麦冬三钱，甘草一钱，桔梗二钱，当归五钱，生地五钱，元参三钱，柴胡一钱，升麻三分，荆芥一钱，茯苓二钱，白芍三钱，白芥子二钱，金银花三钱，水煎服"
+        },
+        {
+          "caseIndex": 5,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "第三日方∶人参五分，白芍三钱，白术三钱，茯苓三钱，元参二钱，神曲三分，丹皮一钱，水煎服"
+        },
+        {
+          "caseIndex": 6,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "第四日方∶人参一钱，当归二钱，熟地五钱，茯苓三钱，金银花三钱，陈皮五分，甘草一钱，元参三钱，白术三钱，白芍二钱，神曲五分"
+        },
+        {
+          "caseIndex": 7,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "第五日方∶人参一钱，茯苓三钱，白术二钱，甘草一钱"
+        },
+        {
+          "caseIndex": 8,
+          "symptomText": "治痘疮坏症已黑者",
+          "disputes": [],
+          "pathogenesis": "大约坏症，皆元气虚而火不能发也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "人参三钱，陈皮一钱，蝉蜕五分，元参二钱，当归二钱，荆芥穗一钱"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0215",
+      "contentHash": "6bcafcb61af78cec",
+      "cases": [
+        { "caseIndex": 0, "symptomText": "山根之上有青筋直现者", "disputes": [], "pathogenesis": "乃肝热也", "organs": ["肝"], "relations": [], "formulaIds": [], "formulaText": "用柴胡三分，白芍一钱，当归五分，半夏三分，白术五分，茯苓一钱，山楂三粒，甘草一分，水煎服" },
+        { "caseIndex": 1, "symptomText": "有青筋横现者", "disputes": [], "pathogenesis": "亦肝热也", "organs": ["肝"], "relations": [], "formulaIds": [], "formulaText": "亦用前方，多加柴胡二分，加麦芽一钱，干姜一分" },
+        { "caseIndex": 2, "symptomText": "有红筋直现者", "disputes": [], "pathogenesis": "乃心热也", "organs": ["心"], "relations": [], "formulaIds": [], "formulaText": "亦用前方，加黄连一分，麦冬五分，去半夏，加桑白皮三分，天花粉二分" },
+        { "caseIndex": 3, "symptomText": "有红筋斜现者", "disputes": [], "pathogenesis": "亦心热也", "organs": ["心"], "relations": [], "formulaIds": [], "formulaText": "亦用前方，加黄连二分" },
+        { "caseIndex": 4, "symptomText": "或水泻，或上吐，或下泻，或腹痛，或不思饮食", "disputes": [], "pathogenesis": "总皆脾胃之症", "organs": ["脾", "胃"], "relations": [], "formulaIds": [], "formulaText": "方用白术五分，茯苓五分，陈皮二分，人参二分，神曲一分，麦芽二分，甘草一分" },
+        { "caseIndex": 5, "symptomText": "凡小儿发热者，毋论夜热、早热、晚热", "disputes": [], "organs": [], "relations": [], "formulaIds": [], "formulaText": "方用柴胡五分，白芍一钱，当归五分，白术三分，茯苓二分，甘草一分，山楂三粒，黄芩三分，苏叶一分" },
+        { "caseIndex": 6, "symptomText": "治小儿感冒风寒方", "disputes": [], "organs": [], "relations": [], "formulaIds": [], "formulaText": "柴胡五分，白术一钱，茯苓三分，陈皮二分，当归八分，白芍一钱，炙甘草三分，半夏三分" },
+        { "caseIndex": 7, "symptomText": "小儿痢疾", "disputes": [], "organs": [], "relations": [], "formulaIds": [], "formulaText": "当归一钱，黄连二分，白芍一钱五分，枳壳五分，槟榔五分，甘草三分" },
+        { "caseIndex": 8, "symptomText": "治小儿疟疾方", "disputes": [], "organs": [], "relations": [], "formulaIds": [], "formulaText": "柴胡六分，白术一钱，茯苓一钱，归身一钱，白芍一钱五分，半夏五分，青皮五分，浓朴五分" },
+        { "caseIndex": 9, "symptomText": "治小儿咳嗽神方", "disputes": [], "organs": [], "relations": [], "formulaIds": [], "formulaText": "苏叶五分，桔梗一钱，甘草一钱" },
+        { "caseIndex": 10, "symptomText": "治小儿口疳流水口烂神方", "disputes": [], "pathogenesis": "小儿之疳，皆虚热也", "organs": ["脾"], "relations": [], "formulaIds": [], "formulaText": "黄柏二钱，人参一钱，为末" },
+        { "caseIndex": 11, "symptomText": "治小儿便虫神方", "disputes": [], "organs": [], "relations": [], "formulaIds": [], "formulaText": "榧子去壳五个，甘草三分，为末" },
+        { "caseIndex": 12, "symptomText": "治小儿虫积方", "disputes": [], "organs": [], "relations": [], "formulaIds": [], "formulaText": "使君子十个，去壳炒香，槟榔一钱，榧子十个，甘草一钱" },
+        {
+          "caseIndex": 13,
+          "symptomText": "而状若有风者",
+          "disputes": [
+            { "kind": "commonPractice", "claim": "世人动曰惊风", "rebuttal": "谁知小儿惊则有之，而风则无" },
+            { "kind": "mistreatment", "claim": "内风何可作外风治之", "rebuttal": "故治风则死矣" }
+          ],
+          "pathogenesis": "盖小儿阳旺则内热，热极则生风，是风非外来之风，乃内出之风也",
+          "organs": ["脾", "肝"],
+          "relations": [],
+          "treatmentPrinciple": "法当内清其火",
+          "formulaIds": [],
+          "formulaText": "方用白术三分，茯苓二钱，陈皮一分，甘草一分，栀子三分，白芍一钱，半夏一分，柴胡三分，水煎三分服"
+        },
+        {
+          "caseIndex": 14,
+          "symptomText": "遂至口中流涎",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "若不平其心火", "rebuttal": "则脾火更旺，而湿热上蒸，口涎正不能遽止" }
+          ],
+          "pathogenesis": "疳症乃脾热也，然亦固心热而脾火旺极",
+          "organs": ["脾", "心"],
+          "relations": [],
+          "treatmentPrinciple": "治法不可徒清脾火，而当先散心火",
+          "formulaIds": ["shishi-formula-shishi-0215-1"],
+          "formulaText": "芦荟一钱，黄连三分，薄荷三分，茯苓二钱，甘草一分，桑白皮一钱，半夏三分，水煎服三分"
+        },
+        {
+          "caseIndex": 15,
+          "symptomText": "吐症",
+          "disputes": [],
+          "pathogenesis": "虽胃气之弱，亦因脾气之虚",
+          "organs": ["胃", "脾"],
+          "relations": [],
+          "treatmentPrinciple": "故治吐必先治胃，而治胃尤先治脾",
+          "formulaIds": [],
+          "formulaText": "人参一钱，砂仁一粒，白术五分，茯苓二钱，陈皮二分，半夏一分，干姜一分，麦芽五分，山楂三粒，水煎服"
+        }
+      ]
+    }
+  ]
+}

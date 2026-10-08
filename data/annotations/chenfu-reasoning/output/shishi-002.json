@@ -1,0 +1,1222 @@
+{
+  "entries": [
+    {
+      "clauseId": "shishi-0031",
+      "contentHash": "7ca991e8cd9f125c",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "发狂多是热病，登高而歌，弃衣而走，见水而入，骂詈之声，叫喊杀人之语，不绝于口，舌如芒刺",
+          "disputes": [],
+          "pathogenesis": "然而狂病至不知人，则痰势籍火奔腾可知",
+          "organs": ["胃", "肺", "肾", "心"],
+          "relations": [{ "from": "肺", "to": "肾", "kind": "生" }],
+          "methodCategory": "生治法",
+          "formulaIds": [],
+          "formulaText": "方用石膏半斤，元参一斤，白芥子三两，半夏三两，知母一两，甘草一两，麦冬五两，竹叶数百片，人参一两"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "呆病郁抑不舒，愤怒而成者有之。羞恚而成者有之",
+          "disputes": [],
+          "organs": ["肝", "心"],
+          "relations": [],
+          "treatmentPrinciple": "妙在用柴胡以舒泄其不得意之气",
+          "methodCategory": "生治法",
+          "formulaIds": [],
+          "formulaText": "方用人参一两，柴胡一两，当归一两，白芍四两，半夏一两，甘草五钱，生枣仁一两，天南星五钱，附子一钱，菖蒲一两，神曲五钱，茯苓三两，郁金五钱"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "凡人发狂而止骂詈人，不口渴索饮，与之水不饮者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "在狂病多是热症", "rebuttal": "然亦有不全是热者，不可不辨也" }
+          ],
+          "pathogenesis": "此得之气郁不舒，怒气不能发泄",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治之法，宜祛痰为主，而佐以补气之药",
+          "methodCategory": "生治法",
+          "formulaIds": [],
+          "formulaText": "方用人参一两，茯神一两，白术五钱，半夏一钱，南星一钱，附子一钱，菖蒲三分，水煎服"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0032",
+      "contentHash": "f5495af0ba3ae644",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人忽然癫痫，见男子则抱住不肯放",
+          "disputes": [],
+          "pathogenesis": "此肝木枯槁，内火燔盛",
+          "organs": ["肝"],
+          "relations": [],
+          "treatmentPrinciple": "法当用平肝散郁祛邪之味",
+          "methodCategory": "生治法",
+          "formulaIds": [],
+          "formulaText": "用柴胡五钱，白芍一两，当归五钱，炒栀子三钱，甘草一钱，茯神三钱，菖蒲一钱，麦冬五钱，元参三钱，白芥子五钱，水煎服"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "更有羊癫之症，忽然卧倒，作羊马之声，口中吐痰如涌者",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "若作风痰治之", "rebuttal": "虽亦奏功，终不能一止而不再发" }
+          ],
+          "pathogenesis": "痰迷心窍，因寒而成，感寒则发也",
+          "organs": ["心", "脾", "胃"],
+          "relations": [],
+          "treatmentPrinciple": "今纯用补正之药，不尽祛痰，转能去其病根也",
+          "methodCategory": "生治法",
+          "formulaIds": [],
+          "formulaText": "方用人参三钱，白术一两，茯神五钱，山药三钱，薏仁五钱，肉桂一钱，附子一钱，半夏三钱，水煎服"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "人病来如作牛马声，即牛马癫也",
+          "disputes": [],
+          "organs": ["胃"],
+          "relations": [],
+          "treatmentPrinciple": "盖健其胃气，自不生痰",
+          "methodCategory": "生治法",
+          "formulaIds": [],
+          "formulaText": "方用人参三两，白术五两，甘草一两，陈皮三钱，生南星一两，半夏一两，附子一钱，为末，蜜为丸"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0033",
+      "contentHash": "5fc73721a9fb582e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "如人死厥不醒人事，中风不语，或感鬼神之祟，或遇山魈之侵，一时卒倒，不醒人事是也",
+          "disputes": [],
+          "pathogenesis": "此等病，是邪气中之，痰迷心窍也",
+          "organs": ["心"],
+          "relations": [],
+          "treatmentPrinciple": "用祛痰之药，加入于补正之中，则病去如扫",
+          "methodCategory": "死治法",
+          "formulaIds": [],
+          "formulaText": "方用人参三钱，白术五钱，茯苓三钱，半夏三钱，天南星三钱，白芥子一钱，生附子五分、生姜一大块、捣汁"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "如尸厥之症",
+          "disputes": [],
+          "pathogenesis": "虽同是中邪，然前症是阳邪，此乃遇阴邪也",
+          "organs": [],
+          "relations": [],
+          "methodCategory": "死治法",
+          "formulaIds": [],
+          "formulaText": "当用人参一两，白术五钱，半夏五钱，茯苓五钱，菖蒲五钱，陈皮五分治之"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "如人卒然见鬼卒倒，或在神庙之内，或在棺椁之旁，偶遇尸气，感中阴邪鬼魅，不省人事者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "死治法",
+          "formulaIds": [],
+          "formulaText": "以瓜蒂散吐之"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0034",
+      "contentHash": "67aebb2c2acb17fe",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "中蛇毒则身必直撺，舌必外出，眼必细开一缝是也",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "死治法",
+          "formulaIds": [],
+          "formulaText": "急用雄黄一两，研为细末，入水中飞过，取水用之，而不用雄黄"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "久之人面如金色，与金蚕相同，服药无效，又久之，腹大如臌胀矣",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "死治法",
+          "formulaIds": [],
+          "formulaText": "方用雷丸三钱，为末，同白矾少许，调匀"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0035",
+      "contentHash": "747643433f5575af",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "如头疼",
+          "disputes": [],
+          "pathogenesis": "头疼而风入太阳经也",
+          "organs": ["肝", "胆"],
+          "relations": [],
+          "treatmentPrinciple": "盖风虽犯太阳，治法不可全治太阳，当上清其邪",
+          "methodCategory": "上治法",
+          "formulaIds": [],
+          "formulaText": "用川芎一钱，细辛一钱，白芷一钱，柴胡一钱，芍药三钱，半夏一钱，甘草一钱治之"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "头痛",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "上治法",
+          "formulaIds": [],
+          "formulaText": "用川芎一两，蔓荆子二钱。水煎服"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0036",
+      "contentHash": "de6df31757f9e903",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "有火者，红肿如含桃，泪出不止，酸痛羞明，多眵是也",
+          "disputes": [],
+          "pathogenesis": "目痛者，肝经之病",
+          "organs": ["肝"],
+          "relations": [],
+          "treatmentPrinciple": "宜治肝矣，而余偏不治肝",
+          "methodCategory": "上治法",
+          "formulaIds": [],
+          "formulaText": "方用黄连一钱，花椒七粒，明矾三分，荆芥五分，生姜一片，水煎半碗。乘热洗之"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "虚火之眼，红而不痛不涩，无泪无眵是也",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "上治法",
+          "formulaIds": [],
+          "formulaText": "用人乳半钟，生地二钱，葳蕤仁五分"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "眼痛",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "上治法",
+          "formulaIds": [],
+          "formulaText": "用柴胡、防风各二分，黄连三分，花椒二粒，明矾一分，水半钟，饭锅蒸，洗眼如神"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "无论虚眼实眼",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "上治法",
+          "formulaIds": [],
+          "formulaText": "以人乳一合，黄连三分，大枣一个，明矾三分，人参三分，水半钟，同煎二沸，即取起洗眼"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0037",
+      "contentHash": "511b155fbe308179",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "耳聋者",
+          "disputes": [],
+          "pathogenesis": "肾经病也",
+          "organs": ["肾"],
+          "relations": [],
+          "methodCategory": "上治法",
+          "formulaIds": [],
+          "formulaText": "鼠胆一枚，龙齿一分，冰片一分，麝香一分，朱砂一分，乳香半分，潮脑半分，各研为绝细末。以人乳为丸"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "鼻肿者",
+          "disputes": [],
+          "pathogenesis": "乃肺经火盛也",
+          "organs": ["肺"],
+          "relations": [],
+          "treatmentPrinciple": "今打嚏则壅塞之气尽开散，故不必清肺，而鼻肿自消也",
+          "methodCategory": "上治法",
+          "formulaIds": [],
+          "formulaText": "方用皂角末吹入，打清嚏数十即愈"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "口舌生疮者",
+          "disputes": [],
+          "pathogenesis": "乃心经热也",
+          "organs": ["心"],
+          "relations": [],
+          "methodCategory": "上治法",
+          "formulaIds": [],
+          "formulaText": "用黄柏一钱，姜蚕一钱，枳壳烧灰五分，炙甘草末五分、薄荷末五分，冰片三厘，山豆根五分，各为末绝细"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0038",
+      "contentHash": "8a1b1191d9fbb572",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "眉落",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "上治法",
+          "formulaIds": [],
+          "formulaText": "眉落方∶用桑叶七片，每日洗之"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "须白",
+          "disputes": [],
+          "pathogenesis": "须白乃肾水枯，任督血干也",
+          "organs": ["肾"],
+          "relations": [],
+          "methodCategory": "上治法",
+          "formulaIds": [],
+          "formulaText": "用桑椹半斤，取汁一碗，以骨碎补一两，为末浸之"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0039",
+      "contentHash": "dfe8295b1c79aeda",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有病瘰串者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "用前药外治，以此汤内治，尤易见功",
+          "methodCategory": "上治法",
+          "formulaIds": [],
+          "formulaText": "方用白芍一两，柴胡五钱，香附一两，白术五钱，金银花三两，瓦草一钱"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0040",
+      "contentHash": "9af1f585ee16cae0",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "眼目星久不能去，止可去临时者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "上治法",
+          "formulaIds": [],
+          "formulaText": "方用白蒺藜三钱，水煎洗之"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "瘰串",
+          "disputes": [],
+          "pathogenesis": "瘰串乃鼠食之物，人不知食之，多生此病。然亦有郁气者",
+          "organs": [],
+          "relations": [],
+          "methodCategory": "上治法",
+          "formulaIds": [],
+          "formulaText": "方用白芍三两，白芥子三两，紫背天葵三两，香附三两，茯苓三两，当归三两，人参五钱，蒲公英一两，柴胡五钱，白术五两，砂仁二钱，各为末，米饭为丸"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "跌损唇皮之类",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "以桑白皮作线缝之，以生肌散渗之自合",
+          "methodCategory": "上治法",
+          "formulaIds": []
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "乌须",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "上治法",
+          "formulaIds": [],
+          "formulaText": "一丸方∶用熟地二斤，白术一斤，麦冬一斤，山茱萸半斤，黑芝麻半斤，山药二斤，桑叶一斤，巴戟四两，白果四两，为末，蜜为丸"
+        },
+        {
+          "caseIndex": 4,
+          "symptomText": "耳聋",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "上治法",
+          "formulaIds": [],
+          "formulaText": "耳聋用珍珠一粒，外用龙骨末一分，以蜜调之，丸在珠上，外又用丹砂为衣"
+        },
+        {
+          "caseIndex": 5,
+          "symptomText": "乌须方",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "上治法",
+          "formulaIds": [],
+          "formulaText": "莫妙用干桑椹一斤，饭锅蒸熟晒干，生何首乌一斤，为丸"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0041",
+      "contentHash": "8973ccc221706e85",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "或胸前生疮，乳上生疮，两胁、两背、两手生疮是也",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "妙在用散邪败毒之品于补药之内，转足以消毒而去火也",
+          "methodCategory": "中治法",
+          "formulaIds": [],
+          "formulaText": "方用金银花一两，元参一两，生甘草五钱，白矾二钱，有病则病受之也，当归一两，白芍一两，炒栀子三钱，荆芥三钱，连翘二钱，白芥子二钱，水煎服"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "统治疮疡",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "中治法",
+          "formulaIds": [],
+          "formulaText": "用生甘草一两，当归一两，蒲公英一两，黄芩一钱，金银花二两，乳香一钱，为末"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0042",
+      "contentHash": "0c5140ad4e217c44",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "统治诸疮",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "中治法",
+          "formulaIds": [],
+          "formulaText": "方用天花粉三钱，生甘草一两，金银花一两，蒲公英五钱，水煎服"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0043",
+      "contentHash": "f5f25c1efdecca9f",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "囊痈、骑马痈最难治",
+          "disputes": [],
+          "pathogenesis": "盖此毒乃乘虚而入",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "必大补其血，而佐以逐邪之品，则病去如失",
+          "methodCategory": "下治法",
+          "formulaIds": [],
+          "formulaText": "方用金银花四两，蒲公英二两，人参一两，当归一两，生甘草一两，大黄五钱，天花粉二钱，水煎服"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "鹤膝风",
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "若以为人不能受，畏而不用", "rebuttal": "则反害之矣" }
+          ],
+          "pathogenesis": "此又因湿而战，立而行房，水气袭之，故成此疾",
+          "organs": [],
+          "relations": [],
+          "methodCategory": "下治法",
+          "formulaIds": [],
+          "formulaText": "方用黄 八两，肉桂三钱，薏仁四两，茯苓二两，白术二两，防风五钱"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "多骨疽乃生于大腿之中，多生一骨者是",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "多骨之生也，虽生于湿热", "rebuttal": "而成之不由湿热也，必有人喜饮凉水，好食果品而成之" }
+          ],
+          "pathogenesis": "乃湿热而生者也",
+          "organs": ["肝"],
+          "relations": [],
+          "methodCategory": "下治法",
+          "formulaIds": [],
+          "formulaText": "方用当归一两，金银花一两，白芍一两，柴胡一钱，茵陈三钱，龙胆草二钱，白术三钱，生甘草三钱，水煎服"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "足疽",
+          "disputes": [],
+          "pathogenesis": "足疽亦湿热也",
+          "organs": [],
+          "relations": [],
+          "methodCategory": "下治法",
+          "formulaIds": [],
+          "formulaText": "方用金银花一两，蒲公英一两，生甘草三钱，当归一两，薏仁二两，水煎服"
+        },
+        {
+          "caseIndex": 4,
+          "symptomText": "往往两腿腐烂，臭气难闻",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "若止以汤药治之", "rebuttal": "未易奏效" }
+          ],
+          "pathogenesis": "亦湿热也",
+          "organs": ["脾", "胃"],
+          "relations": [],
+          "methodCategory": "下治法",
+          "formulaIds": [],
+          "formulaText": "金银花一两，薏仁二两，茯苓一两，生甘草五钱，牛膝五钱，萆 五钱，半夏五钱，肉桂五分，水煎服"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0044",
+      "contentHash": "470fc8be14defc41",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "大凡毒至于环跳之穴者，即多骨疽也",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "下治法",
+          "formulaIds": [],
+          "formulaText": "用人参三钱，大黄五钱。蒲公英一两，金银花二两，天花粉三钱，薏仁三两"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "鹤膝风",
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "此除去血药，想用宜于初起之时", "rebuttal": "如病久，古方恐不可废" }
+          ],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "下治法",
+          "formulaIds": [],
+          "formulaText": "鹤膝风古多用大防风汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0045",
+      "contentHash": "5ca89dcb7b0438e7",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人病发热",
+          "disputes": [
+            { "kind": "commonPractice", "claim": "无奈世人不肯先服药何", "rebuttal": "倘先用此方，又何至传经深入哉" }
+          ],
+          "pathogenesis": "盖四时不正之气，来犯人身，必然由皮毛而入营卫",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "必须散其邪气，俟邪气速去，而后再扶其正气",
+          "methodCategory": "先治法",
+          "formulaIds": [],
+          "formulaText": "方用柴胡一钱，荆芥一钱，半夏一钱，黄芩一钱，甘草一钱，水煎服"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "凡肝脉郁者",
+          "disputes": [],
+          "organs": ["肝"],
+          "relations": [],
+          "methodCategory": "先治法",
+          "formulaIds": [],
+          "formulaText": "一方用柴胡一钱，当归一钱，白芍二钱，甘草、陈皮各一钱，天花粉二钱，栀子一钱，水煎服"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "伤寒初起者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "乘其尚未传经，可从补正之中，兼用祛邪之品，而热散之也",
+          "methodCategory": "先治法",
+          "formulaIds": [],
+          "formulaText": "又一方用柴胡一钱，白芍一钱，茯苓一钱，甘草一钱，当归二钱，麻黄一钱，桂枝一钱，陈皮五分，水煎服"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0046",
+      "contentHash": "a5a01131897e301f",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "伤寒初起之病",
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "然而人见白术、当归之多用，疑于太补", "rebuttal": "不知伤寒初起，何畏于补" }
+          ],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "乘其邪未深入，补正以逐邪，则邪易走也",
+          "methodCategory": "先治法",
+          "formulaIds": [],
+          "formulaText": "鄙意尚可加入人参一钱"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0047",
+      "contentHash": "0ac2324a922c21c5",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有正气虚寒，以中邪气风寒",
+          "disputes": [],
+          "pathogenesis": "邪之敢入于正气之中者，是人之正气先虚也",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "故必先补其正，而后可以散邪",
+          "methodCategory": "后治法",
+          "formulaIds": [],
+          "formulaText": "方用人参三钱，黄 三钱，柴胡二钱，半夏一钱，甘草一钱，当归三钱，陈皮一钱，白术三钱，神曲五分，黄芩五分，山楂五粒，水煎服"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "如头疼发热，凡脉右寸口大于左寸口者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "当以补正为先，治邪为后",
+          "methodCategory": "后治法",
+          "formulaIds": [],
+          "formulaText": "一方用人参一钱，白术三钱，甘草一钱，半夏一钱，柴胡三钱，茯苓三钱，水煎服"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "痢疾之病",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "以补正为先，荡邪为后",
+          "methodCategory": "后治法",
+          "formulaIds": [],
+          "formulaText": "用当归三钱，白芍三钱。枳壳一钱，槟榔一钱，甘草一钱，水煎服"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0048",
+      "contentHash": "9f9ddbc4fb3930c1",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "疟疾",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "此方一味补正，略为祛邪以消痰",
+          "methodCategory": "后治法",
+          "formulaIds": [],
+          "formulaText": "用人参五钱，白术一两，青皮一钱，柴胡一钱，半夏三钱，水煎服"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "更有阴虚而发热如疟者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "后治法",
+          "formulaIds": [],
+          "formulaText": "亦以前方加熟地一两，生何首乌一两，去半夏，换白芥子三钱"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0049",
+      "contentHash": "3d867283c13c3b7c",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "凡人忽感风邪，寒入乎肺经，以致一时抬肩大喘，气逆痰吐不出，人不能卧是也",
+          "disputes": [],
+          "pathogenesis": "盖外感寒邪，则内必变为热症",
+          "organs": ["肺"],
+          "relations": [],
+          "methodCategory": "急治法",
+          "formulaIds": [],
+          "formulaText": "方用柴胡一钱，茯苓二钱，当归一钱，黄芩一钱，麦冬二钱，射干一钱，桔梗二钱，甘草、半夏各一钱，水煎服"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "如直中阴寒，手足厥冷，小腹冷痛，而欲死者是也",
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "盖寒邪直入，宜止用附、桂以逐之，何必用参、术，而且多加之也", "rebuttal": "不知寒邪直犯肾宫，元阳遁出于脾胃之间，止此一线之微气在焉" }
+          ],
+          "pathogenesis": "乃阴寒之邪，直中于两肾之中，而命门之火，无可藏之地，乃奔越星散",
+          "organs": ["肾", "命门", "脾", "胃"],
+          "relations": [],
+          "methodCategory": "急治法",
+          "formulaIds": [],
+          "formulaText": "方用人参五钱，白术一两，附子一钱，肉桂一钱，干姜五分，水煎服"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "中心卒痛，手不可按者",
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "或疑心经之热，宜用黄连以凉之。何以不用黄连，而反用栀子耶", "rebuttal": "然黄连性燥，心火正在燥烈之时，以燥投燥，正其所恶" }
+          ],
+          "pathogenesis": "乃火邪犯心也",
+          "organs": ["心", "肝"],
+          "relations": [{ "from": "肝", "to": "心", "kind": "生" }],
+          "treatmentPrinciple": "此急治肝，而正急治心也",
+          "methodCategory": "急治法",
+          "formulaIds": [],
+          "formulaText": "方用栀子三钱，白芍五钱，甘草一钱，良姜三分，天花粉二钱，苍术一钱，贯众一钱，水煎服"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "如人中痰",
+          "disputes": [],
+          "pathogenesis": "盖痰之生也，由于气之虚；而气之虚也，由于脏腑之冷",
+          "organs": [],
+          "relations": [],
+          "methodCategory": "急治法",
+          "formulaIds": [],
+          "formulaText": "中痰方∶用人参三钱，白术三钱，茯苓三钱，附子一钱，天南星一钱，半夏二钱，水煎服"
+        },
+        {
+          "caseIndex": 4,
+          "symptomText": "中邪",
+          "disputes": [],
+          "organs": ["心"],
+          "relations": [],
+          "methodCategory": "急治法",
+          "formulaIds": [],
+          "formulaText": "中邪方∶用人参三钱，白术三钱，半夏三钱，皂角末一钱，陈皮一钱，水煎服"
+        },
+        {
+          "caseIndex": 5,
+          "symptomText": "中气",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "急治法",
+          "formulaIds": [],
+          "formulaText": "中气方∶用人参一两，白术五钱，茯苓五钱，甘草一钱，陈皮一钱，附子一钱，半夏三钱，南星三钱，水煎服"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0050",
+      "contentHash": "1856ee7fd28c3120",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "凡人有气喘不得卧，吐痰如涌泉者，舌不燥而喘不甚，一卧则喘加",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "此非外感之风邪", "rebuttal": "乃肾中之寒气也" },
+            { "kind": "drugDoubt", "claim": "方中补其肾火，何以安然能卧", "rebuttal": "不知肾为肺之子，子安则母亦宁" }
+          ],
+          "pathogenesis": "盖肾中无火，则水无所养，乃上泛而为痰",
+          "organs": ["肾", "肺", "胃"],
+          "relations": [{ "from": "肺", "to": "肾", "kind": "生" }],
+          "treatmentPrinciple": "此所以补肾火，正所以养肺金也",
+          "methodCategory": "急治法",
+          "formulaIds": [],
+          "formulaText": "法当用六味丸汤，加附子、肉桂大剂饮之"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "凡人腹中疼痛欲死，手按之转甚者",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "若作直中治之", "rebuttal": "立死矣" }
+          ],
+          "pathogenesis": "此乃火挟痰与食而作祟也",
+          "organs": [],
+          "relations": [],
+          "methodCategory": "急治法",
+          "formulaIds": [],
+          "formulaText": "方用甘草一钱，茯苓三钱，白芍五钱，枳实一钱，栀子三钱，山楂二十粒，水煎服"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "心痛",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "急治法",
+          "formulaIds": [],
+          "formulaText": "管仲三钱，乳香末二钱，白芍三钱，炒栀子三钱，甘草五分，水煎服"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0051",
+      "contentHash": "0613a0bffb916284",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "如人病火盛之症，大渴引饮，呼水自救，朝食即饥，或夜食不止",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "若日日用之", "rebuttal": "则水不能救而反耗真阴之气" }
+          ],
+          "pathogenesis": "前症阳明火盛，故能食善消",
+          "organs": ["胃", "肺", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "不若缓治之为得也",
+          "methodCategory": "缓治法",
+          "formulaIds": [],
+          "formulaText": "方用元参一两，麦冬五钱，白芥子二钱，竹叶三十片，甘菊花二钱，生地三钱，陈皮五分，丹皮二钱治之"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "至于久虚之人，气息奄奄",
+          "disputes": [
+            { "kind": "commonPractice", "claim": "无不曰宜急治矣", "rebuttal": "不知气血大虚，骤加大补之剂，力量难任，必至胃口转加臌胀" }
+          ],
+          "organs": ["脾", "胃", "肝"],
+          "relations": [],
+          "treatmentPrinciple": "反不若缓缓清补之也",
+          "methodCategory": "缓治法",
+          "formulaIds": [],
+          "formulaText": "方用茯苓一钱，白术五分，山药一钱，陈皮三分，甘草三分，人参三分，当归一钱，白芍二钱，枣仁五分，山楂三粒，麦芽三分，炮姜三分，水煎服"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "然而大吐之人",
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "大吐之后，津液已干，如何又用健脾补胃以重燥之，得毋伤子太甚耶", "rebuttal": "不知脾胃之气健，而后津液能生" }
+          ],
+          "organs": ["脾", "胃"],
+          "relations": [],
+          "methodCategory": "缓治法",
+          "formulaIds": [],
+          "formulaText": "法当用人参五钱，茯苓三钱，白术三钱，甘草三分；陈皮一钱，豆蔻仁三粒，水煎服"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "大泻之后，自多亡阴",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "宜以补阴药治之矣。然而以补阴之药急治", "rebuttal": "反足增其水势" }
+          ],
+          "organs": ["肾", "脾"],
+          "relations": [],
+          "treatmentPrinciple": "法当以温药补之",
+          "methodCategory": "缓治法",
+          "formulaIds": [],
+          "formulaText": "用熟地五两。山药四两，山茱萸四两，白术五两，肉桂一两，肉果一两，北五味一两，吴茱萸一两，人参五两，薏仁五两，各为末，蜜为丸"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0052",
+      "contentHash": "6d99363dbcb608a7",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "故人病心惊不安，或夜卧不睡者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为心之病也", "rebuttal": "谁知非心病也，肾病也" },
+            { "kind": "drugDoubt", "claim": "此方乃治心之惊与不寐耳，宜用参、苓、当归，麦冬足矣，即或为火起不寐，加黄连亦足矣，何以反用熟地、山茱萸补肾之药，又加肉桂以助火", "rebuttal": "不知人之惊恐者，乃肾气不入于心也∶不寐者，乃心气不归于肾也" },
+            { "kind": "drugDoubt", "claim": "方中有当归、肉桂，亦是补肝之品", "rebuttal": "然终非直入肝经之药也" }
+          ],
+          "pathogenesis": "不知人之惊恐者，乃肾气不入于心也∶不寐者，乃心气不归于肾也",
+          "organs": ["心", "肾", "命门", "肝"],
+          "relations": [{ "from": "肝", "to": "心", "kind": "生" }],
+          "treatmentPrinciple": "然则欲安心者当治肾",
+          "methodCategory": "本治法",
+          "formulaIds": [],
+          "formulaText": "治心方∶用人参三两，茯苓三两，茯神三两，远志二两，生枣仁一两，熟地三两，山茱萸三两，当归三两，菖蒲三钱，黄连五钱，肉桂五钱，白芥子一两，麦冬三两，砂仁五钱，各为末，蜜为丸"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "如人见色而思战，入门而倒戈者，或梦遗精滑者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为肾之病也", "rebuttal": "谁知非肾病也，心病也" },
+            { "kind": "drugDoubt", "claim": "可以已矣∶而必加入参、苓、柏子仁、麦冬、远志、枣仁之类者何也", "rebuttal": "盖肾中之火虚，由于心中之火先虚也" }
+          ],
+          "pathogenesis": "谁知皆心君之虚，而相火夺权，以致如此",
+          "organs": ["心", "肾", "肝", "心包", "命门"],
+          "relations": [
+            { "from": "肝", "to": "心包", "kind": "生" },
+            { "from": "心包", "to": "命门", "kind": "生" }
+          ],
+          "treatmentPrinciple": "故欲补肾火者，先补心火",
+          "methodCategory": "本治法",
+          "formulaIds": [],
+          "formulaText": "方用熟地半斤，山药四两，山茱萸四两，茯苓三两，肉桂一两，附子一个，人参三两，白术四两∶北五味一两，麦冬三两，远志一两，炒枣仁一两，鹿茸一副，巴戟天三两，肉苁蓉三两，柏子仁一两，砂仁五钱，紫河车一副，杜仲一两，破故纸一两，各为末，蜜为丸"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0053",
+      "contentHash": "2b295db4382f97af",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "凡人卧不安枕",
+          "disputes": [],
+          "organs": ["心", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "前方补心中而兼补肾",
+          "methodCategory": "本治法",
+          "formulaIds": [],
+          "formulaText": "方用人参五两，远志二两，枣仁炒二两，熟地八两，山茱萸四两，茯神三两，柏子仁一两，麦冬三两，陈皮五钱，各为末，蜜为丸"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有梦遗者",
+          "disputes": [],
+          "organs": ["肾", "心"],
+          "relations": [],
+          "treatmentPrinciple": "后方补肾中而兼补心",
+          "methodCategory": "本治法",
+          "formulaIds": [],
+          "formulaText": "用熟地一斤，山药一斤，芡实一斤，生枣仁五两，巴戟天二两，麦冬三两，北五味三两，莲子半斤，同心用，各为末，蜜为丸"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "心惊不安",
+          "disputes": [],
+          "pathogenesis": "乃肝血虚而不能养心也",
+          "organs": ["肝", "心", "肺"],
+          "relations": [],
+          "treatmentPrinciple": "治肝正所以治心，治肺亦所以益心也",
+          "methodCategory": "本治法",
+          "formulaIds": [],
+          "formulaText": "方用白芍五钱，当归五钱，熟地五钱，生枣仁一两，远志一钱，茯神三钱，麦冬五钱，北五味一钱，人参二钱，水煎服"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "见色倒戈",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "本治法",
+          "formulaIds": [],
+          "formulaText": "用人参三两，熟地八两，黄 五两。白术八两，肉桂二两，山茱萸三两，巴戟天五两，肉苁蓉三两，麦冬五两，北五味一两，覆盆子五两，各为末，蜜为丸"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0054",
+      "contentHash": "775374ae73cb2aaa",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "凡久病之后，或大便一月不通",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "止补其真阴，使精足以生血，血足以润肠，大便自出",
+          "methodCategory": "末治法",
+          "formulaIds": [],
+          "formulaText": "大便不通方∶用熟地一两，元参一两，当归一两，川芎五钱，火麻仁一钱，蜜半瓯，大黄一钱，桃仁十个，红花三分，水煎服"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "亦有人小便点滴不出",
+          "disputes": [],
+          "pathogenesis": "乃肾气不能行于膀胱也",
+          "organs": ["肾", "膀胱"],
+          "relations": [],
+          "treatmentPrinciple": "补其肾气，则小便自出",
+          "methodCategory": "末治法",
+          "formulaIds": [],
+          "formulaText": "小便不通方∶用肉桂一钱，熟地一两，山茱萸四钱，茯苓二钱，车前子一钱，泽泻一钱，丹皮一钱，山药一钱，水煎服"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "疟症不已，终岁连朝，经年累月，或已止而又发，或未止而难痊",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人皆谓有邪未散也，急宜逐邪，不可末视之", "rebuttal": "殊不知邪之久踞，乃正虚之甚也" }
+          ],
+          "pathogenesis": "邪之久踞，乃正虚之甚也",
+          "organs": ["脾"],
+          "relations": [],
+          "treatmentPrinciple": "自当重补其正，而末治其邪",
+          "methodCategory": "末治法",
+          "formulaIds": [],
+          "formulaText": "方用熟地五钱，何首乌五钱，鳖甲五钱，白术五钱，当归五钱，人参二钱，甘草一钱，柴胡一钱，半夏一钱，肉桂五分，山茱萸四钱，水煎服"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "产妇感中风邪",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "风寒袭之，一散邪", "rebuttal": "必有厥逆寒症之变，死亡顷刻矣" }
+          ],
+          "pathogenesis": "产妇旧血尽去，新血未生",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "此又固气血为先，散邪为末又一法也",
+          "methodCategory": "末治法",
+          "formulaIds": [],
+          "formulaText": "方用当归一两，川芎五钱，人参一两，荆芥一钱，肉桂一钱，益母草一钱治之"
+        },
+        {
+          "caseIndex": 4,
+          "symptomText": "其临月之期，如有感中风邪",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "不可作风邪治之",
+          "methodCategory": "末治法",
+          "formulaIds": [],
+          "formulaText": "方用人参一两，当归一两，川芎五钱，柴胡二钱，甘草一钱，白芥子三钱，水煎服"
+        },
+        {
+          "caseIndex": 5,
+          "symptomText": "大便不通，亦多实症",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "methodCategory": "末治法",
+          "formulaIds": [],
+          "formulaText": "方用大黄五钱，当归尾一两，升麻五分，蜜半瓯，水煎服"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0055",
+      "contentHash": "e970ad6a87252045",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "忽然跌仆为灾，断伤受困",
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "倘以大黄为可畏，或不用，改为别味", "rebuttal": "则虽有前药，亦用之而不当" }
+          ],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "当归、芍药和其血，大黄、桃仁逐其瘀，生地、红花动其滞",
+          "methodCategory": "不内外治法",
+          "formulaIds": ["shishi-formula-shishi-0055-1"],
+          "formulaText": "方用当归五钱，大黄二钱，生地三钱，赤芍药三钱，桃仁一钱，红花一钱，丹皮一钱，败龟板一钱，水一碗，酒一碗，煎服",
+          "keySentence": "盖生地乃折伤之圣药，多多益善"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "倘跌伤打伤，手足断折",
+          "disputes": [],
+          "pathogenesis": "人受伤至折伤手足，未有不恶血奔心者",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "急以杉板夹住手足",
+          "methodCategory": "不内外治法",
+          "formulaIds": [],
+          "formulaText": "方用羊踯躅三钱，炒黄大黄三钱，当归三钱，芍药三钱，丹皮二钱，生地五钱，土狗十个捶碎，土虱三十个捣烂，红花三钱，自然铜末"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "跌损唇皮之类",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "以桑白皮作线缝之，后以生肌散糁之自合",
+          "methodCategory": "不内外治法",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0056",
+      "contentHash": "15ab9a666f2e8bbf",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "或肾水亏竭，夜热昼寒是也",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "若认作阳症治之", "rebuttal": "则口渴而热益炽，必致消尽阴水，吐痰如絮，咳嗽不已，声哑声嘶，变成痨瘵" },
+            { "kind": "drugDoubt", "claim": "前症乃阴虚火动也，用六味汤似亦相宜", "rebuttal": "然而终不及天师二方" }
+          ],
+          "pathogenesis": "病症乃阴气不足，而阴邪又犯之也",
+          "organs": ["肾"],
+          "relations": [],
+          "treatmentPrinciple": "法当峻补其阴。则阴水足而火焰自消",
+          "methodCategory": "阴治法",
+          "formulaIds": [],
+          "formulaText": "方用熟地一两，山茱萸五钱，麦冬五钱，北五味五钱，元参三钱，地骨皮三钱，丹皮一钱，沙参五钱，白芥子一钱，芡实五钱，车前子一钱，桑叶七片，水煎服"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "如肾水虚寒，又感寒者",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "倘止用附、桂以祛寒", "rebuttal": "然而邪去而阴消，必然枯竭" },
+            { "kind": "drugDoubt", "claim": "后症乃阴寒无火也，八味汤似亦可用", "rebuttal": "然而终不及天师二方" }
+          ],
+          "pathogenesis": "盖阳根于阴，而真阴肾水，实为真阳君相之火之母也",
+          "organs": ["肾", "心"],
+          "relations": [],
+          "treatmentPrinciple": "愿人加意于水中补火，更于水中去邪也",
+          "methodCategory": "阴治法",
+          "formulaIds": [],
+          "formulaText": "当用肉桂一钱，附子一钱，熟地一两，山茱萸四钱，白术三钱，人参三钱，柴胡五分，水煎服"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0057",
+      "contentHash": "f2e39044f0c48c72",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "伤寒内发斑，身热心如火，口渴呼水，气喘舌燥，扬手出身者是",
+          "disputes": [],
+          "pathogenesis": "此皆阳火烧焚于胃口",
+          "organs": ["胃", "肺"],
+          "relations": [],
+          "treatmentPrinciple": "非大剂寒凉，安能扑灭",
+          "methodCategory": "阳治法",
+          "formulaIds": [],
+          "formulaText": "方用元参三两，升麻二钱，黄芩一两，麦冬三两，防风三钱，天花粉三钱，苏叶一钱，青黛三钱，生甘草三钱，生地一两，桑白皮五钱"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "或中暑热之气，大渴饮水，数桶不止，汗如雨下，大喊狂呼，日重夜轻是也",
+          "disputes": [],
+          "pathogenesis": "至于中暑之病，亦阳火邪炽也",
+          "organs": ["胃", "心", "肺", "膀胱"],
+          "relations": [],
+          "methodCategory": "阳治法",
+          "formulaIds": [],
+          "formulaText": "法用青蒿五钱，石膏五钱，麦冬五钱，半夏一钱，黄连一钱，人参三钱，甘草一钱，茯苓五钱，竹叶五十片，水煎服"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "凡人感伤暑气，忽然吐血倾盆",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人皆谓是阴虚", "rebuttal": "不知阴虚吐血，与阳虚吐血不同" }
+          ],
+          "organs": ["胃"],
+          "relations": [],
+          "treatmentPrinciple": "法当清胃火，不必止其血",
+          "methodCategory": "阳治法",
+          "formulaIds": [],
+          "formulaText": "方用石膏三钱，青蒿五钱，香薷三钱、荆芥一钱，当归三钱，人参三钱，水煎服"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "完谷不化，饮食下喉即出，一日或泻十余次，或泻数十次，或昼夜泻数百次",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "论其势之急迫奔崩，似乎宜治其标", "rebuttal": "然治其标。不能使火之骤降" },
+            { "kind": "mistreatment", "claim": "若止作胃虚有火治之", "rebuttal": "未尝无功，终不若此之捷" }
+          ],
+          "pathogenesis": "生于肾中之水衰不能制火，使胃土关门不守于上下，所以直进而直出也",
+          "organs": ["肾", "胃"],
+          "relations": [],
+          "treatmentPrinciple": "必须急补肾中之水，使火有可居之地，而后不至于上腾",
+          "methodCategory": "阳治法",
+          "formulaIds": [],
+          "formulaText": "方用熟地三两，山茱萸一两，车前子一两，甘草一两，茯苓一两，白芍三两，肉桂三分、水煎服"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0058",
+      "contentHash": "b46f75b4b1fa656e",
+      "cases": []
+    },
+    {
+      "clauseId": "shishi-0059",
+      "contentHash": "4f47b115f55753df",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "如人喉痛口干，舌燥身热",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为热", "rebuttal": "内真寒而外现假热耳" }
+          ],
+          "pathogenesis": "盖上热之症，下必寒极",
+          "organs": [],
+          "relations": [],
+          "methodCategory": "假治法",
+          "formulaIds": [],
+          "formulaText": "假寒方∶附子─钱，肉桂一钱，人参三钱，白术五钱，猪胆汁半个，苦菜汁三匙"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "如人手足冰冷，或发厥逆，或身战畏寒",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为寒", "rebuttal": "内真热而外现假寒耳" }
+          ],
+          "pathogenesis": "心胸之内，全是一团邪火，盘踞于中焦",
+          "organs": ["心"],
+          "relations": [],
+          "treatmentPrinciple": "若不直捣中坚，巨魁不擒，余党安能星散",
+          "methodCategory": "假治法",
+          "formulaIds": [],
+          "formulaText": "方用黄连三钱，柴胡二钱，白芍三钱，当归三钱，炒栀子二钱，半夏三钱，枳壳一钱，茯苓三钱，菖蒲三分，水煎服"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "如人气喘不安，痰涎如锯而不止者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为热", "rebuttal": "而非热也，乃下元寒极，逼其火而上喘也" }
+          ],
+          "pathogenesis": "乃下元寒极，逼其火而上喘也",
+          "organs": ["命门", "肾", "肺"],
+          "relations": [{ "from": "肺", "to": "肾", "kind": "生" }],
+          "treatmentPrinciple": "苟不急补其命门之火与肾水，则一线微阳，必然断绝",
+          "methodCategory": "假治法",
+          "formulaIds": [],
+          "formulaText": "方用熟地四两，山茱萸三两，麦冬三两，北五味一两，牛膝一两，附子一钱，肉桂一钱，冰水泡冷服之"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "更有眼目红肿，经年不愈者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为热", "rebuttal": "而不知非热也，亦肾火上升而不下降耳" }
+          ],
+          "pathogenesis": "亦肾火上升而不下降耳",
+          "organs": ["肾"],
+          "relations": [],
+          "methodCategory": "假治法",
+          "formulaIds": [],
+          "formulaText": "法用六味地黄汤，加麦冬、甘菊花、白芍、当归各三两，柴胡五钱，各为末，蜜为丸"
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0060",
+      "contentHash": "2e7f01e04c03fdb0",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "口干极而呼水，舌燥极而开裂生刺，喉日夜痛而不已，身大热烙手而无汗也",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "此方纯用寒凉之药，以祛逐其火",
+          "methodCategory": "真治法",
+          "formulaIds": [],
+          "formulaText": "方用麻黄三钱，黄连三钱，黄芩三钱，石膏三钱，知母三钱，半夏二钱，枳壳二钱，甘草一钱，当归五钱，水煎服"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "手足寒久不回，色变青紫，身战不已，口噤出声而不可禁也",
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "然则止宜用附、桂、干姜祛逐其寒邪足矣，何以又用白术、人参？且少用亦足济用，何以多加如许也", "rebuttal": "盖元阳飞越，止一线之气未绝，若不急用人参，返气于若存若亡之际" }
+          ],
+          "pathogenesis": "此乃直中寒邪，肾火避出躯壳之外，而阴寒之气直犯心宫，心君不守",
+          "organs": ["肾", "心", "肝"],
+          "relations": [],
+          "methodCategory": "真治法",
+          "formulaIds": [],
+          "formulaText": "方用附子三钱，肉桂一钱，干姜一钱，白术五钱，人参一两，急救之"
+        }
+      ]
+    }
+  ]
+}

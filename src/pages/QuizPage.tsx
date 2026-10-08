@@ -132,7 +132,7 @@ export function QuizPage() {
 
   return (
     <div className="mx-auto max-w-2xl space-y-4">
-      <div className="flex items-end justify-between">
+      <div className="flex items-end justify-between gap-3">
         <div>
           <h1 className="font-serif text-2xl font-bold">互动测验</h1>
           <p className="text-sm text-stone-500">
@@ -151,14 +151,14 @@ export function QuizPage() {
         </button>
       </div>
 
-      <div className="rounded-2xl border border-stone-200 bg-white/90 p-5">
+      <div className="rounded-2xl border border-stone-200 bg-white/90 p-4 sm:p-5">
         <p className="mb-2 text-xs uppercase tracking-wide text-stone-400">{current.kind}</p>
-        <p className="whitespace-pre-wrap font-serif text-lg leading-relaxed">{current.prompt}</p>
+        <p className="whitespace-pre-wrap font-serif text-base leading-relaxed sm:text-lg">{current.prompt}</p>
         <div className="mt-4 space-y-2">
           {current.options.map((option) => {
             const isAnswer = option === current.answer
             const isChosen = option === selected
-            let className = 'w-full rounded-xl border px-3 py-2 text-left text-sm '
+            let className = 'w-full rounded-xl border px-3 py-3 text-left text-sm sm:py-2 '
             if (!selected) className += 'border-stone-200 hover:bg-stone-50'
             else if (isAnswer) className += 'border-teal bg-teal-soft'
             else if (isChosen) className += 'border-cinnabar bg-cinnabar-soft'
@@ -174,7 +174,7 @@ export function QuizPage() {
           <button
             type="button"
             onClick={nextQuestion}
-            className="mt-4 rounded-xl bg-cinnabar px-4 py-2 text-sm text-white"
+            className="mt-4 w-full rounded-xl bg-cinnabar px-4 py-3 text-sm text-white sm:w-auto sm:py-2"
           >
             下一题
           </button>

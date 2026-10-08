@@ -31,23 +31,23 @@ function clauseSymptoms(clauses: Clause[], ids: string[]): Set<string> {
   return tags
 }
 
+function herbNameOf(formula: Formula, herbId: string): string {
+  return formula.herbs.find((herb) => herb.herbId === herbId)?.name ?? herbId
+}
+
 const CHENFU_BOOKS = new Set(['bianzheng', 'shishi', 'funvke', 'funanke'])
+const JINGFANG_BOOKS = new Set(['songben', 'jingui', 'guilin'])
 
 function sameDiffScope(left: Formula, right: Formula): boolean {
   if (left.book === right.book) return true
-  // 伤寒 ↔ 金匮
-  if (
-    (left.book === 'songben' || left.book === 'jingui') &&
-    (right.book === 'songben' || right.book === 'jingui')
-  ) {
-    return true
-  }
-  // 陈傅内部跨书（女科/辨证录等同方体系）
-  if (CHENFU_BOOKS.has(left.book) && CHENFU_BOOKS.has(right.book)) {
-    return true
-  }
+  // 经方三书（宋本 / 金匮 / 桂林）互比
+  if (JINGFANG_BOOKS.has(left.book) && JINGFANG_BOOKS.has(right.book)) return true
+  // 陈傅内部跨书
+  if (CHENFU_BOOKS.has(left.book) && CHENFU_BOOKS.has(right.book)) return true
   return false
 }
+
+const MAX_MULTI_HERB_CHANGES = 5
 
 export function computeDiffPairs(formulas: Formula[], clauses: Clause[]): FormulaDiffPair[] {
   const pairs: FormulaDiffPair[] = []
@@ -55,14 +55,7 @@ export function computeDiffPairs(formulas: Formula[], clauses: Clause[]): Formul
     for (let j = i + 1; j < formulas.length; j += 1) {
       const left = formulas[i]!
       const right = formulas[j]!
-      if (!sameDiffScope(left, right)) {
-        if (left.name === right.name) {
-          // 同名跨体系不在此比较
-        } else {
-          continue
-        }
-      }
-      // 经方与陈傅不互比
+      if (!sameDiffScope(left, right)) continue
       const leftChenfu = CHENFU_BOOKS.has(left.book)
       const rightChenfu = CHENFU_BOOKS.has(right.book)
       if (leftChenfu !== rightChenfu) continue
@@ -74,108 +67,152 @@ export function computeDiffPairs(formulas: Formula[], clauses: Clause[]): Formul
       const onlyB = [...setB].filter((id) => !setA.has(id))
       const dosesA = doseMap(left)
       const dosesB = doseMap(right)
+      const doseChanged = [...setA].filter(
+        (id) => setB.has(id) && (dosesA.get(id) ?? '') !== (dosesB.get(id) ?? ''),
+      )
 
       const symptomsA = clauseSymptoms(clauses, left.sourceClauseIds)
       const symptomsB = clauseSymptoms(clauses, right.sourceClauseIds)
+      const symptomDelta = {
+        gained: [...symptomsB].filter((tag) => !symptomsA.has(tag)),
+        lost: [...symptomsA].filter((tag) => !symptomsB.has(tag)),
+      }
 
-      if (onlyA.length === 1 && onlyB.length === 0) {
+      const changedCount = onlyA.length + onlyB.length
+      const sharedCount = [...setA].filter((id) => setB.has(id)).length
+      // 多味变化：至少共有一味，且差异不太大
+      if (changedCount > MAX_MULTI_HERB_CHANGES) continue
+      if (changedCount > 1 && sharedCount === 0) continue
+      if (changedCount > 1 && jaccard(setA, setB) < 0.2 && sharedCount < 2) continue
+
+      if (onlyA.length === 1 && onlyB.length === 0 && doseChanged.length === 0) {
         const herbId = onlyA[0]!
-        const herbName = left.herbs.find((herb) => herb.herbId === herbId)?.name ?? herbId
         pairs.push({
           id: `${left.id}__remove__${right.id}__${herbId}`,
           fromId: left.id,
           toId: right.id,
           kind: 'remove',
           herbId,
-          herbName,
+          herbName: herbNameOf(left, herbId),
           fromDoseRaw: dosesA.get(herbId),
-          symptomDelta: {
-            gained: [...symptomsB].filter((tag) => !symptomsA.has(tag)),
-            lost: [...symptomsA].filter((tag) => !symptomsB.has(tag)),
-          },
+          symptomDelta,
           fromClauseIds: left.sourceClauseIds,
           toClauseIds: right.sourceClauseIds,
         })
-      } else if (onlyB.length === 1 && onlyA.length === 0) {
+      } else if (onlyB.length === 1 && onlyA.length === 0 && doseChanged.length === 0) {
         const herbId = onlyB[0]!
-        const herbName = right.herbs.find((herb) => herb.herbId === herbId)?.name ?? herbId
         pairs.push({
           id: `${left.id}__add__${right.id}__${herbId}`,
           fromId: left.id,
           toId: right.id,
           kind: 'add',
           herbId,
-          herbName,
+          herbName: herbNameOf(right, herbId),
           toDoseRaw: dosesB.get(herbId),
-          symptomDelta: {
-            gained: [...symptomsB].filter((tag) => !symptomsA.has(tag)),
-            lost: [...symptomsA].filter((tag) => !symptomsB.has(tag)),
-          },
+          symptomDelta,
           fromClauseIds: left.sourceClauseIds,
           toClauseIds: right.sourceClauseIds,
         })
-      } else if (onlyA.length === 0 && onlyB.length === 0) {
-        const doseChanged = [...setA].filter((id) => (dosesA.get(id) ?? '') !== (dosesB.get(id) ?? ''))
-        if (doseChanged.length === 1) {
-          const herbId = doseChanged[0]!
-          const herbName = left.herbs.find((herb) => herb.herbId === herbId)?.name ?? herbId
-          pairs.push({
-            id: `${left.id}__dose__${right.id}__${herbId}`,
-            fromId: left.id,
-            toId: right.id,
-            kind: 'dose',
-            herbId,
-            herbName,
-            fromDoseRaw: dosesA.get(herbId),
-            toDoseRaw: dosesB.get(herbId),
-            symptomDelta: {
-              gained: [...symptomsB].filter((tag) => !symptomsA.has(tag)),
-              lost: [...symptomsA].filter((tag) => !symptomsB.has(tag)),
-            },
-            fromClauseIds: left.sourceClauseIds,
-            toClauseIds: right.sourceClauseIds,
-          })
-        }
+      } else if (onlyA.length === 0 && onlyB.length === 0 && doseChanged.length === 1) {
+        const herbId = doseChanged[0]!
+        pairs.push({
+          id: `${left.id}__dose__${right.id}__${herbId}`,
+          fromId: left.id,
+          toId: right.id,
+          kind: 'dose',
+          herbId,
+          herbName: herbNameOf(left, herbId),
+          fromDoseRaw: dosesA.get(herbId),
+          toDoseRaw: dosesB.get(herbId),
+          symptomDelta,
+          fromClauseIds: left.sourceClauseIds,
+          toClauseIds: right.sourceClauseIds,
+        })
+      } else if (changedCount >= 1 || doseChanged.length >= 1) {
+        const removedNames = onlyA.map((id) => herbNameOf(left, id))
+        const addedNames = onlyB.map((id) => herbNameOf(right, id))
+        const doseNames = doseChanged.map((id) => herbNameOf(left, id))
+        const parts: string[] = []
+        if (addedNames.length) parts.push(`加${addedNames.join('、')}`)
+        if (removedNames.length) parts.push(`去${removedNames.join('、')}`)
+        if (doseNames.length) parts.push(`改${doseNames.join('、')}`)
+        pairs.push({
+          id: `${left.id}__multi__${right.id}`,
+          fromId: left.id,
+          toId: right.id,
+          kind: 'multi',
+          herbId: [...onlyA, ...onlyB, ...doseChanged].join('+'),
+          herbName: parts.join('') || '多味异',
+          addedHerbNames: addedNames,
+          removedHerbNames: removedNames,
+          symptomDelta,
+          fromClauseIds: left.sourceClauseIds,
+          toClauseIds: right.sourceClauseIds,
+        })
       }
     }
   }
   return pairs
 }
 
-export function computeFamilies(formulas: Formula[]): FormulaFamily[] {
+/** 「桂枝加附子汤」→「桂枝汤」；「四逆加人参汤」→「四逆汤」 */
+export function extractFamilyBaseName(name: string): string {
+  const addRemove = name.match(/^(.+?)(?:加|去)(.+)$/)
+  if (!addRemove) return name
+  let base = addRemove[1]!
+  if (!/(?:汤|散|丸|膏|煎|饮)$/.test(base)) {
+    base = `${base}汤`
+  }
+  return base
+}
+
+function pickBaseFormula(members: Formula[], baseName: string): Formula {
+  return (
+    members.find((item) => item.book === 'songben' && item.name === baseName) ??
+    members.find((item) => item.name === baseName) ??
+    members.find((item) => item.book === 'songben') ??
+    members.slice().sort((a, b) => a.herbs.length - b.herbs.length)[0]!
+  )
+}
+
+function computeFamiliesInGroup(formulas: Formula[]): FormulaFamily[] {
   const families: FormulaFamily[] = []
   const assigned = new Set<string>()
+  const nameSet = new Set(formulas.map((item) => item.name))
 
-  // 命名规则：桂枝加X / 桂枝去X / 某某加X
   const byBase = new Map<string, Formula[]>()
   for (const formula of formulas) {
-    const baseMatch = formula.name.match(/^(.+?)(?:加|去)(.+)$/)
-    const baseName = baseMatch?.[1]?.replace(/汤$/, '汤') ?? formula.name
-    const normalizedBase = /汤|散|丸|膏|煎|饮$/.test(baseName) ? baseName : formula.name
-    const list = byBase.get(normalizedBase) ?? []
+    let baseName = extractFamilyBaseName(formula.name)
+    if (!nameSet.has(baseName)) {
+      if (baseName === '柴胡汤' && nameSet.has('小柴胡汤')) {
+        baseName = '小柴胡汤'
+      }
+    }
+    const list = byBase.get(baseName) ?? []
     list.push(formula)
-    byBase.set(normalizedBase, list)
+    byBase.set(baseName, list)
   }
 
   for (const [baseName, list] of byBase) {
-    if (list.length < 2) continue
-    const base =
-      list.find((item) => item.name === baseName) ??
-      list.slice().sort((a, b) => a.herbs.length - b.herbs.length)[0]!
+    const extras = formulas.filter(
+      (item) => item.name === baseName && !list.some((member) => member.id === item.id),
+    )
+    const members = [...list, ...extras]
+    if (members.length < 2) continue
+    const base = pickBaseFormula(members, baseName)
     const family: FormulaFamily = {
       id: `family-${baseName}`,
       name: `${baseName}类`,
       baseFormulaId: base.id,
-      formulaIds: list.map((item) => item.id),
+      formulaIds: [...new Set(members.map((item) => item.id))],
     }
     families.push(family)
-    for (const item of list) {
+    for (const item of members) {
       item.familyId = family.id
       assigned.add(item.id)
     }
   }
 
-  // Jaccard 聚类补充
   for (const formula of formulas) {
     if (assigned.has(formula.id) || formula.herbs.length === 0) continue
     const members = [formula]
@@ -185,10 +222,11 @@ export function computeFamilies(formulas: Formula[]): FormulaFamily[] {
       if (jaccard(setA, herbSet(other)) >= 0.6) members.push(other)
     }
     if (members.length < 2) continue
+    const base = pickBaseFormula(members, formula.name)
     const family: FormulaFamily = {
       id: `family-sim-${formula.name}`,
       name: `${formula.name}相近方`,
-      baseFormulaId: formula.id,
+      baseFormulaId: base.id,
       formulaIds: members.map((item) => item.id),
     }
     families.push(family)
@@ -199,4 +237,17 @@ export function computeFamilies(formulas: Formula[]): FormulaFamily[] {
   }
 
   return families
+}
+
+export function computeFamilies(formulas: Formula[]): FormulaFamily[] {
+  const jingfang = formulas.filter((item) => JINGFANG_BOOKS.has(item.book))
+  const chenfu = formulas.filter((item) => CHENFU_BOOKS.has(item.book))
+  const others = formulas.filter(
+    (item) => !JINGFANG_BOOKS.has(item.book) && !CHENFU_BOOKS.has(item.book),
+  )
+  return [
+    ...computeFamiliesInGroup(jingfang),
+    ...computeFamiliesInGroup(chenfu),
+    ...computeFamiliesInGroup(others),
+  ]
 }

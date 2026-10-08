@@ -1,0 +1,489 @@
+{
+  "entries": [
+    {
+      "clauseId": "funanke-0031",
+      "contentHash": "db7eef787ab2c8fe",
+      "cases": []
+    },
+    {
+      "clauseId": "funanke-0032",
+      "contentHash": "b280da59242edbde",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "pathogenesis": "凡肝木郁者",
+          "organs": ["肝"],
+          "relations": [],
+          "treatmentPrinciple": "必先散其邪气，邪退而后补正",
+          "formulaIds": ["funanke-formula-funanke-0032-1"],
+          "keySentence": "凡肝木郁者，此方一剂即快"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0033",
+      "contentHash": "f0a9d2a7bedd8380",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "凡人右寸脉大于左寸",
+          "disputes": [],
+          "pathogenesis": "即内伤之症",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0033-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0034",
+      "contentHash": "f84b8e9f3dfd82fa",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "凡人饥饱劳役，内伤正气，以致气乃下行，脾胃不能克化，饮食不能运动",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "盖疑饮食不进为脾胃之病，肉黍之积，轻则砂仁、枳壳、山查、麦芽之品，重则芒硝、大黄、牵牛巴豆之类，纷然杂进", "rebuttal": "必致臌闷而渐成劳矣" }
+          ],
+          "pathogenesis": "内伤正气，以致气乃下行",
+          "organs": ["脾", "胃"],
+          "relations": [],
+          "treatmentPrinciple": "若先以升提之药治之，何至于成劳",
+          "formulaIds": ["funanke-formula-funanke-0034-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0035",
+      "contentHash": "386782e9b2f9e3a2",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "凡人阴虚脾泄，岁久不止，或食而不化，或化而溏泄",
+          "disputes": [],
+          "pathogenesis": "乃脾阴虚陷已极",
+          "organs": ["脾", "命门"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0035-1"],
+          "keySentence": "又有温湿之品以暖命门而健脾土"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0036",
+      "contentHash": "a27cec04c411d443",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "夜热昼寒",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "若认作阳症治之", "rebuttal": "则口渴而热益炽, 必致消尽阴水，吐痰如絮，咳嗽不已，声哑声嘶，变成劳瘵" }
+          ],
+          "pathogenesis": "此肾水虚兼感寒，或肾水亏竭",
+          "organs": ["肾"],
+          "relations": [],
+          "treatmentPrinciple": "法当峻补其阴, 则阴水足而火焰消，骨髓清泰矣",
+          "formulaIds": ["funanke-formula-funanke-0036-1"],
+          "keySentence": "此方治阴虚火动者神效"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0037",
+      "contentHash": "0d6b62e08d7cfcc4",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "二方治阴之中，即有以治阳,治阳之中，即藏于补阴",
+          "formulaIds": ["funanke-formula-funanke-0037-1"],
+          "keySentence": "此两方似六味八味地黄"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0038",
+      "contentHash": "ab663c27eb04622d",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "凡人过劳，脉必浮大不伦",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "法当滋补",
+          "formulaIds": ["funanke-formula-funanke-0038-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0039",
+      "contentHash": "537d6d893c98f073",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "病重于日间，而发寒发热，较夜尤重",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "此症必须从天未明而先截之",
+          "formulaIds": ["funanke-formula-funanke-0039-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0040",
+      "contentHash": "bb0e5aba33469374",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "病重于夜间，而发热发寒，或寒少热多，或热少寒多，一到天明, 便觉清爽一到黄昏，即觉沉重",
+          "disputes": [],
+          "pathogenesis": "此阴气虚甚也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0040-1"],
+          "keySentence": "此方妙在用鳖甲,　乃至阴之物，逢阴则入，遇阳则转"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0041",
+      "contentHash": "1abeab53a538cda3",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此症亦发于夜间，亦发寒发热，无异纯阴邪气之症，但少少烦燥耳",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "法当于补阴之中，少加阳药一二味，使阳长阴消",
+          "formulaIds": ["funanke-formula-funanke-0041-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0042",
+      "contentHash": "23acf17e0cab0567",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "饮食不进，形容枯稿",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "补其气血益燥，补其血气益馁，助胃气而盗汗难止, 补血脉而胸膈阻滞", "rebuttal": "法当气血同治" }
+          ],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "法当气血同治",
+          "formulaIds": ["funanke-formula-funanke-0042-1"],
+          "keySentence": "妙在补中有调和之法耳"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0043",
+      "contentHash": "a310e70905258074",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有病久而气虚者，必身体蠃弱，饮食不进，或大便溏泄，小便艰涩",
+          "disputes": [],
+          "pathogenesis": "盖胃为肾之关，关门不开，则上之饮食不能进，下之糟粕不能化",
+          "organs": ["胃", "肾", "大肠", "膀胱"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0043-1"],
+          "keySentence": "开其胃气，盖胃为肾之关"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0044",
+      "contentHash": "b6406e6c4a0dfc43",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "今饮食不消",
+          "disputes": [],
+          "pathogenesis": "饮食入胃，必须气充足，始能消化而生津液，今饮食不消，气虚也",
+          "organs": ["胃"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0044-1"],
+          "keySentence": "方内纯是开胃之品"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0045",
+      "contentHash": "3a69bd5dfa4a600d",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "出汗盗汗，夜卧常醒，不能润色以养筋是也",
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "血虚自当补血, 舍四物汤又何求耶", "rebuttal": "此方妙在用桑叶，以补阴而生血，又妙在加茜草, 则血得活而益生" }
+          ],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "血虚自当补血",
+          "formulaIds": ["funanke-formula-funanke-0045-1"],
+          "keySentence": "此方妙在用桑叶，以补阴而生血"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0046",
+      "contentHash": "2ac0ac059ccd013a",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "咳嗽不已，吐泻不已",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以咳嗽宜治肺，吐泻宜治脾", "rebuttal": "殊不知咳嗽由于脾气之衰，斡旋之令不行，则上为咳嗽矣，吐泻由于肺气之弱, 清肃之令不行，始上吐而下泻矣" }
+          ],
+          "pathogenesis": "此肺脾受伤也",
+          "organs": ["肺", "脾"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0046-1"],
+          "keySentence": "此治脾治肺之药，合而用之,咳嗽吐泻之病各愈"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0047",
+      "contentHash": "188417d7574946ae",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "必有两胁饱闷之症",
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "既云平补，似乎用药不宜有重轻，今补肝之药多于补肾者何", "rebuttal": "盖肾为肝之母，肝又为命门之母，岂有木旺而不生命门之火者哉" }
+          ],
+          "pathogenesis": "肾水亏不能滋肝，则肝木抑郁而不舒",
+          "organs": ["肾", "肝", "命门"],
+          "relations": [
+            { "from": "肾", "to": "肝", "kind": "生" },
+            { "from": "肝", "to": "命门", "kind": "生" }
+          ],
+          "treatmentPrinciple": "此症必须肝肾同补",
+          "formulaIds": ["funanke-formula-funanke-0047-1"],
+          "keySentence": "盖肾为肝之母，肝又为命门之母"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0048",
+      "contentHash": "772115e7744e0577",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "如人惊惕不安，梦遗精泄",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "是心肾二经，为仇敌矣，似不可牵连而合治之也", "rebuttal": "不知心肾相克而实相须" },
+            { "kind": "misdiagnosis", "claim": "人以惊惕为心之病", "rebuttal": "我以为肾之病" },
+            { "kind": "misdiagnosis", "claim": "人以梦泄为肾之病", "rebuttal": "我以为心之病" }
+          ],
+          "pathogenesis": "皆心肾不交之故",
+          "organs": ["心", "肾"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0048-1"],
+          "keySentence": "此治肾正所以治心，治心即所以治肾也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0049",
+      "contentHash": "1c23ae791e907d14",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "此症人以为肾虚也", "rebuttal": "不独肾病也，心病也" },
+            { "kind": "drugDoubt", "claim": "可以已矣, 而又必加人参、茯苓、柏子仁、麦冬、远志、枣仁者何也", "rebuttal": "盖肾火虚，由于心火虚也,使补肾火不补心火，则反增上焦枯渴" }
+          ],
+          "pathogenesis": "盖肾火虚，由于心火虚也",
+          "organs": ["心", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "宜心肾兼治",
+          "formulaIds": ["funanke-formula-funanke-0049-1"],
+          "keySentence": "故欲补肾火，必须补心火,则水火相济也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0050",
+      "contentHash": "ebd87ef883af7ed5",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "以致玉关不闭，无梦且遗",
+          "disputes": [],
+          "pathogenesis": "此症由于肾水耗竭，上不能通于心，中不能润于肝，下不能生于脾",
+          "organs": ["肾", "心", "肝", "脾"],
+          "relations": [{ "from": "肾", "to": "脾", "kind": "生" }],
+          "treatmentPrinciple": "法当补肾而少佐以益心肝脾之品",
+          "formulaIds": ["funanke-formula-funanke-0050-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0051",
+      "contentHash": "d50cb80e9b7bf21a",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "遗精，下病也，健忘，上病也，何以合治之而咸当乎", "rebuttal": "盖遗精虽是肾水之虚, 而实本于君火之弱" }
+          ],
+          "pathogenesis": "盖遗精虽是肾水之虚, 而实本于君火之弱",
+          "organs": ["肾", "心"],
+          "relations": [],
+          "treatmentPrinciple": "今补其心君，则玉关不必闭而自闭矣",
+          "formulaIds": ["funanke-formula-funanke-0051-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0052",
+      "contentHash": "b99dda37fd539aba",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "不能食，食则倒满",
+          "disputes": [],
+          "pathogenesis": "气虚",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0052-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0053",
+      "contentHash": "34ea6a83c8a47eeb",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "久虚之人，气息奄奄",
+          "disputes": [
+            { "kind": "commonPractice", "claim": "无不曰宜急治矣", "rebuttal": "不知气血大虚，骤加大补之剂, 力量难任，必致胃口转膨胀" }
+          ],
+          "pathogenesis": "气血大虚",
+          "organs": ["肝", "脾", "胃"],
+          "relations": [],
+          "treatmentPrinciple": "不如缓缓清补之也",
+          "formulaIds": ["funanke-formula-funanke-0053-1"],
+          "keySentence": "此方妙在以白芍为君，引参苓入肝为佐"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0054",
+      "contentHash": "12fe0b79ad860fd1",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "右手脉大",
+          "disputes": [],
+          "pathogenesis": "气分之劳也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0054-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0055",
+      "contentHash": "955c38289db8188d",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "左手脉大",
+          "disputes": [],
+          "pathogenesis": "血分之劳也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0055-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0056",
+      "contentHash": "ad2c9692c5cd8726",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "若过出汗",
+          "disputes": [],
+          "pathogenesis": "恐其亡阳",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "不可不用药以敛之",
+          "formulaIds": ["funanke-formula-funanke-0056-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0057",
+      "contentHash": "af17f7638cdc0a40",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "痨症既成",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "若徒补其气血, 而不入杀虫之药", "rebuttal": "则饮食入胃，祇荫虫而不生气血" },
+            { "kind": "mistreatment", "claim": "若但杀虫而不补气血", "rebuttal": "则五藏俱受伤，又何有生理哉" }
+          ],
+          "pathogenesis": "必有虫生之以食人之气血也",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "惟于大补之中，加杀虫之药",
+          "formulaIds": ["funanke-formula-funanke-0057-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0058",
+      "contentHash": "a864703168af2caa",
+      "cases": []
+    },
+    {
+      "clauseId": "funanke-0059",
+      "contentHash": "d9ac6c0a8a6816cc",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "伤风咳嗽吐痰是也",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "若发散燥痰太过", "rebuttal": "则肺不敛必嗽愈甚，而上呛血丝, 久则肺伤而肾炽" },
+            { "kind": "mistreatment", "claim": "若寒凉滋润太过", "rebuttal": "则肺不舒必痰愈多，而气喘声痿, 久则金冷而水寒" }
+          ],
+          "pathogenesis": "上焦之痰, 原在胃中而不在肺",
+          "organs": ["胃", "肺"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0059-1"],
+          "keySentence": "去其胃中之痰，而肺自然清肃"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0060",
+      "contentHash": "722fbc035e549b7f",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "必观其色之白与黄而辨之",
+          "disputes": [],
+          "pathogenesis": "黄者火已退也，白者火正炽也",
+          "organs": ["脾"],
+          "relations": [],
+          "treatmentPrinciple": "正炽者用寒凉之品, 将退者用袪逐之味，今一方而俱治之",
+          "formulaIds": ["funanke-formula-funanke-0060-1"],
+          "keySentence": "此方健脾去湿，治痰之在中焦者也"
+        }
+      ]
+    }
+  ]
+}

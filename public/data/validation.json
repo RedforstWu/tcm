@@ -243,7 +243,7 @@
   "herbRoles": {
     "rule": 258,
     "llm": 1963,
-    "merged": 1969
+    "merged": 1970
   },
   "note": "证候标签与方解作用含规则/大模型草稿（ai-draft），需人工校对"
 }

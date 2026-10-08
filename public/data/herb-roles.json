@@ -1170,6 +1170,15 @@
     "reviewStatus": "ai-draft"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0149-1__车前子__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0149-1",
+    "herbId": "车前子",
+    "roleText": "利其水",
+    "sourceSentence": "又得半夏、茯苓、车前以利其水，则湿去而痰涎更消，痰消而火热更减，欲作郁蒸潮热，迷我心君，胡可得哉",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0157-1__人参__rule__0",
     "formulaId": "bianzheng-formula-bianzheng-0157-1",
     "herbId": "人参",
@@ -1193,15 +1202,6 @@
     "herbId": "荆芥",
     "roleText": "解散郁热",
     "sourceSentence": "此方玄参补阴，以解其浮游之火，当归、生地以补其心胃之血，多用荆芥、升麻风药以解散郁热，则火得水而相制，亦火得风而易扬，全无泻火之品，而已获泻火之效，实有深义耳",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "bianzheng-formula-bianzheng-0165-1__补骨脂__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0165-1",
-    "herbId": "补骨脂",
-    "roleText": "引肾",
-    "sourceSentence": "心肾既通于肝，而又有菖蒲以引心，破故纸以引肾，介绍同心，自能欢好如初，重结寤寐之交矣",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
@@ -12513,6 +12513,17 @@
     "herbId": "石菖蒲",
     "roleText": "引经",
     "mechanism": "引心",
+    "sourceSentence": "而又有菖蒲以引心，破故纸以引肾",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0165-1__补骨脂__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0165-1",
+    "herbId": "补骨脂",
+    "roleText": "益肾",
+    "mechanism": "引肾",
     "sourceSentence": "而又有菖蒲以引心，破故纸以引肾",
     "method": "llm",
     "reviewStatus": "ai-draft",

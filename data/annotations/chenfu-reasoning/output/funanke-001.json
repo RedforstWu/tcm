@@ -1,0 +1,455 @@
+{
+  "entries": [
+    {
+      "clauseId": "funanke-0001",
+      "contentHash": "d34f508236f01360",
+      "cases": []
+    },
+    {
+      "clauseId": "funanke-0002",
+      "contentHash": "48d8fc1539871dee",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "凡人初伤风，必然头痛身痛，咳嗽痰多，鼻流清水，切其脉必浮",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0002-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0003",
+      "contentHash": "5886b5959f3af11b",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "凡伤寒初起，鼻塞目痛，项强头痛，切其脉必浮紧",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0003-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0004",
+      "contentHash": "04f3ec27414cc26e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "凡人外感，必然发热",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "若内伤之发热", "rebuttal": "则不可用此方" }
+          ],
+          "pathogenesis": "外感之发热，卫气外闭也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0004-1"],
+          "keySentence": "故用柴胡、荆芥,先散皮毛之邪"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0005",
+      "contentHash": "357f3f0107eb33d8",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "凡伤食必心中饱闷，见食则恶，食之转痛也",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0005-1"]
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "疟疾",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "遇仙丹"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0006",
+      "contentHash": "2d7a604644c1175d",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人感此症，必然头晕口渴恶热，甚则痰多，身热气喘",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0006-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0007",
+      "contentHash": "f05076da3e59db65",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "pathogenesis": "此邪在上焦，壅塞而不得散也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0007-1"],
+          "keySentence": "此方之妙，全在用瓜蒌，能去胸膈之食，而消上焦之痰"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0008",
+      "contentHash": "c3dbdeea43f62c59",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "pathogenesis": "凡人邪居腠理之间",
+          "organs": ["脾", "胃"],
+          "relations": [],
+          "treatmentPrinciple": "必须用汗药以泄之",
+          "formulaIds": ["funanke-formula-funanke-0008-1"],
+          "keySentence": "盖人之脾胃健，而后皮毛腠理始得开合自如"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0009",
+      "contentHash": "edc2ce40785fe1c7",
+      "cases": []
+    },
+    {
+      "clauseId": "funanke-0010",
+      "contentHash": "6ae1c5bb3b101666",
+      "cases": []
+    },
+    {
+      "clauseId": "funanke-0011",
+      "contentHash": "40994c7f0355923f",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0011-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0012",
+      "contentHash": "1f66f0abfa865c36",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "乃发战发噤，手足现青色",
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "然则用桂附干姜逐其寒邪足矣，何用参术即用何至多加", "rebuttal": "盖元阳飞越,只一线之气未绝，纯用桂附干姜一派辛辣之药，邪虽外逐，而正气垂绝" }
+          ],
+          "pathogenesis": "此乃真中寒邪，肾火避出躯壳之外，而阴邪之气,直犯心宫，心君不守，肝气无依",
+          "organs": ["肾", "心", "肝"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0012-1"],
+          "keySentence": "若不多加参术，何以反正气于若存若亡之际哉"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0013",
+      "contentHash": "fb839488583ce15d",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": ["心"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0013-1"],
+          "keySentence": "此方妙在用黄连入心宫，佐以栀子，提刀直入，无邪不散"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0014",
+      "contentHash": "6ec1e88141b09954",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "mistreatment", "claim": "倘服不如式", "rebuttal": "必然虚火上冲，将药呕出" }
+          ],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0014-1"],
+          "keySentence": "必热药凉服，已足顺其性"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0015",
+      "contentHash": "4b5f86e19c6c3b53",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此症身外冰冷，身内火炽，发寒发热，战栗不已",
+          "disputes": [],
+          "pathogenesis": "乃真热反现假寒之象以欺人也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "法当用三黄汤加石膏生姜，乘热饮之"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0016",
+      "contentHash": "94e599c5af1508b7",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此症下部冰冷，上部大热，渴欲饮水，下喉即吐",
+          "disputes": [],
+          "pathogenesis": "乃真寒反现假热之形以欺人也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "法当用八味汤，大剂探冷与服"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0017",
+      "contentHash": "cef00cfd213e2166",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此症上焦火盛，吐痰如涌泉，面赤喉痛，上身不欲盖衣，而下身冰冷",
+          "disputes": [],
+          "pathogenesis": "此上假热而下真寒也",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "此上病下治之法也",
+          "formulaIds": ["funanke-formula-funanke-0017-1"],
+          "keySentence": "此上病下治之法也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0018",
+      "contentHash": "b2d98136b75f865e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此症非大实则大虚",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "当审其因，察其脉，参其症而分黑白矣",
+          "formulaIds": [],
+          "formulaText": "实而便秘者,大承气汤，虚而便滑者，独参汤，厥逆者加附子"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "阴虚双蛾",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "引火下行",
+          "formulaIds": ["funanke-formula-funanke-0018-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0019",
+      "contentHash": "28090e9f4a4d5a44",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此伤寒之变症也，伤寒邪火正炽，不可急于饮食，饮食而成此者",
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "常人服之，必至心如遗若，病人服之，不畏其虚乎", "rebuttal": "不知结胸之症，是食在胸中，非大黄枳壳槟榔厚朴所能袪逐，必得瓜蒌,始得推荡辟脾" }
+          ],
+          "pathogenesis": "结胸之症，是食在胸中",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0019-1"],
+          "keySentence": "瓜蒌乃结胸之圣药"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0020",
+      "contentHash": "55b57a0c026787d2",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "如头痛发热,右寸脉大于左寸口者",
+          "disputes": [],
+          "pathogenesis": "正气虚而邪气入之者",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0020-1"],
+          "keySentence": "此方专治正气虚而邪气入之者"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0021",
+      "contentHash": "c31da0b3afa0858b",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "治火何独治肝经", "rebuttal": "盖肝属木，最易生火，肝火散,则诸经之火俱散" }
+          ],
+          "pathogenesis": "盖肝属木，最易生火",
+          "organs": ["肝", "心", "胃", "肾", "肺", "大肠", "小肠", "膀胱"],
+          "relations": [],
+          "treatmentPrinciple": "但散火必须用下泄之药，而使火之有出路也则得矣",
+          "formulaIds": ["funanke-formula-funanke-0021-1"],
+          "keySentence": "肝火散,则诸经之火俱散"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0022",
+      "contentHash": "227c7af7a6eff02e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "真火症，初起必大渴引饮，身有斑点，或身热如焚，或发狂乱语",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "大寒之症亦有发斑者", "rebuttal": "此大寒症,不可与此" }
+          ],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0022-1"],
+          "keySentence": "但看其渴与不渴"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0023",
+      "contentHash": "3c6347a0a5e26ae5",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "pathogenesis": "此乃胃火与肝火共腾，而外越不为丹毒，即为痧疹，非他火也",
+          "organs": ["胃", "肝"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0023-1"],
+          "keySentence": "此方妙在用青蒿，肝胃之火俱平"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0024",
+      "contentHash": "424d958328d0af57",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此症初起，喉干口渴，干燥不吐，痰干咳嗽不已，面色日红，不畏风吹者是也",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0024-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0025",
+      "contentHash": "b503f3bbe01acdea",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0025-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0026",
+      "contentHash": "ffa57613b599daf2",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "大渴引饮，呼水自救，朝食即饥，或夜食不止",
+          "disputes": [],
+          "pathogenesis": "此火盛之症",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0026-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0027",
+      "contentHash": "72ad9d033bf40e44",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "不能起床，已成废人者",
+          "disputes": [],
+          "pathogenesis": "此乃火盛内炽，肾水熬干",
+          "organs": ["胃", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "治法宜降胃火而补肾水",
+          "formulaIds": ["funanke-formula-funanke-0027-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0028",
+      "contentHash": "448832e9903515b8",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有两足无力，不能起立，而口又健饭，少饥则头面皆热，咳嗽不已",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0028-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0029",
+      "contentHash": "8f687b62c74a58a3",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "如人头痛身热，伤风咳嗽，或心不爽，而郁气蕴于中怀，或气不舒,而怒气留于胁下",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "断不可用补药",
+          "formulaIds": ["funanke-formula-funanke-0029-1"],
+          "keySentence": "头痛加川芎一钱"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0030",
+      "contentHash": "c6edcada3d179339",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "pathogenesis": "怒气伤肝，而肝气冲于胃口之间，肾气不得上行，肺气不得下行，而成此症",
+          "organs": ["肝", "胃", "肾", "肺"],
+          "relations": [],
+          "treatmentPrinciple": "以开郁为主",
+          "formulaIds": ["funanke-formula-funanke-0030-1"]
+        }
+      ]
+    }
+  ]
+}

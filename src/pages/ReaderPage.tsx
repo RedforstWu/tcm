@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useParams, useSearchParams } from 'react-router-dom'
 import type { BookId, Clause, Formula, HerbMonograph, HerbRole } from '@/types/data'
 import { BOOK_CORPUS } from '@/types/data'
@@ -11,11 +11,15 @@ import {
   loadMonographs,
 } from '@/lib/data'
 import { convertScript, highlightTerms } from '@/lib/text'
+import { computeFloatingPosition } from '@/lib/floating-position'
 import { useAppContext } from '@/context/AppContext'
 import { DraftBanner } from '@/components/DraftBanner'
 
 const JINGFANG_BOOKS: BookId[] = ['songben', 'jingui', 'guilin']
 const CHENFU_BOOKS: BookId[] = ['funvke', 'funanke', 'bianzheng', 'shishi']
+/** 与浮层 max-w-xs（20rem）保持一致 */
+const HERB_TOOLTIP_WIDTH = 320
+const HERB_CHIP_SELECTOR = '[data-herb-chip]'
 
 export function ReaderPage() {
   const { book = 'songben' } = useParams()
@@ -36,7 +40,21 @@ export function ReaderPage() {
     formulaId: string
     x: number
     y: number
+    /** 触屏点按打开，需点击别处或滚动才关闭 */
+    pinned: boolean
   } | null>(null)
+
+  const bookTabsRef = useRef<HTMLDivElement>(null)
+
+  useEffect(() => {
+    const container = bookTabsRef.current
+    if (!container || container.scrollWidth <= container.clientWidth) return
+    const active = container.querySelector<HTMLElement>('[data-active-book]')
+    if (!active) return
+    container.scrollTo({
+      left: active.offsetLeft - (container.clientWidth - active.clientWidth) / 2,
+    })
+  }, [bookId, corpusFilter])
 
   const visibleBooks = useMemo(() => {
     if (corpusFilter === 'jingfang') return JINGFANG_BOOKS
@@ -111,6 +129,23 @@ export function ReaderPage() {
     el?.scrollIntoView({ behavior: 'smooth', block: 'center' })
   }, [focusId, visible])
 
+  const isHerbPinned = Boolean(hoverHerb?.pinned)
+  useEffect(() => {
+    if (!isHerbPinned) return
+    const dismissOnOutside = (event: PointerEvent) => {
+      const target = event.target as Element | null
+      if (target?.closest?.(HERB_CHIP_SELECTOR)) return
+      setHoverHerb(null)
+    }
+    const dismiss = () => setHoverHerb(null)
+    document.addEventListener('pointerdown', dismissOnOutside)
+    window.addEventListener('scroll', dismiss, { passive: true })
+    return () => {
+      document.removeEventListener('pointerdown', dismissOnOutside)
+      window.removeEventListener('scroll', dismiss)
+    }
+  }, [isHerbPinned])
+
   const hoverMono = hoverHerb
     ? monographs.find((m) => m.herbId === hoverHerb.herbId)
     : undefined
@@ -122,22 +157,28 @@ export function ReaderPage() {
     <div className="space-y-4">
       <DraftBanner />
       <div className="flex flex-wrap items-center gap-2">
-        {visibleBooks.map((id) => (
-          <Link
-            key={id}
-            to={`/read/${id}`}
-            className={`rounded-full px-4 py-1.5 text-sm ${
-              id === bookId ? 'bg-cinnabar text-white' : 'bg-white text-stone-600 ring-1 ring-stone-200'
-            }`}
-          >
-            {bookTitle(id)}
-          </Link>
-        ))}
+        <div
+          ref={bookTabsRef}
+          className="scrollbar-none relative -mx-3 flex min-w-0 flex-1 gap-2 overflow-x-auto px-3 py-0.5 sm:mx-0 sm:flex-wrap sm:overflow-visible sm:px-0"
+        >
+          {visibleBooks.map((id) => (
+            <Link
+              key={id}
+              to={`/read/${id}`}
+              data-active-book={id === bookId ? '' : undefined}
+              className={`shrink-0 whitespace-nowrap rounded-full px-4 py-1.5 text-sm ${
+                id === bookId ? 'bg-cinnabar text-white' : 'bg-white text-stone-600 ring-1 ring-stone-200'
+              }`}
+            >
+              {bookTitle(id)}
+            </Link>
+          ))}
+        </div>
         {bookId === 'songben' && (
           <button
             type="button"
             onClick={() => setCompare((value) => !value)}
-            className="ml-auto rounded-full bg-teal px-4 py-1.5 text-sm text-white"
+            className="ml-auto shrink-0 rounded-full bg-teal px-4 py-1.5 text-sm text-white"
           >
             {compare ? '关闭对照' : '宋本 ↔ 桂林对照'}
           </button>
@@ -177,7 +218,7 @@ export function ReaderPage() {
             <article
               key={clause.id}
               id={clause.id}
-              className={`rounded-2xl border bg-white/80 p-4 shadow-sm ${
+              className={`scroll-mt-28 rounded-2xl border bg-white/80 p-3 shadow-sm sm:p-4 ${
                 focusId === clause.id ? 'border-cinnabar ring-2 ring-cinnabar/20' : 'border-stone-200'
               }`}
             >
@@ -246,16 +287,45 @@ export function ReaderPage() {
                           <button
                             key={`${formula.id}-${herb.herbId}`}
                             type="button"
-                            className="rounded-full bg-white px-2 py-0.5 text-xs text-stone-700 ring-1 ring-stone-200 hover:bg-teal-soft"
-                            onMouseEnter={(event) =>
+                            data-herb-chip
+                            className={`rounded-full px-2 py-1 text-xs text-stone-700 ring-1 ring-stone-200 hover:bg-teal-soft sm:py-0.5 ${
+                              hoverHerb?.pinned &&
+                              hoverHerb.herbId === herb.herbId &&
+                              hoverHerb.formulaId === formula.id
+                                ? 'bg-teal-soft'
+                                : 'bg-white'
+                            }`}
+                            onPointerEnter={(event) => {
+                              if (event.pointerType !== 'mouse') return
                               setHoverHerb({
                                 herbId: herb.herbId,
                                 formulaId: formula.id,
                                 x: event.clientX,
                                 y: event.clientY,
+                                pinned: false,
                               })
-                            }
-                            onMouseLeave={() => setHoverHerb(null)}
+                            }}
+                            onPointerLeave={(event) => {
+                              if (event.pointerType !== 'mouse') return
+                              setHoverHerb(null)
+                            }}
+                            onPointerUp={(event) => {
+                              if (event.pointerType === 'mouse') return
+                              const rect = event.currentTarget.getBoundingClientRect()
+                              setHoverHerb((current) =>
+                                current?.pinned &&
+                                current.herbId === herb.herbId &&
+                                current.formulaId === formula.id
+                                  ? null
+                                  : {
+                                      herbId: herb.herbId,
+                                      formulaId: formula.id,
+                                      x: rect.left,
+                                      y: rect.bottom,
+                                      pinned: true,
+                                    },
+                              )
+                            }}
                           >
                             {convertScript(herb.name, scriptMode)}
                             {herb.doseRaw && (
@@ -319,8 +389,15 @@ export function ReaderPage() {
 
       {hoverHerb && (hoverMono || hoverRoles.length > 0) && (
         <div
-          className="pointer-events-none fixed z-50 max-w-xs rounded-xl border border-stone-200 bg-white p-3 text-xs shadow-lg"
-          style={{ left: hoverHerb.x + 12, top: hoverHerb.y + 12 }}
+          className="pointer-events-none fixed z-50 max-w-[min(20rem,calc(100vw-1rem))] rounded-xl border border-stone-200 bg-white p-3 text-xs shadow-lg"
+          style={computeFloatingPosition({
+            anchorX: hoverHerb.x,
+            anchorY: hoverHerb.y,
+            floatingWidth: HERB_TOOLTIP_WIDTH,
+            viewportWidth: window.innerWidth,
+            viewportHeight: window.innerHeight,
+            offset: hoverHerb.pinned ? 4 : undefined,
+          })}
         >
           {hoverMono && (
             <div className="mb-2">

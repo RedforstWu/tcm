@@ -44,7 +44,7 @@ export function FormulasPage() {
         </Link>
       </div>
 
-      <div className="grid gap-3 rounded-2xl border border-stone-200 bg-white/80 p-4 md:grid-cols-3">
+      <div className="grid gap-2 rounded-2xl border border-stone-200 bg-white/80 p-3 sm:gap-3 sm:p-4 md:grid-cols-3">
         <input
           value={query}
           onChange={(event) => setQuery(event.target.value)}
@@ -86,11 +86,11 @@ export function FormulasPage() {
             to={`/formulas/${encodeURIComponent(formula.id)}`}
             className="rounded-2xl border border-stone-200 bg-white/80 p-4 transition hover:border-cinnabar/40"
           >
-            <div className="mb-1 flex items-center justify-between gap-2">
-              <h2 className="font-serif text-lg font-semibold">
+            <div className="mb-1 flex items-start justify-between gap-2">
+              <h2 className="min-w-0 font-serif text-lg font-semibold">
                 {convertScript(formula.name, scriptMode)}
               </h2>
-              <span className="text-xs text-stone-400">{bookTitle(formula.book)}</span>
+              <span className="mt-1 shrink-0 text-xs text-stone-400">{bookTitle(formula.book)}</span>
             </div>
             <p className="text-sm text-stone-600">
               {formula.herbs.length > 0

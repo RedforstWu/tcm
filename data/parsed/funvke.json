@@ -3824,12 +3824,6 @@
           "doseRaw": ""
         },
         {
-          "herbId": "。)",
-          "name": "。）",
-          "rawText": "。）",
-          "doseRaw": ""
-        },
-        {
           "herbId": "雷丸",
           "name": "雷丸",
           "rawText": "雷丸（六钱）",
@@ -7330,12 +7324,6 @@
           "name": "只用",
           "rawText": "只用",
           "doseRaw": ""
-        },
-        {
-          "herbId": "。)",
-          "name": "。）",
-          "rawText": "。）",
-          "doseRaw": ""
         }
       ],
       "preparation": "水煎。服五剂愈矣。倘认定是寒，大用辛热，全不补气与血，恐过于燥热，反致亡阳而变危矣。==== 大怒小产（五十五） ====",
@@ -7604,33 +7592,9 @@
           "doseRaw": ""
         },
         {
-          "herbId": "入药",
-          "name": "入药",
-          "rawText": "入药",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "同煎",
-          "name": "同煎",
-          "rawText": "同煎",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "服下",
-          "name": "服下",
-          "rawText": "服下",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "即效",
-          "name": "即效",
-          "rawText": "即效",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "。)",
-          "name": "。）",
-          "rawText": "。）",
+          "herbId": "入药同",
+          "name": "入药同",
+          "rawText": "入药同",
           "doseRaw": ""
         }
       ],

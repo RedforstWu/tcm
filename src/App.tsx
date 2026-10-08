@@ -11,6 +11,7 @@ import { HerbDetailPage } from '@/pages/HerbDetailPage'
 import { VizPage } from '@/pages/VizPage'
 import { LabPage } from '@/pages/LabPage'
 import { QuizPage } from '@/pages/QuizPage'
+import { ReasoningPage } from '@/pages/ReasoningPage'
 import { SearchPage } from '@/pages/SearchPage'
 
 export default function App() {
@@ -28,6 +29,7 @@ export default function App() {
             <Route path="herbs/:herbId" element={<HerbDetailPage />} />
             <Route path="viz" element={<VizPage />} />
             <Route path="lab" element={<LabPage />} />
+            <Route path="reasoning" element={<ReasoningPage />} />
             <Route path="quiz" element={<QuizPage />} />
             <Route path="search" element={<SearchPage />} />
             <Route path="*" element={<Navigate to="/" replace />} />

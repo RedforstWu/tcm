@@ -1,0 +1,626 @@
+{
+  "entries": [
+    {
+      "clauseId": "funvke-0001",
+      "contentHash": "b69481f6a6b1e628",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有终年累月下流白物，如涕如唾，不能禁止，甚则臭秽者",
+          "disputes": [],
+          "pathogenesis": "夫白带乃湿盛而火衰，肝郁而气弱，则脾土受伤，湿土之气下陷",
+          "organs": ["脾", "肝", "胃"],
+          "relations": [{ "from": "肝", "to": "脾", "kind": "克" }],
+          "treatmentPrinciple": "治法宜大补脾胃之气，稍佐以舒肝之品",
+          "formulaIds": ["funvke-formula-funvke-0001-1"],
+          "keySentence": "此方脾、胃、肝三经同治之法，寓补于散之中，寄消于升之内"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0002",
+      "contentHash": "86632327e8a0b626",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有带下而色青者，甚则绿如绿豆汁，稠粘不断，其气腥臭",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "似湿非肝木之所恶", "rebuttal": "不知水为肝木之所喜，而湿实肝木之所恶" },
+            { "kind": "drugDoubt", "claim": "夫道遥散之立法也，乃解肝郁之药耳，何以治青带若斯其神与", "rebuttal": "盖湿热留于肝经，因肝气之郁也，郁则必逆，道遥散最能解肝之郁与逆" },
+            { "kind": "mistreatment", "claim": "倘仅以利湿清热治青带，而置肝气于不问", "rebuttal": "安有止带之日哉" }
+          ],
+          "pathogenesis": "夫青带乃肝经之湿热",
+          "organs": ["肝", "膀胱"],
+          "relations": [],
+          "treatmentPrinciple": "解肝木之火，利膀胱之水，则青绿之带病均去矣",
+          "formulaIds": ["funvke-formula-funvke-0002-1"],
+          "keySentence": "道遥散最能解肝之郁与逆"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0003",
+      "contentHash": "8ad37c5e8aebf992",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有带下而色黄者，宛如黄茶浓汁，其气腥秽",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "任脉本不能容水，湿气安得而入而化为黄带乎", "rebuttal": "不知带脉横生，通于任脉" },
+            { "kind": "commonPractice", "claim": "世之人有以黄带为脾之湿热，单去治脾而不得痊者", "rebuttal": "是不知真水、真火合成丹邪、元邪，绕于任脉、胞胎之间，而化此黅色也" }
+          ],
+          "pathogenesis": "夫黄带乃任脉之湿热也",
+          "organs": ["肾", "脾"],
+          "relations": [],
+          "treatmentPrinciple": "法宜补任脉之虚，而清肾火之炎",
+          "formulaIds": ["funvke-formula-funvke-0003-1"],
+          "keySentence": "盖山药、芡实专补任脉之虚，又能利水"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0004",
+      "contentHash": "dfd205f68766c590",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有带下而色黑者，甚则如黑豆汁，其气亦腥",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "谓为下寒之极或有之", "rebuttal": "殊不知火极似水，乃假象也" },
+            { "kind": "drugDoubt", "claim": "或谓此方过于迅利", "rebuttal": "殊不知火盛之时，用不得依违之法" }
+          ],
+          "pathogenesis": "此胃火太旺，与命门，膀恍，三焦之火合而熬煎，所以熬干而变为炭色",
+          "organs": ["胃", "命门", "膀胱", "三焦", "肾", "肺"],
+          "relations": [],
+          "treatmentPrinciple": "治法惟以　火为主，火热退而湿自除矣",
+          "formulaIds": ["funvke-formula-funvke-0004-1"],
+          "keySentence": "今用黄连、石膏、栀子、知母一派寒凉之品，入于大黄之中，则迅速扫除"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0005",
+      "contentHash": "27a284cc601d0393",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有带下而色红者，似血非血，淋沥不断",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "岂其路通于命门，而命门之火出而烧之耶", "rebuttal": "不知带脉通于肾，而肾气通于肝" },
+            { "kind": "commonPractice", "claim": "世人以赤带属之心火", "rebuttal": "其实血与湿不能两分" },
+            { "kind": "mistreatment", "claim": "倘一利其湿", "rebuttal": "反引火下行，转难速效矣" },
+            { "kind": "drugDoubt", "claim": "先生前言助其脾土之气，今但补其肝木之血何也", "rebuttal": "不知用芍药以平肝，则肝气行得舒，肝气舒自不尅土，脾不受尅，则脾土自旺，是平肝正所以扶脾耳" }
+          ],
+          "pathogenesis": "妇人忧思伤脾，又加郁怒伤肝，于是肝经之郁火内炽，下尅脾土，脾土不能运化，致湿热之气蕴于带脉之间",
+          "organs": ["肝", "脾", "肾"],
+          "relations": [{ "from": "肝", "to": "脾", "kind": "克" }],
+          "treatmentPrinciple": "治法须清肝火而扶脾气",
+          "formulaIds": ["funvke-formula-funvke-0005-1"],
+          "keySentence": "此方但主补肝之血，全不利脾之湿者，以赤带之为病，火重而湿轻也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0006",
+      "contentHash": "edd7cbdcfc45dba6",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有一时血崩，两目黑暗，昏晕在地，不省人事者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人莫不谓火盛动血也", "rebuttal": "然此火非实火，乃虚火耳" },
+            { "kind": "commonPractice", "claim": "世人一见血崩，往往用止涩之品", "rebuttal": "但不用补阴之药，则虚火易于冲击，恐随止随发" },
+            { "kind": "drugDoubt", "claim": "倘畏药味之重而减半", "rebuttal": "则力薄而不能止" }
+          ],
+          "pathogenesis": "然此火非实火，乃虚火耳",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "必须于补阴之中行土崩之法",
+          "formulaIds": ["funvke-formula-funvke-0006-1"],
+          "keySentence": "此所以不先补血而先补气也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0007",
+      "contentHash": "57b8cff713c0fe53",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有年老血崩者，其症亦与前血崩昏暗者同",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为老妇之虚耳", "rebuttal": "谁知是不慎房帏之故乎" }
+          ],
+          "pathogenesis": "谁知是不慎房帏之故乎",
+          "organs": ["肾"],
+          "relations": [],
+          "formulaIds": ["funvke-formula-funvke-0007-1"],
+          "keySentence": "用此方以止其暂时之漏，实有奇功"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0008",
+      "contentHash": "b28b23d78b88309a",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "有少妇甫娠三月，即便血崩，而胎亦随堕",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为挫闪受伤而致", "rebuttal": "谁知是行房不慎之过哉" }
+          ],
+          "pathogenesis": "谁知是行房不慎之过哉",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法自当以补气为主，而少佐以补血乏品",
+          "formulaIds": ["funvke-formula-funvke-0008-1"],
+          "keySentence": "此方固气而兼补血"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0009",
+      "contentHash": "9838fe456ce0902e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有一交合则流血不止者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "夫精冲血管，不过一时之伤，精出宜愈", "rebuttal": "不知血管最娇嫩，断不可以精伤" }
+          ],
+          "pathogenesis": "此等之病，成于经水正来之时交合，精冲血管也",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法须通其胞胎之气，引旧日日之集精外出，而益之以补气补精之药",
+          "formulaIds": ["funvke-formula-funvke-0009-1"],
+          "keySentence": "此方用参儿以补气，用地萸以补精，精气既旺，则血管流通"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0010",
+      "contentHash": "a636eccd3faacb17",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有怀抱甚郁，口干舌渴，呕吐吞酸，而血下崩者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人皆以火治之，时而效，时而不效", "rebuttal": "是不识为肝气之郁结也" },
+            { "kind": "misdiagnosis", "claim": "夫肝主藏血，气结而血亦结，何以反至崩记", "rebuttal": "盖肝之性急，气结则其急更甚，更急则血不能藏，故崩不免也" },
+            { "kind": "mistreatment", "claim": "若徒开其郁，而不知平肝", "rebuttal": "则肝气大开，肝火更炽，而血亦不能止矣" }
+          ],
+          "pathogenesis": "盖肝之性急，气结则其急更甚，更急则血不能藏，故崩不免也",
+          "organs": ["肝"],
+          "relations": [],
+          "treatmentPrinciple": "治法宜以开郁为主",
+          "formulaIds": ["funvke-formula-funvke-0010-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0011",
+      "contentHash": "8667efe694f177c8",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有升高坠落，或闪挫受伤，以致恶血下流，有如血崩之状者",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "若以崩治", "rebuttal": "非徒无益而又害之也" },
+            { "kind": "mistreatment", "claim": "倘不知解瘀而用补涩", "rebuttal": "则瘀血内攻，疼无止时，反致新血不得生，旧血无由化" },
+            { "kind": "drugDoubt", "claim": "何以只治其瘀而不顾气也", "rebuttal": "殊不知跌闪升坠，非由内伤以及外伤者可比" }
+          ],
+          "pathogenesis": "乃是瘀血作祟",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法须行血以去瘀，活血以止疼",
+          "formulaIds": ["funvke-formula-funvke-0011-1"],
+          "keySentence": "此方之妙，妙于活血之中，佐以下滞之品，故逐瘀如扫，而止血如神"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0012",
+      "contentHash": "f17649f425340bf7",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有每行人道，经水即来，一如血崩",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为胞胎有伤，触之以动其血也", "rebuttal": "谁知是子宫血海因太热而不固乎" },
+            { "kind": "misdiagnosis", "claim": "然既由冲脉之热，则应常崩而无有止时，何以行人道而始来", "rebuttal": "人未入房之时，君相二火，寂然不动，虽冲脉独热，而血亦不至外驰" },
+            { "kind": "mistreatment", "claim": "倘不揣其本而齐其末，徒以发灰、白矾，黄连炭、五倍子等药末，以外治其幽隐之处", "rebuttal": "则恐愈涩而愈流，终必至于败亡也" }
+          ],
+          "pathogenesis": "血崩之为病，正冲脉之火热也",
+          "organs": ["肝", "脾"],
+          "relations": [],
+          "treatmentPrinciple": "治法必须滋阴降火，以清血海而和子宫",
+          "formulaIds": ["funvke-formula-funvke-0012-1"],
+          "keySentence": "此方补阴而无浮动之虑，缩血而无寒凉之苦"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0013",
+      "contentHash": "50b5e8d82c4a78b4",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有腹似怀妊，终年不主，甚至二三年不生者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "有似血臌之形", "rebuttal": "其实是鬼胎而非臌也" },
+            { "kind": "mistreatment", "claim": "乌可纯用迅利以祛荡乎", "rebuttal": "必于补中逐之为的也" },
+            { "kind": "mistreatment", "claim": "若单用雷丸、大黄以迅下", "rebuttal": "必有气脱血崩之患矣" }
+          ],
+          "pathogenesis": "然淫妖之气已结于腹，遂成鬼胎",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法必须以逐秽为主",
+          "formulaIds": ["funvke-formula-funvke-0013-1"],
+          "keySentence": "尤妙在用参、当以补气血，则邪去而正不伤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0014",
+      "contentHash": "2f850106956def9d",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "女子有在家未嫁，月经忽断，腹大如妊，面色乍赤乍白，六脉乍大乍小",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为血结经闭也", "rebuttal": "谁知是灵鬼凭身乎" },
+            { "kind": "misdiagnosis", "claim": "医以为胎", "rebuttal": "而实非真胎" },
+            { "kind": "drugDoubt", "claim": "今既坠其鬼胎矣，自当大补其血，乃不补血而反补胃气，何故", "rebuttal": "盖鬼胎中人，其正气大虚可知，气虚则血必不能骤生，欲补血先补气" },
+            { "kind": "mistreatment", "claim": "倘重用补阴之品", "rebuttal": "则以阴招阴，吾恐鬼胎虽下，而鬼气未必不再侵" }
+          ],
+          "pathogenesis": "一身之精血，仅足以供腹中之邪，则邪日旺而正日衰，势必至经闭而血枯",
+          "organs": ["胃", "脾"],
+          "relations": [],
+          "treatmentPrinciple": "必须先祛邪而后补正，斯为得之",
+          "formulaIds": ["funvke-formula-funvke-0014-1"],
+          "keySentence": "前方荡邪，后方补正，实有次第"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0015",
+      "contentHash": "6a58d69a146ae339",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有先期经来者，其经甚多",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为血热之极也", "rebuttal": "谁知是肾中水火太旺乎" }
+          ],
+          "pathogenesis": "夫火太旺则血热，水太旺则血多，此有余之病，非不足之症也",
+          "organs": ["肾"],
+          "relations": [],
+          "treatmentPrinciple": "治之法但少清其热，不必泄其水也",
+          "formulaIds": ["funvke-formula-funvke-0015-1"],
+          "keySentence": "火泄而水不与俱泄，损而益也"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "又有先期经来只一、二点者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为血热之极也", "rebuttal": "谁知肾中火旺而阴水亏乎" },
+            { "kind": "mistreatment", "claim": "倘一见先期之来，俱以为有余之热，但泄火而不补水，或水火两泄之", "rebuttal": "有不更增其病者乎" }
+          ],
+          "pathogenesis": "先期而来少者，火热而水不足也",
+          "organs": ["肾"],
+          "relations": [],
+          "treatmentPrinciple": "治之法不必泄火，只专补水，水既足而火自消矣",
+          "formulaIds": [],
+          "formulaText": "方用两地汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0016",
+      "contentHash": "8eddf754ce6e881b",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有经水后期而来多者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为血虚之病也", "rebuttal": "谁知非血虚乎" }
+          ],
+          "pathogenesis": "后期而来多，血寒而有余",
+          "organs": ["肾", "肝", "脾"],
+          "relations": [],
+          "treatmentPrinciple": "治法宜于补中温散之",
+          "formulaIds": ["funvke-formula-funvke-0016-1"],
+          "keySentence": "此方大补肝、肾、脾之精与血，加肉桂以祛其寒，柴胡以解其郁"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0017",
+      "contentHash": "2bffd19cf5c9e3c2",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有经来断续，或前或后无定期",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为气血之虚也", "rebuttal": "谁知是肝气之郁结乎" },
+            { "kind": "misdiagnosis", "claim": "肝气郁而肾气不应，未必至于如此", "rebuttal": "殊不知子母关切，子病而母必有顾复之情" }
+          ],
+          "pathogenesis": "夫经水出诸肾，而肝为肾之子，肝郁则肾亦郁矣",
+          "organs": ["肝", "肾"],
+          "relations": [{ "from": "肾", "to": "肝", "kind": "生" }],
+          "treatmentPrinciple": "治法宜舒肝之郁，即开肾之郁也",
+          "formulaIds": ["funvke-formula-funvke-0017-1"],
+          "keySentence": "此方舒肝肾之气，非通经之药也；补肝肾之精，非利水之品也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0018",
+      "contentHash": "74fe4eacd655a255",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有数月一行经者，每以为常，亦无或先或后之异，亦无或多或少之殊",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人莫不以为异", "rebuttal": "而不知非异也" },
+            { "kind": "commonPractice", "claim": "无如世人不知，见经水不应月来，误认为病，妄用药饵", "rebuttal": "本元病而治之成病，是治反不如其不治也" }
+          ],
+          "pathogenesis": "盖无病之人，气血两不亏损耳",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "方名助仙丹"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0019",
+      "contentHash": "a87f0043870fd0f7",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有年五十外或六、七十岁忽然行经者，或下紫血块、或如红血淋",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "老妇行经，是还少之象", "rebuttal": "谁知是血崩之渐乎" }
+          ],
+          "pathogenesis": "乃肝不藏脾不统之故也",
+          "organs": ["肝", "脾", "命门"],
+          "relations": [],
+          "treatmentPrinciple": "非大补肝脾之气与血，而血安能骤止",
+          "formulaIds": ["funvke-formula-funvke-0019-1"],
+          "keySentence": "此方补益肝脾之气，气足自能生血而摄血"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0020",
+      "contentHash": "b8bfe9c4d0636977",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有经水忽来忽断，时疼时止，寒热往来者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为血之凝也", "rebuttal": "谁知是肝气不舒乎" }
+          ],
+          "pathogenesis": "适逢风之吹寒之袭，则肝气为之闭塞，而经水之道路亦随之而俱闭",
+          "organs": ["肝"],
+          "relations": [],
+          "treatmentPrinciple": "治法宜补肝中之血，通其郁而散其风",
+          "formulaIds": ["funvke-formula-funvke-0020-1"],
+          "keySentence": "用柴胡、白芍、丹皮以宣肝经之风郁"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0021",
+      "contentHash": "4b2230d56a9b3fd2",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有经前腹疼数日，而后经水行者，其经来多是紫黑块",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为寒极而然也", "rebuttal": "谁知是热极而火不化乎" },
+            { "kind": "mistreatment", "claim": "然泄肝之火，而不解肝之郁", "rebuttal": "则热之标可去，而热之本未除也" }
+          ],
+          "pathogenesis": "经欲行而肝不应，则抑拂其气而疼生",
+          "organs": ["肝"],
+          "relations": [],
+          "formulaIds": ["funvke-formula-funvke-0021-1"],
+          "keySentence": "此方补肝之血，而解肝之郁，利肝之气，而降肝之火"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0022",
+      "contentHash": "6804d38b8cb2629e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有少腹疼于行经之后者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为气血之虚也", "rebuttal": "谁知是肾气之涸乎" }
+          ],
+          "pathogenesis": "盖肾水一虚则水不能生木，而肝木必尅脾土，木土相争，则气必逆，故尔作疼",
+          "organs": ["肾", "肝", "脾"],
+          "relations": [
+            { "from": "肾", "to": "肝", "kind": "生" },
+            { "from": "肝", "to": "脾", "kind": "克" }
+          ],
+          "treatmentPrinciple": "治法必须以舒肝气为主，而益之以补肾之味",
+          "formulaIds": ["funvke-formula-funvke-0022-1"],
+          "keySentence": "此方平调肝气，既能转逆气，又善止郁疼"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0023",
+      "contentHash": "a6b27fe19d2d8521",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有经未行之前一二日忽然腹疼而吐血",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为火热之极也", "rebuttal": "谁知是肝气之逆乎" },
+            { "kind": "misdiagnosis", "claim": "是肝不藏血之故乎？抑肾不纳气而然乎", "rebuttal": "殊不知少阴之火急如奔马，得肝火直冲而上" },
+            { "kind": "mistreatment", "claim": "治法似宜平肝以顺气，而不必益精以补肾矣", "rebuttal": "必须于补肾之中，用顺气之法始为得当" },
+            { "kind": "mistreatment", "claim": "若认为劳症", "rebuttal": "必至肝气愈逆，非劳反成劳矣" }
+          ],
+          "pathogenesis": "顺则气安，逆则气动；血随气为行止，气安则血安，气动则血动",
+          "organs": ["肝", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "必须于补肾之中，用顺气之法始为得当",
+          "formulaIds": ["funvke-formula-funvke-0023-1"],
+          "keySentence": "肝不逆而肾气自顺"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0024",
+      "contentHash": "6b22437945da6800",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有经水将来三五日前而脐下作疼，状如刀刺者；或寒热交作，所下如黑豆汁",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人莫不以为血热之极", "rebuttal": "谁知是下焦寒湿相争之故乎" },
+            { "kind": "mistreatment", "claim": "倘疑腹疼为热疾，妄用寒凉", "rebuttal": "则冲任虚冷，血海变为冰海，血室反成冰室" }
+          ],
+          "pathogenesis": "经水由二经而外出，而寒湿满二经而内乱，两相争而作疼痛",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法利其湿而温其寒，使冲任无邪气之乱",
+          "formulaIds": ["funvke-formula-funvke-0024-1"],
+          "keySentence": "此方君白术以利腰脐之气"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0025",
+      "contentHash": "20ebfa9432c475e2",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有经水过多，行后复行，面色痿黄，身体倦怠，而困乏愈甚者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为血热有余之故", "rebuttal": "谁知是血虚而不归经乎" },
+            { "kind": "commonPractice", "claim": "世之人见经水过多，谓是血之旺也", "rebuttal": "此治之所以多错耳" }
+          ],
+          "pathogenesis": "惟经多是血之虚，故再行而不胜其困乏，血损精散，骨中髓空",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法宜大补血而引之归经",
+          "formulaIds": ["funvke-formula-funvke-0025-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0026",
+      "contentHash": "8d1e022a62fcb208",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有经未来之前，泄水三日，而后行经者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为血旺之故", "rebuttal": "谁知是脾气之虚乎" }
+          ],
+          "pathogenesis": "夫脾统血，脾虚则不能摄血矣",
+          "organs": ["脾"],
+          "relations": [],
+          "treatmentPrinciple": "调经之法，不在先治其水，而在先治其血；抑不在先治其血，而在先补其气",
+          "formulaIds": ["funvke-formula-funvke-0026-1"],
+          "keySentence": "此方补脾气以固脾血，则血摄于气之中"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0027",
+      "contentHash": "2bc65217d28695d3",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有行经之前一日大便先出血者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为血崩之症", "rebuttal": "谁知是经流于大肠乎" },
+            { "kind": "mistreatment", "claim": "若单止大肠之血", "rebuttal": "则愈止而愈多" },
+            { "kind": "mistreatment", "claim": "若击动三焦之气", "rebuttal": "则更拂乱而不可止" },
+            { "kind": "drugDoubt", "claim": "然则心肾不交，补心肾可也，又何兼补夫肝木耶", "rebuttal": "不知肝乃肾之子心之母也" }
+          ],
+          "pathogenesis": "盖经水之妄行，原因心肾之不交",
+          "organs": ["心", "肾", "大肠", "小肠", "肝"],
+          "relations": [
+            { "from": "肾", "to": "肝", "kind": "生" },
+            { "from": "肝", "to": "心", "kind": "生" }
+          ],
+          "treatmentPrinciple": "故必大补其心与肾，便心肾之气交",
+          "formulaIds": ["funvke-formula-funvke-0027-1"],
+          "keySentence": "此方乃大补心肝肾三经之药"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0028",
+      "contentHash": "244ccf7577e68507",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "有年未至七七而经水先断者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为血枯经闭也", "rebuttal": "谁知是心肝脾之气郁乎" },
+            { "kind": "misdiagnosis", "claim": "医见其经水不行，妄谓之血枯耳", "rebuttal": "其实非血之枯，乃经之闭也" },
+            { "kind": "commonPractice", "claim": "世人以经为血", "rebuttal": "此千古之误，牢不可破" },
+            { "kind": "mistreatment", "claim": "设或用攻坚之剂，辛热之品", "rebuttal": "则非徒无益，而又害之矣" }
+          ],
+          "pathogenesis": "倘心肝脾有一经之郁，则其气不能入于肾中，肾之气即郁而不宣矣",
+          "organs": ["心", "肝", "脾", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "治法必须散心肝脾之郁，而大补其肾水，仍大补其心肝脾之气",
+          "formulaIds": ["funvke-formula-funvke-0028-1"],
+          "keySentence": "此方心肝脾肾四经同治药也。妙在补以通之，散以开之"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0029",
+      "contentHash": "72485bb505587439",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有瘦怯身躯，久不孕育，一交男子，即卧病终朝",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为气虚之故", "rebuttal": "谁知是血虚之故乎" },
+            { "kind": "misdiagnosis", "claim": "血藏于肝，精涵于肾，交感乃泄肾之精，与血虚何与", "rebuttal": "殊不知肝气不开，则精不能泄，肾精既泄，则肝气亦不能舒" }
+          ],
+          "pathogenesis": "此阴虚火旺不能受孕",
+          "organs": ["肝", "肾"],
+          "relations": [{ "from": "肾", "to": "肝", "kind": "生" }],
+          "treatmentPrinciple": "治法必须大补肾水而平肝木",
+          "formulaIds": ["funvke-formula-funvke-0029-1"],
+          "keySentence": "此方之用，不特补血而纯于填精"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0030",
+      "contentHash": "326004a1416ec356",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有饮食少思，胸膈满闷，终日倦怠思睡",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为脾胃之气虚也", "rebuttal": "谁知是肾气不足乎" },
+            { "kind": "mistreatment", "claim": "人每误为脾胃虚寒，不能尅食。用扶脾消导之药", "rebuttal": "肾气愈虚，何能受孕" }
+          ],
+          "pathogenesis": "然则脾胃之气虽充于脾胃之中，实生于两肾之内",
+          "organs": ["脾", "胃", "肾"],
+          "relations": [
+            { "from": "肾", "to": "脾", "kind": "生" },
+            { "from": "肾", "to": "胃", "kind": "生" }
+          ],
+          "treatmentPrinciple": "治法必以补肾气为主",
+          "formulaIds": ["funvke-formula-funvke-0030-1"],
+          "keySentence": "孰知脾胃健而生精自易"
+        }
+      ]
+    }
+  ]
+}

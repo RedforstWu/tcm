@@ -23,6 +23,20 @@ describe('splitChenfuHerbLine', () => {
     expect(tokens.length).toBe(4)
     expect(tokens.every((t) => t.includes('一钱'))).toBe(true)
   })
+
+  it('drops leading formula label and colon', () => {
+    const tokens = splitChenfuHerbLine('补中益气汤∶人参（三钱）当归（二钱）', lexicon)
+    expect(tokens).toEqual(['人参（三钱）', '当归（二钱）'])
+    expect(splitChenfuHerbLine('∶人参（三两）', lexicon)).toEqual(['人参（三两）'])
+  })
+
+  it('stops at inline preparation text', () => {
+    const tokens = splitChenfuHerbLine(
+      '茯苓（五钱）桂枝（三分）水煎服。一剂而头痛除',
+      lexicon,
+    )
+    expect(tokens).toEqual(['茯苓（五钱）', '桂枝（三分）'])
+  })
 })
 
 describe('parseChenfuHerbLine', () => {
@@ -30,6 +44,11 @@ describe('parseChenfuHerbLine', () => {
     const herbs = parseChenfuHerbLine('白术（一两，土炒）', lexicon)
     expect(herbs[0]?.name).toBe('白术')
     expect(herbs[0]?.doseQian).toBe(10)
+  })
+
+  it('excludes punctuation-only and solvent tokens', () => {
+    const herbs = parseChenfuHerbLine('∶ 人参（三两） 水（半）', lexicon)
+    expect(herbs.map((herb) => herb.name)).toEqual(['人参'])
   })
 })
 
@@ -65,5 +84,12 @@ describe('extractChenfuFormulaBlocks', () => {
     })
     expect(blocks.length).toBeGreaterThanOrEqual(1)
     expect(blocks[0]!.derivedFrom.some((d) => d.name.includes('白虎'))).toBe(true)
+  })
+
+  it('keeps colon and water out of same-line herbs', () => {
+    const body = `方用救汗回生汤∶人参（三两）当归（二两）柴胡（一钱）水煎服。一剂而汗收`
+    const blocks = extractChenfuFormulaBlocks(body, { lexicon })
+    expect(blocks[0]!.name).toBe('救汗回生汤')
+    expect(blocks[0]!.herbs.map((herb) => herb.name)).toEqual(['人参', '当归', '柴胡'])
   })
 })

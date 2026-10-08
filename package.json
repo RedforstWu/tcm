@@ -13,6 +13,9 @@
     "data:fetch": "tsx scripts/fetch-sources.ts",
     "data:parse": "tsx scripts/parse-all.ts",
     "data:build": "tsx scripts/build-dataset.ts",
+    "data:reasoning": "tsx scripts/build-reasoning.ts",
+    "data:reasoning:chenfu:prepare": "tsx scripts/reasoning-chenfu-prepare.ts",
+    "data:reasoning:chenfu:validate": "tsx scripts/reasoning-chenfu-validate.ts",
     "data:enrich:prepare": "tsx scripts/enrich-prepare.ts",
     "data:enrich:validate": "tsx scripts/enrich-validate.ts",
     "data:all": "tsx scripts/data-all.ts"

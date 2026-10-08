@@ -1,0 +1,2454 @@
+{
+  "trees": [
+    {
+      "id": "cold-overview",
+      "title": "感冒日用选方",
+      "sourcePage": 3,
+      "rootNodeId": "stage",
+      "nodes": {
+        "stage": {
+          "question": "目前处于感冒的哪个阶段？",
+          "options": [
+            {
+              "label": "觉得有点开始感冒 / 周遭的人开始感冒",
+              "result": {
+                "formulaName": "桂枝汤",
+                "note": "预防与初感",
+                "formulaIds": [
+                  "songben-formula-桂枝汤"
+                ]
+              }
+            },
+            {
+              "label": "感冒两三天，清鼻水、清痰",
+              "result": {
+                "formulaName": "小青龙汤",
+                "formulaIds": [
+                  "songben-formula-小青龙汤"
+                ]
+              }
+            },
+            {
+              "label": "无汗、身痛的感冒",
+              "result": {
+                "formulaName": "葛根汤",
+                "formulaIds": [
+                  "songben-formula-葛根汤"
+                ]
+              }
+            },
+            {
+              "label": "还有一点汗的感冒",
+              "result": {
+                "formulaName": "桂枝汤",
+                "formulaIds": [
+                  "songben-formula-桂枝汤"
+                ]
+              }
+            },
+            {
+              "label": "感冒中间期 / 往来寒热 / 月经期感冒",
+              "result": {
+                "formulaName": "小柴胡汤",
+                "formulaIds": [
+                  "songben-formula-小柴胡汤"
+                ]
+              }
+            },
+            {
+              "label": "肠胃型感冒",
+              "nextNodeId": "gi-cold"
+            },
+            {
+              "label": "感冒愈后",
+              "nextNodeId": "aftermath"
+            }
+          ]
+        },
+        "gi-cold": {
+          "question": "肠胃型感冒以何症为主？",
+          "options": [
+            {
+              "label": "拉肚子，水泻（腹痛不甚）",
+              "result": {
+                "formulaName": "五苓散+平胃散",
+                "note": "合为胃苓汤意",
+                "formulaIds": [
+                  "songben-formula-五苓散",
+                  null
+                ]
+              }
+            },
+            {
+              "label": "拉肚子（热、臭、腹痛）",
+              "result": {
+                "formulaName": "葛根汤",
+                "addHerbs": [
+                  "黄连",
+                  "黄芩"
+                ],
+                "note": "葛根汤加黄连黄芩",
+                "formulaIds": [
+                  "songben-formula-葛根汤"
+                ]
+              }
+            }
+          ]
+        },
+        "aftermath": {
+          "question": "感冒愈后残留何症？",
+          "options": [
+            {
+              "label": "咳嗽仍有",
+              "result": {
+                "formulaName": "小青龙汤",
+                "formulaIds": [
+                  "songben-formula-小青龙汤"
+                ]
+              }
+            },
+            {
+              "label": "肚子不舒服",
+              "result": {
+                "formulaName": "桂枝汤+平胃散",
+                "formulaIds": [
+                  "songben-formula-桂枝汤",
+                  null
+                ]
+              }
+            },
+            {
+              "label": "清鼻水仍有",
+              "result": {
+                "formulaName": "小青龙汤",
+                "formulaIds": [
+                  "songben-formula-小青龙汤"
+                ]
+              }
+            },
+            {
+              "label": "莫名还会发烧",
+              "result": {
+                "formulaName": "小柴胡汤",
+                "formulaIds": [
+                  "songben-formula-小柴胡汤"
+                ]
+              }
+            },
+            {
+              "label": "身体虚弱",
+              "result": {
+                "formulaName": "小建中汤",
+                "note": "亦可酌用花旗参",
+                "formulaIds": [
+                  "songben-formula-小建中汤"
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "respiratory",
+      "title": "呼吸系统及感冒鉴别",
+      "sourcePage": 5,
+      "rootNodeId": "main",
+      "nodes": {
+        "main": {
+          "question": "主症属于哪一类？",
+          "options": [
+            {
+              "label": "外感（表证）",
+              "nextNodeId": "exterior"
+            },
+            {
+              "label": "外感中期往来寒热",
+              "nextNodeId": "shaoyang"
+            },
+            {
+              "label": "咳嗽为主",
+              "nextNodeId": "cough"
+            },
+            {
+              "label": "哮喘",
+              "nextNodeId": "asthma"
+            },
+            {
+              "label": "咽痛",
+              "nextNodeId": "throat"
+            },
+            {
+              "label": "鼻渊",
+              "nextNodeId": "sinus"
+            }
+          ]
+        },
+        "exterior": {
+          "question": "有汗还是无汗？寒热如何？",
+          "options": [
+            {
+              "label": "有汗外感",
+              "result": {
+                "formulaName": "桂枝汤",
+                "formulaIds": [
+                  "songben-formula-桂枝汤"
+                ]
+              }
+            },
+            {
+              "label": "无汗外感",
+              "result": {
+                "formulaName": "麻黄汤",
+                "formulaIds": [
+                  "songben-formula-麻黄汤"
+                ]
+              }
+            },
+            {
+              "label": "肩颈痛、项强",
+              "result": {
+                "formulaName": "葛根汤",
+                "formulaIds": [
+                  "songben-formula-葛根汤"
+                ]
+              }
+            },
+            {
+              "label": "流鼻涕、喷嚏",
+              "result": {
+                "formulaName": "小青龙汤",
+                "formulaIds": [
+                  "songben-formula-小青龙汤"
+                ]
+              }
+            },
+            {
+              "label": "周身发冷严重 / 脉弦细但欲寐",
+              "result": {
+                "formulaName": "麻黄附子细辛汤",
+                "formulaIds": [
+                  "guilin-formula-麻黄附子细辛汤"
+                ]
+              }
+            }
+          ]
+        },
+        "shaoyang": {
+          "question": "体质强弱如何？",
+          "options": [
+            {
+              "label": "体质结实",
+              "result": {
+                "formulaName": "大柴胡汤",
+                "formulaIds": [
+                  "songben-formula-大柴胡汤"
+                ]
+              }
+            },
+            {
+              "label": "体质一般",
+              "result": {
+                "formulaName": "小柴胡汤",
+                "formulaIds": [
+                  "songben-formula-小柴胡汤"
+                ]
+              }
+            },
+            {
+              "label": "体质弱（可伴头痛、肩凝）",
+              "result": {
+                "formulaName": "柴胡桂枝汤",
+                "formulaIds": [
+                  "songben-formula-柴胡桂枝汤"
+                ]
+              }
+            },
+            {
+              "label": "更弱且本质甚寒（外热相）",
+              "result": {
+                "formulaName": "柴胡桂枝干姜汤",
+                "formulaIds": [
+                  "songben-formula-柴胡桂枝干姜汤"
+                ]
+              }
+            },
+            {
+              "label": "咽喉肿痛",
+              "result": {
+                "formulaName": "小柴胡汤",
+                "addHerbs": [
+                  "桔梗",
+                  "石膏"
+                ],
+                "formulaIds": [
+                  "songben-formula-小柴胡汤"
+                ]
+              }
+            }
+          ]
+        },
+        "cough": {
+          "question": "咳嗽特点？",
+          "options": [
+            {
+              "label": "咳嗽为主、胸闷或喉中不舒",
+              "result": {
+                "formulaName": "半夏厚朴汤",
+                "formulaIds": [
+                  "jingui-formula-半夏厚朴汤"
+                ]
+              }
+            },
+            {
+              "label": "稀痰多（慢性支气管炎）",
+              "result": {
+                "formulaName": "苓甘姜味辛夏仁汤",
+                "formulaIds": [
+                  null
+                ]
+              }
+            },
+            {
+              "label": "无痰且干咳严重",
+              "result": {
+                "formulaName": "麦门冬汤",
+                "formulaIds": [
+                  "jingui-formula-麦门冬汤"
+                ]
+              }
+            },
+            {
+              "label": "少痰或黏稠痰、热相",
+              "result": {
+                "formulaName": "麻杏甘石汤",
+                "formulaIds": [
+                  "songben-formula-麻黄杏仁甘草石膏汤"
+                ]
+              }
+            },
+            {
+              "label": "夜咳为主",
+              "result": {
+                "formulaName": "小柴胡汤",
+                "formulaIds": [
+                  "songben-formula-小柴胡汤"
+                ]
+              }
+            }
+          ]
+        },
+        "asthma": {
+          "question": "哮喘发作还是长期调补？",
+          "options": [
+            {
+              "label": "发作：喷嚏流清涕",
+              "result": {
+                "formulaName": "小青龙汤",
+                "formulaIds": [
+                  "songben-formula-小青龙汤"
+                ]
+              }
+            },
+            {
+              "label": "发作：热相强烈",
+              "result": {
+                "formulaName": "麻杏甘石汤",
+                "formulaIds": [
+                  "songben-formula-麻黄杏仁甘草石膏汤"
+                ]
+              }
+            },
+            {
+              "label": "发作：实证",
+              "result": {
+                "formulaName": "大柴胡汤+半夏厚朴汤",
+                "formulaIds": [
+                  "songben-formula-大柴胡汤",
+                  "jingui-formula-半夏厚朴汤"
+                ]
+              }
+            },
+            {
+              "label": "发作：虚证",
+              "result": {
+                "formulaName": "小柴胡汤+半夏厚朴汤",
+                "formulaIds": [
+                  "songben-formula-小柴胡汤",
+                  "jingui-formula-半夏厚朴汤"
+                ]
+              }
+            },
+            {
+              "label": "长期补虚偏湿",
+              "result": {
+                "formulaName": "四君子汤+半夏厚朴汤",
+                "formulaIds": [
+                  "bianzheng-formula-bianzheng-0104-2",
+                  "jingui-formula-半夏厚朴汤"
+                ]
+              }
+            },
+            {
+              "label": "长期补虚偏燥",
+              "result": {
+                "formulaName": "小建中汤",
+                "formulaIds": [
+                  "songben-formula-小建中汤"
+                ]
+              }
+            }
+          ]
+        },
+        "throat": {
+          "question": "咽痛轻重？",
+          "options": [
+            {
+              "label": "有炎症，较重",
+              "result": {
+                "formulaName": "桔梗汤",
+                "formulaIds": [
+                  "songben-formula-桔梗汤"
+                ]
+              }
+            },
+            {
+              "label": "无炎症，较轻",
+              "result": {
+                "formulaName": "甘草汤",
+                "formulaIds": [
+                  "songben-formula-甘草汤"
+                ]
+              }
+            }
+          ]
+        },
+        "sinus": {
+          "question": "鼻渊兼夹？",
+          "options": [
+            {
+              "label": "一般",
+              "result": {
+                "formulaName": "葛根汤",
+                "addHerbs": [
+                  "川芎",
+                  "辛夷"
+                ],
+                "formulaIds": [
+                  "songben-formula-葛根汤"
+                ]
+              }
+            },
+            {
+              "label": "贫血衰弱",
+              "result": {
+                "formulaName": "补中益气汤",
+                "formulaIds": [
+                  "bianzheng-formula-bianzheng-0157-2"
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "fever-cough-tree",
+      "title": "发热·痰咳·咽痛决策树",
+      "sourcePage": 7,
+      "rootNodeId": "has-fever",
+      "nodes": {
+        "has-fever": {
+          "question": "是否发热？",
+          "options": [
+            {
+              "label": "有发热",
+              "nextNodeId": "fever-sputum"
+            },
+            {
+              "label": "无发热",
+              "nextNodeId": "no-fever"
+            }
+          ]
+        },
+        "fever-sputum": {
+          "question": "痰多还是痰不多？",
+          "options": [
+            {
+              "label": "多痰",
+              "nextNodeId": "much-sputum"
+            },
+            {
+              "label": "痰不多",
+              "nextNodeId": "little-sputum"
+            }
+          ]
+        },
+        "much-sputum": {
+          "question": "痰质与兼症？",
+          "options": [
+            {
+              "label": "清鼻涕、痰饮严重",
+              "result": {
+                "formulaName": "小青龙汤",
+                "formulaIds": [
+                  "songben-formula-小青龙汤"
+                ]
+              }
+            },
+            {
+              "label": "发热恶寒、不汗出而烦躁",
+              "result": {
+                "formulaName": "大青龙汤",
+                "formulaIds": [
+                  "songben-formula-大青龙汤"
+                ]
+              }
+            },
+            {
+              "label": "稀痰",
+              "nextNodeId": "thin-sputum"
+            },
+            {
+              "label": "非稀痰",
+              "nextNodeId": "thick-sputum"
+            }
+          ]
+        },
+        "thin-sputum": {
+          "question": "有无咽喉痛？",
+          "options": [
+            {
+              "label": "咽喉痛",
+              "result": {
+                "formulaName": "葛根汤",
+                "formulaIds": [
+                  "songben-formula-葛根汤"
+                ]
+              }
+            },
+            {
+              "label": "无咽喉痛·项背强痛无汗",
+              "result": {
+                "formulaName": "葛根汤",
+                "formulaIds": [
+                  "songben-formula-葛根汤"
+                ]
+              }
+            },
+            {
+              "label": "柴胡症+桂枝汤症",
+              "result": {
+                "formulaName": "柴胡桂枝汤",
+                "formulaIds": [
+                  "songben-formula-柴胡桂枝汤"
+                ]
+              }
+            }
+          ]
+        },
+        "thick-sputum": {
+          "question": "热痰表现？",
+          "options": [
+            {
+              "label": "黄鼻涕、发热喘鸣",
+              "result": {
+                "formulaName": "麻杏甘石汤",
+                "formulaIds": [
+                  "songben-formula-麻黄杏仁甘草石膏汤"
+                ]
+              }
+            },
+            {
+              "label": "呼吸急促、痰黄稠难喀",
+              "result": {
+                "formulaName": "小陷胸汤",
+                "formulaIds": [
+                  "songben-formula-小陷胸汤"
+                ]
+              }
+            },
+            {
+              "label": "咽干口燥而喘",
+              "result": {
+                "formulaName": "麦门冬汤",
+                "formulaIds": [
+                  "jingui-formula-麦门冬汤"
+                ]
+              }
+            }
+          ]
+        },
+        "little-sputum": {
+          "question": "有无咽喉痛 / 气上冲？",
+          "options": [
+            {
+              "label": "咽喉痛",
+              "result": {
+                "formulaName": "小柴胡汤",
+                "formulaIds": [
+                  "songben-formula-小柴胡汤"
+                ]
+              }
+            },
+            {
+              "label": "气上冲",
+              "result": {
+                "formulaName": "茯苓桂枝五味甘草汤",
+                "formulaIds": [
+                  null
+                ]
+              }
+            },
+            {
+              "label": "无气上冲·见柴胡七症",
+              "result": {
+                "formulaName": "小柴胡汤",
+                "formulaIds": [
+                  "songben-formula-小柴胡汤"
+                ]
+              }
+            },
+            {
+              "label": "恶风有汗",
+              "result": {
+                "formulaName": "桂枝汤",
+                "formulaIds": [
+                  "songben-formula-桂枝汤"
+                ]
+              }
+            }
+          ]
+        },
+        "no-fever": {
+          "question": "无发热时的主症？",
+          "options": [
+            {
+              "label": "咽喉异物感",
+              "result": {
+                "formulaName": "半夏厚朴汤",
+                "formulaIds": [
+                  "jingui-formula-半夏厚朴汤"
+                ]
+              }
+            },
+            {
+              "label": "久咳·痰多泡沫口不渴",
+              "result": {
+                "formulaName": "射干麻黄汤",
+                "formulaIds": [
+                  "jingui-formula-射干麻黄汤"
+                ]
+              }
+            },
+            {
+              "label": "四肢厥冷、下利清谷",
+              "result": {
+                "formulaName": "四逆汤",
+                "formulaIds": [
+                  "songben-formula-四逆汤"
+                ]
+              }
+            },
+            {
+              "label": "眩晕·肢重浮肿",
+              "result": {
+                "formulaName": "真武汤",
+                "formulaIds": [
+                  "songben-formula-真武汤"
+                ]
+              }
+            },
+            {
+              "label": "频尿·阳虚",
+              "result": {
+                "formulaName": "八味地黄丸",
+                "formulaIds": [
+                  "jingui-formula-肾气丸"
+                ]
+              }
+            },
+            {
+              "label": "溢饮迁延、胸胁满微结",
+              "result": {
+                "formulaName": "柴胡桂枝干姜汤",
+                "formulaIds": [
+                  "songben-formula-柴胡桂枝干姜汤"
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "guizhi-family",
+      "title": "桂枝汤类方鉴别",
+      "sourcePage": 16,
+      "rootNodeId": "root",
+      "nodes": {
+        "root": {
+          "question": "桂枝汤证基础上，突出何症？",
+          "options": [
+            {
+              "label": "发热 + 项强",
+              "nextNodeId": "neck"
+            },
+            {
+              "label": "发热 + 腹痛 / 体质虚弱",
+              "nextNodeId": "weak-abd"
+            },
+            {
+              "label": "往来寒热",
+              "result": {
+                "formulaName": "柴胡桂枝汤",
+                "formulaIds": [
+                  "songben-formula-柴胡桂枝汤"
+                ]
+              }
+            },
+            {
+              "label": "恶风有汗（本证）",
+              "result": {
+                "formulaName": "桂枝汤",
+                "formulaIds": [
+                  "songben-formula-桂枝汤"
+                ]
+              }
+            },
+            {
+              "label": "痉病、角弓反张倾向",
+              "result": {
+                "formulaName": "栝蒌桂枝汤",
+                "formulaIds": [
+                  "jingui-formula-栝蒌桂枝汤"
+                ]
+              }
+            },
+            {
+              "label": "身冷畏寒 / 四肢厥",
+              "nextNodeId": "cold-limbs"
+            },
+            {
+              "label": "失眠",
+              "result": {
+                "formulaName": "桂枝加龙骨牡蛎汤",
+                "formulaIds": [
+                  "jingui-formula-桂枝加龙骨牡蛎汤"
+                ]
+              }
+            },
+            {
+              "label": "腹胀或便秘",
+              "nextNodeId": "abdomen"
+            },
+            {
+              "label": "鼻涕鼻渊",
+              "result": {
+                "formulaName": "葛根汤",
+                "addHerbs": [
+                  "川芎",
+                  "辛夷"
+                ],
+                "formulaIds": [
+                  "songben-formula-葛根汤"
+                ]
+              }
+            },
+            {
+              "label": "皮肤水气而肿、黄汗",
+              "result": {
+                "formulaName": "桂枝加黄耆汤",
+                "formulaIds": [
+                  "jingui-formula-桂枝加黄耆汤"
+                ]
+              }
+            }
+          ]
+        },
+        "neck": {
+          "question": "项强伴无汗还是仍有汗？",
+          "options": [
+            {
+              "label": "无汗、体力尚可",
+              "result": {
+                "formulaName": "葛根汤",
+                "formulaIds": [
+                  "songben-formula-葛根汤"
+                ]
+              }
+            },
+            {
+              "label": "仍有汗出",
+              "result": {
+                "formulaName": "桂枝加葛根汤",
+                "formulaIds": [
+                  "songben-formula-桂枝加葛根汤"
+                ]
+              }
+            }
+          ]
+        },
+        "weak-abd": {
+          "question": "腹痛与体质？",
+          "options": [
+            {
+              "label": "腹痛、食欲不振、体质虚弱",
+              "result": {
+                "formulaName": "小建中汤",
+                "formulaIds": [
+                  "songben-formula-小建中汤"
+                ]
+              }
+            },
+            {
+              "label": "全身痛证不明显、体力差",
+              "result": {
+                "formulaName": "柴胡桂枝汤",
+                "formulaIds": [
+                  "songben-formula-柴胡桂枝汤"
+                ]
+              }
+            }
+          ]
+        },
+        "cold-limbs": {
+          "question": "局部循环与兼症？",
+          "options": [
+            {
+              "label": "手足厥寒、脉细欲绝",
+              "result": {
+                "formulaName": "当归四逆汤",
+                "formulaIds": [
+                  "songben-formula-当归四逆汤"
+                ]
+              }
+            },
+            {
+              "label": "兼久寒、呕吐涎沫",
+              "result": {
+                "formulaName": "当归四逆加吴茱萸生姜汤",
+                "formulaIds": [
+                  "songben-formula-当归四逆加吴茱萸生姜汤"
+                ]
+              }
+            },
+            {
+              "label": "心烦、小便难",
+              "result": {
+                "formulaName": "桂枝加附子汤",
+                "formulaIds": [
+                  "songben-formula-桂枝加附子汤"
+                ]
+              }
+            },
+            {
+              "label": "身痛烦疼偏寒",
+              "result": {
+                "formulaName": "桂枝附子汤",
+                "formulaIds": [
+                  "songben-formula-桂枝附子汤"
+                ]
+              }
+            }
+          ]
+        },
+        "abdomen": {
+          "question": "腹证特点？",
+          "options": [
+            {
+              "label": "腹满时痛",
+              "result": {
+                "formulaName": "桂枝加芍药汤",
+                "formulaIds": [
+                  "songben-formula-桂枝加芍药汤"
+                ]
+              }
+            },
+            {
+              "label": "大实痛 / 桂枝证且便秘",
+              "result": {
+                "formulaName": "桂枝加大黄汤",
+                "formulaIds": [
+                  "songben-formula-桂枝加大黄汤"
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "daily-symptom",
+      "title": "十二经方主症速查",
+      "sourcePage": 3,
+      "rootNodeId": "symptom",
+      "nodes": {
+        "symptom": {
+          "question": "当前最困扰的症状是？",
+          "options": [
+            {
+              "label": "晕眩、晕车、腹泻（水饮）",
+              "result": {
+                "formulaName": "苓桂术甘汤",
+                "formulaIds": [
+                  "jingui-formula-苓桂术甘汤"
+                ]
+              }
+            },
+            {
+              "label": "腹痛 / 经痛 / 小腿抽筋",
+              "result": {
+                "formulaName": "芍药甘草汤",
+                "formulaIds": [
+                  "songben-formula-芍药甘草汤"
+                ]
+              }
+            },
+            {
+              "label": "少痰或黏稠痰之咳",
+              "result": {
+                "formulaName": "麻杏甘石汤",
+                "formulaIds": [
+                  "songben-formula-麻黄杏仁甘草石膏汤"
+                ]
+              }
+            },
+            {
+              "label": "青白痰涕、多痰咳、寒喘",
+              "result": {
+                "formulaName": "小青龙汤",
+                "formulaIds": [
+                  "songben-formula-小青龙汤"
+                ]
+              }
+            },
+            {
+              "label": "干咳",
+              "result": {
+                "formulaName": "小青龙汤",
+                "addHerbs": [
+                  "石膏"
+                ],
+                "note": "小青龙加石膏汤",
+                "formulaIds": [
+                  "songben-formula-小青龙汤"
+                ]
+              }
+            },
+            {
+              "label": "咳且胸闷或喉中不舒",
+              "result": {
+                "formulaName": "半夏厚朴汤",
+                "formulaIds": [
+                  "jingui-formula-半夏厚朴汤"
+                ]
+              }
+            },
+            {
+              "label": "阳虚、四肢厥冷",
+              "result": {
+                "formulaName": "四逆汤",
+                "formulaIds": [
+                  "songben-formula-四逆汤"
+                ]
+              }
+            },
+            {
+              "label": "口苦咽干目眩、胸胁闷、欲呕",
+              "result": {
+                "formulaName": "小柴胡汤",
+                "formulaIds": [
+                  "songben-formula-小柴胡汤"
+                ]
+              }
+            },
+            {
+              "label": "呕吐水逆、小便不利",
+              "result": {
+                "formulaName": "五苓散",
+                "formulaIds": [
+                  "songben-formula-五苓散"
+                ]
+              }
+            },
+            {
+              "label": "肌肉酸痛紧绷、胀气消化不良",
+              "result": {
+                "formulaName": "平胃散",
+                "formulaIds": [
+                  null
+                ]
+              }
+            },
+            {
+              "label": "眼压过高 / 下焦虚寒频尿",
+              "result": {
+                "formulaName": "八味地黄丸",
+                "formulaIds": [
+                  "jingui-formula-肾气丸"
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "formulas": [
+    {
+      "formulaName": "桂枝汤",
+      "function": "解肌发表，调和营卫",
+      "sourcePage": 12,
+      "herbs": [
+        {
+          "name": "桂枝",
+          "weight": 3,
+          "natures": [
+            "热",
+            "补",
+            "散",
+            "燥"
+          ],
+          "action": "发汗解肌，温经通脉，通阳化气"
+        },
+        {
+          "name": "芍药",
+          "weight": 3,
+          "natures": [
+            "寒",
+            "补",
+            "收",
+            "润"
+          ],
+          "action": "养血调经，平肝止痛，敛阴止汗"
+        },
+        {
+          "name": "炙甘草",
+          "weight": 2,
+          "natures": [
+            "补",
+            "收",
+            "润"
+          ],
+          "action": "补脾和胃，益气复脉"
+        },
+        {
+          "name": "生姜",
+          "weight": 3,
+          "natures": [
+            "热",
+            "补",
+            "升",
+            "散",
+            "燥"
+          ],
+          "action": "发汗解表、温中止呕，温肺止咳"
+        },
+        {
+          "name": "大枣",
+          "weight": 6,
+          "natures": [
+            "热",
+            "补",
+            "降",
+            "收",
+            "润"
+          ],
+          "action": "补中益气，养血安神，缓和药性"
+        }
+      ],
+      "indications": [
+        {
+          "symptom": "发热",
+          "herbNames": [
+            "桂枝",
+            "生姜"
+          ],
+          "rationale": "解肌发表以退热"
+        },
+        {
+          "symptom": "汗出恶风",
+          "herbNames": [
+            "桂枝",
+            "芍药"
+          ],
+          "rationale": "调和营卫"
+        },
+        {
+          "symptom": "头痛",
+          "herbNames": [
+            "桂枝"
+          ],
+          "rationale": "温经通脉"
+        },
+        {
+          "symptom": "鼻鸣干呕",
+          "herbNames": [
+            "生姜",
+            "大枣"
+          ],
+          "rationale": "温中止呕，调和脾胃"
+        }
+      ],
+      "clauseRefs": [
+        {
+          "book": "songben",
+          "number": 12,
+          "excerpt": "太阳中风，阳浮而阴弱……啬啬恶寒，淅淅恶风，翕翕发热，鼻鸣干呕者，桂枝汤主之。"
+        },
+        {
+          "book": "songben",
+          "number": 13,
+          "excerpt": "太阳病，头痛发热，汗出恶风，桂枝汤主之。"
+        },
+        {
+          "book": "songben",
+          "number": 54,
+          "excerpt": "病人脏无他病，时发热自汗出而不愈者，此卫气不和也，先其时发汗则愈，宜桂枝汤。"
+        }
+      ],
+      "reviewStatus": "ai-draft",
+      "formulaId": "songben-formula-桂枝汤",
+      "natureIndex": {
+        "热": 0.7058823529411765,
+        "寒": 0.17647058823529413,
+        "补": 1,
+        "泻": 0,
+        "升": 0.17647058823529413,
+        "降": 0.35294117647058826,
+        "收": 0.6470588235294118,
+        "散": 0.35294117647058826,
+        "润": 0.6470588235294118,
+        "燥": 0.35294117647058826
+      },
+      "clauseIds": [
+        "songben-12",
+        "songben-13",
+        "songben-54"
+      ]
+    },
+    {
+      "formulaName": "葛根汤",
+      "function": "祛风解肌，和血通脉",
+      "sourcePage": 25,
+      "herbs": [
+        {
+          "name": "葛根",
+          "weight": 4,
+          "natures": [
+            "补",
+            "升",
+            "散"
+          ],
+          "action": "解肌退热，透发麻疹，生津止渴，升阳举陷"
+        },
+        {
+          "name": "麻黄",
+          "weight": 3,
+          "natures": [
+            "热",
+            "泻",
+            "散",
+            "燥"
+          ],
+          "action": "发汗解表，宣肺平喘，利水消肿"
+        },
+        {
+          "name": "大枣",
+          "weight": 6,
+          "natures": [
+            "热",
+            "补",
+            "降",
+            "收",
+            "润"
+          ],
+          "action": "补中益气，养血安神，缓和药性"
+        },
+        {
+          "name": "桂枝",
+          "weight": 2,
+          "natures": [
+            "热",
+            "补",
+            "散",
+            "燥"
+          ],
+          "action": "发汗解肌，温经通脉，通阳化气"
+        },
+        {
+          "name": "芍药",
+          "weight": 2,
+          "natures": [
+            "寒",
+            "补",
+            "收",
+            "润"
+          ],
+          "action": "养血调经，平肝止痛，敛阴止汗"
+        },
+        {
+          "name": "炙甘草",
+          "weight": 2,
+          "natures": [
+            "补",
+            "收",
+            "润"
+          ],
+          "action": "补脾和胃，益气复脉"
+        },
+        {
+          "name": "生姜",
+          "weight": 3,
+          "natures": [
+            "热",
+            "补",
+            "升",
+            "散",
+            "燥"
+          ],
+          "action": "发汗解表、温中止呕，温肺止咳"
+        }
+      ],
+      "indications": [
+        {
+          "symptom": "项背强几几",
+          "herbNames": [
+            "葛根"
+          ],
+          "rationale": "升津舒筋"
+        },
+        {
+          "symptom": "无汗恶风",
+          "herbNames": [
+            "麻黄",
+            "桂枝"
+          ],
+          "rationale": "发汗解表"
+        },
+        {
+          "symptom": "下利",
+          "herbNames": [
+            "葛根"
+          ],
+          "rationale": "升阳止利"
+        }
+      ],
+      "clauseRefs": [
+        {
+          "book": "songben",
+          "number": 31,
+          "excerpt": "太阳病，项背强几几，无汗，恶风，葛根汤主之。"
+        },
+        {
+          "book": "songben",
+          "number": 32,
+          "excerpt": "太阳与阳明合病者，必自下利，葛根汤主之。"
+        }
+      ],
+      "reviewStatus": "ai-draft",
+      "formulaId": "songben-formula-葛根汤",
+      "natureIndex": {
+        "热": 0.6363636363636364,
+        "寒": 0.09090909090909091,
+        "补": 0.8636363636363636,
+        "泻": 0.13636363636363635,
+        "升": 0.3181818181818182,
+        "降": 0.2727272727272727,
+        "收": 0.45454545454545453,
+        "散": 0.5454545454545454,
+        "润": 0.45454545454545453,
+        "燥": 0.36363636363636365
+      },
+      "clauseIds": [
+        "songben-31",
+        "songben-32"
+      ]
+    },
+    {
+      "formulaName": "小青龙汤",
+      "function": "解表散寒，温肺化饮",
+      "sourcePage": 30,
+      "herbs": [
+        {
+          "name": "麻黄",
+          "weight": 3,
+          "natures": [
+            "热",
+            "泻",
+            "散",
+            "燥"
+          ],
+          "action": "发汗解表，宣肺平喘，利水消肿"
+        },
+        {
+          "name": "芍药",
+          "weight": 3,
+          "natures": [
+            "寒",
+            "补",
+            "收",
+            "润"
+          ],
+          "action": "养血调经，平肝止痛，敛阴止汗"
+        },
+        {
+          "name": "细辛",
+          "weight": 3,
+          "natures": [
+            "热",
+            "泻",
+            "降",
+            "散",
+            "燥"
+          ],
+          "action": "祛风解表，散寒止痛，温肺化饮，通窍"
+        },
+        {
+          "name": "干姜",
+          "weight": 3,
+          "natures": [
+            "热",
+            "补",
+            "升",
+            "散",
+            "燥"
+          ],
+          "action": "温中散寒，回阳通脉，温肺化饮"
+        },
+        {
+          "name": "炙甘草",
+          "weight": 3,
+          "natures": [
+            "补",
+            "收",
+            "润"
+          ],
+          "action": "补脾和胃，益气复脉"
+        },
+        {
+          "name": "桂枝",
+          "weight": 3,
+          "natures": [
+            "热",
+            "补",
+            "散",
+            "燥"
+          ],
+          "action": "发汗解肌，温经通脉，通阳化气"
+        },
+        {
+          "name": "五味子",
+          "weight": 2,
+          "natures": [
+            "热",
+            "补",
+            "降",
+            "收",
+            "润"
+          ],
+          "action": "敛肺滋肾，生津敛汗，涩精止泻，宁心安神"
+        },
+        {
+          "name": "半夏",
+          "weight": 3,
+          "natures": [
+            "热",
+            "补",
+            "降",
+            "散",
+            "燥"
+          ],
+          "action": "燥湿化痰，降逆止呕，消痞散结"
+        }
+      ],
+      "indications": [
+        {
+          "symptom": "发热而咳",
+          "herbNames": [
+            "麻黄",
+            "细辛",
+            "干姜"
+          ],
+          "rationale": "解表散寒，温肺化饮"
+        },
+        {
+          "symptom": "清鼻涕、稀痰",
+          "herbNames": [
+            "细辛",
+            "干姜",
+            "半夏"
+          ],
+          "rationale": "温化寒饮"
+        },
+        {
+          "symptom": "喘",
+          "herbNames": [
+            "麻黄",
+            "五味子"
+          ],
+          "rationale": "宣肺敛肺并进"
+        },
+        {
+          "symptom": "干呕",
+          "herbNames": [
+            "半夏",
+            "干姜"
+          ],
+          "rationale": "降逆止呕"
+        }
+      ],
+      "clauseRefs": [
+        {
+          "book": "songben",
+          "number": 40,
+          "excerpt": "伤寒表不解，心下有水气，干呕，发热而咳……或喘者，小青龙汤主之。"
+        },
+        {
+          "book": "songben",
+          "number": 41,
+          "excerpt": "伤寒，心下有水气，咳而微喘，发热不渴。服汤已渴者，此寒去欲解也。小青龙汤主之。"
+        }
+      ],
+      "reviewStatus": "ai-draft",
+      "formulaId": "songben-formula-小青龙汤",
+      "natureIndex": {
+        "热": 0.7391304347826086,
+        "寒": 0.13043478260869565,
+        "补": 0.7391304347826086,
+        "泻": 0.2608695652173913,
+        "升": 0.13043478260869565,
+        "降": 0.34782608695652173,
+        "收": 0.34782608695652173,
+        "散": 0.6521739130434783,
+        "润": 0.34782608695652173,
+        "燥": 0.6521739130434783
+      },
+      "clauseIds": [
+        "songben-40",
+        "songben-41"
+      ]
+    },
+    {
+      "formulaName": "小柴胡汤",
+      "function": "和解少阳",
+      "sourcePage": 34,
+      "herbs": [
+        {
+          "name": "柴胡",
+          "weight": 3,
+          "natures": [
+            "寒",
+            "泻",
+            "升",
+            "散",
+            "燥"
+          ],
+          "action": "疏散退热，疏肝解郁，升举阳气"
+        },
+        {
+          "name": "黄芩",
+          "weight": 2,
+          "natures": [
+            "寒",
+            "泻",
+            "降",
+            "收",
+            "燥"
+          ],
+          "action": "清热燥湿，泻火解毒，止血，安胎"
+        },
+        {
+          "name": "人参",
+          "weight": 2,
+          "natures": [
+            "热",
+            "补",
+            "升",
+            "收",
+            "润"
+          ],
+          "action": "大补元气，补脾益肺，生津止渴，安神益智"
+        },
+        {
+          "name": "炙甘草",
+          "weight": 2,
+          "natures": [
+            "补",
+            "收",
+            "润"
+          ],
+          "action": "补脾和胃，益气复脉"
+        },
+        {
+          "name": "半夏",
+          "weight": 2,
+          "natures": [
+            "热",
+            "补",
+            "降",
+            "散",
+            "燥"
+          ],
+          "action": "燥湿化痰，降逆止呕，消痞散结"
+        },
+        {
+          "name": "生姜",
+          "weight": 2,
+          "natures": [
+            "热",
+            "补",
+            "升",
+            "散",
+            "燥"
+          ],
+          "action": "发汗解表、温中止呕，温肺止咳"
+        },
+        {
+          "name": "大枣",
+          "weight": 4,
+          "natures": [
+            "热",
+            "补",
+            "降",
+            "收",
+            "润"
+          ],
+          "action": "补中益气，养血安神，缓和药性"
+        }
+      ],
+      "indications": [
+        {
+          "symptom": "往来寒热",
+          "herbNames": [
+            "柴胡",
+            "黄芩"
+          ],
+          "rationale": "和解少阳"
+        },
+        {
+          "symptom": "胸胁苦满",
+          "herbNames": [
+            "柴胡"
+          ],
+          "rationale": "疏肝解郁"
+        },
+        {
+          "symptom": "心烦喜呕",
+          "herbNames": [
+            "黄芩",
+            "半夏",
+            "生姜"
+          ],
+          "rationale": "清胆和胃降逆"
+        },
+        {
+          "symptom": "默默不欲饮食",
+          "herbNames": [
+            "人参",
+            "大枣",
+            "炙甘草"
+          ],
+          "rationale": "扶正健脾"
+        }
+      ],
+      "clauseRefs": [
+        {
+          "book": "songben",
+          "number": 96,
+          "excerpt": "伤寒五六日中风，往来寒热，胸胁苦满，默默不欲饮食，心烦喜呕……小柴胡汤主之。"
+        },
+        {
+          "book": "songben",
+          "number": 97,
+          "excerpt": "血弱气尽，腠理开，邪气因入，与正气相搏，结于胁下。正邪分争，往来寒热，休作有时，默默不欲饮食。"
+        }
+      ],
+      "reviewStatus": "ai-draft",
+      "formulaId": "songben-formula-小柴胡汤",
+      "natureIndex": {
+        "热": 0.5882352941176471,
+        "寒": 0.29411764705882354,
+        "补": 0.7058823529411765,
+        "泻": 0.29411764705882354,
+        "升": 0.4117647058823529,
+        "降": 0.47058823529411764,
+        "收": 0.5882352941176471,
+        "散": 0.4117647058823529,
+        "润": 0.47058823529411764,
+        "燥": 0.5294117647058824
+      },
+      "clauseIds": [
+        "songben-96",
+        "songben-97"
+      ]
+    },
+    {
+      "formulaName": "五苓散",
+      "function": "利水渗湿，温阳化气",
+      "sourcePage": 42,
+      "herbs": [
+        {
+          "name": "猪苓",
+          "weight": 3,
+          "natures": [
+            "散",
+            "燥"
+          ],
+          "action": "利水渗湿"
+        },
+        {
+          "name": "泽泻",
+          "weight": 5,
+          "natures": [
+            "寒",
+            "泻",
+            "降",
+            "散",
+            "燥"
+          ],
+          "action": "利水渗湿，泻热"
+        },
+        {
+          "name": "白朮",
+          "weight": 3,
+          "natures": [
+            "热",
+            "补",
+            "收",
+            "燥"
+          ],
+          "action": "补气健脾，燥湿利水，固表止汗"
+        },
+        {
+          "name": "茯苓",
+          "weight": 3,
+          "natures": [
+            "泻",
+            "降",
+            "收",
+            "燥"
+          ],
+          "action": "利水渗湿，健脾安神"
+        },
+        {
+          "name": "桂枝",
+          "weight": 2,
+          "natures": [
+            "热",
+            "补",
+            "散",
+            "燥"
+          ],
+          "action": "发汗解肌，温经通脉，通阳化气"
+        }
+      ],
+      "indications": [
+        {
+          "symptom": "小便不利",
+          "herbNames": [
+            "猪苓",
+            "泽泻",
+            "茯苓"
+          ],
+          "rationale": "利水渗湿"
+        },
+        {
+          "symptom": "渴欲饮水、水入则吐",
+          "herbNames": [
+            "桂枝",
+            "白朮"
+          ],
+          "rationale": "温阳化气，健脾制水"
+        },
+        {
+          "symptom": "微热消渴",
+          "herbNames": [
+            "桂枝",
+            "泽泻"
+          ],
+          "rationale": "化气行水"
+        }
+      ],
+      "clauseRefs": [
+        {
+          "book": "songben",
+          "number": 71,
+          "excerpt": "太阳病，发汗后，大汗出，胃中干，烦躁不得眠，欲得饮水者，少少与饮之，令胃气和则愈。若脉浮，小便不利，微热消渴者，五苓散主之。"
+        },
+        {
+          "book": "songben",
+          "number": 74,
+          "excerpt": "中风发热，六七日不解而烦，有表里证，渴欲饮水，水入则吐者，名曰水逆，五苓散主之。"
+        }
+      ],
+      "reviewStatus": "ai-draft",
+      "formulaId": "songben-formula-五苓散",
+      "natureIndex": {
+        "热": 0.3125,
+        "寒": 0.3125,
+        "补": 0.3125,
+        "泻": 0.5,
+        "升": 0,
+        "降": 0.5,
+        "收": 0.375,
+        "散": 0.625,
+        "润": 0,
+        "燥": 1
+      },
+      "clauseIds": [
+        "songben-71",
+        "songben-74"
+      ]
+    },
+    {
+      "formulaName": "苓桂术甘汤",
+      "function": "温阳化饮，健脾利湿",
+      "sourcePage": 48,
+      "herbs": [
+        {
+          "name": "茯苓",
+          "weight": 4,
+          "natures": [
+            "泻",
+            "降",
+            "收",
+            "燥"
+          ],
+          "action": "利水渗湿，健脾安神"
+        },
+        {
+          "name": "桂枝",
+          "weight": 3,
+          "natures": [
+            "热",
+            "补",
+            "散",
+            "燥"
+          ],
+          "action": "发汗解肌，温经通脉，通阳化气"
+        },
+        {
+          "name": "白朮",
+          "weight": 2,
+          "natures": [
+            "热",
+            "补",
+            "收",
+            "燥"
+          ],
+          "action": "补气健脾，燥湿利水"
+        },
+        {
+          "name": "炙甘草",
+          "weight": 2,
+          "natures": [
+            "补",
+            "收",
+            "润"
+          ],
+          "action": "补脾和胃，益气复脉"
+        }
+      ],
+      "indications": [
+        {
+          "symptom": "心下逆满、气上冲胸",
+          "herbNames": [
+            "桂枝",
+            "茯苓"
+          ],
+          "rationale": "温阳降冲，利水"
+        },
+        {
+          "symptom": "起则头眩",
+          "herbNames": [
+            "茯苓",
+            "白朮"
+          ],
+          "rationale": "健脾利湿止眩"
+        },
+        {
+          "symptom": "胸胁支满、目眩",
+          "herbNames": [
+            "茯苓",
+            "桂枝"
+          ],
+          "rationale": "温化痰饮"
+        }
+      ],
+      "clauseRefs": [
+        {
+          "book": "songben",
+          "number": 67,
+          "excerpt": "伤寒若吐、若下后，心下逆满，气上冲胸，起则头眩，脉沉紧，发汗则动经，身为振振摇者，茯苓桂枝白术甘草汤主之。"
+        }
+      ],
+      "reviewStatus": "ai-draft",
+      "formulaId": "jingui-formula-苓桂术甘汤",
+      "natureIndex": {
+        "热": 0.45454545454545453,
+        "寒": 0,
+        "补": 0.6363636363636364,
+        "泻": 0.36363636363636365,
+        "升": 0,
+        "降": 0.36363636363636365,
+        "收": 0.7272727272727273,
+        "散": 0.2727272727272727,
+        "润": 0.18181818181818182,
+        "燥": 0.8181818181818182
+      },
+      "clauseIds": [
+        "songben-67"
+      ]
+    },
+    {
+      "formulaName": "平胃散",
+      "function": "燥湿运脾，行气和胃",
+      "sourcePage": 55,
+      "herbs": [
+        {
+          "name": "苍朮",
+          "weight": 20,
+          "natures": [
+            "热",
+            "泻",
+            "升",
+            "散",
+            "燥"
+          ],
+          "action": "燥湿健脾，祛风湿，发表"
+        },
+        {
+          "name": "厚朴",
+          "weight": 15,
+          "natures": [
+            "热",
+            "泻",
+            "降",
+            "散",
+            "燥"
+          ],
+          "action": "燥湿，行气，消积，平喘"
+        },
+        {
+          "name": "陈皮",
+          "weight": 10,
+          "natures": [
+            "热",
+            "散",
+            "燥"
+          ],
+          "action": "理气健脾，燥湿化痰"
+        },
+        {
+          "name": "炙甘草",
+          "weight": 6,
+          "natures": [
+            "补",
+            "收",
+            "润"
+          ],
+          "action": "补脾和胃，益气复脉"
+        },
+        {
+          "name": "生姜",
+          "weight": 5,
+          "natures": [
+            "热",
+            "补",
+            "升",
+            "散",
+            "燥"
+          ],
+          "action": "发汗解表、温中止呕，温肺止咳"
+        },
+        {
+          "name": "大枣",
+          "weight": 10,
+          "natures": [
+            "热",
+            "补",
+            "降",
+            "收",
+            "润"
+          ],
+          "action": "补中益气，养血安神，缓和药性"
+        }
+      ],
+      "indications": [
+        {
+          "symptom": "不思饮食",
+          "herbNames": [
+            "苍朮",
+            "陈皮"
+          ],
+          "rationale": "燥湿运脾"
+        },
+        {
+          "symptom": "心腹胁肋胀满",
+          "herbNames": [
+            "厚朴",
+            "陈皮"
+          ],
+          "rationale": "行气消胀"
+        },
+        {
+          "symptom": "消化不良、胀气",
+          "herbNames": [
+            "苍朮",
+            "厚朴",
+            "陈皮"
+          ],
+          "rationale": "燥湿行气和胃"
+        }
+      ],
+      "clauseRefs": [],
+      "reviewStatus": "ai-draft",
+      "natureIndex": {
+        "热": 0.9090909090909091,
+        "寒": 0,
+        "补": 0.3181818181818182,
+        "泻": 0.5303030303030303,
+        "升": 0.3787878787878788,
+        "降": 0.3787878787878788,
+        "收": 0.24242424242424243,
+        "散": 0.7575757575757576,
+        "润": 0.24242424242424243,
+        "燥": 0.7575757575757576
+      },
+      "clauseIds": []
+    },
+    {
+      "formulaName": "八味地黄丸",
+      "function": "温养下焦，补益肾阳",
+      "sourcePage": 61,
+      "herbs": [
+        {
+          "name": "熟地黄",
+          "weight": 8,
+          "natures": [
+            "热",
+            "补",
+            "升",
+            "收",
+            "润"
+          ],
+          "action": "补血滋阴，益精填髓"
+        },
+        {
+          "name": "山药",
+          "weight": 4,
+          "natures": [
+            "补",
+            "升",
+            "收",
+            "润"
+          ],
+          "action": "益气养阴，补脾肺肾，固精止遗"
+        },
+        {
+          "name": "山茱萸",
+          "weight": 4,
+          "natures": [
+            "热",
+            "补",
+            "降",
+            "收",
+            "润"
+          ],
+          "action": "补益肝肾，收敛固涩"
+        },
+        {
+          "name": "茯苓",
+          "weight": 3,
+          "natures": [
+            "泻",
+            "降",
+            "收",
+            "燥"
+          ],
+          "action": "利水渗湿，健脾安神"
+        },
+        {
+          "name": "牡丹皮",
+          "weight": 3,
+          "natures": [
+            "寒",
+            "泻",
+            "散"
+          ],
+          "action": "清热凉血，活血散瘀"
+        },
+        {
+          "name": "泽泻",
+          "weight": 3,
+          "natures": [
+            "寒",
+            "泻",
+            "降",
+            "散",
+            "燥"
+          ],
+          "action": "利水渗湿，泻热"
+        },
+        {
+          "name": "肉桂",
+          "weight": 1,
+          "natures": [
+            "热",
+            "补",
+            "散",
+            "燥"
+          ],
+          "action": "补火助阳，散寒止痛，温经通脉"
+        },
+        {
+          "name": "炮附子",
+          "weight": 1,
+          "natures": [
+            "热",
+            "补",
+            "升",
+            "散",
+            "燥"
+          ],
+          "action": "回阳救逆，助阳补火，散寒止痛"
+        }
+      ],
+      "indications": [
+        {
+          "symptom": "虚劳腰痛、少腹拘急",
+          "herbNames": [
+            "熟地黄",
+            "山茱萸",
+            "炮附子"
+          ],
+          "rationale": "温养下焦"
+        },
+        {
+          "symptom": "小便不利或反多",
+          "herbNames": [
+            "茯苓",
+            "泽泻",
+            "肉桂"
+          ],
+          "rationale": "化气利水"
+        },
+        {
+          "symptom": "消渴",
+          "herbNames": [
+            "熟地黄",
+            "山药",
+            "炮附子"
+          ],
+          "rationale": "补肾制水"
+        }
+      ],
+      "clauseRefs": [
+        {
+          "book": "jingui",
+          "number": 6,
+          "excerpt": "虚劳腰痛，少腹拘急，小便不利者，八味肾气丸主之。"
+        }
+      ],
+      "reviewStatus": "ai-draft",
+      "formulaId": "jingui-formula-肾气丸",
+      "natureIndex": {
+        "热": 0.5185185185185185,
+        "寒": 0.2222222222222222,
+        "补": 0.6666666666666666,
+        "泻": 0.3333333333333333,
+        "升": 0.48148148148148145,
+        "降": 0.37037037037037035,
+        "收": 0.7037037037037037,
+        "散": 0.2962962962962963,
+        "润": 0.5925925925925926,
+        "燥": 0.2962962962962963
+      },
+      "clauseIds": [
+        "jingui-6-9"
+      ]
+    },
+    {
+      "formulaName": "麻杏甘石汤",
+      "function": "辛凉疏表，清肺平喘",
+      "sourcePage": 69,
+      "herbs": [
+        {
+          "name": "麻黄",
+          "weight": 4,
+          "natures": [
+            "热",
+            "泻",
+            "散",
+            "燥"
+          ],
+          "action": "发汗解表，宣肺平喘，利水消肿"
+        },
+        {
+          "name": "杏仁",
+          "weight": 6,
+          "natures": [
+            "热",
+            "泻",
+            "降",
+            "散",
+            "润"
+          ],
+          "action": "止咳平喘，润肠通便"
+        },
+        {
+          "name": "炙甘草",
+          "weight": 3,
+          "natures": [
+            "补",
+            "收",
+            "润"
+          ],
+          "action": "补脾和胃，益气复脉"
+        },
+        {
+          "name": "石膏",
+          "weight": 10,
+          "natures": [
+            "寒",
+            "泻",
+            "降",
+            "散",
+            "润"
+          ],
+          "action": "清热泻火，除烦止渴"
+        }
+      ],
+      "indications": [
+        {
+          "symptom": "汗出而喘",
+          "herbNames": [
+            "麻黄",
+            "石膏"
+          ],
+          "rationale": "宣肺清热"
+        },
+        {
+          "symptom": "少痰或黏稠痰之咳",
+          "herbNames": [
+            "杏仁",
+            "石膏"
+          ],
+          "rationale": "清肺降气"
+        }
+      ],
+      "clauseRefs": [
+        {
+          "book": "songben",
+          "number": 63,
+          "excerpt": "发汗后，不可更行桂枝汤，汗出而喘，无大热者，可与麻黄杏仁甘草石膏汤。"
+        }
+      ],
+      "reviewStatus": "ai-draft",
+      "formulaId": "songben-formula-麻黄杏仁甘草石膏汤",
+      "natureIndex": {
+        "热": 0.43478260869565216,
+        "寒": 0.43478260869565216,
+        "补": 0.13043478260869565,
+        "泻": 0.8695652173913043,
+        "升": 0,
+        "降": 0.6956521739130435,
+        "收": 0.13043478260869565,
+        "散": 0.8695652173913043,
+        "润": 0.8260869565217391,
+        "燥": 0.17391304347826086
+      },
+      "clauseIds": [
+        "songben-63"
+      ]
+    },
+    {
+      "formulaName": "半夏厚朴汤",
+      "function": "行气散结，降逆化痰",
+      "sourcePage": 75,
+      "herbs": [
+        {
+          "name": "半夏",
+          "weight": 4,
+          "natures": [
+            "热",
+            "补",
+            "降",
+            "散",
+            "燥"
+          ],
+          "action": "燥湿化痰，降逆止呕，消痞散结"
+        },
+        {
+          "name": "厚朴",
+          "weight": 3,
+          "natures": [
+            "热",
+            "泻",
+            "降",
+            "散",
+            "燥"
+          ],
+          "action": "燥湿，行气，消积，平喘"
+        },
+        {
+          "name": "茯苓",
+          "weight": 4,
+          "natures": [
+            "泻",
+            "降",
+            "收",
+            "燥"
+          ],
+          "action": "利水渗湿，健脾安神"
+        },
+        {
+          "name": "生姜",
+          "weight": 5,
+          "natures": [
+            "热",
+            "补",
+            "升",
+            "散",
+            "燥"
+          ],
+          "action": "发汗解表、温中止呕，温肺止咳"
+        },
+        {
+          "name": "紫苏叶",
+          "weight": 1,
+          "natures": [
+            "热",
+            "泻",
+            "降",
+            "散",
+            "燥"
+          ],
+          "action": "发汗解表，行气宽中"
+        }
+      ],
+      "indications": [
+        {
+          "symptom": "咽中如有炙脔",
+          "herbNames": [
+            "半夏",
+            "厚朴",
+            "紫苏叶"
+          ],
+          "rationale": "行气散结化痰"
+        },
+        {
+          "symptom": "咳且胸闷",
+          "herbNames": [
+            "厚朴",
+            "半夏"
+          ],
+          "rationale": "降气宽胸"
+        }
+      ],
+      "clauseRefs": [
+        {
+          "book": "jingui",
+          "number": 22,
+          "excerpt": "妇人咽中如有炙脔，半夏厚朴汤主之。"
+        }
+      ],
+      "reviewStatus": "ai-draft",
+      "formulaId": "jingui-formula-半夏厚朴汤",
+      "natureIndex": {
+        "热": 0.7647058823529411,
+        "寒": 0,
+        "补": 0.5294117647058824,
+        "泻": 0.47058823529411764,
+        "升": 0.29411764705882354,
+        "降": 0.7058823529411765,
+        "收": 0.23529411764705882,
+        "散": 0.7647058823529411,
+        "润": 0,
+        "燥": 1
+      },
+      "clauseIds": [
+        "jingui-22-5"
+      ]
+    },
+    {
+      "formulaName": "芍药甘草汤",
+      "function": "调气养血，缓急止痛",
+      "sourcePage": 82,
+      "herbs": [
+        {
+          "name": "芍药",
+          "weight": 4,
+          "natures": [
+            "寒",
+            "补",
+            "收",
+            "润"
+          ],
+          "action": "养血调经，平肝止痛，敛阴止汗"
+        },
+        {
+          "name": "炙甘草",
+          "weight": 4,
+          "natures": [
+            "补",
+            "收",
+            "润"
+          ],
+          "action": "补脾和胃，益气复脉"
+        }
+      ],
+      "indications": [
+        {
+          "symptom": "脚挛急",
+          "herbNames": [
+            "芍药",
+            "炙甘草"
+          ],
+          "rationale": "酸甘化阴，缓急止痛"
+        },
+        {
+          "symptom": "腹痛、经痛",
+          "herbNames": [
+            "芍药",
+            "炙甘草"
+          ],
+          "rationale": "柔肝缓急"
+        },
+        {
+          "symptom": "小腿抽筋",
+          "herbNames": [
+            "芍药",
+            "炙甘草"
+          ],
+          "rationale": "舒筋缓急"
+        }
+      ],
+      "clauseRefs": [
+        {
+          "book": "songben",
+          "number": 29,
+          "excerpt": "伤寒脉浮，自汗出，小便数，心烦，微恶寒，脚挛急……若厥愈足温者，更作芍药甘草汤与之，其脚即伸。"
+        }
+      ],
+      "reviewStatus": "ai-draft",
+      "formulaId": "songben-formula-芍药甘草汤",
+      "natureIndex": {
+        "热": 0,
+        "寒": 0.5,
+        "补": 1,
+        "泻": 0,
+        "升": 0,
+        "降": 0,
+        "收": 1,
+        "散": 0,
+        "润": 1,
+        "燥": 0
+      },
+      "clauseIds": [
+        "songben-29"
+      ]
+    },
+    {
+      "formulaName": "四逆汤",
+      "function": "回阳救逆",
+      "sourcePage": 87,
+      "herbs": [
+        {
+          "name": "炙甘草",
+          "weight": 2,
+          "natures": [
+            "补",
+            "收",
+            "润"
+          ],
+          "action": "补脾和胃，益气复脉"
+        },
+        {
+          "name": "干姜",
+          "weight": 2,
+          "natures": [
+            "热",
+            "补",
+            "升",
+            "散",
+            "燥"
+          ],
+          "action": "温中散寒，回阳通脉，温肺化饮"
+        },
+        {
+          "name": "炮附子",
+          "weight": 2,
+          "natures": [
+            "热",
+            "补",
+            "升",
+            "散",
+            "燥"
+          ],
+          "action": "回阳救逆，助阳补火，散寒止痛"
+        }
+      ],
+      "indications": [
+        {
+          "symptom": "四肢厥冷",
+          "herbNames": [
+            "炮附子",
+            "干姜"
+          ],
+          "rationale": "回阳救逆"
+        },
+        {
+          "symptom": "下利清谷",
+          "herbNames": [
+            "干姜",
+            "炙甘草"
+          ],
+          "rationale": "温中固里"
+        },
+        {
+          "symptom": "脉微欲绝",
+          "herbNames": [
+            "炮附子",
+            "炙甘草"
+          ],
+          "rationale": "回阳复脉"
+        }
+      ],
+      "clauseRefs": [
+        {
+          "book": "songben",
+          "number": 323,
+          "excerpt": "少阴病，脉沉者，急温之，宜四逆汤。"
+        },
+        {
+          "book": "songben",
+          "number": 388,
+          "excerpt": "吐利汗出，发热恶寒，四肢拘急，手足厥冷者，四逆汤主之。"
+        }
+      ],
+      "reviewStatus": "ai-draft",
+      "formulaId": "songben-formula-四逆汤",
+      "natureIndex": {
+        "热": 0.6666666666666666,
+        "寒": 0,
+        "补": 1,
+        "泻": 0,
+        "升": 0.6666666666666666,
+        "降": 0,
+        "收": 0.3333333333333333,
+        "散": 0.6666666666666666,
+        "润": 0.3333333333333333,
+        "燥": 0.6666666666666666
+      },
+      "clauseIds": [
+        "songben-323",
+        "songben-388"
+      ]
+    }
+  ],
+  "generatedAt": "2026-10-08T09:22:00.165Z",
+  "source": "林大栋《十二经方日用急急如律令》讲义整理，仅供学习"
+}

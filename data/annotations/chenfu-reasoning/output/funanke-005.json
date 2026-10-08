@@ -1,0 +1,587 @@
+{
+  "entries": [
+    {
+      "clauseId": "funanke-0121",
+      "contentHash": "cafc61e9b0d0cadf",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "膀胱之气化不行，即小便不通",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "似乎治膀胱也", "rebuttal": "然而治法全不在膀胱" }
+          ],
+          "pathogenesis": "盖膀胱必得气化而出，气化者何, 心包络之气也",
+          "organs": ["膀胱", "心包", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "然而治法全不在膀胱",
+          "formulaIds": ["funanke-formula-funanke-0121-1"],
+          "keySentence": "此方妙在用人参肉桂，盖膀胱必得气化而出"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0122",
+      "contentHash": "4c575641e2400fd5",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0122-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0123",
+      "contentHash": "8e19d070e42dafdc",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此症手足必青紫，饮水必吐，腹必痛，喜火熨之",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0123-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0124",
+      "contentHash": "3633b3f2e388a075",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此症手足虽寒而不青紫，饮水不吐，火熨之腹必痛，一时手足厥逆，痛不可忍",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为四肢之风症也", "rebuttal": "谁知是心中热蒸，外不能泄" }
+          ],
+          "pathogenesis": "谁知是心中热蒸，外不能泄，故四肢手足则寒, 而胸腹皮热如火",
+          "organs": ["心", "肝"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0124-1"],
+          "keySentence": "以白芍为君, 取入肝而平木也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0125",
+      "contentHash": "4e50f952a8b0f97c",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此症一时猝倒，不省人事",
+          "disputes": [],
+          "pathogenesis": "乃气虚而痰迷心也",
+          "organs": ["心"],
+          "relations": [],
+          "treatmentPrinciple": "补气化痰而已",
+          "formulaIds": ["funanke-formula-funanke-0125-1"],
+          "keySentence": "盖苍术阳药，善能祛风，故有奇效"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0126",
+      "contentHash": "5e00d6d8070d6f81",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有忽然发厥，闭目撒手，喉中有声，有一日死者，有二三日死者",
+          "disputes": [],
+          "pathogenesis": "此厥多犯神明，然亦素有痰气而发也",
+          "organs": ["心"],
+          "relations": [],
+          "treatmentPrinciple": "治法宜攻其痰而开心窍",
+          "formulaIds": ["funanke-formula-funanke-0126-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0127",
+      "contentHash": "c652a79dd23b379c",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有猝然昏倒，迷而不悟，喉中有痰",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为风也", "rebuttal": "谁知是气虚乎" },
+            { "kind": "mistreatment", "claim": "若作风治", "rebuttal": "无不死者" }
+          ],
+          "pathogenesis": "此症盖因平日不慎女色，精亏以致气衰，又加不慎起居，而有似乎风者, 其实非风也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0127-1"],
+          "keySentence": "此方补气而不治风，消痰而不耗气"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0128",
+      "contentHash": "6907990aec8f7493",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此症切实为阴虚者，当此人身本瘦，面部以下青黑, 倒时微喘，目不能瞑",
+          "disputes": [],
+          "pathogenesis": "此症有肾中之水虚，而不上交于心者，又有肝气燥，不能生心之火者, 此皆阴虚",
+          "organs": ["肾", "心", "肝"],
+          "relations": [{ "from": "肝", "to": "心", "kind": "生" }],
+          "formulaIds": ["funanke-formula-funanke-0128-1"],
+          "keySentence": "此方补肾水，滋肺气，安心通窍，泻火消痰"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0129",
+      "contentHash": "107ccbc5f1991424",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有心中火虚，不能下交于肾而猝倒者",
+          "disputes": [],
+          "pathogenesis": "心中火虚，不能下交于肾而猝倒者，阳虚也",
+          "organs": ["心", "肾"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0129-1"]
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "此症又有胃热，不能安心之火而猝倒者",
+          "disputes": [],
+          "pathogenesis": "胃热，不能安心之火而猝倒者, 亦阳虚也",
+          "organs": ["胃", "心"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0129-2"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0130",
+      "contentHash": "294f574b59407e5f",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有口渴索引，眼红气喘，心脉洪大，舌不能言",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "不可作气虚治", "rebuttal": "此乃肾虚之极，不能上滋于心" }
+          ],
+          "pathogenesis": "此乃肾虚之极，不能上滋于心，心火亢极，自焚闷乱，遂致身倒",
+          "organs": ["肾", "心"],
+          "relations": [],
+          "treatmentPrinciple": "法当补肾，而佐以清火之药",
+          "formulaIds": ["funanke-formula-funanke-0130-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0131",
+      "contentHash": "11d0733bf4b163ac",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有大怒跳跃，忽然卧地，两臂抽搦，唇口歪邪，左目紧闭",
+          "disputes": [],
+          "pathogenesis": "此乃肝火血虚, 内热生风之症",
+          "organs": ["肝"],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "当用八珍汤，加丹皮钩藤山栀"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "若小便自遗, 左关脉弦洪而数",
+          "disputes": [],
+          "pathogenesis": "此肝火血燥",
+          "organs": ["肝"],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "当用六味汤，加钩藤、 五味子、麦冬、川芎、当归"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0132",
+      "contentHash": "a1566e500f8e6667",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有跌倒昏迷，或自卧而跌下床者",
+          "disputes": [],
+          "pathogenesis": "此皆气虚，而痰邪犯之也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0132-1"]
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "此症又有因肾虚而得之者",
+          "disputes": [],
+          "pathogenesis": "因肾虚而肾络与胞内绝, 不通于上则瘖，肾脉不上循喉咙挟舌本，则不能言，二络不通于下，则痱厥矣",
+          "organs": ["肾"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0132-2"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0133",
+      "contentHash": "4d20345becda9ebc",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "足阳明之经，急则口目为僻，眦急不能视",
+          "disputes": [
+            { "kind": "commonPractice", "claim": "此症人多治木治金固是", "rebuttal": "而不知胃土之为尤切" }
+          ],
+          "pathogenesis": "此胃土之经为歪邪也",
+          "organs": ["胃"],
+          "relations": [],
+          "treatmentPrinciple": "当治胃土，且有经脉之分",
+          "formulaIds": [],
+          "formulaText": "皆当用黄耆、当归、人参、白芍、甘草、桂枝、升麻、葛根、秦艽、白芷、 防风、黄柏、苏木、红花"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "轻则邪，重则不语",
+          "disputes": [],
+          "pathogenesis": "此症又有心中虚极，不能运于口耳之间",
+          "organs": ["心"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0133-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0134",
+      "contentHash": "6709c155a602e061",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "故分布不周于经脉，则偏枯，不周于五脏，则瘖",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "若杂投乎乌附羌活之类, 以涸营而耗卫", "rebuttal": "如此死者，医杀人也" }
+          ],
+          "pathogenesis": "若标本相失，不能致其气于气海，而宗气散矣",
+          "organs": ["心", "胃"],
+          "relations": [],
+          "treatmentPrinciple": "此症宜于心胃而调理之",
+          "formulaIds": [],
+          "formulaText": "法宜黄耆为君，参、归、白芍为臣，防风、桂枝、钩藤、竹沥、姜、韭、葛、梨、乳汁为佐"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "半身不遂，口眼歪邪",
+          "disputes": [
+            { "kind": "commonPractice", "claim": "此症人多用风药治之", "rebuttal": "殊不见功" },
+            { "kind": "mistreatment", "claim": "若用驱风之品", "rebuttal": "偏枯则终不起矣" }
+          ],
+          "pathogenesis": "此症由于血不行又中风",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "故当以养血和血为主，治风先治血，血行风自灭",
+          "formulaIds": ["funanke-formula-funanke-0134-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0135",
+      "contentHash": "bd07d74b7d84507a",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此症忽然卧地，作牛马猪羊之声，吐痰如涌泉者",
+          "disputes": [],
+          "pathogenesis": "痰迷心窍也，盖因寒而成, 感寒而发也",
+          "organs": ["心"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0135-1"],
+          "keySentence": "此本治寒狂之方，治痫亦效"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0136",
+      "contentHash": "1547334a8292a373",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "遂成癫狂",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "茍徒治痰而不补气", "rebuttal": "未有不死者也" }
+          ],
+          "pathogenesis": "此症多生于脾胃之虚寒，饮食入胃，不变精而变痰，痰迷心窍",
+          "organs": ["脾", "胃", "心"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0136-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0137",
+      "contentHash": "4f1185a2f36b40f1",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "pathogenesis": "此症气虚而中痰也",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "宜固其正气，而佐以化痰之品",
+          "formulaIds": ["funanke-formula-funanke-0137-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0138",
+      "contentHash": "da113bd6c5806dfc",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "pathogenesis": "此是内热之症",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0138-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0139",
+      "contentHash": "23adcaead6d9e984",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此症有因寒得之者，一时之狂也",
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "此症因寒得之，何以用白虎汤", "rebuttal": "血寒邪外逼，里不热泄而扰心胃" }
+          ],
+          "pathogenesis": "血寒邪外逼，里不热泄而扰心胃",
+          "organs": ["心", "胃"],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "可用白虎汤以泻火"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "更有终年狂而不愈者, 或拿刀杀人，或骂亲戚，不认儿女，见水大喜，见食大恶",
+          "disputes": [],
+          "pathogenesis": "此乃心气之虚, 而热邪乘之，痰气侵之也",
+          "organs": ["心", "脾", "胃"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0139-1"],
+          "keySentence": "此方妙补心脾胃三经，而化其痰，不去泻火"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0140",
+      "contentHash": "6b1a0a1c1f8d2a8c",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "凡发狂骂人，未渴索饮，与水不饮者",
+          "disputes": [],
+          "pathogenesis": "此必气郁不舒，怒气未泄",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "宜补气消痰",
+          "formulaIds": ["funanke-formula-funanke-0140-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0141",
+      "contentHash": "6c1944faf9f4b7c6",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "pathogenesis": "此症心经血虚也",
+          "organs": ["心"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0141-1"],
+          "keySentence": "此方妙在用生熟枣仁, 生使其日间不卧，熟使其日间不醒"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0142",
+      "contentHash": "f42338b59be2d20a",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "何以反用熟地、山萸补肾之药，又加肉桂以助火", "rebuttal": "不知人之心惊, 乃肾气不入于心也，不寐乃心气不归于肾也" }
+          ],
+          "pathogenesis": "此心病而实肾病也",
+          "organs": ["心", "肾", "命门", "肝"],
+          "relations": [],
+          "treatmentPrinciple": "宜心肾兼治",
+          "formulaIds": ["funanke-formula-funanke-0142-1"],
+          "keySentence": "今用熟地山萸补肾，则肾气可通于心"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "恐怕人夜卧交睫，则梦争斗负败，恐怖之状，难以形容",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为心病", "rebuttal": "谁知是肝病乎" }
+          ],
+          "pathogenesis": "盖肝藏魂，肝血虚则魂失养，故交睫若魇，此乃肝胆虚怯",
+          "organs": ["肝", "胆"],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "当以酒化鹿角胶, 空腹服之可愈"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0143",
+      "contentHash": "b7e58e83c3cbc2e6",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人每卧则魂飞扬，觉身在床而魂离体矣，惊悸多魇，通夕不寐",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人皆以为心病也", "rebuttal": "谁知是肝经受邪乎" },
+            { "kind": "commonPractice", "claim": "今人例以为镇心之药", "rebuttal": "讵知龙齿安魂，虎睛定魄" }
+          ],
+          "pathogenesis": "盖肝气一虚，邪气袭之，肝藏魂，肝受邪，魂无依",
+          "organs": ["肝"],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "法用珍珠母为君，龙齿佐之"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0144",
+      "contentHash": "01d34c23abd8cffc",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "手足心腹一身皆痛",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "不可头痛救头，足痛救足也", "rebuttal": "盖肝气一舒，诸痛自愈" }
+          ],
+          "organs": ["肝"],
+          "relations": [],
+          "treatmentPrinciple": "治肝为主，盖肝气一舒，诸痛自愈",
+          "formulaIds": ["funanke-formula-funanke-0144-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0145",
+      "contentHash": "99a8c014961f2af1",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "痛而不能俯者",
+          "disputes": [],
+          "pathogenesis": "湿气也",
+          "organs": ["肾"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0145-1"],
+          "keySentence": "此方妙在入肾去湿，不是入肾而补水"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "痛而不能直者",
+          "disputes": [],
+          "pathogenesis": "风寒也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0145-2"]
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "凡痛而不止者",
+          "disputes": [],
+          "pathogenesis": "肾经之病，乃脾湿之故",
+          "organs": ["肾", "脾"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0145-3"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0146",
+      "contentHash": "eb312d2762cdd34e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0146-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0147",
+      "contentHash": "cf5416df558a65d5",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "腰足痛",
+          "disputes": [],
+          "pathogenesis": "明系是肾虚而气衰，更加之湿,自必作楚",
+          "organs": ["肾"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0147-1"],
+          "keySentence": "妙在不补肾而单益气，盖气足则血生，血生则邪退"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0148",
+      "contentHash": "fd74df1cc2d5fa0f",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "身不离床褥，伛偻之状可掬",
+          "disputes": [],
+          "pathogenesis": "乃寒湿之气侵也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0148-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0149",
+      "contentHash": "74d3ced05ca1f9d9",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "pathogenesis": "此手经之病，肝气之郁也",
+          "organs": ["肝", "胃"],
+          "relations": [{ "from": "肝", "to": "胃", "kind": "侮" }],
+          "formulaIds": ["funanke-formula-funanke-0149-1"],
+          "keySentence": "此方妙在用白芍为君，以平肝木不来侮胃"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0150",
+      "contentHash": "0bd9f3f1a6656dcc",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "手足之痛",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "而人乃为脾经之热", "rebuttal": "不知散肝木之郁结，而手足之痛自去" }
+          ],
+          "pathogenesis": "盖肝木作祟，脾不敢当其锋，气散于四肢,结而不伸，所以作楚",
+          "organs": ["肝", "脾"],
+          "relations": [],
+          "treatmentPrinciple": "今平其肝气，则脾气自舒矣",
+          "formulaIds": ["funanke-formula-funanke-0150-1"],
+          "keySentence": "盖肝木作祟，脾不敢当其锋"
+        }
+      ]
+    }
+  ]
+}

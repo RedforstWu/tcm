@@ -20,6 +20,8 @@ import {
   loadMonographs,
 } from '@/lib/data'
 import { convertScript } from '@/lib/text'
+import { COMPACT_CHART_GRID, COMPACT_CHART_GRID_WITH_VISUAL_MAP } from '@/lib/chart-layout'
+import { useIsCompactScreen } from '@/lib/use-media-query'
 import { useAppContext } from '@/context/AppContext'
 import { DraftBanner } from '@/components/DraftBanner'
 import { FormulaCompareDrawer } from '@/components/FormulaCompareDrawer'
@@ -28,6 +30,7 @@ export function HerbDetailPage() {
   const { herbId = '' } = useParams()
   const id = decodeURIComponent(herbId)
   const { scriptMode, corpusFilter } = useAppContext()
+  const isCompact = useIsCompactScreen()
   const [herb, setHerb] = useState<Herb | null>(null)
   const [allFormulas, setAllFormulas] = useState<Formula[]>([])
   const [formulas, setFormulas] = useState<Formula[]>([])
@@ -130,6 +133,7 @@ export function HerbDetailPage() {
         formatter: (params: { data: [number, number, string] }) =>
           `${params.data[2]}<br/>${params.data[0]}钱 · ${categories[params.data[1]]}`,
       },
+      grid: isCompact ? COMPACT_CHART_GRID : undefined,
       xAxis: { type: 'value', name: '剂量（钱）' },
       yAxis: { type: 'category', data: categories },
       series: [
@@ -141,7 +145,7 @@ export function HerbDetailPage() {
         },
       ],
     }
-  }, [roles, roleClusters, formulaById, id])
+  }, [roles, roleClusters, formulaById, id, isCompact])
 
   const doseChart = useMemo(() => {
     const buckets = new Map<string, number>()
@@ -154,11 +158,12 @@ export function HerbDetailPage() {
     const entries = [...buckets.entries()].sort((a, b) => b[1] - a[1]).slice(0, 12)
     return {
       tooltip: { trigger: 'axis' },
+      grid: isCompact ? COMPACT_CHART_GRID : undefined,
       xAxis: { type: 'category', data: entries.map((item) => item[0]), axisLabel: { rotate: 30 } },
       yAxis: { type: 'value' },
       series: [{ type: 'bar', data: entries.map((item) => item[1]), itemStyle: { color: '#b91c1c' } }],
     }
-  }, [formulas, id])
+  }, [formulas, id, isCompact])
 
   const corpusCompare = useMemo(() => {
     const build = (corpus: 'jingfang' | 'chenfu') => {
@@ -210,6 +215,7 @@ export function HerbDetailPage() {
       .slice(0, 12)
     return {
       tooltip: { trigger: 'axis' },
+      grid: isCompact ? COMPACT_CHART_GRID : undefined,
       xAxis: { type: 'value' },
       yAxis: { type: 'category', data: rows.map((row) => row.tag).reverse() },
       series: [
@@ -220,7 +226,7 @@ export function HerbDetailPage() {
         },
       ],
     }
-  }, [clauses, formulas])
+  }, [clauses, formulas, isCompact])
 
   const cooccur = useMemo(() => {
     const counts = new Map<string, number>()
@@ -237,6 +243,7 @@ export function HerbDetailPage() {
     const names = cooccur.map((item) => item[0])
     return {
       tooltip: { position: 'top' },
+      grid: isCompact ? COMPACT_CHART_GRID_WITH_VISUAL_MAP : undefined,
       xAxis: { type: 'category', data: names, axisLabel: { rotate: 40 } },
       yAxis: { type: 'category', data: [herb?.name ?? ''] },
       visualMap: {
@@ -255,15 +262,15 @@ export function HerbDetailPage() {
         },
       ],
     }
-  }, [cooccur, herb])
+  }, [cooccur, herb, isCompact])
 
   if (!herb) return <p className="text-stone-500">未找到药物。</p>
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-4 sm:space-y-6">
       <DraftBanner />
       <div>
-        <h1 className="font-serif text-3xl font-bold">{convertScript(herb.name, scriptMode)}</h1>
+        <h1 className="font-serif text-2xl font-bold sm:text-3xl">{convertScript(herb.name, scriptMode)}</h1>
         <p className="text-sm text-stone-500">
           见于 {formulas.length} 方 · 出现 {herb.frequency} 次
           {openFormulaIds.length > 0 && (
@@ -274,7 +281,7 @@ export function HerbDetailPage() {
       </div>
 
       {monograph && (
-        <section className="rounded-2xl border border-cinnabar/20 bg-white/80 p-5">
+        <section className="rounded-2xl border border-cinnabar/20 bg-white/80 p-4 sm:p-5">
           <div className="mb-2 flex items-center justify-between">
             <h2 className="font-serif text-lg font-semibold text-cinnabar">本草新编 · 药性</h2>
             <span className="text-xs text-stone-400">陈士铎</span>
@@ -309,7 +316,7 @@ export function HerbDetailPage() {
       )}
 
       {roleClusters.length > 0 && (
-        <section className="rounded-2xl border border-stone-200 bg-white/80 p-5">
+        <section className="rounded-2xl border border-stone-200 bg-white/80 p-4 sm:p-5">
           <h2 className="mb-3 font-serif text-lg font-semibold">方解中的作用</h2>
           <div className="space-y-3">
             {roleClusters.slice(0, 12).map(([roleText, list]) => (
@@ -345,7 +352,7 @@ export function HerbDetailPage() {
         </section>
       )}
 
-      <section className="rounded-2xl border border-stone-200 bg-white/80 p-5">
+      <section className="rounded-2xl border border-stone-200 bg-white/80 p-4 sm:p-5">
         <h2 className="mb-3 font-serif text-lg font-semibold">经方 · 陈傅对照</h2>
         <div className="grid gap-4 md:grid-cols-2">
           {(
@@ -387,7 +394,7 @@ export function HerbDetailPage() {
         <ReactECharts option={heatOption} style={{ height: 220 }} />
       </section>
 
-      <section className="rounded-2xl border border-stone-200 bg-white/80 p-5">
+      <section className="rounded-2xl border border-stone-200 bg-white/80 p-4 sm:p-5">
         <h2 className="mb-3 font-serif text-lg font-semibold">最小差异方剂对</h2>
         {diffs.length === 0 ? (
           <p className="text-sm text-stone-500">暂无仅差此一味的方对，可结合家族图观察。</p>
@@ -396,7 +403,14 @@ export function HerbDetailPage() {
             {diffs.slice(0, 20).map((diff) => (
               <div key={diff.id} className="rounded-xl bg-paper-dark p-3 text-sm">
                 <p className="font-medium text-cinnabar">
-                  {diff.kind === 'add' ? '加入' : diff.kind === 'remove' ? '减去' : '改剂量'}「
+                  {diff.kind === 'add'
+                    ? '加入'
+                    : diff.kind === 'remove'
+                      ? '减去'
+                      : diff.kind === 'multi'
+                        ? '多味异于'
+                        : '改剂量'}
+                  「
                   {diff.herbName}」
                 </p>
                 <div className="mt-2 flex flex-wrap gap-3">
@@ -428,7 +442,7 @@ export function HerbDetailPage() {
         )}
       </section>
 
-      <section className="rounded-2xl border border-stone-200 bg-white/80 p-5">
+      <section className="rounded-2xl border border-stone-200 bg-white/80 p-4 sm:p-5">
         <div className="mb-3 flex flex-wrap items-center justify-between gap-2">
           <h2 className="font-serif text-lg font-semibold">含此药方剂</h2>
           <Link to="/formulas" className="text-xs text-teal">

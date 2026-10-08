@@ -4535,12 +4535,6 @@
           "doseRaw": ""
         },
         {
-          "herbId": "水",
-          "name": "水",
-          "rawText": "水",
-          "doseRaw": ""
-        },
-        {
           "herbId": "激凉",
           "name": "激凉",
           "rawText": "激凉",
@@ -4701,12 +4695,6 @@
           "doseRaw": ""
         },
         {
-          "herbId": "水",
-          "name": "水",
-          "rawText": "水",
-          "doseRaw": ""
-        },
-        {
           "herbId": "每用",
           "name": "每用",
           "rawText": "每用",
@@ -4853,12 +4841,6 @@
           "doseRaw": ""
         },
         {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
-          "doseRaw": ""
-        },
-        {
           "herbId": "结胸",
           "name": "结胸",
           "rawText": "结胸",
@@ -4898,18 +4880,6 @@
           "doseRaw": "壹钱",
           "doseQian": 1,
           "note": " 壹钱"
-        },
-        {
-          "herbId": "水",
-          "name": "水",
-          "rawText": "水",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "勿迟",
-          "name": "勿迟",
-          "rawText": "勿迟。",
-          "doseRaw": ""
         }
       ],
       "preparation": "",
@@ -7817,12 +7787,6 @@
           "note": " 各三两"
         },
         {
-          "herbId": ",",
-          "name": "，",
-          "rawText": "，",
-          "doseRaw": ""
-        },
-        {
           "herbId": "茯苓",
           "name": "茯苓",
           "rawText": "茯苓（ 肆两）",
@@ -8178,21 +8142,9 @@
           "doseRaw": ""
         },
         {
-          "herbId": "===",
-          "name": "===",
-          "rawText": "===",
-          "doseRaw": ""
-        },
-        {
           "herbId": "痰嗽门",
           "name": "痰嗽门",
           "rawText": "痰嗽门",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
           "doseRaw": ""
         },
         {
@@ -9734,12 +9686,6 @@
           "doseRaw": ""
         },
         {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
-          "doseRaw": ""
-        },
-        {
           "herbId": "肾火",
           "name": "肾火",
           "rawText": "肾火",
@@ -10410,13 +10356,6 @@
           "doseRaw": "",
           "processing": "洗、酒洗",
           "note": " 酒洗"
-        },
-        {
-          "herbId": "水",
-          "name": "水",
-          "rawText": "水（半）",
-          "doseRaw": "",
-          "note": "半"
         },
         {
           "herbId": "樽童",
@@ -12879,12 +12818,6 @@
           "doseRaw": ""
         },
         {
-          "herbId": "水",
-          "name": "水",
-          "rawText": "水",
-          "doseRaw": ""
-        },
-        {
           "herbId": "饮之",
           "name": "饮之",
           "rawText": "饮之",
@@ -12954,21 +12887,9 @@
           "doseRaw": ""
         },
         {
-          "herbId": "===",
-          "name": "===",
-          "rawText": "===",
-          "doseRaw": ""
-        },
-        {
           "herbId": "厥证门",
           "name": "厥证门",
           "rawText": "厥证门",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
           "doseRaw": ""
         },
         {
@@ -13575,12 +13496,6 @@
       "name": "肾虚猝倒·方1",
       "book": "funanke",
       "herbs": [
-        {
-          "herbId": "水",
-          "name": "水",
-          "rawText": "水",
-          "doseRaw": ""
-        },
         {
           "herbId": "火",
           "name": "火",
@@ -15011,24 +14926,6 @@
           "note": " 各贰钱"
         },
         {
-          "herbId": "水",
-          "name": "水",
-          "rawText": "水",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "酒",
-          "name": "酒",
-          "rawText": "酒",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
-          "doseRaw": ""
-        },
-        {
           "herbId": "腰痛",
           "name": "腰痛",
           "rawText": "腰痛",
@@ -15539,24 +15436,6 @@
           "doseRaw": "贰钱",
           "doseQian": 2,
           "note": " 贰钱"
-        },
-        {
-          "herbId": "水",
-          "name": "水",
-          "rawText": "水",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "剂即",
-          "name": "剂即",
-          "rawText": "剂即",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "愈",
-          "name": "愈",
-          "rawText": "愈",
-          "doseRaw": ""
         }
       ],
       "preparation": "",
@@ -15864,9 +15743,9 @@
           "note": " 炒焦伍钱"
         },
         {
-          "herbId": "好酒",
-          "name": "好酒",
-          "rawText": "好酒",
+          "herbId": "好",
+          "name": "好",
+          "rawText": "好",
           "doseRaw": ""
         },
         {
@@ -15970,12 +15849,6 @@
           "herbId": "汤",
           "name": "汤",
           "rawText": "汤",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
           "doseRaw": ""
         },
         {
@@ -16493,12 +16366,6 @@
           "doseRaw": ""
         },
         {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
-          "doseRaw": ""
-        },
-        {
           "herbId": "足弱",
           "name": "足弱",
           "rawText": "足弱",
@@ -16847,12 +16714,6 @@
           "doseRaw": "伍分",
           "doseQian": 0.5,
           "note": " 各伍分"
-        },
-        {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
-          "doseRaw": ""
         },
         {
           "herbId": "两胁走注",
@@ -17355,108 +17216,6 @@
           "note": " 叁钱"
         },
         {
-          "herbId": "水",
-          "name": "水",
-          "rawText": "水",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "二症俱愈",
-          "name": "二症俱愈",
-          "rawText": "二症俱愈",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "盖大",
-          "name": "盖大",
-          "rawText": "盖大",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "小便",
-          "name": "小便",
-          "rawText": "小便",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "有经",
-          "name": "有经",
-          "rawText": "有经",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "而其",
-          "name": "而其",
-          "rawText": "而其",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "症皆",
-          "name": "症皆",
-          "rawText": "症皆",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "因膀",
-          "name": "因膀",
-          "rawText": "因膀",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "胱之",
-          "name": "胱之",
-          "rawText": "胱之",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "热也",
-          "name": "热也",
-          "rawText": "热也",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "俱能",
-          "name": "俱能",
-          "rawText": "俱能",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "清膀",
-          "name": "清膀",
-          "rawText": "清膀",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "方而",
-          "name": "方而",
-          "rawText": "方而",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "用之",
-          "name": "用之",
-          "rawText": "用之",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "之中",
-          "name": "之中",
-          "rawText": "之中",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "有合",
-          "name": "有合",
-          "rawText": "有合",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
-          "doseRaw": ""
-        },
-        {
           "herbId": "疝气",
           "name": "疝气",
           "rawText": "疝气",
@@ -17594,12 +17353,6 @@
           "herbId": "下",
           "name": "下",
           "rawText": "下",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
           "doseRaw": ""
         },
         {
@@ -17802,12 +17555,6 @@
           "doseRaw": ""
         },
         {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
-          "doseRaw": ""
-        },
-        {
           "herbId": "偏坠",
           "name": "偏坠",
           "rawText": "偏坠",
@@ -17869,12 +17616,6 @@
           "doseRaw": ""
         },
         {
-          "herbId": "水",
-          "name": "水",
-          "rawText": "水",
-          "doseRaw": ""
-        },
-        {
           "herbId": "冲服",
           "name": "冲服",
           "rawText": "冲服",
@@ -17899,21 +17640,9 @@
           "doseRaw": ""
         },
         {
-          "herbId": "===",
-          "name": "===",
-          "rawText": "===",
-          "doseRaw": ""
-        },
-        {
           "herbId": "杂方",
           "name": "杂方",
           "rawText": "杂方",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
           "doseRaw": ""
         },
         {
@@ -18236,12 +17965,6 @@
           "doseRaw": ""
         },
         {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
-          "doseRaw": ""
-        },
-        {
           "herbId": "手汗",
           "name": "手汗",
           "rawText": "手汗",
@@ -18337,12 +18060,6 @@
           "doseRaw": ""
         },
         {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
-          "doseRaw": ""
-        },
-        {
           "herbId": "嚏喷",
           "name": "嚏喷",
           "rawText": "嚏喷",
@@ -18376,12 +18093,6 @@
           "herbId": "为末",
           "name": "为末",
           "rawText": "为末",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "水",
-          "name": "水",
-          "rawText": "水",
           "doseRaw": ""
         },
         {
@@ -18472,12 +18183,6 @@
           "herbId": "妙",
           "name": "妙",
           "rawText": "妙",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
           "doseRaw": ""
         },
         {
@@ -18575,12 +18280,6 @@
           "herbId": "立生",
           "name": "立生",
           "rawText": "立生。",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
           "doseRaw": ""
         },
         {
@@ -19651,12 +19350,6 @@
           "doseRaw": ""
         },
         {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
-          "doseRaw": ""
-        },
-        {
           "herbId": "疳症",
           "name": "疳症",
           "rawText": "疳症",
@@ -19846,12 +19539,6 @@
           "doseRaw": ""
         },
         {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
-          "doseRaw": ""
-        },
-        {
           "herbId": "疟疾",
           "name": "疟疾",
           "rawText": "疟疾",
@@ -19995,21 +19682,9 @@
           "doseRaw": ""
         },
         {
-          "herbId": "水",
-          "name": "水",
-          "rawText": "水",
-          "doseRaw": ""
-        },
-        {
           "herbId": "矣",
           "name": "矣",
           "rawText": "矣",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
           "doseRaw": ""
         },
         {
@@ -20112,12 +19787,6 @@
           "herbId": "愈",
           "name": "愈",
           "rawText": "愈",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "==",
-          "name": "==",
-          "rawText": "==",
           "doseRaw": ""
         },
         {

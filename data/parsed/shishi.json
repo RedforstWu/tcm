@@ -3308,12 +3308,6 @@
           "doseRaw": ""
         },
         {
-          "herbId": "水",
-          "name": "水",
-          "rawText": "水",
-          "doseRaw": ""
-        },
-        {
           "herbId": "泄而",
           "name": "泄而",
           "rawText": "泄而",
@@ -3542,18 +3536,6 @@
       "book": "shishi",
       "herbs": [
         {
-          "herbId": "张公",
-          "name": "张公",
-          "rawText": "张公",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "曰",
-          "name": "曰",
-          "rawText": "曰",
-          "doseRaw": ""
-        },
-        {
           "herbId": "坚治",
           "name": "坚治",
           "rawText": "坚治",
@@ -3583,12 +3565,6 @@
       "name": "动治法·天师曰∶动治者，因其不动而故动之也。如双脚麻木，不能履地，两手不能执物者是也。法·方1",
       "book": "shishi",
       "herbs": [
-        {
-          "herbId": "===",
-          "name": "===",
-          "rawText": "===",
-          "doseRaw": ""
-        },
         {
           "herbId": "春夏",
           "name": "春夏",
@@ -3827,108 +3803,6 @@
           "name": "萆",
           "rawText": "萆",
           "doseRaw": ""
-        },
-        {
-          "herbId": "水",
-          "name": "水",
-          "rawText": "水",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "。(",
-          "name": "。（",
-          "rawText": "。（",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "批",
-          "name": "批",
-          "rawText": "批",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "祛",
-          "name": "祛",
-          "rawText": "祛",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "火",
-          "name": "火",
-          "rawText": "火",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "丹",
-          "name": "丹",
-          "rawText": "丹",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "剂消",
-          "name": "剂消",
-          "rawText": "剂消",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "剂全",
-          "name": "剂全",
-          "rawText": "剂全",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "愈",
-          "name": "愈",
-          "rawText": "愈",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "然须",
-          "name": "然须",
-          "rawText": "然须",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "忌房",
-          "name": "忌房",
-          "rawText": "忌房",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "否则",
-          "name": "否则",
-          "rawText": "否则",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "必发",
-          "name": "必发",
-          "rawText": "必发",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "发则",
-          "name": "发则",
-          "rawText": "发则",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "死矣",
-          "name": "死矣",
-          "rawText": "死矣",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "慎",
-          "name": "慎",
-          "rawText": "慎",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "之哉",
-          "name": "之哉",
-          "rawText": "之哉",
-          "doseRaw": ""
         }
       ],
       "preparation": "人脚板中，色红如火，不可落地，又非痰毒，终岁经年不愈。此病亦因人用热药，立而行房，火聚于脚心而不散，故经岁经年不愈也。法当用内药消之，若作外治，必然烂去脚板。方用熟地三两，山茱萸五钱，北五味三钱，麦冬一两，元参一两，沙参一两，丹皮三钱，甘菊花五钱，牛膝三钱。",
@@ -4005,12 +3879,6 @@
       "name": "岐天师儿科治法·天师曰∶儿科得其要，无难治人。今传一法门，使万世小儿尽登仁寿。法在先看气色，后看·方1",
       "book": "shishi",
       "herbs": [
-        {
-          "herbId": "===",
-          "name": "===",
-          "rawText": "===",
-          "doseRaw": ""
-        },
         {
           "herbId": "真人",
           "name": "真人",
@@ -4139,48 +4007,6 @@
           "doseQian": 0.3
         },
         {
-          "herbId": "水",
-          "name": "水",
-          "rawText": "水",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "此",
-          "name": "此",
-          "rawText": "此",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "方心",
-          "name": "方心",
-          "rawText": "方心",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "清之",
-          "name": "清之",
-          "rawText": "清之",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "圣药",
-          "name": "圣药",
-          "rawText": "圣药",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "不专",
-          "name": "不专",
-          "rawText": "不专",
-          "doseRaw": ""
-        },
-        {
-          "herbId": "清脾",
-          "name": "清脾",
-          "rawText": "清脾",
-          "doseRaw": ""
-        },
-        {
           "herbId": "引水",
           "name": "引水",
           "rawText": "引水",
@@ -4246,12 +4072,6 @@
       "name": "荡寒汤",
       "book": "shishi",
       "herbs": [
-        {
-          "herbId": "===",
-          "name": "===",
-          "rawText": "===",
-          "doseRaw": ""
-        },
         {
           "herbId": "中暑门",
           "name": "中暑门",
@@ -4404,12 +4224,6 @@
           "name": "甘",
           "rawText": "甘",
           "doseRaw": ""
-        },
-        {
-          "herbId": "水",
-          "name": "水",
-          "rawText": "水",
-          "doseRaw": ""
         }
       ],
       "preparation": "一剂而气舒，二剂而血止，三剂而病全愈。",
@@ -4430,12 +4244,6 @@
       "name": "安崩汤",
       "book": "shishi",
       "herbs": [
-        {
-          "herbId": "===",
-          "name": "===",
-          "rawText": "===",
-          "doseRaw": ""
-        },
         {
           "herbId": "腹痛",
           "name": "腹痛",

@@ -123,7 +123,7 @@ export interface Herb {
   monographId?: string
 }
 
-export type DiffKind = 'add' | 'remove' | 'dose'
+export type DiffKind = 'add' | 'remove' | 'dose' | 'multi'
 
 export interface FormulaDiffPair {
   id: string
@@ -134,6 +134,10 @@ export interface FormulaDiffPair {
   herbName: string
   fromDoseRaw?: string
   toDoseRaw?: string
+  /** 多味差异时的加味列表 */
+  addedHerbNames?: string[]
+  /** 多味差异时的去味列表 */
+  removedHerbNames?: string[]
   symptomDelta: {
     gained: string[]
     lost: string[]
@@ -230,4 +234,202 @@ export interface SearchDoc {
   book?: BookId
   corpus?: Corpus
   href: string
+}
+
+export type NatureTag =
+  | '热'
+  | '寒'
+  | '补'
+  | '泻'
+  | '升'
+  | '降'
+  | '收'
+  | '散'
+  | '润'
+  | '燥'
+
+export interface NatureIndex {
+  热: number
+  寒: number
+  补: number
+  泻: number
+  升: number
+  降: number
+  收: number
+  散: number
+  润: number
+  燥: number
+}
+
+export interface ReasoningHerb {
+  name: string
+  weight: number
+  natures: NatureTag[]
+  action: string
+}
+
+export interface ReasoningIndication {
+  symptom: string
+  herbNames: string[]
+  rationale?: string
+}
+
+export interface ReasoningClauseRef {
+  book: 'songben' | 'jingui'
+  number: number
+  excerpt: string
+}
+
+export interface TreeResult {
+  formulaName: string
+  note?: string
+  addHerbs?: string[]
+  formulaIds?: Array<string | undefined>
+}
+
+export interface TreeOption {
+  label: string
+  nextNodeId?: string
+  result?: TreeResult
+}
+
+export interface TreeNode {
+  question: string
+  options: TreeOption[]
+}
+
+export interface ReasoningTree {
+  id: string
+  title: string
+  sourcePage: number
+  rootNodeId: string
+  nodes: Record<string, TreeNode>
+}
+
+export interface FormulaReasoning {
+  formulaName: string
+  function: string
+  sourcePage: number
+  herbs: ReasoningHerb[]
+  indications: ReasoningIndication[]
+  clauseRefs: ReasoningClauseRef[]
+  reviewStatus: ReviewStatus
+  formulaId?: string
+  natureIndex: NatureIndex
+  clauseIds: string[]
+}
+
+export interface ReasoningDataset {
+  trees: ReasoningTree[]
+  formulas: FormulaReasoning[]
+  generatedAt: string
+  source: string
+}
+
+export type OrganTag =
+  | '心'
+  | '肝'
+  | '脾'
+  | '肺'
+  | '肾'
+  | '胃'
+  | '胆'
+  | '大肠'
+  | '小肠'
+  | '膀胱'
+  | '三焦'
+  | '心包'
+  | '命门'
+
+export type WuxingElement = '木' | '火' | '土' | '金' | '水'
+
+export type OrganRelationKind = '生' | '克' | '乘' | '侮' | '移邪'
+
+export type DisputeKind = 'misdiagnosis' | 'mistreatment' | 'drugDoubt' | 'commonPractice'
+
+export type ChenfuReasoningBook = 'bianzheng' | 'funvke' | 'funanke' | 'shishi'
+
+/** text：原文；heading：以标题为症；previous：承接同门上一则；none：原文未述 */
+export type SymptomSource = 'text' | 'heading' | 'previous' | 'none'
+
+export interface CaseDispute {
+  kind: DisputeKind
+  claim: string
+  rebuttal: string
+}
+
+export interface OrganRelation {
+  from: OrganTag
+  to: OrganTag
+  kind: OrganRelationKind
+}
+
+export interface ChenfuCase {
+  caseId: string
+  caseIndex: number
+  symptomText?: string
+  symptomSource: SymptomSource
+  continuesFromClauseId?: string
+  /** 方药并自下一则原文（辨证录切分错位） */
+  prescriptionFromClauseId?: string
+  disputes: CaseDispute[]
+  pathogenesis?: string
+  methodCategory?: string
+  organs: OrganTag[]
+  relations: OrganRelation[]
+  elements: WuxingElement[]
+  treatmentPrinciple?: string
+  formulaIds: string[]
+  formulaText?: string
+  keySentence?: string
+}
+
+export interface ChenfuRecord {
+  clauseId: string
+  book: ChenfuReasoningBook
+  chapter: string
+  heading?: string
+  symptomTags: string[]
+  pathogenesisTags: string[]
+  annotated: boolean
+  cases: ChenfuCase[]
+  parallelIds: string[]
+}
+
+export interface ChenfuFormula {
+  id: string
+  name: string
+  preparation: string
+  fangjie: string
+}
+
+export interface CompareFormulaRef {
+  name: string
+  formulaId?: string
+  hasReasoning: boolean
+}
+
+export interface CompareTopic {
+  id: string
+  title: string
+  description?: string
+  jingfang: { treeId?: string; formulas: CompareFormulaRef[] }
+  chenfuCaseIds: string[]
+}
+
+export interface ChenfuBookStats {
+  records: number
+  annotated: number
+  cases: number
+  disputeCounts: Record<DisputeKind | 'none', number>
+}
+
+export interface ChenfuReasoningDataset {
+  generatedAt: string
+  source: string
+  reviewStatus: 'ai-draft'
+  records: ChenfuRecord[]
+  formulas: Record<string, ChenfuFormula>
+  compareTopics: CompareTopic[]
+  stats: Record<ChenfuReasoningBook, ChenfuBookStats>
 }

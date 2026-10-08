@@ -30,6 +30,17 @@ const PREP_RE =
 const NEXT_CASE_RE =
   /^(?:妇人有|婦人有|人有|冬月伤寒|冬月傷寒|凡人|凡伤寒|凡傷寒|男子有|此症|此病|又一方|又曰)/
 
+/** 「补中益气汤∶人参（三钱）…」「∶人参…」中药味前的方名与冒号 */
+const LEADING_LABEL_RE = /^[^（(]*?[:：∶]\s*/
+
+/** 药味行尾粘连的煎服法起点：「…桂枝（三分）水煎服。一剂而…」 */
+const INLINE_PREP_START_RE = /水煎|煎服|水煮|酒煎/
+
+/** 煎药溶媒，几乎每方都用，不列入药味 */
+const EXCLUDED_SOLVENT_NAMES = new Set(['水'])
+
+const CJK_CHAR_RE = /[\u3400-\u9fff]/
+
 function toHerbId(name: string): string {
   return name.normalize('NFKC').replace(/\s+/g, '')
 }
@@ -69,7 +80,13 @@ function isAlternateIntro(intro: string): boolean {
  */
 export function splitChenfuHerbLine(line: string, lexicon?: string[]): string[] {
   const fixed = applyMissingCharFixes(toSimplifiedChinese(line))
-  const cleaned = fixed.replace(/　/g, ' ').replace(/\s+/g, ' ').trim()
+  const normalized = fixed
+    .replace(/　/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .replace(LEADING_LABEL_RE, '')
+  const prepStart = normalized.search(INLINE_PREP_START_RE)
+  const cleaned = (prepStart >= 0 ? normalized.slice(0, prepStart) : normalized).trim()
   if (!cleaned) return []
 
   // 「各一钱」共享剂量
@@ -141,6 +158,8 @@ export function parseChenfuHerbToken(token: string): FormulaHerb | null {
   const note = paren ? paren[2] : undefined
   const name = canonicalizeChenfuHerb(namePart)
   if (!name || name.length > 8) return null
+  if (!CJK_CHAR_RE.test(name)) return null
+  if (EXCLUDED_SOLVENT_NAMES.has(name)) return null
 
   const dose = parseQingDose(simplified)
   const processing = extractProcessing(simplified) ?? (note ? extractProcessing(note) : undefined)

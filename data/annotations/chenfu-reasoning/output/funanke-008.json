@@ -1,0 +1,173 @@
+{
+  "entries": [
+    {
+      "clauseId": "funanke-0211",
+      "contentHash": "b50b6b140670aaf5",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "pathogenesis": "此症虽胃气之弱，亦脾气之虚，小儿恣意饱食，不能消化,久之上冲于胃口而吐也",
+          "organs": ["胃", "脾"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0211-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0212",
+      "contentHash": "437d638850cc7417",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0212-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0213",
+      "contentHash": "d7136386ba55bc88",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "遂至口中流涎",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "若不平其心火", "rebuttal": "则脾火更旺，湿热上蒸,而口涎不能止" }
+          ],
+          "pathogenesis": "此脾热而因乎心热也",
+          "organs": ["脾", "心"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0213-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0214",
+      "contentHash": "e963ea359cbe5c54",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0214-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0215",
+      "contentHash": "fec99889de69c1d2",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0215-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0216",
+      "contentHash": "675eb2d425c4b843",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0216-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0217",
+      "contentHash": "1f787e5690101c06",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0217-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0218",
+      "contentHash": "4a372e514dcc3a3f",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0218-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0219",
+      "contentHash": "338b9493df40437c",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0219-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0220",
+      "contentHash": "62226be9ff2c4072",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "痘疮坏症已黑者",
+          "disputes": [
+            { "kind": "commonPractice", "claim": "人将弃之", "rebuttal": "药下喉即活" }
+          ],
+          "pathogenesis": "此乃元气虚而火不能发也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0220-1"],
+          "keySentence": "故用人参以补元气,元参去浮游之火"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0221",
+      "contentHash": "0cfc40b22208fcd0",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "三六九日一切风俱治",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "陈胆星 雄黄 朱砂 人参 茯苓 天竺黄 钩藤 牛黄 麝香 川郁金 柴胡 青皮 甘草"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0222",
+      "contentHash": "7235f2443ba05dbd",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": ["肝", "胃"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0222-1"],
+          "keySentence": "此方妙在用青蒿，肝胃之火俱平"
+        }
+      ]
+    }
+  ]
+}

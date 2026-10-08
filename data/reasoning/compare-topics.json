@@ -1,0 +1,78 @@
+[
+  {
+    "id": "shanghan-taiyang",
+    "title": "伤寒太阳",
+    "description": "外感初起、表证为主：经方按有汗无汗、项背强、水饮分方；陈傅常辨「太阳已趋阳明」一类的传变误判。",
+    "jingfang": {
+      "treeId": "cold-overview",
+      "formulaNames": ["桂枝汤", "麻黄汤", "葛根汤", "小青龙汤"]
+    },
+    "chenfu": [
+      { "book": "bianzheng", "headingPattern": "伤寒门", "casePattern": "太阳" },
+      { "book": "funanke", "headingPattern": "伤寒门·(伤风|伤寒|外感|发汗)" }
+    ]
+  },
+  {
+    "id": "shanghan-yangming",
+    "title": "伤寒阳明",
+    "description": "里热炽盛或腑实：经方以白虎、承气分经证腑证；陈傅以「胃火」「肺金受烁」等脏腑病机论之。",
+    "jingfang": {
+      "formulaNames": ["白虎汤", "调胃承气汤", "大承气汤", "麻杏甘石汤"]
+    },
+    "chenfu": [
+      { "book": "bianzheng", "headingPattern": "伤寒门|春温门|火热症门", "casePattern": "阳明" },
+      { "book": "shishi", "headingPattern": "大治法|短治法|火治法", "casePattern": "阳明" }
+    ]
+  },
+  {
+    "id": "shanghan-shaoyang",
+    "title": "伤寒少阳",
+    "description": "半表半里、寒热往来：经方以柴胡剂和解；陈傅常从肝胆立论，兼顾胃火。",
+    "jingfang": {
+      "treeId": "respiratory",
+      "formulaNames": ["小柴胡汤", "大柴胡汤", "柴胡桂枝汤"]
+    },
+    "chenfu": [
+      { "book": "bianzheng", "headingPattern": "伤寒门|春温门|疟疾门", "casePattern": "少阳" }
+    ]
+  },
+  {
+    "id": "cough",
+    "title": "咳嗽",
+    "description": "经方按寒饮、肺热、痰气交阻分方；陈傅强调肺肾相关、脾虚生痰。",
+    "jingfang": {
+      "treeId": "fever-cough-tree",
+      "formulaNames": ["小青龙汤", "麻杏甘石汤", "射干麻黄汤", "半夏厚朴汤", "苓桂术甘汤"]
+    },
+    "chenfu": [
+      { "book": "bianzheng", "headingPattern": "咳嗽门" },
+      { "book": "funanke", "headingPattern": "痰嗽门" },
+      { "book": "shishi", "headingPattern": "收治法", "casePattern": "嗽" }
+    ]
+  },
+  {
+    "id": "leukorrhea",
+    "title": "带下",
+    "description": "金匮带下多从瘀血、寒湿、局部外治入手；傅青主以五色带分属五脏，重脾虚湿盛与肝郁。",
+    "jingfang": {
+      "formulaNames": ["温经汤", "当归芍药散", "矾石丸", "蛇床子散"]
+    },
+    "chenfu": [
+      { "book": "funvke", "headingPattern": "带下" },
+      { "book": "bianzheng", "headingPattern": "带门" }
+    ]
+  },
+  {
+    "id": "abdominal-pain-diarrhea",
+    "title": "腹痛与泄泻",
+    "description": "经方按寒热虚实与水饮分方；陈傅从脾肾火衰、肝木乘土、命门火衰立论。",
+    "jingfang": {
+      "treeId": "daily-symptom",
+      "formulaNames": ["芍药甘草汤", "小建中汤", "理中丸", "四逆汤", "五苓散", "葛根黄芩黄连汤", "黄芩汤"]
+    },
+    "chenfu": [
+      { "book": "bianzheng", "headingPattern": "腹痛门|大泻门" },
+      { "book": "funanke", "headingPattern": "泄泻门|心腹痛门·腹痛" }
+    ]
+  }
+]

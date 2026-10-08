@@ -243,11 +243,30 @@ export function resolveFormulaId(
 
 export function resolveClauseIds(
   refs: ReasoningClauseRef[],
-  clauses: Array<Pick<Clause, 'id' | 'book' | 'order'>>,
+  clauses: Array<Pick<Clause, 'id' | 'book' | 'order'> & { chapterOrder?: number; text?: string }>,
 ): string[] {
   const ids: string[] = []
   for (const ref of refs) {
-    const hit = clauses.find((clause) => clause.book === ref.book && clause.order === ref.number)
+    let hit =
+      ref.book === 'songben'
+        ? clauses.find((clause) => clause.book === ref.book && clause.order === ref.number)
+        : undefined
+
+    // 金匮条文号多为篇序；优先用摘录子串定位
+    if (!hit && ref.excerpt) {
+      const needle = ref.excerpt.replace(/……/g, '').slice(0, 12)
+      hit = clauses.find(
+        (clause) =>
+          clause.book === ref.book && typeof clause.text === 'string' && clause.text.includes(needle),
+      )
+    }
+
+    if (!hit && ref.book === 'jingui') {
+      hit = clauses.find(
+        (clause) => clause.book === 'jingui' && clause.chapterOrder === ref.number,
+      )
+    }
+
     if (hit) ids.push(hit.id)
   }
   return ids
@@ -300,7 +319,7 @@ export function buildReasoningDataset(
       nodes[nodeId] = {
         question: node.question,
         options: node.options.map((option) => {
-          if (!option.result) return { ...option }
+          if (!option.result) return { label: option.label, nextNodeId: option.nextNodeId }
           const names = splitFormulaNames(option.result.formulaName)
           return {
             ...option,

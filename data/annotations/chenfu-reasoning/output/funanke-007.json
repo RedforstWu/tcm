@@ -1,0 +1,533 @@
+{
+  "entries": [
+    {
+      "clauseId": "funanke-0181",
+      "contentHash": "881e113563f94c02",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "便血出于后阴，尿血出于前阴",
+          "disputes": [],
+          "pathogenesis": "盖大小便各有经络，而其症皆因膀胱之热也",
+          "organs": ["膀胱"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0181-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0182",
+      "contentHash": "ff9383b4760f53f6",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0182-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0183",
+      "contentHash": "2cadb64796b06d61",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0183-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0184",
+      "contentHash": "f0b51bc8b0e9d082",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0184-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0185",
+      "contentHash": "c016d73d6c3dd7c9",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "如大便结、脉沉实者",
+          "disputes": [
+            { "kind": "commonPractice", "claim": "除清凉发散正治外，人即束手无策", "rebuttal": "而不知更有三法" }
+          ],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "名釜底抽薪之法",
+          "formulaIds": [],
+          "formulaText": "用酒蒸大黄三钱微下之"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "如大便泻，脉沉足冷者",
+          "disputes": [],
+          "pathogenesis": "是冷极于下，而迫其火之上升也",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "此名导龙入海之法",
+          "formulaIds": [],
+          "formulaText": "宜六味地黄汤，加牛膝、车前、肉桂"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "大便如常，脉无力者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "此名引火归源之法也",
+          "formulaIds": [],
+          "formulaText": "用牛膝车前引下之"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0186",
+      "contentHash": "e8655f04d566f8e8",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "如足痛足肿，无力虚软，膝疮红肿",
+          "disputes": [],
+          "pathogenesis": "不效者定是中气下陷，湿热下流",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "用补中益气升提之"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "如足软不能行而能食，名曰痿症",
+          "disputes": [],
+          "organs": ["肺"],
+          "relations": [],
+          "treatmentPrinciple": "宜清肺热",
+          "formulaIds": []
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "如治泄泻",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "亦用补中益气，去当归，加炮姜苍术"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "如尿血",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜清心莲子饮"
+        },
+        {
+          "caseIndex": 4,
+          "symptomText": "如右关微，或数大无力",
+          "disputes": [],
+          "pathogenesis": "是脾虚不摄血",
+          "organs": ["脾"],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜六君子加炮姜"
+        },
+        {
+          "caseIndex": 5,
+          "symptomText": "若右关沉紧",
+          "disputes": [],
+          "pathogenesis": "是饮食伤脾，不能摄血",
+          "organs": ["脾"],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "加沉香贰分"
+        },
+        {
+          "caseIndex": 6,
+          "symptomText": "右寸洪数",
+          "disputes": [],
+          "pathogenesis": "是实热在肺",
+          "organs": ["肺"],
+          "relations": [],
+          "treatmentPrinciple": "宜清肺",
+          "formulaIds": [],
+          "formulaText": "麦冬、花粉、元参、枯芩、桔梗、五味子、枳壳"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0187",
+      "contentHash": "b976412930d30426",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0187-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0188",
+      "contentHash": "97a126150663bc65",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "mistreatment", "claim": "头疮不可用升提之药", "rebuttal": "最宜用降火之品" }
+          ],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "最宜用降火之品",
+          "formulaIds": ["funanke-formula-funanke-0188-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0189",
+      "contentHash": "74bd1556a0bb6665",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0189-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0190",
+      "contentHash": "512727056caa6ed0",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0190-1"],
+          "keySentence": "此方消毒大有其功"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0191",
+      "contentHash": "068dddcc76ac3f95",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0191-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0192",
+      "contentHash": "c51529eb5cca8e94",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0192-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0193",
+      "contentHash": "14bd44380b647be7",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "用生甘草参两，加羊血半碗，和匀饮之"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0194",
+      "contentHash": "9d60400126dac60b",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0194-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0195",
+      "contentHash": "c600fe9d3026335b",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0195-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0196",
+      "contentHash": "b5834c2604fb7c56",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0196-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0197",
+      "contentHash": "ad564be3257cf0c5",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "手指甲焙黄为末 滚黄酒冲服"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0198",
+      "contentHash": "aa87218acf11dbcb",
+      "cases": []
+    },
+    {
+      "clauseId": "funanke-0199",
+      "contentHash": "9611db672b00deba",
+      "cases": []
+    },
+    {
+      "clauseId": "funanke-0200",
+      "contentHash": "0fd621de144e4748",
+      "cases": []
+    },
+    {
+      "clauseId": "funanke-0201",
+      "contentHash": "5ec7403189a70fd6",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "小儿不食乳",
+          "disputes": [],
+          "pathogenesis": "心热也",
+          "organs": ["心"],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "不若用黄连三分,煎汤一分，灌数次即食矣"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0202",
+      "contentHash": "ca92cac630fe01b5",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "车前子炒焦为细末，敷之即干"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0203",
+      "contentHash": "1b80b4bf40d37352",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "山根之上，有青筋直视者",
+          "disputes": [],
+          "pathogenesis": "乃肝热也",
+          "organs": ["肝"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0203-1"]
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "有青筋横现者",
+          "disputes": [],
+          "pathogenesis": "亦肝热也",
+          "organs": ["肝"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0203-1"],
+          "formulaText": "用前方加柴胡（ 伍分） 麦芽（ 壹钱） 干姜（ 壹分）"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "有红筋直现者",
+          "disputes": [],
+          "pathogenesis": "心热也",
+          "organs": ["心"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0203-1"],
+          "formulaText": "亦用前方加黄连（ 壹分） 麦冬（ 伍分）去半夏，加桑白皮、天花粉（ 各贰分）"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "有红筋斜现者",
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "不可用半夏", "rebuttal": "用桑白皮、花粉可也" }
+          ],
+          "pathogenesis": "亦心热也",
+          "organs": ["心"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0203-1"],
+          "formulaText": "亦用前方加黄连（ 贰分）"
+        },
+        {
+          "caseIndex": 4,
+          "symptomText": "有黄筋现于山根者，不论横直，总是脾胃之症,或吐或泻，腹痛或不思食",
+          "disputes": [],
+          "pathogenesis": "总是脾胃之症",
+          "organs": ["脾", "胃"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0203-2"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0204",
+      "contentHash": "1287cdd244199bac",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "不拘早晚发热",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "不可作惊风治之", "rebuttal": "小儿诸症,不过如此" }
+          ],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0204-1"]
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "凡潮热、积热、疟热",
+          "disputes": [],
+          "pathogenesis": "乃脾积寒热",
+          "organs": ["脾"],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "柴胡、人参、黄芩、前胡、秦艽、甘草、青蒿各壹分"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0205",
+      "contentHash": "5f712cc3f3012dd2",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0205-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0206",
+      "contentHash": "bc14beadf4ee3804",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "commonPractice", "claim": "世人动曰惊风", "rebuttal": "谁知小儿惊则有之，而风则无" },
+            { "kind": "mistreatment", "claim": "内风作外风治", "rebuttal": "是速之死也" }
+          ],
+          "pathogenesis": "盖小儿阳旺内热，内热则生风，是非外来之风，乃内出之风也",
+          "organs": ["肝", "脾"],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0206-1"],
+          "keySentence": "此方健脾平肝之圣药,肝平则火散，脾健则风止"
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0207",
+      "contentHash": "395988b9b0b8b2af",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "pathogenesis": "凡惊风皆由于气虚",
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0207-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0208",
+      "contentHash": "29f860751d1ba1b1",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0208-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0209",
+      "contentHash": "d91706b4228b2a7b",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "身热如火，口渴舌燥，喜冷饮而不喜热汤",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0209-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0210",
+      "contentHash": "fa55080e38cc8307",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "此症必腹痛而喜手按摩，口不渴而舌滑，喜热饮而不喜冷水也",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": ["funanke-formula-funanke-0210-1"]
+        }
+      ]
+    }
+  ]
+}

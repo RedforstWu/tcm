@@ -65,13 +65,13 @@
       "chapterCount": 0
     }
   ],
-  "herbCount": 3455,
+  "herbCount": 1861,
   "formulaCount": 1715,
   "clauseCount": 2201,
-  "diffPairCount": 498,
-  "herbRoleCount": 1969,
+  "diffPairCount": 15310,
+  "herbRoleCount": 1970,
   "monographCount": 258,
-  "generatedAt": "2026-10-08T07:21:11.972Z",
+  "generatedAt": "2026-10-08T08:19:05.087Z",
   "sources": [
     {
       "id": "songben",

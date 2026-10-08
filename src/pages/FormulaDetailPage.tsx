@@ -80,7 +80,7 @@ export function FormulaDetailPage() {
   }
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-4 sm:space-y-6">
       {formula.fangjie && <DraftBanner />}
       <div>
         <p className="text-sm text-stone-500">
@@ -88,7 +88,7 @@ export function FormulaDetailPage() {
           {formula.role === 'alternate' && ' · 备选方'}
           {formula.doseSystem === 'qing' && ' · 清制剂量'}
         </p>
-        <h1 className="font-serif text-3xl font-bold">{convertScript(formula.name, scriptMode)}</h1>
+        <h1 className="font-serif text-2xl font-bold sm:text-3xl">{convertScript(formula.name, scriptMode)}</h1>
         {formula.chapter && (
           <p className="mt-1 text-sm text-stone-500">{convertScript(formula.chapter, scriptMode)}</p>
         )}
@@ -131,7 +131,7 @@ export function FormulaDetailPage() {
         </section>
       )}
 
-      <section className="rounded-2xl border border-stone-200 bg-white/80 p-5">
+      <section className="rounded-2xl border border-stone-200 bg-white/80 p-4 sm:p-5">
         <h2 className="mb-3 font-serif text-lg font-semibold">组成</h2>
         {formula.herbs.length === 0 ? (
           <p className="text-sm text-stone-500">此版原文未载完整药味，或待从他本回填。</p>
@@ -181,7 +181,7 @@ export function FormulaDetailPage() {
       </section>
 
       {formula.preparation && (
-        <section className="rounded-2xl border border-stone-200 bg-white/80 p-5">
+        <section className="rounded-2xl border border-stone-200 bg-white/80 p-4 sm:p-5">
           <h2 className="mb-3 font-serif text-lg font-semibold">煎服法</h2>
           <p className="prose-classic text-sm leading-relaxed text-stone-700">
             {convertScript(formula.preparation, scriptMode)}
@@ -190,7 +190,7 @@ export function FormulaDetailPage() {
       )}
 
       {formula.fangjie && (
-        <section className="rounded-2xl border border-stone-200 bg-white/80 p-5">
+        <section className="rounded-2xl border border-stone-200 bg-white/80 p-4 sm:p-5">
           <h2 className="mb-3 font-serif text-lg font-semibold">方解</h2>
           <p className="prose-classic text-sm leading-relaxed text-stone-700">
             {convertScript(formula.fangjie, scriptMode)}
@@ -199,7 +199,7 @@ export function FormulaDetailPage() {
       )}
 
       {formula.modifications.length > 0 && (
-        <section className="rounded-2xl border border-stone-200 bg-white/80 p-5">
+        <section className="rounded-2xl border border-stone-200 bg-white/80 p-4 sm:p-5">
           <h2 className="mb-3 font-serif text-lg font-semibold">方后加减</h2>
           <ul className="space-y-2 text-sm">
             {formula.modifications.map((mod, index) => (
@@ -215,7 +215,7 @@ export function FormulaDetailPage() {
         </section>
       )}
 
-      <section className="rounded-2xl border border-stone-200 bg-white/80 p-5">
+      <section className="rounded-2xl border border-stone-200 bg-white/80 p-4 sm:p-5">
         <h2 className="mb-3 font-serif text-lg font-semibold">出处条文</h2>
         <div className="space-y-3">
           {clauses.map((clause) => (
@@ -236,7 +236,7 @@ export function FormulaDetailPage() {
       </section>
 
       {related.length > 0 && (
-        <section className="rounded-2xl border border-stone-200 bg-white/80 p-5">
+        <section className="rounded-2xl border border-stone-200 bg-white/80 p-4 sm:p-5">
           <h2 className="mb-3 font-serif text-lg font-semibold">相关方剂</h2>
           <div className="flex flex-wrap gap-2">
             {related.map((item) => {

@@ -1,0 +1,902 @@
+{
+  "entries": [
+    {
+      "clauseId": "bianzheng-0091",
+      "contentHash": "e79bf750f326c1a9",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": ["胃", "肾", "肺"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0091-1"],
+          "keySentence": "此方人参宜多用，不用至二两则不能下达于气海关元"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有七情气郁，结滞痰涎，或如破絮，或如梅核，咯之不出，咽之不下，痞满壅盛，上气喘急",
+          "disputes": [],
+          "pathogenesis": "此内伤外感兼而成之者也",
+          "organs": ["肝", "胆"],
+          "relations": [],
+          "treatmentPrinciple": "吾治其肝胆，而内伤、外感俱皆愈也",
+          "formulaIds": ["bianzheng-formula-bianzheng-0091-2"]
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "人有久嗽之后，忽然大喘不止，痰出如泉，身汗如油",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "此汗出亡阳，本是不救之病", "rebuttal": "而吾以为可救者，以久嗽伤肺而不伤肾也" }
+          ],
+          "pathogenesis": "故伤肺以致伤肾者，终伤气而非伤精",
+          "organs": ["肺", "肾"],
+          "relations": [{ "from": "肺", "to": "肾", "kind": "生" }],
+          "formulaIds": ["bianzheng-formula-bianzheng-0091-3"],
+          "keySentence": "生脉散补气之圣药也。补其肺气，自生肾水矣"
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0092",
+      "contentHash": "c44bcda676384d66",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有得怔忡之症者，一遇拂情之事，或听逆耳之言，便觉心气怦怦上冲，有不能自主之势，似烦而非烦，似晕而非晕",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为心虚之故也", "rebuttal": "然而心虚由于肝虚" },
+            { "kind": "mistreatment", "claim": "用寒凉以制肺", "rebuttal": "必致伤损脾胃" }
+          ],
+          "pathogenesis": "然而心虚由于肝虚，肝虚则肺金必旺，以心弱不能制肺也",
+          "organs": ["心", "肝", "肺", "脾", "胃", "肾"],
+          "relations": [{ "from": "肺", "to": "肝", "kind": "克" }],
+          "treatmentPrinciple": "所以肺不宜制而宜养也",
+          "formulaIds": ["bianzheng-formula-bianzheng-0092-1", "bianzheng-formula-bianzheng-0092-2"],
+          "keySentence": "此方不全去定心，而反去补肝以平木"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有得怔忡之症，日间少轻，至夜则重，欲思一睡熟而不可得者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为心虚之极也", "rebuttal": "谁知是肾气之乏乎" },
+            { "kind": "drugDoubt", "claim": "此方补肾之中仍益之补心之剂，似乎无专补之功", "rebuttal": "殊不知肾水既足，而心气若虚，恐有不相契合之虞" }
+          ],
+          "pathogenesis": "惟肾水大耗",
+          "organs": ["心", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "治法大补其肾中之精，则肾气充足矣",
+          "formulaIds": ["bianzheng-formula-bianzheng-0092-3"],
+          "keySentence": "今心肾两有余资，主客分外加欢，相得益彰矣"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "人有得怔忡之症，心常怦怦不安，常若有官事未了，人欲来捕之状",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为心气之虚也", "rebuttal": "谁知是胆气之怯乎" },
+            { "kind": "mistreatment", "claim": "治法徒补心而不补各脏腑之气", "rebuttal": "则怔忡之病不能痊" }
+          ],
+          "pathogenesis": "胆气一虚，而脏腑之气皆无所遵从，而心尤无主",
+          "organs": ["胆", "心"],
+          "relations": [{ "from": "胆", "to": "心", "kind": "生" }],
+          "treatmentPrinciple": "故必补胆之气，而后可以去怯也",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0093",
+      "contentHash": "eb82f46d4f15cd96",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": ["肝", "胆", "心"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0093-1"],
+          "keySentence": "此方肝胆同治之剂，亦心胆共治之剂也"
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0094",
+      "contentHash": "d3986d712032436d",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有闻声而动惊，心中怦怦，半日而后止者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为心中有痰也", "rebuttal": "然而惊悸虽分轻重，而虚则一也" },
+            { "kind": "mistreatment", "claim": "乃用消痰之药治之", "rebuttal": "不效，久则不必闻声而亦惊" }
+          ],
+          "pathogenesis": "皆心肝二部之血虚也",
+          "organs": ["心", "肝"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0094-1"],
+          "keySentence": "夫神魂不定而惊生，神魂不安而悸起，皆心肝二部之血虚也"
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0095",
+      "contentHash": "fa4bb55ee018fa95",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": ["心", "肾"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0095-1"],
+          "keySentence": "龙能定惊，虎能止悸，入之补心补肾之中，使心肾交通"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有先惊而后悸，亦有先悸而后惊",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "似乎不同", "rebuttal": "而不知非有异也，不过轻重之殊耳" }
+          ],
+          "organs": ["心", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "吾定一方，合惊悸而治之",
+          "formulaIds": [],
+          "formulaText": "名为两静汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0096",
+      "contentHash": "2fd99f1d564534a5",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有遇事或多言而烦心生，常若胸中扰攘纷纭而嘈杂",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "或谓心热则火动而生烦，胆寒则血少而厌烦矣", "rebuttal": "不知虚烦实本于心热，胆则未曾寒也" },
+            { "kind": "mistreatment", "claim": "古人用温胆汤以治虚烦，而烦转盛者", "rebuttal": "正误认胆寒也" }
+          ],
+          "pathogenesis": "此阴阳偏胜之故，火有余而水不足也",
+          "organs": ["心", "胆"],
+          "relations": [],
+          "treatmentPrinciple": "治法宜于补心之中，而用清心之味",
+          "formulaIds": [],
+          "formulaText": "方名解烦益心"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有年老患虚烦不寐，大便不通，常有一裹热气，自脐下直冲于心，便觉昏乱欲绝",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为火气之冲心也", "rebuttal": "谁知是肾水之大亏乎" }
+          ],
+          "pathogenesis": "老人孤阳无水，热气上冲，乃肾火冲心也",
+          "organs": ["肾", "心", "肝", "心包"],
+          "relations": [{ "from": "肾", "to": "心", "kind": "生" }],
+          "treatmentPrinciple": "治法大补肾中之水，则水足以制火",
+          "formulaIds": ["bianzheng-formula-bianzheng-0096-1"],
+          "keySentence": "六味丸汤所以滋肾水之涸也"
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0097",
+      "contentHash": "5c426fb5255024e6",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有昼夜不能寐，心甚躁烦",
+          "disputes": [],
+          "pathogenesis": "夫心肾之所以不交者，心过于热，而肾过于寒也",
+          "organs": ["心", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "使心之热者不热，肾之寒者不寒",
+          "formulaIds": ["bianzheng-formula-bianzheng-0097-1", "bianzheng-formula-bianzheng-0097-2"],
+          "keySentence": "盖黄连凉心，肉桂温肾，二物同用，原能交心肾于顷刻"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有忧愁之后，终日困倦，至夜而双目不闭，欲求一闭目而不得者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为心肾之不交也", "rebuttal": "谁知是肝气之太燥乎" }
+          ],
+          "pathogenesis": "气郁既久，则肝气不舒；肝气不舒，则肝血必耗",
+          "organs": ["肝", "肾", "心"],
+          "relations": [{ "from": "肾", "to": "肝", "kind": "生" }],
+          "treatmentPrinciple": "治法必须补肝血之燥，而益肾水之枯",
+          "formulaIds": ["bianzheng-formula-bianzheng-0097-3"],
+          "keySentence": "此方用芍药、当归以滋其肝，则肝气自平"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "人有夜不能寐，恐鬼祟来侵，睡卧反侧，辗转不安，或少睡而即惊醒，或再睡而恍如捉拿",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为心肾不交", "rebuttal": "而熟知乃胆气之怯也" }
+          ],
+          "pathogenesis": "胆气既虚，至不敢相延心肾二气而为之介绍",
+          "organs": ["胆", "心", "肾", "肝"],
+          "relations": [],
+          "treatmentPrinciple": "治法宜补少阳之气",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0098",
+      "contentHash": "c360db01ee7a46b9",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "佐以远志、枣仁者，似乎入心而不入胆", "rebuttal": "不知远志、枣仁既能入心，亦能入胆" }
+          ],
+          "organs": ["肝", "胆"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0098-1"],
+          "keySentence": "此方白芍入肝入胆"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有神气不安，卧则魂梦飞扬，身虽在床，而神若远离，闻声则惊醒而不寐，通宵不能闭目",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为心气之虚也", "rebuttal": "谁知是肝经之受邪乎" }
+          ],
+          "pathogenesis": "今肝血既亏，肝脏之中无非邪火之气",
+          "organs": ["肝"],
+          "relations": [],
+          "treatmentPrinciple": "治法祛肝之邪，而先补肝之血",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0099",
+      "contentHash": "10084c460e695139",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": ["肝", "心"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0099-1"],
+          "keySentence": "正取其龙齿入肝而能平木也"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有心颤神慑，如处孤垒，而四面受敌，达旦不能寐，目眵眵无所见，耳聩聩无所闻，欲少闭睫而不可得",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为心肾之不交也", "rebuttal": "谁知是胆虚而风袭之乎" }
+          ],
+          "pathogenesis": "夫胆虚则怯，怯则外邪易入矣",
+          "organs": ["胆", "心", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "治法必补助其胆气，佐以祛风荡邪之品",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0100",
+      "contentHash": "6ee1f74124f0ec10",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": ["胆", "心", "肾"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0100-1"],
+          "keySentence": "此方绝不治心肾之不交，而惟泻胆木之风邪"
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0101",
+      "contentHash": "f06f9352547dd6c5",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有老年而健忘者，近事多不记忆，虽人述其前事，犹若茫然",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为心血之涸", "rebuttal": "谁知是肾水之竭乎" },
+            { "kind": "mistreatment", "claim": "如止益心中之血，而不去填肾中之精", "rebuttal": "但能救一时之善忘，而不能冀长年之不忘也" }
+          ],
+          "organs": ["心", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "治法必须补心，而兼补肾",
+          "formulaIds": [],
+          "formulaText": "方名生慧汤"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有壮年而健忘者，必得之伤寒大病之后，或酒色过度之人",
+          "disputes": [
+            { "kind": "commonPractice", "claim": "世人往往轻之而不以为重", "rebuttal": "久则他病生焉，变迁异症而死者多矣" },
+            { "kind": "mistreatment", "claim": "若徒治心肾", "rebuttal": "恐胃气甚弱，则虚不受补" }
+          ],
+          "pathogenesis": "此种健忘，乃五脏俱伤之病，不止心肾二经之伤也",
+          "organs": ["胃", "心", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "必须加意强胃",
+          "formulaIds": ["bianzheng-formula-bianzheng-0101-1"]
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "人有气郁不舒，忽忽如有所失，目前之事竟不记忆，一如老人之善忘",
+          "disputes": [],
+          "pathogenesis": "此乃肝气之滞，非心肾之虚耗也",
+          "organs": ["肝", "心", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "治法必须通其肝气之滞，而后心肾相通",
+          "formulaIds": ["bianzheng-formula-bianzheng-0101-2"],
+          "keySentence": "直解其肝中之沉滞，使肝血大旺"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "人有对人说话随说随忘，人述其言杳不记忆，如从前并不道及",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为有祟凭之也", "rebuttal": "谁知是心肾之两开乎" }
+          ],
+          "pathogenesis": "两不相交，则势必至于两相忘矣",
+          "organs": ["心", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "治法必须大补心肾",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0102",
+      "contentHash": "a046963999f064d8",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "此方似乎重于治心，而轻于治肾", "rebuttal": "然而方中之妙，无一味非心肾同治之药" }
+          ],
+          "organs": ["心", "肾"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0102-1"],
+          "keySentence": "无一味非心肾同治之药"
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0103",
+      "contentHash": "b6b88d1b389af17b",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有素常发癫，久而不效，口中喃喃不已，时时忽忽不知，时而叫骂，时而歌唱，吐痰如蜒蚰之涎",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人皆谓痰病也", "rebuttal": "然以消痰化涎之药与之，多不效" }
+          ],
+          "pathogenesis": "盖此症乃胃中少有微热而气又甚衰",
+          "organs": ["胃", "心"],
+          "relations": [],
+          "treatmentPrinciple": "治法宜补胃气，而微用清火之药",
+          "formulaIds": ["bianzheng-formula-bianzheng-0103-1"],
+          "keySentence": "此方补胃气以生心气，助心火而平胃火"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有壮年之人，痰气太盛，一时跌仆，口作牛马之鸣者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "世人所谓牛马之癫也", "rebuttal": "其实乃虚寒之症，痰入心包也" }
+          ],
+          "pathogenesis": "其实乃虚寒之症，痰入心包也",
+          "organs": ["心", "心包"],
+          "relations": [],
+          "treatmentPrinciple": "治法急救其心，不若急救其包络",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0104",
+      "contentHash": "290dd0410d2bdffe",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": ["心包", "心"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0104-1"],
+          "keySentence": "方中虽是救包络之药，其实仍是救心之味也"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "小儿易于发癫痫者",
+          "disputes": [
+            { "kind": "commonPractice", "claim": "世医谓是猪羊之癫。用祛痰搜风之药而益甚", "rebuttal": "绝不悟其先天之亏损" }
+          ],
+          "pathogenesis": "亦由母腹之中先受惊恐之气也",
+          "organs": ["脾", "胃", "命门", "心包"],
+          "relations": [
+            { "from": "命门", "to": "脾", "kind": "生" },
+            { "from": "心包", "to": "胃", "kind": "生" }
+          ],
+          "treatmentPrinciple": "治法宜补其脾胃之土，而更补命门之火以生脾",
+          "formulaIds": ["bianzheng-formula-bianzheng-0104-2"],
+          "keySentence": "四君子汤原是补脾胃之圣药"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "妇人一时发癫，全不识羞，见男子而如怡，遇女子而甚怒，往往有赤身露体而罔顾者",
+          "disputes": [],
+          "pathogenesis": "此乃肝火炽盛，思男子而不可得，郁结而成癫也",
+          "organs": ["肝", "心", "心包", "肾"],
+          "relations": [],
+          "treatmentPrinciple": "治法宜泻其肝火，补其肾水，而兼舒其郁闷之气为得也",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0105",
+      "contentHash": "6cf3058569cdf924",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": ["肝", "肾", "心", "膀胱"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0105-1"],
+          "keySentence": "此方全去泻肝之火，不去耗肝之血"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有入干戈之中，为贼所执，索金帛不与，贼褫其衣，将受刀，得释，遂失心如痴",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为失神之病也", "rebuttal": "谁知是胆落之病乎" }
+          ],
+          "pathogenesis": "胆既堕落，则胆中之汁尽为肝之所收，则肝强胆弱，而心不能取决于胆",
+          "organs": ["胆", "肝", "心"],
+          "relations": [],
+          "treatmentPrinciple": "治法泻肝气之有余，补胆气之不足",
+          "formulaIds": ["bianzheng-formula-bianzheng-0105-2"],
+          "keySentence": "铁落克阴木而不克阳木，故制肝而不制胆"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "人有思虑过度，耗损心血，遂至癫疾，或哭或笑，或裸体而走，或闭户自言，喃喃不已",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为花癫之病也", "rebuttal": "谁知是失志之癫乎" }
+          ],
+          "pathogenesis": "夫思虑过多，必伤于脾，脾气一损，即不能散精于肺",
+          "organs": ["脾", "肺", "心"],
+          "relations": [{ "from": "心", "to": "脾", "kind": "生" }],
+          "treatmentPrinciple": "补心以定志，更不若补脾以定志之为神",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0106",
+      "contentHash": "b388c44e1a839737",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": ["心", "脾"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0106-1"]
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0107",
+      "contentHash": "bc66eafa438fa0a5",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有热极发狂，登高而呼，弃衣而走，气喘发汗如雨",
+          "disputes": [],
+          "pathogenesis": "此阳明胃经之火也",
+          "organs": ["胃", "肺", "心", "肾"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0107-1"]
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有火起发狂，腹满不得卧，面赤心热，妄见妄言，如见鬼状",
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "论理此症可用白虎汤，予嫌白虎汤过于峻削", "rebuttal": "不若泻子汤，既泻其阳，而又无损其阴之为愈也" },
+            { "kind": "mistreatment", "claim": "倘先泻心包之火，而寒凉之药不能先入心包", "rebuttal": "不反动胃火之怒乎" }
+          ],
+          "pathogenesis": "阳明之火盛，由于心包之火盛也",
+          "organs": ["胃", "心包", "肾"],
+          "relations": [{ "from": "心包", "to": "胃", "kind": "生" }],
+          "treatmentPrinciple": "治法仍宜泻胃之火，而不必泻心包之火",
+          "formulaIds": ["bianzheng-formula-bianzheng-0107-2"],
+          "keySentence": "不若直泻胃火，既能制阳，又能制阴"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "人有易喜易笑，狂妄谵语，心神散乱，目有所见",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人疑为胃火之热也", "rebuttal": "不知此病非胃热也，乃心热耳" }
+          ],
+          "pathogenesis": "心之发狂乃内热而自乱",
+          "organs": ["心", "心包", "胃"],
+          "relations": [],
+          "treatmentPrinciple": "治法必以清心为主",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0108",
+      "contentHash": "db60661f1de95d03",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "然徒用黄连，则心火正燥，恐黄连性燥，反动其燥", "rebuttal": "所以又益人参、丹参、麦冬之类，润以济之" }
+          ],
+          "organs": ["心"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0108-1"],
+          "keySentence": "补气以泻火，则心君无伤"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有身热发狂，所言者无非淫乱之语，所喜者无非欢愉之事，一拂其言，一违其事，则狂妄猝发，见神见鬼",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为心热之极也", "rebuttal": "谁知是心包之热乎" },
+            { "kind": "mistreatment", "claim": "苟或单泻心包之火", "rebuttal": "则心包且有犯逆之危，非治法之善也" }
+          ],
+          "pathogenesis": "盖君弱臣强，心中寒极，不能自主耳",
+          "organs": ["心", "心包"],
+          "relations": [],
+          "treatmentPrinciple": "必须补助其心，使心气不弱",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0109",
+      "contentHash": "2c559cd9c8b55adf",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "drugDoubt", "claim": "或谓心中虚寒，用人参以补虚是矣，然用玄参、丹皮、生地之类虽凉心包，独不益心之寒乎，似乎宜加热药以济之也", "rebuttal": "故不若用人参以助心之为得" }
+          ],
+          "organs": ["心", "心包"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0109-1"]
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有为强横者所折辱，愤懑不平，遂病心狂，时而持刀，时而逾屋，披头大叫",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为阳明胃火之盛也", "rebuttal": "谁知是阳明胃土之衰乎" }
+          ],
+          "pathogenesis": "盖阳明虚热，乃内伤而非外感也",
+          "organs": ["胃", "心"],
+          "relations": [{ "from": "心", "to": "胃", "kind": "生" }],
+          "treatmentPrinciple": "于温中而佐之微寒之品，实治法之善者",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0110",
+      "contentHash": "a2f7391f923f8a44",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "mistreatment", "claim": "倘以为实热，而用竹叶石膏也", "rebuttal": "去生自远矣" }
+          ],
+          "organs": ["胃"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0110-1"],
+          "keySentence": "甘温以退大热，复佐之以甘寒"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有忍饥过劳，忽然发狂，披发裸形，罔知羞恶",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为失心之病也", "rebuttal": "谁知是伤胃而动火乎" },
+            { "kind": "commonPractice", "claim": "世皆谓胃火，宜泻而不宜补", "rebuttal": "然而胃实可泻，而胃虚不可泻也" }
+          ],
+          "pathogenesis": "物养胃而火静，胃失物而火动矣",
+          "organs": ["胃", "心", "脾"],
+          "relations": [],
+          "treatmentPrinciple": "仍救其胃气之存，而狂自可定也",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0111",
+      "contentHash": "4c72cafa5d022ab9",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": ["胃", "心", "肺", "脾", "肾", "肝"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0111-1"],
+          "keySentence": "此方大用人参以救胃土，即兼用玄参以杀胃火"
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0112",
+      "contentHash": "56a76df444b15e7e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有终日不言不语，不饮不食，忽笑忽歌，忽愁忽哭，与之美馔则不受，与之粪秽则无辞，与之衣不服，与之草木之叶则反喜",
+          "disputes": [
+            { "kind": "commonPractice", "claim": "人以为此呆病，不必治也", "rebuttal": "然而呆病之成，必有其因" },
+            { "kind": "misdiagnosis", "claim": "此等病似乎有祟凭之", "rebuttal": "然而实无祟也" },
+            { "kind": "drugDoubt", "claim": "或谓此病既是正虚无邪，何以方中用半夏、陈皮如是之多乎", "rebuttal": "不知正虚必然生痰，不祛痰则正气难补" },
+            { "kind": "drugDoubt", "claim": "或又谓呆病既成于郁，不解郁而单补正以攻痰，何以能奏功如此", "rebuttal": "故但补胃气以生心气，不必又始肝气以舒郁气也" }
+          ],
+          "pathogenesis": "大约其始也，起于肝气之郁；其终也，由于胃气之衰",
+          "organs": ["肝", "胃", "心"],
+          "relations": [{ "from": "肝", "to": "胃", "kind": "克" }],
+          "treatmentPrinciple": "治法开郁逐痰，健胃通气",
+          "formulaIds": ["bianzheng-formula-bianzheng-0112-1"],
+          "keySentence": "此方补其正气，而绝不去祛邪"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有呆病终日闭户独居，口中喃喃，多不可解，将自己衣服用针线密缝",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "谓是必死之症", "rebuttal": "尚有可生之机也" }
+          ],
+          "pathogenesis": "盖喜粪乃胃气之衰，而食炭乃肝气之燥",
+          "organs": ["胃", "肝", "心"],
+          "relations": [],
+          "treatmentPrinciple": "治其胃气，而祛其痰涎",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0113",
+      "contentHash": "7abac414f51afe1f",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": ["心", "肝"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0113-1"]
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有一时而成呆病者，全不起于忧郁，其状悉与呆病无异",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为有祟凭之也", "rebuttal": "谁知是起居失节，胃气伤而痰迷之乎" }
+          ],
+          "pathogenesis": "起居失节，则胃中劳伤，不生气而生痰",
+          "organs": ["胃", "心", "心包"],
+          "relations": [],
+          "treatmentPrinciple": "治法宜生其胃气，而佐之消痰之品",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0114",
+      "contentHash": "af26c5faa7acf9b6",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "mistreatment", "claim": "设作呆病治之，亦用附子斩关直入", "rebuttal": "则火以助火，有顷刻发狂而死矣" }
+          ],
+          "organs": ["心", "胃"],
+          "relations": [{ "from": "心", "to": "胃", "kind": "生" }],
+          "formulaIds": ["bianzheng-formula-bianzheng-0114-1"],
+          "keySentence": "此方全去救心，正所以救胃也"
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0115",
+      "contentHash": "6d2c251a504354f5",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有忽然呃逆不止",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "为是寒气相感", "rebuttal": "谁知是气逆而寒入之也" },
+            { "kind": "mistreatment", "claim": "正徒散其寒而不补其气也", "rebuttal": "往往有变成危症，而不可救" }
+          ],
+          "pathogenesis": "丹田之气不足，则气奔于上焦而气逆矣",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法宜大补其丹田之气，而少佐之以祛寒之药",
+          "formulaIds": ["bianzheng-formula-bianzheng-0115-1"]
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有痰气不清，一时作呃逆之声者",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为火逆作祟也", "rebuttal": "今不渴而呃逆，仍是痰气之故，而非火邪之祟也" }
+          ],
+          "pathogenesis": "盖丹田之气欲升，而痰结胸中以阻之",
+          "organs": ["胃"],
+          "relations": [],
+          "treatmentPrinciple": "治法消其痰气，而呃逆自除",
+          "formulaIds": ["bianzheng-formula-bianzheng-0115-2"],
+          "keySentence": "二陈汤为治痰之妙剂"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "人有口渴饮水忽然呃逆者",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "倘以为胃火之盛，而轻用石膏", "rebuttal": "而终于胃土有伤，呃逆除而他病又生矣" }
+          ],
+          "pathogenesis": "乃胃火微旺，而胃气犹虚也",
+          "organs": ["胃"],
+          "relations": [],
+          "treatmentPrinciple": "治法宜补其胃中之土，而降其胃中之火",
+          "formulaIds": ["bianzheng-formula-bianzheng-0115-3"],
+          "keySentence": "此方降胃火而又不耗胃气"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "人有气恼之后，肝又血燥，肺又气热，一时呃逆而不止",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为火动之故也", "rebuttal": "谁知亦是气逆而不舒乎" },
+            { "kind": "mistreatment", "claim": "倘亦用降火降气之药", "rebuttal": "则呃逆更甚" }
+          ],
+          "pathogenesis": "盖肝性最急，一拂其意，则气必下克脾土",
+          "organs": ["肝", "肺", "脾"],
+          "relations": [{ "from": "肝", "to": "脾", "kind": "克" }],
+          "treatmentPrinciple": "必须用散郁之剂，而佐以消痰润肺之药",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0116",
+      "contentHash": "deddda03333e96c8",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": ["肝", "胆", "肺", "心", "膀胱"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0116-1"],
+          "keySentence": "用白术以利腰脐之气，用柴、芍、当归以舒肝胆之气"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有呃逆时作时止者",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "倘不知补气，而惟从事于消痰降火", "rebuttal": "则轻必变重，而重必入死矣" }
+          ],
+          "pathogenesis": "乃气虚而非气滞也",
+          "organs": ["胃"],
+          "relations": [],
+          "treatmentPrinciple": "补其气之虚，而呃逆自止",
+          "formulaIds": ["bianzheng-formula-bianzheng-0116-2"],
+          "keySentence": "故补胃气正所以补诸气也"
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0117",
+      "contentHash": "f338dae1a00ea663",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "人有病关格者，食至胃而吐，欲大小便而不能出，眼睛红赤，目珠暴露，两胁胀满，气逆拂抑，求一通气而不可得",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "世以为胃气之太盛", "rebuttal": "而不知乃肝气之过郁耳" },
+            { "kind": "mistreatment", "claim": "若用下导之法", "rebuttal": "是导之亦无益也" },
+            { "kind": "mistreatment", "claim": "倘用香燥之药，以耗胃气", "rebuttal": "适足以坚其关门而动其格据矣" }
+          ],
+          "pathogenesis": "而不知乃肝气之过郁耳",
+          "organs": ["肝", "胃", "大肠", "小肠", "膀胱"],
+          "relations": [],
+          "treatmentPrinciple": "必须仍用煎药和解为宜",
+          "formulaIds": ["bianzheng-formula-bianzheng-0117-1"],
+          "keySentence": "此方直走肝经以解郁，郁解而关格自痊"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有无故而忽然上不能食、下不能出者，胸中胀急，烦闷不安，大小便窘迫之极",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为关格之症也", "rebuttal": "谁知是少阳之气不通乎" }
+          ],
+          "pathogenesis": "因寒气所袭，则木不能条达，而气乃闭矣",
+          "organs": ["胆", "胃", "脾", "肺", "大肠", "膀胱", "小肠"],
+          "relations": [
+            { "from": "胆", "to": "胃", "kind": "克" },
+            { "from": "胆", "to": "脾", "kind": "克" },
+            { "from": "脾", "to": "肺", "kind": "生" },
+            { "from": "胃", "to": "肺", "kind": "生" }
+          ],
+          "treatmentPrinciple": "二法相较，和胜于吐",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0118",
+      "contentHash": "0f1c9ab1c6c6b23a",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": ["肝"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0118-1"],
+          "keySentence": "此方全不开关，而关自开者，正以其善于解郁也"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有吐逆不得饮食，又不得大小便",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "人以为气之不通也，欲用麝香、片脑之类，以劫开其门", "rebuttal": "必至耗散真气，反致归阴矣" }
+          ],
+          "pathogenesis": "此五志厥阳之火太盛，不能营于阴，遏抑于心胞之内",
+          "organs": ["心包", "心", "胃"],
+          "relations": [],
+          "treatmentPrinciple": "法宜调其营卫，不偏阴偏阳，一味冲和，毋犯胃气",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0119",
+      "contentHash": "3719fa337080a377",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": ["肝", "心", "肾"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0119-1"],
+          "keySentence": "一安心以交于肾，一和肾而交于心"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有上吐下结，气逆不顺，饮食不得入，溲溺不得出，腹中作疼，手按之少可",
+          "disputes": [
+            { "kind": "mistreatment", "claim": "人以为此寒极而阴阳易位，其脉必涩而伏也。法当吐，不吐则死", "rebuttal": "然而不必吐也" }
+          ],
+          "pathogenesis": "由于肾气之衰也",
+          "organs": ["肾", "胃", "脾", "大肠", "小肠", "膀胱"],
+          "relations": [],
+          "treatmentPrinciple": "治法必须大补其肾中之水火",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0120",
+      "contentHash": "a1507ab5b305f95b",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            { "kind": "mistreatment", "claim": "倘用香燥之药以救胃", "rebuttal": "则胃气愈伤" }
+          ],
+          "organs": ["肾", "胃", "膀胱", "大肠", "小肠"],
+          "relations": [],
+          "formulaIds": ["bianzheng-formula-bianzheng-0120-1"],
+          "keySentence": "此方补肾中之水火，而又能通肾中之气"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "人有一时关格，大小便闭结不通，渴饮凉水，少顷即吐，又饮之又吐，面赤唇焦，粒米不能下胃，饮一杯吐出杯半，脉亦沉伏",
+          "disputes": [
+            { "kind": "misdiagnosis", "claim": "人以为脉绝也", "rebuttal": "谁知是格阳不宣，肾经寒邪太盛之故乎" },
+            { "kind": "mistreatment", "claim": "用阴寒以折阴寒，正投其所恶也", "rebuttal": "不特无功，而反有大害" }
+          ],
+          "pathogenesis": "盖上假热而下真寒",
+          "organs": ["肾"],
+          "relations": [],
+          "treatmentPrinciple": "非用真热假寒之法从治之",
+          "formulaIds": []
+        }
+      ]
+    }
+  ]
+}

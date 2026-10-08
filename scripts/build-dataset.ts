@@ -14,9 +14,19 @@ import type {
 import { BOOK_CORPUS as CORPUS_MAP } from '../src/types/data.ts'
 import { alignChenfuParallels, alignSongbenToGuilin } from './lib/align.ts'
 import { annotateClauses } from './lib/annotate.ts'
+import {
+  buildChenfuReasoningDataset,
+  loadChenfuCaches,
+  type CompareTopicInput,
+} from './lib/chenfu-reasoning-build.ts'
 import { extractHerbRolesFromFangjie } from './lib/fangjie.ts'
 import { ensureDir, fileExists, projectRoot, readText, writeJson } from './lib/fs-utils.ts'
 import { computeDiffPairs, computeFamilies } from './lib/relations.ts'
+import {
+  buildReasoningDataset,
+  type FormulaReasoningInput,
+  type ReasoningTreeInput,
+} from './lib/reasoning.ts'
 import { runGuilinParse } from './parse/guilin.ts'
 import { runJinguiParse } from './parse/jingui.ts'
 import { runSongbenParse } from './parse/songben.ts'
@@ -405,7 +415,7 @@ async function main(): Promise<void> {
   }))
 
   const jingfangDiffs = computeDiffPairs(
-    formulas.filter((f) => f.book === 'songben' || f.book === 'jingui'),
+    formulas.filter((f) => f.book === 'songben' || f.book === 'jingui' || f.book === 'guilin'),
     clauses,
   )
   const chenfuDiffs = computeDiffPairs(
@@ -476,6 +486,30 @@ async function main(): Promise<void> {
   await writeJson(path.join(outDir, 'herb-monographs.json'), monographs)
   await writeJson(path.join(outDir, 'cross-links.json'), crossLinks)
   await writeJson(path.join(outDir, 'search-docs.json'), searchDocs)
+
+  console.log('[build] building reasoning dataset...')
+  const reasoningTrees = JSON.parse(
+    await readText(path.join(root, 'data', 'reasoning', 'trees.json')),
+  ) as ReasoningTreeInput[]
+  const reasoningFormulas = JSON.parse(
+    await readText(path.join(root, 'data', 'reasoning', 'formulas.json')),
+  ) as FormulaReasoningInput[]
+  const reasoning = buildReasoningDataset(reasoningTrees, reasoningFormulas, formulas, clauses)
+  await writeJson(path.join(outDir, 'reasoning.json'), reasoning)
+
+  const compareTopics = JSON.parse(
+    await readText(path.join(root, 'data', 'reasoning', 'compare-topics.json')),
+  ) as CompareTopicInput[]
+  const chenfuReasoning = buildChenfuReasoningDataset({
+    clauses,
+    formulas,
+    caches: await loadChenfuCaches(root),
+    parallels: [...nvkeAlign, ...nankeAlign],
+    compareTopics,
+    reasoningFormulaNames: reasoningFormulas.map((input) => input.formulaName),
+  })
+  await writeJson(path.join(outDir, 'reasoning-chenfu.json'), chenfuReasoning)
+
   await writeJson(path.join(outDir, 'validation.json'), {
     songben: songben.validation,
     jingui: jingui.stats,
@@ -490,7 +524,7 @@ async function main(): Promise<void> {
   })
 
   console.log(
-    `[build] done clauses=${clauses.length} formulas=${formulas.length} herbs=${herbs.length} diffs=${diffPairs.length} roles=${herbRoles.length} mono=${monographs.length}`,
+    `[build] done clauses=${clauses.length} formulas=${formulas.length} herbs=${herbs.length} diffs=${diffPairs.length} roles=${herbRoles.length} mono=${monographs.length} reasoningTrees=${reasoning.trees.length} reasoningFormulas=${reasoning.formulas.length}`,
   )
 }
 

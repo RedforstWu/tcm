@@ -1,6 +1,7 @@
 import type {
   AlignmentRecord,
   BookId,
+  ChenfuReasoningDataset,
   Clause,
   Corpus,
   CrossLink,
@@ -12,6 +13,7 @@ import type {
   HerbMonograph,
   HerbRole,
   ParallelAlignment,
+  ReasoningDataset,
   SearchDoc,
 } from '@/types/data'
 import { BOOK_CORPUS, CHENFU_BOOKS, JINGFANG_BOOKS } from '@/types/data'
@@ -34,6 +36,8 @@ let cache: {
   herbRoles?: HerbRole[]
   monographs?: HerbMonograph[]
   crossLinks?: CrossLink[]
+  reasoning?: ReasoningDataset
+  chenfuReasoning?: ChenfuReasoningDataset
   clauses: Partial<Record<BookId, Clause[]>>
 } = { clauses: {} }
 
@@ -109,6 +113,16 @@ export async function loadMonographs(): Promise<HerbMonograph[]> {
 export async function loadCrossLinks(): Promise<CrossLink[]> {
   cache.crossLinks ??= await fetchJson<CrossLink[]>('/data/cross-links.json')
   return cache.crossLinks
+}
+
+export async function loadReasoning(): Promise<ReasoningDataset> {
+  cache.reasoning ??= await fetchJson<ReasoningDataset>('/data/reasoning.json')
+  return cache.reasoning
+}
+
+export async function loadChenfuReasoning(): Promise<ChenfuReasoningDataset> {
+  cache.chenfuReasoning ??= await fetchJson<ChenfuReasoningDataset>('/data/reasoning-chenfu.json')
+  return cache.chenfuReasoning
 }
 
 export function bookTitle(book: BookId): string {

@@ -1,0 +1,4889 @@
+{
+  "book": "funvke",
+  "reviewStatus": "ai-draft",
+  "entries": [
+    {
+      "clauseId": "funvke-0001",
+      "contentHash": "b69481f6a6b1e628",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有终年累月下流白物，如涕如唾，不能禁止，甚则臭秽者",
+          "disputes": [],
+          "pathogenesis": "夫白带乃湿盛而火衰，肝郁而气弱，则脾土受伤，湿土之气下陷",
+          "organs": [
+            "脾",
+            "肝",
+            "胃"
+          ],
+          "relations": [
+            {
+              "from": "肝",
+              "to": "脾",
+              "kind": "克"
+            }
+          ],
+          "treatmentPrinciple": "治法宜大补脾胃之气，稍佐以舒肝之品",
+          "formulaIds": [
+            "funvke-formula-funvke-0001-1"
+          ],
+          "keySentence": "此方脾、胃、肝三经同治之法，寓补于散之中，寄消于升之内"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0002",
+      "contentHash": "86632327e8a0b626",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有带下而色青者，甚则绿如绿豆汁，稠粘不断，其气腥臭",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "似湿非肝木之所恶",
+              "rebuttal": "不知水为肝木之所喜，而湿实肝木之所恶"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "夫道遥散之立法也，乃解肝郁之药耳，何以治青带若斯其神与",
+              "rebuttal": "盖湿热留于肝经，因肝气之郁也，郁则必逆，道遥散最能解肝之郁与逆"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "倘仅以利湿清热治青带，而置肝气于不问",
+              "rebuttal": "安有止带之日哉"
+            }
+          ],
+          "pathogenesis": "夫青带乃肝经之湿热",
+          "organs": [
+            "肝",
+            "膀胱"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "解肝木之火，利膀胱之水，则青绿之带病均去矣",
+          "formulaIds": [
+            "funvke-formula-funvke-0002-1"
+          ],
+          "keySentence": "道遥散最能解肝之郁与逆"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0003",
+      "contentHash": "8ad37c5e8aebf992",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有带下而色黄者，宛如黄茶浓汁，其气腥秽",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "任脉本不能容水，湿气安得而入而化为黄带乎",
+              "rebuttal": "不知带脉横生，通于任脉"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "世之人有以黄带为脾之湿热，单去治脾而不得痊者",
+              "rebuttal": "是不知真水、真火合成丹邪、元邪，绕于任脉、胞胎之间，而化此黅色也"
+            }
+          ],
+          "pathogenesis": "夫黄带乃任脉之湿热也",
+          "organs": [
+            "肾",
+            "脾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "法宜补任脉之虚，而清肾火之炎",
+          "formulaIds": [
+            "funvke-formula-funvke-0003-1"
+          ],
+          "keySentence": "盖山药、芡实专补任脉之虚，又能利水"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0004",
+      "contentHash": "dfd205f68766c590",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有带下而色黑者，甚则如黑豆汁，其气亦腥",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "谓为下寒之极或有之",
+              "rebuttal": "殊不知火极似水，乃假象也"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "或谓此方过于迅利",
+              "rebuttal": "殊不知火盛之时，用不得依违之法"
+            }
+          ],
+          "pathogenesis": "此胃火太旺，与命门，膀恍，三焦之火合而熬煎，所以熬干而变为炭色",
+          "organs": [
+            "胃",
+            "命门",
+            "膀胱",
+            "三焦",
+            "肾",
+            "肺"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法惟以　火为主，火热退而湿自除矣",
+          "formulaIds": [
+            "funvke-formula-funvke-0004-1"
+          ],
+          "keySentence": "今用黄连、石膏、栀子、知母一派寒凉之品，入于大黄之中，则迅速扫除"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0005",
+      "contentHash": "27a284cc601d0393",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有带下而色红者，似血非血，淋沥不断",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "岂其路通于命门，而命门之火出而烧之耶",
+              "rebuttal": "不知带脉通于肾，而肾气通于肝"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "世人以赤带属之心火",
+              "rebuttal": "其实血与湿不能两分"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "倘一利其湿",
+              "rebuttal": "反引火下行，转难速效矣"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "先生前言助其脾土之气，今但补其肝木之血何也",
+              "rebuttal": "不知用芍药以平肝，则肝气行得舒，肝气舒自不尅土，脾不受尅，则脾土自旺，是平肝正所以扶脾耳"
+            }
+          ],
+          "pathogenesis": "妇人忧思伤脾，又加郁怒伤肝，于是肝经之郁火内炽，下尅脾土，脾土不能运化，致湿热之气蕴于带脉之间",
+          "organs": [
+            "肝",
+            "脾",
+            "肾"
+          ],
+          "relations": [
+            {
+              "from": "肝",
+              "to": "脾",
+              "kind": "克"
+            }
+          ],
+          "treatmentPrinciple": "治法须清肝火而扶脾气",
+          "formulaIds": [
+            "funvke-formula-funvke-0005-1"
+          ],
+          "keySentence": "此方但主补肝之血，全不利脾之湿者，以赤带之为病，火重而湿轻也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0006",
+      "contentHash": "edd7cbdcfc45dba6",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有一时血崩，两目黑暗，昏晕在地，不省人事者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人莫不谓火盛动血也",
+              "rebuttal": "然此火非实火，乃虚火耳"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "世人一见血崩，往往用止涩之品",
+              "rebuttal": "但不用补阴之药，则虚火易于冲击，恐随止随发"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "倘畏药味之重而减半",
+              "rebuttal": "则力薄而不能止"
+            }
+          ],
+          "pathogenesis": "然此火非实火，乃虚火耳",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "必须于补阴之中行土崩之法",
+          "formulaIds": [
+            "funvke-formula-funvke-0006-1"
+          ],
+          "keySentence": "此所以不先补血而先补气也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0007",
+      "contentHash": "57b8cff713c0fe53",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有年老血崩者，其症亦与前血崩昏暗者同",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为老妇之虚耳",
+              "rebuttal": "谁知是不慎房帏之故乎"
+            }
+          ],
+          "pathogenesis": "谁知是不慎房帏之故乎",
+          "organs": [
+            "肾"
+          ],
+          "relations": [],
+          "formulaIds": [
+            "funvke-formula-funvke-0007-1"
+          ],
+          "keySentence": "用此方以止其暂时之漏，实有奇功"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0008",
+      "contentHash": "b28b23d78b88309a",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "有少妇甫娠三月，即便血崩，而胎亦随堕",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为挫闪受伤而致",
+              "rebuttal": "谁知是行房不慎之过哉"
+            }
+          ],
+          "pathogenesis": "谁知是行房不慎之过哉",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法自当以补气为主，而少佐以补血乏品",
+          "formulaIds": [
+            "funvke-formula-funvke-0008-1"
+          ],
+          "keySentence": "此方固气而兼补血"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0009",
+      "contentHash": "9838fe456ce0902e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有一交合则流血不止者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "夫精冲血管，不过一时之伤，精出宜愈",
+              "rebuttal": "不知血管最娇嫩，断不可以精伤"
+            }
+          ],
+          "pathogenesis": "此等之病，成于经水正来之时交合，精冲血管也",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法须通其胞胎之气，引旧日日之集精外出，而益之以补气补精之药",
+          "formulaIds": [
+            "funvke-formula-funvke-0009-1"
+          ],
+          "keySentence": "此方用参儿以补气，用地萸以补精，精气既旺，则血管流通"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0010",
+      "contentHash": "a636eccd3faacb17",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有怀抱甚郁，口干舌渴，呕吐吞酸，而血下崩者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人皆以火治之，时而效，时而不效",
+              "rebuttal": "是不识为肝气之郁结也"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "夫肝主藏血，气结而血亦结，何以反至崩记",
+              "rebuttal": "盖肝之性急，气结则其急更甚，更急则血不能藏，故崩不免也"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "若徒开其郁，而不知平肝",
+              "rebuttal": "则肝气大开，肝火更炽，而血亦不能止矣"
+            }
+          ],
+          "pathogenesis": "盖肝之性急，气结则其急更甚，更急则血不能藏，故崩不免也",
+          "organs": [
+            "肝"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法宜以开郁为主",
+          "formulaIds": [
+            "funvke-formula-funvke-0010-1"
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0011",
+      "contentHash": "8667efe694f177c8",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有升高坠落，或闪挫受伤，以致恶血下流，有如血崩之状者",
+          "disputes": [
+            {
+              "kind": "mistreatment",
+              "claim": "若以崩治",
+              "rebuttal": "非徒无益而又害之也"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "倘不知解瘀而用补涩",
+              "rebuttal": "则瘀血内攻，疼无止时，反致新血不得生，旧血无由化"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "何以只治其瘀而不顾气也",
+              "rebuttal": "殊不知跌闪升坠，非由内伤以及外伤者可比"
+            }
+          ],
+          "pathogenesis": "乃是瘀血作祟",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法须行血以去瘀，活血以止疼",
+          "formulaIds": [
+            "funvke-formula-funvke-0011-1"
+          ],
+          "keySentence": "此方之妙，妙于活血之中，佐以下滞之品，故逐瘀如扫，而止血如神"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0012",
+      "contentHash": "f17649f425340bf7",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有每行人道，经水即来，一如血崩",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为胞胎有伤，触之以动其血也",
+              "rebuttal": "谁知是子宫血海因太热而不固乎"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "然既由冲脉之热，则应常崩而无有止时，何以行人道而始来",
+              "rebuttal": "人未入房之时，君相二火，寂然不动，虽冲脉独热，而血亦不至外驰"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "倘不揣其本而齐其末，徒以发灰、白矾，黄连炭、五倍子等药末，以外治其幽隐之处",
+              "rebuttal": "则恐愈涩而愈流，终必至于败亡也"
+            }
+          ],
+          "pathogenesis": "血崩之为病，正冲脉之火热也",
+          "organs": [
+            "肝",
+            "脾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法必须滋阴降火，以清血海而和子宫",
+          "formulaIds": [
+            "funvke-formula-funvke-0012-1"
+          ],
+          "keySentence": "此方补阴而无浮动之虑，缩血而无寒凉之苦"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0013",
+      "contentHash": "50b5e8d82c4a78b4",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有腹似怀妊，终年不主，甚至二三年不生者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "有似血臌之形",
+              "rebuttal": "其实是鬼胎而非臌也"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "乌可纯用迅利以祛荡乎",
+              "rebuttal": "必于补中逐之为的也"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "若单用雷丸、大黄以迅下",
+              "rebuttal": "必有气脱血崩之患矣"
+            }
+          ],
+          "pathogenesis": "然淫妖之气已结于腹，遂成鬼胎",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法必须以逐秽为主",
+          "formulaIds": [
+            "funvke-formula-funvke-0013-1"
+          ],
+          "keySentence": "尤妙在用参、当以补气血，则邪去而正不伤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0014",
+      "contentHash": "2f850106956def9d",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "女子有在家未嫁，月经忽断，腹大如妊，面色乍赤乍白，六脉乍大乍小",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为血结经闭也",
+              "rebuttal": "谁知是灵鬼凭身乎"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "医以为胎",
+              "rebuttal": "而实非真胎"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "今既坠其鬼胎矣，自当大补其血，乃不补血而反补胃气，何故",
+              "rebuttal": "盖鬼胎中人，其正气大虚可知，气虚则血必不能骤生，欲补血先补气"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "倘重用补阴之品",
+              "rebuttal": "则以阴招阴，吾恐鬼胎虽下，而鬼气未必不再侵"
+            }
+          ],
+          "pathogenesis": "一身之精血，仅足以供腹中之邪，则邪日旺而正日衰，势必至经闭而血枯",
+          "organs": [
+            "胃",
+            "脾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "必须先祛邪而后补正，斯为得之",
+          "formulaIds": [
+            "funvke-formula-funvke-0014-1"
+          ],
+          "keySentence": "前方荡邪，后方补正，实有次第"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0015",
+      "contentHash": "6a58d69a146ae339",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有先期经来者，其经甚多",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为血热之极也",
+              "rebuttal": "谁知是肾中水火太旺乎"
+            }
+          ],
+          "pathogenesis": "夫火太旺则血热，水太旺则血多，此有余之病，非不足之症也",
+          "organs": [
+            "肾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治之法但少清其热，不必泄其水也",
+          "formulaIds": [
+            "funvke-formula-funvke-0015-1"
+          ],
+          "keySentence": "火泄而水不与俱泄，损而益也"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "又有先期经来只一、二点者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为血热之极也",
+              "rebuttal": "谁知肾中火旺而阴水亏乎"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "倘一见先期之来，俱以为有余之热，但泄火而不补水，或水火两泄之",
+              "rebuttal": "有不更增其病者乎"
+            }
+          ],
+          "pathogenesis": "先期而来少者，火热而水不足也",
+          "organs": [
+            "肾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治之法不必泄火，只专补水，水既足而火自消矣",
+          "formulaIds": [],
+          "formulaText": "方用两地汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0016",
+      "contentHash": "8eddf754ce6e881b",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有经水后期而来多者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为血虚之病也",
+              "rebuttal": "谁知非血虚乎"
+            }
+          ],
+          "pathogenesis": "后期而来多，血寒而有余",
+          "organs": [
+            "肾",
+            "肝",
+            "脾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法宜于补中温散之",
+          "formulaIds": [
+            "funvke-formula-funvke-0016-1"
+          ],
+          "keySentence": "此方大补肝、肾、脾之精与血，加肉桂以祛其寒，柴胡以解其郁"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0017",
+      "contentHash": "2bffd19cf5c9e3c2",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有经来断续，或前或后无定期",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为气血之虚也",
+              "rebuttal": "谁知是肝气之郁结乎"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "肝气郁而肾气不应，未必至于如此",
+              "rebuttal": "殊不知子母关切，子病而母必有顾复之情"
+            }
+          ],
+          "pathogenesis": "夫经水出诸肾，而肝为肾之子，肝郁则肾亦郁矣",
+          "organs": [
+            "肝",
+            "肾"
+          ],
+          "relations": [
+            {
+              "from": "肾",
+              "to": "肝",
+              "kind": "生"
+            }
+          ],
+          "treatmentPrinciple": "治法宜舒肝之郁，即开肾之郁也",
+          "formulaIds": [
+            "funvke-formula-funvke-0017-1"
+          ],
+          "keySentence": "此方舒肝肾之气，非通经之药也；补肝肾之精，非利水之品也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0018",
+      "contentHash": "74fe4eacd655a255",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有数月一行经者，每以为常，亦无或先或后之异，亦无或多或少之殊",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人莫不以为异",
+              "rebuttal": "而不知非异也"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "无如世人不知，见经水不应月来，误认为病，妄用药饵",
+              "rebuttal": "本元病而治之成病，是治反不如其不治也"
+            }
+          ],
+          "pathogenesis": "盖无病之人，气血两不亏损耳",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "方名助仙丹"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0019",
+      "contentHash": "a87f0043870fd0f7",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有年五十外或六、七十岁忽然行经者，或下紫血块、或如红血淋",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "老妇行经，是还少之象",
+              "rebuttal": "谁知是血崩之渐乎"
+            }
+          ],
+          "pathogenesis": "乃肝不藏脾不统之故也",
+          "organs": [
+            "肝",
+            "脾",
+            "命门"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "非大补肝脾之气与血，而血安能骤止",
+          "formulaIds": [
+            "funvke-formula-funvke-0019-1"
+          ],
+          "keySentence": "此方补益肝脾之气，气足自能生血而摄血"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0020",
+      "contentHash": "b8bfe9c4d0636977",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有经水忽来忽断，时疼时止，寒热往来者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为血之凝也",
+              "rebuttal": "谁知是肝气不舒乎"
+            }
+          ],
+          "pathogenesis": "适逢风之吹寒之袭，则肝气为之闭塞，而经水之道路亦随之而俱闭",
+          "organs": [
+            "肝"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法宜补肝中之血，通其郁而散其风",
+          "formulaIds": [
+            "funvke-formula-funvke-0020-1"
+          ],
+          "keySentence": "用柴胡、白芍、丹皮以宣肝经之风郁"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0021",
+      "contentHash": "4b2230d56a9b3fd2",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有经前腹疼数日，而后经水行者，其经来多是紫黑块",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为寒极而然也",
+              "rebuttal": "谁知是热极而火不化乎"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "然泄肝之火，而不解肝之郁",
+              "rebuttal": "则热之标可去，而热之本未除也"
+            }
+          ],
+          "pathogenesis": "经欲行而肝不应，则抑拂其气而疼生",
+          "organs": [
+            "肝"
+          ],
+          "relations": [],
+          "formulaIds": [
+            "funvke-formula-funvke-0021-1"
+          ],
+          "keySentence": "此方补肝之血，而解肝之郁，利肝之气，而降肝之火"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0022",
+      "contentHash": "6804d38b8cb2629e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有少腹疼于行经之后者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为气血之虚也",
+              "rebuttal": "谁知是肾气之涸乎"
+            }
+          ],
+          "pathogenesis": "盖肾水一虚则水不能生木，而肝木必尅脾土，木土相争，则气必逆，故尔作疼",
+          "organs": [
+            "肾",
+            "肝",
+            "脾"
+          ],
+          "relations": [
+            {
+              "from": "肾",
+              "to": "肝",
+              "kind": "生"
+            },
+            {
+              "from": "肝",
+              "to": "脾",
+              "kind": "克"
+            }
+          ],
+          "treatmentPrinciple": "治法必须以舒肝气为主，而益之以补肾之味",
+          "formulaIds": [
+            "funvke-formula-funvke-0022-1"
+          ],
+          "keySentence": "此方平调肝气，既能转逆气，又善止郁疼"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0023",
+      "contentHash": "a6b27fe19d2d8521",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有经未行之前一二日忽然腹疼而吐血",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为火热之极也",
+              "rebuttal": "谁知是肝气之逆乎"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "是肝不藏血之故乎？抑肾不纳气而然乎",
+              "rebuttal": "殊不知少阴之火急如奔马，得肝火直冲而上"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "治法似宜平肝以顺气，而不必益精以补肾矣",
+              "rebuttal": "必须于补肾之中，用顺气之法始为得当"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "若认为劳症",
+              "rebuttal": "必至肝气愈逆，非劳反成劳矣"
+            }
+          ],
+          "pathogenesis": "顺则气安，逆则气动；血随气为行止，气安则血安，气动则血动",
+          "organs": [
+            "肝",
+            "肾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "必须于补肾之中，用顺气之法始为得当",
+          "formulaIds": [
+            "funvke-formula-funvke-0023-1"
+          ],
+          "keySentence": "肝不逆而肾气自顺"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0024",
+      "contentHash": "6b22437945da6800",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有经水将来三五日前而脐下作疼，状如刀刺者；或寒热交作，所下如黑豆汁",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人莫不以为血热之极",
+              "rebuttal": "谁知是下焦寒湿相争之故乎"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "倘疑腹疼为热疾，妄用寒凉",
+              "rebuttal": "则冲任虚冷，血海变为冰海，血室反成冰室"
+            }
+          ],
+          "pathogenesis": "经水由二经而外出，而寒湿满二经而内乱，两相争而作疼痛",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法利其湿而温其寒，使冲任无邪气之乱",
+          "formulaIds": [
+            "funvke-formula-funvke-0024-1"
+          ],
+          "keySentence": "此方君白术以利腰脐之气"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0025",
+      "contentHash": "20ebfa9432c475e2",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有经水过多，行后复行，面色痿黄，身体倦怠，而困乏愈甚者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为血热有余之故",
+              "rebuttal": "谁知是血虚而不归经乎"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "世之人见经水过多，谓是血之旺也",
+              "rebuttal": "此治之所以多错耳"
+            }
+          ],
+          "pathogenesis": "惟经多是血之虚，故再行而不胜其困乏，血损精散，骨中髓空",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法宜大补血而引之归经",
+          "formulaIds": [
+            "funvke-formula-funvke-0025-1"
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0026",
+      "contentHash": "8d1e022a62fcb208",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有经未来之前，泄水三日，而后行经者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为血旺之故",
+              "rebuttal": "谁知是脾气之虚乎"
+            }
+          ],
+          "pathogenesis": "夫脾统血，脾虚则不能摄血矣",
+          "organs": [
+            "脾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "调经之法，不在先治其水，而在先治其血；抑不在先治其血，而在先补其气",
+          "formulaIds": [
+            "funvke-formula-funvke-0026-1"
+          ],
+          "keySentence": "此方补脾气以固脾血，则血摄于气之中"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0027",
+      "contentHash": "2bc65217d28695d3",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有行经之前一日大便先出血者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为血崩之症",
+              "rebuttal": "谁知是经流于大肠乎"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "若单止大肠之血",
+              "rebuttal": "则愈止而愈多"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "若击动三焦之气",
+              "rebuttal": "则更拂乱而不可止"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "然则心肾不交，补心肾可也，又何兼补夫肝木耶",
+              "rebuttal": "不知肝乃肾之子心之母也"
+            }
+          ],
+          "pathogenesis": "盖经水之妄行，原因心肾之不交",
+          "organs": [
+            "心",
+            "肾",
+            "大肠",
+            "小肠",
+            "肝"
+          ],
+          "relations": [
+            {
+              "from": "肾",
+              "to": "肝",
+              "kind": "生"
+            },
+            {
+              "from": "肝",
+              "to": "心",
+              "kind": "生"
+            }
+          ],
+          "treatmentPrinciple": "故必大补其心与肾，便心肾之气交",
+          "formulaIds": [
+            "funvke-formula-funvke-0027-1"
+          ],
+          "keySentence": "此方乃大补心肝肾三经之药"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0028",
+      "contentHash": "244ccf7577e68507",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "有年未至七七而经水先断者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为血枯经闭也",
+              "rebuttal": "谁知是心肝脾之气郁乎"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "医见其经水不行，妄谓之血枯耳",
+              "rebuttal": "其实非血之枯，乃经之闭也"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "世人以经为血",
+              "rebuttal": "此千古之误，牢不可破"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "设或用攻坚之剂，辛热之品",
+              "rebuttal": "则非徒无益，而又害之矣"
+            }
+          ],
+          "pathogenesis": "倘心肝脾有一经之郁，则其气不能入于肾中，肾之气即郁而不宣矣",
+          "organs": [
+            "心",
+            "肝",
+            "脾",
+            "肾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法必须散心肝脾之郁，而大补其肾水，仍大补其心肝脾之气",
+          "formulaIds": [
+            "funvke-formula-funvke-0028-1"
+          ],
+          "keySentence": "此方心肝脾肾四经同治药也。妙在补以通之，散以开之"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0029",
+      "contentHash": "72485bb505587439",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有瘦怯身躯，久不孕育，一交男子，即卧病终朝",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为气虚之故",
+              "rebuttal": "谁知是血虚之故乎"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "血藏于肝，精涵于肾，交感乃泄肾之精，与血虚何与",
+              "rebuttal": "殊不知肝气不开，则精不能泄，肾精既泄，则肝气亦不能舒"
+            }
+          ],
+          "pathogenesis": "此阴虚火旺不能受孕",
+          "organs": [
+            "肝",
+            "肾"
+          ],
+          "relations": [
+            {
+              "from": "肾",
+              "to": "肝",
+              "kind": "生"
+            }
+          ],
+          "treatmentPrinciple": "治法必须大补肾水而平肝木",
+          "formulaIds": [
+            "funvke-formula-funvke-0029-1"
+          ],
+          "keySentence": "此方之用，不特补血而纯于填精"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0030",
+      "contentHash": "326004a1416ec356",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有饮食少思，胸膈满闷，终日倦怠思睡",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为脾胃之气虚也",
+              "rebuttal": "谁知是肾气不足乎"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "人每误为脾胃虚寒，不能尅食。用扶脾消导之药",
+              "rebuttal": "肾气愈虚，何能受孕"
+            }
+          ],
+          "pathogenesis": "然则脾胃之气虽充于脾胃之中，实生于两肾之内",
+          "organs": [
+            "脾",
+            "胃",
+            "肾"
+          ],
+          "relations": [
+            {
+              "from": "肾",
+              "to": "脾",
+              "kind": "生"
+            },
+            {
+              "from": "肾",
+              "to": "胃",
+              "kind": "生"
+            }
+          ],
+          "treatmentPrinciple": "治法必以补肾气为主",
+          "formulaIds": [
+            "funvke-formula-funvke-0030-1"
+          ],
+          "keySentence": "孰知脾胃健而生精自易"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0031",
+      "contentHash": "c65c32720e693376",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有下身冰冷，非火不暖，交感之际，阴中绝无温热之气",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为天分之薄也",
+              "rebuttal": "谁知是胞胎寒之极乎"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "此妇之胞胎，何以寒凉至此，岂非天分之薄乎",
+              "rebuttal": "胞胎之寒凉，乃心肾二火之衰微也"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "今之种子者多喜服热药",
+              "rebuttal": "不知此方特为胞胎寒者设，若胞胎有热则不宜服"
+            }
+          ],
+          "pathogenesis": "胞胎之寒凉，乃心肾二火之衰微也",
+          "organs": [
+            "心",
+            "肾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "故治胞胎者，必须补心肾二火而后可",
+          "formulaIds": [
+            "funvke-formula-funvke-0031-1"
+          ],
+          "keySentence": "此方之妙，补心而即补肾，温肾而即温心"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0032",
+      "contentHash": "f1858f31eb5142ef",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有素性恬淡，饮食少则平和，多则难受，或作呕泄，胸膈胀满，久不受孕",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为赋禀之薄也",
+              "rebuttal": "谁知是脾胃虚寒乎"
+            }
+          ],
+          "pathogenesis": "夫脾胃之虚寒，原因心肾之虚寒耳",
+          "organs": [
+            "脾",
+            "胃",
+            "心",
+            "肾",
+            "命门",
+            "心包"
+          ],
+          "relations": [
+            {
+              "from": "心",
+              "to": "胃",
+              "kind": "生"
+            },
+            {
+              "from": "肾",
+              "to": "脾",
+              "kind": "生"
+            },
+            {
+              "from": "命门",
+              "to": "脾",
+              "kind": "生"
+            },
+            {
+              "from": "心包",
+              "to": "胃",
+              "kind": "生"
+            }
+          ],
+          "treatmentPrinciple": "欲温脾胃，必须补二经之火",
+          "formulaIds": [
+            "funvke-formula-funvke-0032-1"
+          ],
+          "keySentence": "此方之妙，温补脾胃而又兼补命门与心包络之火"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0033",
+      "contentHash": "6bc2da516e3fdbfb",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有少腹之间自觉有紧迫之状。急而不舒，不能生育",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "此人人之所不识也",
+              "rebuttal": "谁知是带脉之拘急乎"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "或疑方中用五味、白芍之酸收，不增带脉之急，而反得带脉之宽，殊不可解",
+              "rebuttal": "岂知带脉之急，由于气血之虚"
+            }
+          ],
+          "pathogenesis": "今带脉之急者，由于腰脐之气不利也。而腰脐之气不利者，由于脾胃之气不足也",
+          "organs": [
+            "脾",
+            "胃"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "必须大补其脾胃之气与血，而腰脐可利，带脉可宽",
+          "formulaIds": [
+            "funvke-formula-funvke-0033-1"
+          ],
+          "keySentence": "此方之妙，脾胃两补，而又利其腰脐之气，自然带脉宽舒，可以载物而胜任矣"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0034",
+      "contentHash": "1308763d4da266ba",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有怀抱素恶不能生子者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为天心厌之也",
+              "rebuttal": "谁知是肝气郁结乎"
+            }
+          ],
+          "pathogenesis": "以肝木不舒，必下尅脾土而致塞",
+          "organs": [
+            "肝",
+            "脾",
+            "心",
+            "肾"
+          ],
+          "relations": [
+            {
+              "from": "肝",
+              "to": "脾",
+              "kind": "克"
+            }
+          ],
+          "treatmentPrinciple": "治法必解四经之郁，以开胞胎之门，则几矣",
+          "formulaIds": [
+            "funvke-formula-funvke-0034-1"
+          ],
+          "keySentence": "解肝气之郁，宣脾气之困，而心肾之气亦因之俱舒"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0035",
+      "contentHash": "d517f106b4c4bac9",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有身体肥胖，痰涎甚多，不能受孕者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为气虚之故",
+              "rebuttal": "谁知是湿盛之故乎"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "夫湿从下受，乃言外邪之湿也",
+              "rebuttal": "而肥胖之湿，实非外邪，乃脾土之内病也"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "然脾土既病，不能分化水谷以养四肢，宜其身躯瘦弱，何以能肥胖乎",
+              "rebuttal": "不知湿盛者多肥胖，肥胖者多气虚，气虚者多痰涎，外似健壮而内实虚损也"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "然徒泄水化痰，而不急补脾胃之气",
+              "rebuttal": "则阳气不旺，湿痰不去，人先病矣"
+            }
+          ],
+          "pathogenesis": "内虚则气必衰，气衰则不能行水，而湿停于肠胃之间，不能化精而化涎矣",
+          "organs": [
+            "脾",
+            "胃"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法必须以泄水化痰为主",
+          "formulaIds": [
+            "funvke-formula-funvke-0035-1"
+          ],
+          "keySentence": "此方之妙，妙在提脾气而升于上，作云作雨，则水湿反利于下行"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0036",
+      "contentHash": "049fa16c793ff4ed",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有骨蒸夜热，遍体火焦，口干舌燥，咳嗽吐沫，难于生子者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为阴虚火动也",
+              "rebuttal": "谁知是骨髓内热乎"
+            }
+          ],
+          "pathogenesis": "骨髓热由于肾之热，肾热而胞胎亦不能不热",
+          "organs": [
+            "肾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法必须清骨中之热。然骨热由于水亏，必补肾之阴",
+          "formulaIds": [
+            "funvke-formula-funvke-0036-1"
+          ],
+          "keySentence": "补肾中之精，凉骨中之热，不清胞胎而胞胎自无太热之患"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0037",
+      "contentHash": "4117c75fef9b13ee",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有腰酸背楚，胸满腹胀，倦怠欲卧，百计求嗣不能如愿",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为腰肾之虑也",
+              "rebuttal": "谁知是任督之困乎"
+            }
+          ],
+          "pathogenesis": "故任脉虚则带脉坠于前，督脉虚则带脉坠于后，虽胞胎受精亦必小产",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法必须先去其疝瘕之病，而补其任督之脉",
+          "formulaIds": [
+            "funvke-formula-funvke-0037-1"
+          ],
+          "keySentence": "此方利腰脐之气，正升补任督之气也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0038",
+      "contentHash": "1b94a0160bbff847",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有小水艰涩，腹胀脚肿，不能受孕者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为小肠之热也",
+              "rebuttal": "谁知是膀胱之气不化乎"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "至于补肾之药，多是濡润之品，不以湿而益助其湿乎",
+              "rebuttal": "然方中之药，妙于补肾之火，而非补肾之水"
+            }
+          ],
+          "pathogenesis": "倘膀胱无肾气之通，则膀胱之气化不行，水湿之气必且渗入胞胎之中，而成汪洋之势矣",
+          "organs": [
+            "膀胱",
+            "肾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法必须壮肾气以分消胞胎之湿，益肾火以达化膀胱之水",
+          "formulaIds": [
+            "funvke-formula-funvke-0038-1"
+          ],
+          "keySentence": "此方利膀胱之水，全在补肾中之气。暖胞胎之气，全在壮肾中之火"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0039",
+      "contentHash": "4fe59f18f7631b4d",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人怀娠之后，恶心呕吐，思酸解渴，见食憎恶，困倦欲卧",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人皆曰妊娠恶阻也",
+              "rebuttal": "谁知肝血太燥乎"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "世人用四物汤治胎前诸症者，正以其能生肝之血也",
+              "rebuttal": "但生血而不知生气，则脾胃衰微，不胜频呕"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "或疑气逆而用补气之药，不益助其逆乎",
+              "rebuttal": "不知妊娠恶阻，其逆不甚，且逆是因虚而逆，非因邪而逆也"
+            }
+          ],
+          "pathogenesis": "肝急则火动而逆也；肝气既逆，是以呕吐恶心之症生焉",
+          "organs": [
+            "肝",
+            "肾",
+            "脾",
+            "胃"
+          ],
+          "relations": [
+            {
+              "from": "肾",
+              "to": "肝",
+              "kind": "生"
+            }
+          ],
+          "treatmentPrinciple": "故于平肝补血之中，加以健脾开胃之品，以生阳气，则气能生血，尤益胎气耳",
+          "formulaIds": [],
+          "formulaText": "宜用顺肝益气汤"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "亦有肝郁气滞，胸膈膨闷，见食不恶，不能多食，虽系妊娠而非恶阻",
+          "disputes": [],
+          "pathogenesis": "亦有肝郁气滞",
+          "organs": [
+            "肝"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "疏肝化滞汤：全当归（酒洗）六钱，杭芍（酒炒）三钱，党参（去芦）三钱"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0040",
+      "contentHash": "91e6ef37a7f45b7d",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妊妇有至五个月，肢体倦怠，饮食无味，先两足肿，渐至遍身头面俱肿",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为湿气便然也",
+              "rebuttal": "谁知是脾肺气虚乎"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "夫补中益气汤之立法也，原是升提脾肺之气，似乎益气而不补血",
+              "rebuttal": "然而血非气不生，是补气即所以生血"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "然则何以重用茯苓而至一两，不凡以利湿为君乎",
+              "rebuttal": "况重用茯苓于补气之中，虽曰渗湿，而仍是健脾清肺之意"
+            }
+          ],
+          "pathogenesis": "气与血两虚，脾与肺失职，所以饮食难消，精微不化",
+          "organs": [
+            "脾",
+            "肺"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法当补其脾之血与肺之气，不必祛湿，而湿自无不去之理",
+          "formulaIds": [
+            "funvke-formula-funvke-0040-1"
+          ],
+          "keySentence": "然而血非气不生，是补气即所以生血"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0041",
+      "contentHash": "084ff2b3f9df8f15",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妊娠少腹作疼，胎动不安，如有下堕之状",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人只知带脉无力也",
+              "rebuttal": "谁知是脾肾之亏乎"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "然则胞胎之系，通于心与肾，而不通于脾，补肾可也，何故补脾",
+              "rebuttal": "是补后天之脾，正所以补先天之肾也"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "世人往往畏用参术或少用，以冀建功",
+              "rebuttal": "此方正妙在多用也"
+            }
+          ],
+          "pathogenesis": "脾肾亏损，则带脉无力，胞胎即无以胜任矣",
+          "organs": [
+            "脾",
+            "肾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "补先后二天之脾与肾，正所以固胞胎之气与血",
+          "formulaIds": [
+            "funvke-formula-funvke-0041-1"
+          ],
+          "keySentence": "此方正妙在多用也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0042",
+      "contentHash": "28988daf619f2a7d",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妊妇至三四个月，自觉口干舌燥，咽喉微痛，无津以润，以至胎动不安，甚则血流如经水",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为火动之极也",
+              "rebuttal": "谁知是水亏之甚乎"
+            }
+          ],
+          "pathogenesis": "然而火之有余，仍是水之不足，所以火炎而胎必动",
+          "organs": [
+            "肾",
+            "肺"
+          ],
+          "relations": [
+            {
+              "from": "肺",
+              "to": "肾",
+              "kind": "生"
+            }
+          ],
+          "treatmentPrinciple": "惟是肾水不能逮生，必须滋补肺金，金润则能生水",
+          "formulaIds": [
+            "funvke-formula-funvke-0042-1"
+          ],
+          "keySentence": "此方专填肾中之精，而兼补肺"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0043",
+      "contentHash": "30cd998cc702625c",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妊妇上吐下泻，胎动欲堕，腹疼难忍，急不可缓",
+          "disputes": [
+            {
+              "kind": "drugDoubt",
+              "claim": "救火轻于救土者，岂以土欲绝而火未甚衰乎",
+              "rebuttal": "盖土崩非重剂不能援，火衰虽小剂而可助"
+            }
+          ],
+          "pathogenesis": "此脾胃虚极而然也",
+          "organs": [
+            "脾",
+            "胃",
+            "肾",
+            "心"
+          ],
+          "relations": [
+            {
+              "from": "肾",
+              "to": "脾",
+              "kind": "生"
+            },
+            {
+              "from": "心",
+              "to": "胃",
+              "kind": "生"
+            }
+          ],
+          "treatmentPrinciple": "更宜补其心肾之火，使之生土",
+          "formulaIds": [
+            "funvke-formula-funvke-0043-1"
+          ],
+          "keySentence": "此方救脾胃之土十之八，救心肾之火十之二也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0044",
+      "contentHash": "d74422e47bac33a1",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妊妇有怀抱忧郁，以致胎动不安，两胁闷而疼痛，如弓上弦",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人止知是子悬之病也",
+              "rebuttal": "谁知是肝气不通乎"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "莫认为子之欲自悬，而妄用泄子之品",
+              "rebuttal": "此乃郁气使然也"
+            }
+          ],
+          "pathogenesis": "今肝气因忧郁而闭塞，则胎无血荫，肾难独任",
+          "organs": [
+            "肝",
+            "肾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法宜开肝气之郁结，补肝血之燥干，则子悬自定矣",
+          "formulaIds": [
+            "funvke-formula-funvke-0044-1"
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0045",
+      "contentHash": "66427a88c4177a0c",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妊妇有失足跌损，致伤胎元，腹中疼痛，势如将堕者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人只知是外伤之为病也",
+              "rebuttal": "谁知有内伤之故乎"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "若止作闪挫外伤治",
+              "rebuttal": "断难奏功，且恐有因治而反堕者"
+            }
+          ],
+          "pathogenesis": "惟内之气血素亏，故略有闪挫，胎便不安",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "必须大补气血，而少加以行瘀之品，则瘀散胎安矣",
+          "formulaIds": [
+            "funvke-formula-funvke-0045-1"
+          ],
+          "keySentence": "妙在既能祛瘀而不伤胎，又能补气补血，而不凝滞"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0046",
+      "contentHash": "7b385d07da95080f",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妊妇有胎不动腹不疼，而小便中时常有血流出者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为血虚胎漏也",
+              "rebuttal": "谁知气虚不能摄血乎"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "然则气虚下陷，而血未尝虚，似不应与气同陷也",
+              "rebuttal": "不知气乃血之卫，血赖气以固"
+            }
+          ],
+          "pathogenesis": "气虚下陷，则荫胎之血亦随气而陷矣",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法宜补其气之不足，而泄其火之有余",
+          "formulaIds": [
+            "funvke-formula-funvke-0046-1"
+          ],
+          "keySentence": "此方用人参以补阳气，用黄芩以泄阴火"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0047",
+      "contentHash": "9959c84deb752644",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妊妇怀胎至七八个月，忽然儿啼腹中，腰间隐隐作痛",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为胎热之过也",
+              "rebuttal": "谁知是气虚之故乎"
+            }
+          ],
+          "pathogenesis": "谁知是气虚之故乎",
+          "organs": [
+            "肺"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治宜大补其气",
+          "formulaIds": [
+            "funvke-formula-funvke-0047-1"
+          ],
+          "keySentence": "此方用人参、黄耆、麦冬以补肺气"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0048",
+      "contentHash": "ed1840ab9c8d2315",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人怀妊有口渴汗出，大饮冷水，而烦躁发狂，腰腹疼痛，以致胎欲堕者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人莫不谓火盛之极也",
+              "rebuttal": "此乃胃火炎炽，熬煎胞胎之水"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "今胃中有火，宜乎生土，何以火盛而反致害乎",
+              "rebuttal": "不知无火难以生土，而火又多能烁水"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "此方药料颇重，恐人虑不胜，而不敢全用",
+              "rebuttal": "况药料虽多，均是滋水之味，益而无损，勿过虑也"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "妊娠燥狂，每误有别症，不曰痰甚，即云时疚传经，而置妊娠于不问",
+              "rebuttal": "更属糊涂之极"
+            }
+          ],
+          "pathogenesis": "此乃胃火炎炽，熬煎胞胎之水，以致胞胎之水涸，胎失所养，故动而不安耳",
+          "organs": [
+            "胃",
+            "肾",
+            "心"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法必须泄火滋水，使水气得旺，则火气自平",
+          "formulaIds": [
+            "funvke-formula-funvke-0048-1"
+          ],
+          "keySentence": "均是滋水之味，益而无损"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0049",
+      "contentHash": "f2734db4bbfb80af",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人怀子在身，痰多吐诞，偶遇鬼神祟恶，忽然腹中疼痛，胎向上顶",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人疑为子悬之病也",
+              "rebuttal": "谁知是中恶而胎不安乎"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "治法似宜以治痰为主",
+              "rebuttal": "然治痰必至耗气，气虚而痰难消化，胎必动摇"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "金石之药以化痰者，皆矜奇立异，欲速取效",
+              "rebuttal": "不知暗耗人之真气"
+            }
+          ],
+          "pathogenesis": "此招祟之因痰而起也",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "必须补气以生血，补血以活痰，再加以清痰之品",
+          "formulaIds": [
+            "funvke-formula-funvke-0049-1"
+          ],
+          "keySentence": "此方大补气血，辅正邪自除之义也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0050",
+      "contentHash": "b75df49199c08093",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有怀妊之后，未至成形，或已成形，其胎必堕",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人皆曰气血衰微，不能固胎也",
+              "rebuttal": "谁知是性急怒多，肝火大动而不静乎"
+            }
+          ],
+          "pathogenesis": "大怒则火益动矣，火动而不可止遏，则火势飞扬，不能生气养胎，而反食气伤精矣",
+          "organs": [
+            "肝"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法宜乎其肝中之火，利其腰脐之气",
+          "formulaIds": [
+            "funvke-formula-funvke-0050-1"
+          ],
+          "keySentence": "此方名虽利气而实补气也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0051",
+      "contentHash": "4452cbff3cb46212",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妊妇因行房癫狂致小产，血崩不止",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为火动之极也",
+              "rebuttal": "谁知是气脱之故乎"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "若只以止血为主，而不急固其气",
+              "rebuttal": "则气散不能速回，而血何由止"
+            }
+          ],
+          "pathogenesis": "此火动是标，而气脱是本也",
+          "organs": [
+            "肾"
+          ],
+          "relations": [],
+          "formulaIds": [
+            "funvke-formula-funvke-0051-1"
+          ],
+          "keySentence": "妙在不去清火，而惟补气补精"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0052",
+      "contentHash": "8047a4d8b7200b0c",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妊妇有跌扑闪挫，遂致小产，血流紫块，昏晕欲绝者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人皆曰瘀血作祟也",
+              "rebuttal": "谁知是血室损伤乎"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "倘或再伤其气",
+              "rebuttal": "安保无气脱之忧乎"
+            }
+          ],
+          "pathogenesis": "胞胎有伤，则血室亦损",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "故必补气以生血，新血生而瘀血自散矣",
+          "formulaIds": [
+            "funvke-formula-funvke-0052-1"
+          ],
+          "keySentence": "此方用人参、黄耆以补气，气旺则血可摄也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0053",
+      "contentHash": "8570e64e2bdf6b72",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妊妇有口渴烦躁，舌上生疮，两唇肿裂，大便干结，数日不得通，以致腹疼小产者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人皆曰大肠之火热也",
+              "rebuttal": "谁知是血热烁胎乎"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "或疑儿已下坠，何故再顾其胞？血不荫胎，何必大补其水",
+              "rebuttal": "殊不知火动之极，以致胎坠，则胞中纯是一团火气，此火乃虚火也"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "倘一味清凉以降火，全不顾胞胎之虚实",
+              "rebuttal": "势必至寒气逼人，胃中生气萧索矣"
+            }
+          ],
+          "pathogenesis": "而火炽阴水不能速生以化血，所以阴虚火动",
+          "organs": [
+            "肾",
+            "胃"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法宜清胞中之火，补肾中之精，则可已矣",
+          "formulaIds": [
+            "funvke-formula-funvke-0053-1"
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0054",
+      "contentHash": "e80a5aedebf9a3da",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妊妇有畏寒腹疼，因而堕胎者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人只知下部太寒也",
+              "rebuttal": "谁知是气虚不能摄胎乎"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "无如人拘于妊娠之药禁而不敢用",
+              "rebuttal": "因致堕胎"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "倘认定是寒，大用辛热，全不补气与血",
+              "rebuttal": "恐过于燥热，反致亡阳而变危矣"
+            }
+          ],
+          "pathogenesis": "故胎成于气，亦摄于气，气旺则胎牢，气衰则胎堕",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "即用人参、干姜之类，补气祛寒，则可以疼止而胎安",
+          "formulaIds": [
+            "funvke-formula-funvke-0054-1"
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0055",
+      "contentHash": "256d04fd161f80e8",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妊妇有大怒之后，忽然腹疼吐血，因而堕胎；及堕胎之后，腹疼仍未止者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为肝之怒火未退也",
+              "rebuttal": "谁知是血不归经而然乎"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "大怒则血不能藏，宜失血而不当堕胎，何为失血而胎亦随堕乎",
+              "rebuttal": "不知肝性最急，血门不闭，其血直捣于胞胎"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "然徒引肝之血而不平肝之气",
+              "rebuttal": "则气逆而不易转，即血逆而不易归也"
+            }
+          ],
+          "pathogenesis": "肝血来冲，必断绝心肾之路",
+          "organs": [
+            "肝",
+            "心",
+            "肾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法宜引肝之血，仍入于肝，而腹疼自已矣",
+          "formulaIds": [
+            "funvke-formula-funvke-0055-1"
+          ],
+          "keySentence": "气归于肝之中，血亦归于肝之内，气血两归，而腹疼自止矣"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0056",
+      "contentHash": "100c3cfb684621d0",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妊娠有腹疼数日，不能生产",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人皆曰气虚力弱，不能送子出产门",
+              "rebuttal": "谁知是血虚胶滞，胞中无血，儿难转身乎"
+            }
+          ],
+          "pathogenesis": "故血旺则子易生，血衰则子难产",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "其惟气血兼补乎",
+          "formulaIds": [
+            "funvke-formula-funvke-0056-1"
+          ],
+          "keySentence": "血旺气得所养，气生血得所依，胞胎润泽，自然易产"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0057",
+      "contentHash": "96958c88e2772a8d",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妊妇有儿到产门，竟不能下",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为胞胎先破，水干不能滑利也",
+              "rebuttal": "谁知是交骨不开之故乎"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "然单用柞木枝亦能开骨",
+              "rebuttal": "但不补气与血，恐开而难合，未免有下部中风之患"
+            }
+          ],
+          "pathogenesis": "临产交骨不开者，多由于产前贪欲，泄精太甚，精泄则气血失生化之本，而大亏矣",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "故欲交骨之开，必须于补气补血之中，而加开骨之品",
+          "formulaIds": [
+            "funvke-formula-funvke-0057-1"
+          ],
+          "keySentence": "在用开于补之中也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0058",
+      "contentHash": "92008a9d1e7765db",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妊妇生产之际，有脚先下而儿不得下者，有手先下而儿不得下者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为横生倒产，至危之症也",
+              "rebuttal": "谁知是气血两虚之故乎"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "万不可使稳婆用手探取",
+              "rebuttal": "以致子母俱危"
+            }
+          ],
+          "pathogenesis": "胎弱无力，欲转头向下而不能，此胎之所以有脚手先下者也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "急用转天汤以救顺之"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0059",
+      "contentHash": "7440936d30ab63e8",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有生产数日而胎不下者，服催生之药，皆不见效",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为交骨之难开也",
+              "rebuttal": "谁知是气逆不行而然乎"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "若开其交骨，则儿门大开",
+              "rebuttal": "儿头未转而向下，必致变症非常"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "不利气而徒催生",
+              "rebuttal": "则气愈逆而胎愈闭矣"
+            }
+          ],
+          "pathogenesis": "恐则神怯，怯则气下而不能升，气既不升，则上焦闭塞，而气乃逆矣",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法但利其气，儿自转身而下矣",
+          "formulaIds": [
+            "funvke-formula-funvke-0059-1"
+          ],
+          "keySentence": "此方利气而实补气。盖气逆由于气虚"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0060",
+      "contentHash": "b65a5a94d8466432",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有生产三四日，儿已到产门，交骨不开，儿不得下，子死而母未亡者",
+          "disputes": [
+            {
+              "kind": "mistreatment",
+              "claim": "倘徒用降子之剂以坠之",
+              "rebuttal": "则死子未必下，而母气先脱矣"
+            }
+          ],
+          "pathogenesis": "正因其子死而胞胎下坠，子母离开，母气已收，未至同子气俱绝也",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "宜用推送之法，补血以生水，补气以生血",
+          "formulaIds": [],
+          "formulaText": "常用救母丹"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0061",
+      "contentHash": "9bff464d1c5b60f5",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有生产六七日，胞衣已破，而子不见下",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为难产之故也",
+              "rebuttal": "谁知是子已死于腹中乎"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "如用霸道以强逐其死子",
+              "rebuttal": "恐死子下而母亦立亡矣"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "世人用催生之药，以耗儿之气血",
+              "rebuttal": "此实庸医杀之也"
+            }
+          ],
+          "pathogenesis": "原因其母气血之虚，以致儿不能转头以向下",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "必须仍补其母，使母之气血旺，而死子自下也",
+          "formulaIds": [
+            "funvke-formula-funvke-0061-1"
+          ],
+          "keySentence": "此方救儿死之母，仍大补气血，所以救其本也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0062",
+      "contentHash": "9847024baae17ed4",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产妇有儿已下地，而胞衣留滞于腹中，二、三日不下，心烦意躁，时欲昏晕",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为胞衣之蒂未断也",
+              "rebuttal": "谁知是血少干枯，粘连于腹中乎"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "世人见胞衣不下，未免心怀疑惧，恐其冲之于心，而有死亡之兆",
+              "rebuttal": "然而胞衣究何能上冲于心也"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "或谓胞衣既有生气，补气补血，则胞衣亦宜坚牢，何以补之而反降也",
+              "rebuttal": "不知子未下，补则益于子；子已下，补则益于母"
+            }
+          ],
+          "pathogenesis": "谁知是血少干枯，粘连于腹中乎",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法仍宜大补其气血，使生血以送胞衣",
+          "formulaIds": [
+            "funvke-formula-funvke-0062-1"
+          ],
+          "keySentence": "此方以芎、归补其气血，以荆芥引血归经"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "有妇人子下地五、六日，而胞衣留于腹中，百计治之，竟不能下，而又绝无昏晕烦躁之状",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为瘀血之粘连也",
+              "rebuttal": "谁知是气虚不能推送乎"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "然则补其气不无浊气之上升乎",
+              "rebuttal": "不知清升而浊降者，一定之理"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "夫补中益气汤乃提气之药也，并非推送之剂，何以能降胞衣如此之速也",
+              "rebuttal": "然而浊气之下降者，由于清气之不升也"
+            }
+          ],
+          "pathogenesis": "今胞衣不下，是清气下降而难升，遂至浊气上浮而难降",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "苟能于补气之中，仍分其清浊之气，则升清正所以降浊也",
+          "formulaIds": [],
+          "formulaText": "方用补中益气汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0063",
+      "contentHash": "6e7fa6d870a1aa4e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人甫产儿后，忽然眼目昏花，呕恶欲吐，中心无主，或神魂外越，恍若天上行云",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为恶血冲心之患也",
+              "rebuttal": "谁知是气虚欲脱而然乎"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "或疑血晕是热血上冲，而更补其血，不愈助其上冲之势乎",
+              "rebuttal": "不知新血不生，旧血不散，补血以生新血，正活血以逐旧血也"
+            }
+          ],
+          "pathogenesis": "今气又虚而欲脱，而君心无护，所剩残血欲奔回救主，而血非正血，不能归经，内庭变乱而成血晕之症矣",
+          "organs": [
+            "心"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法必须大补气血，断不可单治血晕也",
+          "formulaIds": [
+            "funvke-formula-funvke-0063-1"
+          ],
+          "keySentence": "气血两旺，而心自定矣"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0064",
+      "contentHash": "dd84e938ad1cc27f",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产妇有子方下地，即昏晕不语",
+          "disputes": [
+            {
+              "kind": "drugDoubt",
+              "claim": "万不可于二方之中，轻加附子",
+              "rebuttal": "盖附子无经不达，反引气血之药，走而不守"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "世人但知灸眉心之法",
+              "rebuttal": "不知刺更胜于灸"
+            }
+          ],
+          "pathogenesis": "盖产妇昏晕，全是血室空虚，无以养心，以致昏晕",
+          "organs": [
+            "心"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "急用银针刺其眉心，得血出则语矣",
+          "formulaIds": [],
+          "formulaText": "然后以人参一两煎汤灌之，无不生者；即用黄耆二两，当归一两，名当归补血汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0065",
+      "contentHash": "4d32e844eb3adc10",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有产后二、三日，发热，恶露不行，败血攻心，狂言呼叫，甚欲奔走，拿提不定",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为邪热在胃之过",
+              "rebuttal": "谁知是血虚心不得养而然乎"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "此方用芎、归以养血，何以又用生地、丹皮之凉血，似非产后所宜",
+              "rebuttal": "不知恶露所以奔心，原因虚热相犯，于补中凉之，而凉不为害"
+            }
+          ],
+          "pathogenesis": "使心包亦虚，不能障心，而各脏腑之气遂直入于心，以分取乎心血",
+          "organs": [
+            "心",
+            "心包"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法须大补心中之血，使各脏腑分取以自养，不得再扰乎心君",
+          "formulaIds": [
+            "funvke-formula-funvke-0065-1"
+          ],
+          "keySentence": "于补中凉之，而凉不为害"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0066",
+      "contentHash": "59b5a05ec27a78f3",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产妇肠下，亦危症也",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为儿门不关之故",
+              "rebuttal": "谁知是气虚下陷而不能收乎"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "一旦提气，并瘀血升腾于上",
+              "rebuttal": "则冲心之患，又恐变出非常"
+            }
+          ],
+          "pathogenesis": "盖气之下陷者，因气之虚也",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "但补其气，则气旺而肠自升举矣",
+          "formulaIds": [
+            "funvke-formula-funvke-0066-1"
+          ],
+          "keySentence": "此方纯于补气，全不去升肠"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0067",
+      "contentHash": "1bac36659bb1cbe1",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人产后少腹疼痛，甚则结成一块，按之愈疼",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为儿枕之疼也",
+              "rebuttal": "谁知是瘀血作祟乎"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "若不补血而反败血",
+              "rebuttal": "虽瘀血可消，毕竟耗损难免"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "彼世人一见儿枕之疼，动用元胡、苏木、蒲黄、灵脂之类以化块",
+              "rebuttal": "又何足论哉"
+            }
+          ],
+          "pathogenesis": "乃是瘀血未散，结作成团而作疼耳",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "不若于补血之中，以行逐瘀之法，则气血不耗，而瘀亦尽消矣",
+          "formulaIds": [
+            "funvke-formula-funvke-0067-1"
+          ],
+          "keySentence": "此方逐瘀于补血之中，消块于生血之内"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "妇人产后少腹疼痛，按之即止",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人亦以为儿枕之疼也",
+              "rebuttal": "谁知是血虚而然乎"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "而补血之味，多是润滑之品，恐与大肠不无相碍",
+              "rebuttal": "然产后血虚，肠多干燥，润滑正相宜也"
+            }
+          ],
+          "pathogenesis": "夫产后亡血过多，血室空虚，原能腹疼",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "大凡虚疼宜补，而产后之虚疼，尤宜补焉",
+          "formulaIds": [],
+          "formulaText": "方用肠宁汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0068",
+      "contentHash": "06b4d27d05bc981d",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人产后气喘，最是大危之症",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人只知是气血之虚也",
+              "rebuttal": "谁知是气血两脱乎"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "夫既气血两脱，人将立死，何又能作喘",
+              "rebuttal": "然此血将脱，而气犹未脱也"
+            }
+          ],
+          "pathogenesis": "而肺因血失，止存几微之气，自顾尚且不暇，又何能提挈乎血",
+          "organs": [
+            "肺",
+            "肝",
+            "肾",
+            "命门"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "是救血必须补气也",
+          "formulaIds": [
+            "funvke-formula-funvke-0068-1"
+          ],
+          "keySentence": "所以又用熟地、山萸、枸杞之类，以大补其肝肾之精，而后大益其肺气"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0069",
+      "contentHash": "17579ad261c6b171",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人产后恶寒恶心，身体颤，发热作渴",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为产后伤寒也",
+              "rebuttal": "谁知是气血两虚，正不敌邪而然乎"
+            }
+          ],
+          "pathogenesis": "产妇失血既多，则气必大虚，气虚则皮毛无卫，邪原易入",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治其内寒，而外寒自散；治其内弱，而外热自解；壮其元阳，而身颤自除",
+          "formulaIds": [
+            "funvke-formula-funvke-0069-1"
+          ],
+          "keySentence": "此方但补气与血之虚，而不去散风与邪之实"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0070",
+      "contentHash": "c62170f28969f14c",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人产后恶心欲呕，时而作吐",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人皆曰胃气之寒也",
+              "rebuttal": "谁知是肾气之寒乎"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "肾水涸应肾火上炎，当不至胃有寒冷之虞，何故肾寒而胃亦寒乎",
+              "rebuttal": "盖新产之馀，水乃遽然涸去，虚火尚不能生"
+            }
+          ],
+          "pathogenesis": "盖新产之馀，水乃遽然涸去，虚火尚不能生，火既不生，而寒之象自现",
+          "organs": [
+            "肾",
+            "胃"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "必须于水中补火，肾中温胃",
+          "formulaIds": [
+            "funvke-formula-funvke-0070-1"
+          ],
+          "keySentence": "此方补肾之药，多于治胃之品，然而治肾仍是治胃也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0071",
+      "contentHash": "03194ac9c68a5b58",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "少妇产后半月，血崩昏晕，目见鬼神",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人皆曰恶血冲心也",
+              "rebuttal": "谁知是不慎房帏之过乎"
+            }
+          ],
+          "pathogenesis": "是心肾两伤，不特胞胎门户已也",
+          "organs": [
+            "心",
+            "肾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "舍大补其气与血，别无良法也",
+          "formulaIds": [
+            "funvke-formula-funvke-0071-1"
+          ],
+          "keySentence": "此方补气以回元阳于无何有之乡"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "亦有中气素虚，产后顷刻血崩不止，气亦随之而脱",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "惟用独参汤尚可救活一、二"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0072",
+      "contentHash": "c9544c23add9823a",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有生产之时，被稳婆手入产门，损伤胞胎，因而淋漓不止，欲少忍须臾而不能",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人谓胞破不能再补也",
+              "rebuttal": "孰知不然"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "或谓破在外可用药外治，以生皮肤；破在内，虽有灵膏，无可救补",
+              "rebuttal": "然破之在内者，外治虽无可施力，安必内治不可奏功乎"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "夫胞损宜用补胞之药，何以反用补气血之药也",
+              "rebuttal": "若不补其气与血，而胞胎之破，何以奏功乎"
+            }
+          ],
+          "pathogenesis": "因虚而损，复因损而更虚",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [
+            "funvke-formula-funvke-0072-1"
+          ],
+          "keySentence": "今之大补其气血者，不啻饥而与之食，渴而与之饮也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0073",
+      "contentHash": "affc03ec8e4a9a8b",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产后四肢浮肿，寒热往来，气喘咳嗽，胸隔不利，口吐酸水，两胁疼痛",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人皆曰败血流于经络，渗于四肢，以致气逆也",
+              "rebuttal": "谁知是肝肾两虚，阴不得出之阳乎"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "然而肝木之火旺",
+              "rebuttal": "乃假象而非真旺也"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "此方皆是补血补精之品，何以名为转气耶",
+              "rebuttal": "不知气逆由于气虚，乃是肝肾之气虚也"
+            }
+          ],
+          "pathogenesis": "然水不足则不能养肝，而肝木大燥，木中乏津，木燥火发",
+          "organs": [
+            "肝",
+            "肾",
+            "肺",
+            "脾"
+          ],
+          "relations": [
+            {
+              "from": "肾",
+              "to": "肝",
+              "kind": "生"
+            },
+            {
+              "from": "肝",
+              "to": "脾",
+              "kind": "克"
+            }
+          ],
+          "treatmentPrinciple": "治法宜补血以养肝，补精以生血",
+          "formulaIds": [
+            "funvke-formula-funvke-0073-1"
+          ],
+          "keySentence": "补肝肾之精血，即所以补肝肾之气也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0074",
+      "contentHash": "600746230156f339",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人有产后水道中出肉线一条，长二、三尺，动之则疼痛欲绝",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为胞胎之下坠也",
+              "rebuttal": "谁知是带脉之虚脱乎"
+            }
+          ],
+          "pathogenesis": "产后亡血过多，无血以养任督，而带脉崩坠，力难升举",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [
+            "funvke-formula-funvke-0074-1"
+          ],
+          "keySentence": "此方补任督而仍补腰脐者，盖以任督连于腰脐也"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0075",
+      "contentHash": "5ae4cd7a119dbd63",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人产后阴户中垂下一物，其形如帕，或有角、或二歧",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为产颓也",
+              "rebuttal": "谁知是肝痿之故乎"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "其形似子宫",
+              "rebuttal": "而实非子宫也"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "或疑产后禁用白芍，恐伐生气之源，何以频用之而奏功也",
+              "rebuttal": "白芍之在产后不可频用者，恐其收敛乎瘀也；而谓伐生气之源，则误矣"
+            }
+          ],
+          "pathogenesis": "以致肝不藏血，血亡过多，故肝之脂膜随血崩坠",
+          "organs": [
+            "肝"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法宜大补其气与血，而少加升提之品",
+          "formulaIds": [
+            "funvke-formula-funvke-0075-1"
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0076",
+      "contentHash": "f4a3699bb2c65241",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人产后绝无点滴之乳",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为乳管之闭也",
+              "rebuttal": "谁知是气与血之两涸乎"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "世人不知大补气血之妙，而一味通乳",
+              "rebuttal": "岂知无气则乳无以化，无血则乳无以生"
+            }
+          ],
+          "pathogenesis": "夫乳乃气血之所化而成也",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法宜补气以生血，而乳汁自下，不必利窍以通乳也",
+          "formulaIds": [],
+          "formulaText": "方名通乳丹"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0077",
+      "contentHash": "38b5b04718e2021f",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "少壮之妇，于生产之后，或闻丈夫之嫌，或听翁姑之谇，遂致两乳胀满疼痛，乳汁不通",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "人以为阳明之火热也",
+              "rebuttal": "谁知是肝气之郁结乎"
+            }
+          ],
+          "pathogenesis": "明明是羞愤成郁，土木相结，又安能化乳而成汁也",
+          "organs": [
+            "肝",
+            "胃"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治法宜大舒其肝木之气，而阳明之气血自通，而乳亦通矣",
+          "formulaIds": [],
+          "formulaText": "方名通肝生乳汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0078",
+      "contentHash": "9f11c28a3cc2b493",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "有腹或痛或止，腰胁酸痛；或势急而胞未破，名弄胎",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "服八珍汤加香附自安"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0079",
+      "contentHash": "133a990a1d133200",
+      "cases": []
+    },
+    {
+      "clauseId": "funvke-0080",
+      "contentHash": "c1cbefee7d517a44",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "心烦",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "用滚水调白蜜一匙，独活汤更妙"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0081",
+      "contentHash": "151ec8df73edd15c",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "因坐草太早，困倦难产",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "用八珍汤，稍佐以香附、乳香，以助血气"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0082",
+      "contentHash": "b03708e8ffb9f327",
+      "cases": []
+    },
+    {
+      "clauseId": "funvke-0083",
+      "contentHash": "df4afc9697324308",
+      "cases": []
+    },
+    {
+      "clauseId": "funvke-0084",
+      "contentHash": "4a595390c7494809",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产母若用力逼之，胎转至半而横",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "当归、紫苏各三钱，长流水煎服即下"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0085",
+      "contentHash": "04f95b319b63b260",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产则子肠先出，然后生子，其肠或未即收",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "以蓖麻子四十九粒，研碎涂头上"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0086",
+      "contentHash": "6b1eed18a5d10c00",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "交骨不开，不能生产也",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "服加味芎归汤，良久即下"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0087",
+      "contentHash": "215f9183063dc42e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "子死腹中也。验母舌青黑，其胎已死",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "先用平胃散一服，酒水各一锺，煎八分，投朴硝煎服，即下"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0088",
+      "contentHash": "6c5819d1279d91a0",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "胞衣不下",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "用滚酒送下失笑散一剂，或益母丸，或生化汤送鹿角灰一钱"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "有气虚不能送出者，腹必胀痛",
+          "disputes": [],
+          "pathogenesis": "有气虚不能送出者",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "单用生化汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0089",
+      "contentHash": "7a4ea5bcdae45cda",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎滑胎散：临月常服数剂以便易生"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0090",
+      "contentHash": "ef2cc20210f1e73e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "治横生逆产，至数日不下，一服即下；有未足月，忽然胎动，一服即安",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "上十三味，只用十二味，不可加减。安胎去红花；催生去蕲艾"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0091",
+      "contentHash": "24524cf2b2608861",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "治横生逆产神效",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "兔脑为丸，芡实大，阴干密封，用时以温酒送下一丸"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0092",
+      "contentHash": "eb86d2b332dd7958",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "临产未产时，目反口噤，面黑唇青，口中吐沫，命在须臾",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎蛇退、蚕故子（烧灰不存性）、发灰（一钱）"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "治子宫不收，产后不闭",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎加味芎归汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0093",
+      "contentHash": "3061173164d81091",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "若产时劳甚，血崩形脱",
+          "disputes": [
+            {
+              "kind": "commonPractice",
+              "claim": "有治产不用当归者",
+              "rebuttal": "见偏之甚"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "世以四物汤治产",
+              "rebuttal": "地黄性寒滞血，芍药微酸无补，伐伤生气，误甚"
+            }
+          ],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "生化汤先连进二服"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0094",
+      "contentHash": "266a81f6a9132708",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产后危疾诸症",
+          "disputes": [
+            {
+              "kind": "mistreatment",
+              "claim": "一因气不舒而误用耗气顺气等药",
+              "rebuttal": "反增饱闷"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "二因伤气而误用消导",
+              "rebuttal": "反损胃气，至绝谷"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "三因身热而误用寒凉",
+              "rebuttal": "必致损胃增热"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "九毋用山楂汤以攻块定痛",
+              "rebuttal": "而反损新血"
+            }
+          ],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "当频服生化汤，随症加减"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0095",
+      "contentHash": "35aa331967222ec7",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "凡新产后，荣卫俱虚，易发寒热；身痛腹痛",
+          "disputes": [
+            {
+              "kind": "mistreatment",
+              "claim": "决不可妄投发散之剂",
+              "rebuttal": "当用生化汤为主，稍佐发散之药"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "世人见有身热，便以为外感，遽然发汗",
+              "rebuttal": "速亡甚矣"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "若偏补气而专用参耆",
+              "rebuttal": "非善也"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "或云大热而用姜何也",
+              "rebuttal": "曰此热非有余之热，乃阴虚内生热耳"
+            }
+          ],
+          "pathogenesis": "此热非有余之热，乃阴虚内生热耳",
+          "organs": [
+            "脾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "大抵产后先宜补血，次补气",
+          "formulaIds": [],
+          "formulaText": "当用生化汤为主，稍佐发散之药"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "产后寒热，口眼歪邪",
+          "disputes": [],
+          "pathogenesis": "此乃气血虚甚",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "以大补为主",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0096",
+      "contentHash": "5f007a1a90b0fdd2",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "胎前或患伤寒、疫症、疟疾，热久必致堕胎，堕后愈增热",
+          "disputes": [
+            {
+              "kind": "mistreatment",
+              "claim": "治者甚勿妄论伤寒，疟疫未除，误投栀子豉汤、柴、芩、连、柏等药",
+              "rebuttal": "只重产轻邪，大补气血，频服生化汤"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "若热用寒剂",
+              "rebuttal": "愈虚中气，误甚"
+            }
+          ],
+          "pathogenesis": "因热消阴血，而又继产失血故也",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "只重产轻邪，大补气血",
+          "formulaIds": [],
+          "formulaText": "频服生化汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0097",
+      "contentHash": "c15150c042a9b44e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [
+            {
+              "kind": "commonPractice",
+              "claim": "此症勿拘古方，妄用苏木、蓬、棱",
+              "rebuttal": "以轻人命"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "俗有生地、牛膝行血；山棱、蓬术败血；山楂、沙糖消块；蕲艾、椒酒定痛",
+              "rebuttal": "反致昏晕等症，切不可妄用"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "至于血结更甚，反用承气汤下之",
+              "rebuttal": "而愈结"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "汗多小便短涩，反用五苓散通之",
+              "rebuttal": "而愈秘，非徒无益，而又害之也"
+            }
+          ],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "频服生化汤，行气助血，外用热衣以暖腹",
+          "formulaIds": [],
+          "formulaText": "◎生化汤原方"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "觉痛减可揉，乃虚痛也",
+          "disputes": [],
+          "pathogenesis": "乃虚痛也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜加参生化汤"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "如七日内，或因寒凉食物，结块痛甚者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "加入肉桂八分（一作三分）于生化汤内"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "凡儿生下，或停血不下，半月外尚痛，或外加肿毒，高寸许，或身热，减饮食，倦甚",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "攻补兼治，其块自消",
+          "formulaIds": [],
+          "formulaText": "◎加味生化汤：治血块日久不消，半月后方可用之"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0098",
+      "contentHash": "85ad4426235dc8e4",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "分娩之后，眼见黑花，头眩昏晕，不省人事者",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "若偏信古方，认为恶血抢心，而轻用散血之剂",
+              "rebuttal": "误甚矣"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "认为疫火，而用无补消降之方",
+              "rebuttal": "误甚矣"
+            }
+          ],
+          "pathogenesis": "一因劳倦甚而气竭神昏；二因大脱血而气欲绝；三因痰火乘虚泛上而神不守",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "当急服生化汤二、三帖",
+          "formulaIds": [],
+          "formulaText": "◎加味生化汤：治产后三血晕症"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "如晕厥，牙关紧闭",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "速煎生化汤，挖开口，将鹅毛探喉，酒盏盛而灌之"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "治产后形色脱晕，或汗多脱晕",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎加参生化汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0099",
+      "contentHash": "b96aadc0edbe7a93",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "妇人产有用力过多，劳倦伤脾，故逆冷而厥，气上胸满，脉去形脱",
+          "disputes": [
+            {
+              "kind": "drugDoubt",
+              "claim": "岂钱数川芎、当归能回阳复神乎",
+              "rebuttal": "非大补不可"
+            }
+          ],
+          "pathogenesis": "劳倦伤脾，故逆冷而厥",
+          "organs": [
+            "脾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "非大补不可",
+          "formulaIds": [],
+          "formulaText": "必用加参生化汤，倍参，进二剂"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "如四肢逆冷，又泄痢类伤寒阴症",
+          "disputes": [
+            {
+              "kind": "drugDoubt",
+              "claim": "又难用四逆汤",
+              "rebuttal": "必用倍参生化汤，加附子一片，可以回阳止逆"
+            }
+          ],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "必用倍参生化汤，加附子一片"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "治产后发厥，问块痛已除可服此方",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎滋荣益气复神汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0100",
+      "contentHash": "7a4213cd47222954",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产后血大来",
+          "disputes": [
+            {
+              "kind": "drugDoubt",
+              "claim": "有言归、芎但能活血",
+              "rebuttal": "甚误"
+            }
+          ],
+          "pathogenesis": "如鲜红之血，乃是惊伤心不能生血，怒伤肝不能藏血，劳伤脾不能统血，俱不能归经耳",
+          "organs": [
+            "心",
+            "肝",
+            "脾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "当以崩治，先服生化汤几帖，则行中自有补",
+          "formulaIds": [],
+          "formulaText": "◎生血止崩汤：治产后血崩"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "如产后半月外崩",
+          "disputes": [],
+          "pathogenesis": "此症虚极",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎升举大补汤：滋荣益气"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0101",
+      "contentHash": "4e78ef72a37cd77b",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "因血脱劳甚，气无所恃，呼吸止息，违其常度",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "有认为痰火，反用散气化痰之方",
+              "rebuttal": "误人性命"
+            }
+          ],
+          "pathogenesis": "因血脱劳甚，气无所恃",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "当以大补血为主",
+          "formulaIds": [],
+          "formulaText": "◎加参生化汤：治分娩后即患短气者"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "治产后气短日，血块不痛",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎补气养荣汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0102",
+      "contentHash": "347c2e2a68af3ccc",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "治产后块痛未止，妄言妄见症",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "勿谓邪祟，若喷以法水惊之",
+              "rebuttal": "每至不救"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "误论气实痰火者",
+              "rebuttal": "非也"
+            }
+          ],
+          "pathogenesis": "由气血虚，神魂无依也",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "病虚似邪，欲除其邪，先补其虚，先调其气",
+          "formulaIds": [],
+          "formulaText": "◎安神生化汤"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "块痛已止，妄言妄见",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "即当大补气血，安神定志",
+          "formulaIds": [],
+          "formulaText": "◎滋荣益气复神汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0103",
+      "contentHash": "7c3184c913593db9",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "如饮食不节，必伤脾胃",
+          "disputes": [
+            {
+              "kind": "commonPractice",
+              "claim": "屡见治者不重产后之弱，惟知速消伤物",
+              "rebuttal": "反损真气，益增满闷"
+            }
+          ],
+          "organs": [
+            "脾",
+            "胃"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治当扶元，温补气血，健脾胃",
+          "formulaIds": [],
+          "formulaText": "◎加味生化汤：治血块未消，服此以消食"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "治血块已除，服此消食",
+          "disputes": [
+            {
+              "kind": "mistreatment",
+              "claim": "凡伤食误用消导药",
+              "rebuttal": "反绝粥几日者"
+            }
+          ],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎健脾消食生化汤"
+        },
+        {
+          "caseIndex": 2,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "长生活命丹"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0104",
+      "contentHash": "b20e40f570c72da4",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产后怒气逆，胸膈不利，血块又痛",
+          "disputes": [
+            {
+              "kind": "mistreatment",
+              "claim": "若轻产重气，偏用木香、乌药、枳壳、砂仁之类",
+              "rebuttal": "则元气反损，益增满闷"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "慎勿用木香摈榔丸、流气引子之方",
+              "rebuttal": "使虚弱愈甚也"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "若专理气消食",
+              "rebuttal": "非徒无益，而又害之"
+            }
+          ],
+          "organs": [
+            "肝"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "必以补气血为先，佐以调肝顺气",
+          "formulaIds": [],
+          "formulaText": "宜用生化汤去桃仁。服时磨木香二分在内"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "治产后血块已除，因受气者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎木香生化汤"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "治受气伤食，无块痛者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎健脾化食散气汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0105",
+      "contentHash": "c25ce5f6c184f993",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产后寒热往来，每日应期而发",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "其症似疟",
+              "rebuttal": "而不可作疟治"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "其柴胡清肝饮等方，常山、草果等药",
+              "rebuttal": "俱不可用"
+            }
+          ],
+          "pathogenesis": "夫气血虚而寒热更作，元气虚而外邪或侵",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治当滋荣益气，以退寒热",
+          "formulaIds": [],
+          "formulaText": "◎滋荣养气扶正汤"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "治产后寒热往来，头痛无汗类疟者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎加减养胃汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0106",
+      "contentHash": "38d29dd20f23b46d",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产后七日内，发热头痛恶寒",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "毋专论伤寒为太阳症",
+              "rebuttal": "二症皆由气血两虚，阴阳不和而类外感"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "发热头痛胁痛，毋专论伤寒为少阳症",
+              "rebuttal": "二症皆由气血两虚，阴阳不和而类外感"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "而用麻黄汤以治类太阳症",
+              "rebuttal": "且产母脱血之后，而重发其汗，虚虚之祸，可胜言哉"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "诚恐后辈学业偏门而轻产，执成方而发表耳",
+              "rebuttal": "谁知产后真感风感寒，生化中芎、姜亦能散之乎"
+            }
+          ],
+          "pathogenesis": "二症皆由气血两虚，阴阳不和而类外感",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎加味生化汤：治产后三日内发热头痛症"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "时有刺痛者，败血也",
+          "disputes": [],
+          "pathogenesis": "产后败血不散，亦能作寒作热",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜用红花、桃仁、归尾之类"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0107",
+      "contentHash": "f736631b2221ba28",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "潮热有汗，大便不通",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "毋专论为阳明症",
+              "rebuttal": "乃虚症类实，当补之症"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "而妄议三承气汤，以治类三阴之症也",
+              "rebuttal": "虚弱产妇亦复妄下，多致不救"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "即用药通之",
+              "rebuttal": "祸在反掌"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "若服苦寒疏通",
+              "rebuttal": "反伤中气，通而不止，或成痞满，误矣"
+            }
+          ],
+          "pathogenesis": "数症多由劳倦伤脾，运化稽迟，气血枯槁，肠腑燥涸",
+          "organs": [
+            "脾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "宜养正助血通滞",
+          "formulaIds": [],
+          "formulaText": "◎养正通幽汤"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "治产后日久大便不通",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "芝麻一升，研末，和米二合，煮粥食"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0108",
+      "contentHash": "08555ef270d1f783",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "忽然口噤牙紧，手足筋脉拘搐等症",
+          "disputes": [
+            {
+              "kind": "mistreatment",
+              "claim": "勿执偏门，而用治风消痰之方",
+              "rebuttal": "以重虚产妇也"
+            }
+          ],
+          "pathogenesis": "产后气血暴虚，百骸少血濡养",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治法当先服生化汤，以生旺新血",
+          "formulaIds": [],
+          "formulaText": "◎滋荣活络汤"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "治产后中风恍惚语涩四肢不利",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎天麻丸"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0109",
+      "contentHash": "d8ed1ab998c48367",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产后汗多，即变痉者，项强而反，气息如绝",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜速服加减生化汤"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "如无汗类痉者中风",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "用川芎三钱，当归一两酒洗"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0110",
+      "contentHash": "113f754760b7f82e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "凡分娩时汗出",
+          "disputes": [
+            {
+              "kind": "mistreatment",
+              "claim": "不可即用敛汗之剂",
+              "rebuttal": "神定而汗自止"
+            }
+          ],
+          "pathogenesis": "由劳伤脾，惊伤心，恐伤肝也",
+          "organs": [
+            "脾",
+            "心",
+            "肝"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服生化汤二、三帖，以消块痛，随继服加参生化汤，以止虚汗"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "若分娩后倦甚，濈濈然汗出，形色又脱",
+          "disputes": [],
+          "pathogenesis": "乃亡阳脱汗也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "速灌加参生化汤，倍参以救危"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "治产后虚汗不止",
+          "disputes": [],
+          "organs": [
+            "脾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "当健脾以敛水液之精，益荣卫以嘘血归源",
+          "formulaIds": [],
+          "formulaText": "◎麻黄根汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0111",
+      "contentHash": "a07e9deb4f905046",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产后睡中汗出，醒来即止",
+          "disputes": [
+            {
+              "kind": "commonPractice",
+              "claim": "《杂症论》云：「自汗阳亏，盗汗阴虚。」",
+              "rebuttal": "然当归六黄汤又非产后盗汗方也"
+            }
+          ],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "惟兼气血而调治之，乃为得耳",
+          "formulaIds": [],
+          "formulaText": "◎止汗散：治产后盗汗"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0112",
+      "contentHash": "cab78ab359da01a0",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产后烦躁，咽干而渴，兼小便不利",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "若认口渴为火，而用芩、连、栀、柏以降之",
+              "rebuttal": "皆失治也"
+            },
+            {
+              "kind": "misdiagnosis",
+              "claim": "认小便不利为水滞，而用五苓散以通之",
+              "rebuttal": "皆失治也"
+            }
+          ],
+          "pathogenesis": "由失血汗多所致",
+          "organs": [
+            "脾",
+            "肺"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治当助脾益肺，升举气血",
+          "formulaIds": [],
+          "formulaText": "◎生津止渴益水饮"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0113",
+      "contentHash": "92fa51d2d6e5ddbc",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "pathogenesis": "气血太虚，不能约束",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜八珍汤加升麻、柴胡，甚者加熟附子一片"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0114",
+      "contentHash": "a193a94bfe46431b",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产理不顺，稳婆不精，误破尿胞膀胱者",
+          "disputes": [],
+          "organs": [
+            "膀胱"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "用参、芪为君，归、芎为臣，桃仁、陈皮、茯苓为佐，猪羊尿胞煎药"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0115",
+      "contentHash": "8330e9bdecb6aea4",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "热则小便淋涩作痛，曰淋",
+          "disputes": [
+            {
+              "kind": "drugDoubt",
+              "claim": "症由内虚，方用石膏一两",
+              "rebuttal": "无此治法，不可拘执陈方以致误人"
+            }
+          ],
+          "pathogenesis": "由产后虚弱，热客于脬中",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎茅根汤：凡产后冷热淋并治之"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "治产后小便痛淋血",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "鲤鱼齿（一百个）"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0116",
+      "contentHash": "74d63e94f51746e3",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "pathogenesis": "由脬内素有冷气，因产发动，冷气入脬故也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "用赤石脂二两为末，空心服"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "治小便数及遗尿",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "用益智仁二十八枚为末，米饮送下二钱"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0117",
+      "contentHash": "7809c95a708a82ee",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产后泄泻",
+          "disputes": [],
+          "pathogenesis": "大率气虚食积与湿也",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "气虚宜补、食积宜消、湿则宜燥",
+          "formulaIds": [],
+          "formulaText": "当先服生化汤二三帖，化旧生新，加茯苓以利水道"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "产后虚泻，眠昏人不识，弱甚形脱危症",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "必用人参二钱，白术、茯苓各二钱，附子一钱"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "若脉浮弦，按之不鼓，即为中寒",
+          "disputes": [],
+          "pathogenesis": "此盖阴先亡而阳欲去",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "速宜大补气血，加附子、黑姜以回元阳",
+          "formulaIds": []
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "治产后块已除，患泻症",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎健脾利水生化汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0118",
+      "contentHash": "ce551a0dacb531bd",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "治产后三日内完谷不化，块未消者",
+          "disputes": [],
+          "pathogenesis": "因产后劳倦伤脾，而运转稽迟也",
+          "organs": [
+            "脾",
+            "胃"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎加味生化汤"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "治产后三日内块已消，谷不化，胎前素弱患此症者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎参苓生化汤"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "产后泻痢日久，胃气虚弱，完谷不化",
+          "disputes": [],
+          "organs": [
+            "胃"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "宜温助胃气",
+          "formulaIds": [],
+          "formulaText": "六君子汤加木香四分，肉果一个（制）"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0119",
+      "contentHash": "d4f5254639aeab9e",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产后七日内外，患赤白痢，里急后重频并",
+          "disputes": [
+            {
+              "kind": "drugDoubt",
+              "claim": "欲调气行血，而推荡痢邪，犹患产后元气虚弱；欲滋荣益气，而大补虚弱，又助痢之邪",
+              "rebuttal": "惟生化汤减干姜，而代以木香、茯苓，则善消恶露，而兼治痢疾，并行而不相悖也"
+            }
+          ],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "惟生化汤减干姜，而代以木香、茯苓"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "若产七日外，有患褐花色后重，频并虚痢",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "即当加补无疑",
+          "formulaIds": []
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "若产妇禀厚，产期已经二十馀日",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服生化汤加连、芩、厚朴、芍药行积之剂"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "治噤口痢",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎青血丸"
+        },
+        {
+          "caseIndex": 4,
+          "symptomText": "产后久泻：元气下陷，大便不禁，肛门如脱",
+          "disputes": [],
+          "pathogenesis": "元气下陷",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服六君子汤，加木香四分，肉果一个（制），姜汁（五分）"
+        },
+        {
+          "caseIndex": 5,
+          "symptomText": "产后泻痢：色黄",
+          "disputes": [],
+          "pathogenesis": "乃脾土真气虚损",
+          "organs": [
+            "脾"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服补中益气汤，加木香、肉果"
+        },
+        {
+          "caseIndex": 6,
+          "symptomText": "产后伤面食：泻痢",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服生化汤，加神曲、麦芽"
+        },
+        {
+          "caseIndex": 7,
+          "symptomText": "产后伤肉食：泻痢",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服生化汤，加山楂、砂仁"
+        },
+        {
+          "caseIndex": 8,
+          "symptomText": "产后胃气虚弱：泻痢，完谷不化",
+          "disputes": [],
+          "organs": [
+            "胃"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "当温助胃气",
+          "formulaIds": [],
+          "formulaText": "宜服六君子汤，加木香四分，肉果一个（制）"
+        },
+        {
+          "caseIndex": 9,
+          "symptomText": "产后脾胃虚弱：四肢浮肿",
+          "disputes": [],
+          "organs": [
+            "脾",
+            "胃"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服六君子汤，加五皮散"
+        },
+        {
+          "caseIndex": 10,
+          "symptomText": "产后泻痢：无后重，但久不止",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服六君子汤，加木香、肉果"
+        },
+        {
+          "caseIndex": 11,
+          "symptomText": "产后赤白痢：脐下痛",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "当归、厚朴、黄连、肉果、甘草，桃仁、川芎"
+        },
+        {
+          "caseIndex": 12,
+          "symptomText": "产后久痢：色赤",
+          "disputes": [],
+          "pathogenesis": "属血虚",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜四物汤，加荆芥、人参"
+        },
+        {
+          "caseIndex": 13,
+          "symptomText": "产后久痢：色白",
+          "disputes": [],
+          "pathogenesis": "属气虚",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜六君子汤，加木香、肉果"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0120",
+      "contentHash": "208309fc804f9fe7",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "治产后血块痛未除，患霍乱",
+          "disputes": [],
+          "pathogenesis": "由劳伤气血，脏腑空虚，不能运化食物，及感冷风所致",
+          "organs": [
+            "脾",
+            "胃"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎生化六和汤"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "治产后霍乱吐泻，手足逆冷，须无块痛方可服",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎附子散"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "治产后霍乱吐泻不止，无块痛者可服",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎温中汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0121",
+      "contentHash": "2f77feea056e01d2",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "治产妇呕逆不食",
+          "disputes": [],
+          "pathogenesis": "产后劳伤脏腑，寒邪易乘于肠胃，则气逆呕吐而不下食也",
+          "organs": [
+            "胃"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎加减生化汤：治产妇呕逆不食"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "治产后七日外呕逆不食",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎温胃丁香散"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "治广妇呕土心冲目弦",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎石莲散"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "治产妇虚弱，口渴气少",
+          "disputes": [],
+          "pathogenesis": "由产后血少多汗内烦不生津液",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎生津益胃汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0122",
+      "contentHash": "66a1770f056113c5",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "外感风寒，咳嗽鼻塞，声重恶寒",
+          "disputes": [
+            {
+              "kind": "mistreatment",
+              "claim": "勿用麻黄以动汗",
+              "rebuttal": "总之产后不可发汗"
+            },
+            {
+              "kind": "mistreatment",
+              "claim": "嗽而有声，痰少面赤，勿用凉药",
+              "rebuttal": "必须调理半月后，方可用凉药，半月前不当用"
+            },
+            {
+              "kind": "drugDoubt",
+              "claim": "而第一与第二方中，均有知母",
+              "rebuttal": "此必于既感之后，将蕴而为燥热，不得已而用之"
+            }
+          ],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎加味生化汤：治产后外感风寒咳嗽及鼻塞声重"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "治产后虚弱，旬日内外感风寒，咳嗽声重有痰，或身热头痛及汗多者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎加参安肺生化汤"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "治半月后干嗽有声，痰少者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "加味四物汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0123",
+      "contentHash": "b89476c8726f40a7",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产后水气，手足浮肿，皮肤见光荣色",
+          "disputes": [],
+          "pathogenesis": "乃脾虚不能制水，肾虚不能行水也",
+          "organs": [
+            "脾",
+            "肾"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "必以大补气血为先，佐以苍术、白术、茯苓补脾",
+          "formulaIds": [],
+          "formulaText": "健脾利水，补中益气汤"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "如因寒邪湿气伤脾，无汗而肿",
+          "disputes": [],
+          "organs": [
+            "脾"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜姜皮、半夏，苏叶加于补气方，以表汗"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "以致面目浮虚，四肢肿胀气喘",
+          "disputes": [],
+          "pathogenesis": "治产后风湿客伤脾经，气血凝滞",
+          "organs": [
+            "脾"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎五皮散"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "产后恶露不净，停留胞络，致令浮肿",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "若以水气治之，投以甘遂等药",
+              "rebuttal": "误矣"
+            }
+          ],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "但服调经散，则血行而肿消矣"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0124",
+      "contentHash": "1e87e7c3cd55aec8",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产后恶露流于腰臂足关节之处，或漫肿、或结块，久则肿起作痛，肢体倦怠",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "急宜用葱熨法以治外肿；内服参归生化汤以消血滞",
+          "formulaIds": [],
+          "formulaText": "◎参归生化汤"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "或未成脓，未溃",
+          "disputes": [],
+          "pathogenesis": "气血虚也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服八珍汤"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "憎寒恶寒",
+          "disputes": [],
+          "pathogenesis": "阳气虚也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服十全大补汤"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "补后大热",
+          "disputes": [],
+          "pathogenesis": "阴血虚也",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服四物汤，加参、术、丹皮"
+        },
+        {
+          "caseIndex": 4,
+          "symptomText": "呕逆",
+          "disputes": [],
+          "pathogenesis": "胃气虚也",
+          "organs": [
+            "胃"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服六君子汤，加炮姜、干姜"
+        },
+        {
+          "caseIndex": 5,
+          "symptomText": "食少体倦",
+          "disputes": [],
+          "pathogenesis": "脾气虚也",
+          "organs": [
+            "脾"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服补中益气汤"
+        },
+        {
+          "caseIndex": 6,
+          "symptomText": "四肢冷逆，小便频数",
+          "disputes": [],
+          "pathogenesis": "肾气虚也",
+          "organs": [
+            "肾"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "补中益气汤加益智仁一钱"
+        },
+        {
+          "caseIndex": 7,
+          "symptomText": "治产后流注恶露，日久成肿",
+          "disputes": [
+            {
+              "kind": "mistreatment",
+              "claim": "若未补气血旺",
+              "rebuttal": "不可服此方"
+            }
+          ],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "神仙回洞散"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0125",
+      "contentHash": "64ac362957354ecd",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "其人素弱，临产又劳，中气不足，胸膈不利，而转运稽迟",
+          "disputes": [
+            {
+              "kind": "mistreatment",
+              "claim": "又因血虚大便燥结，误下",
+              "rebuttal": "而愈胀"
+            },
+            {
+              "kind": "commonPractice",
+              "claim": "治者若但知伤食宜消，气郁宜散，恶露当攻，便结可下",
+              "rebuttal": "则胃气反损，满闷益增，气不升降，湿热积久，遂成膨胀"
+            }
+          ],
+          "pathogenesis": "殊不知气血两虚",
+          "organs": [
+            "脾",
+            "胃"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "当大补气血，以补中虚",
+          "formulaIds": [],
+          "formulaText": "若产后即服生化汤以消块止痛，又服加参生化汤以健脾胃"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "如产后中风，气不足，微满，误服耗气药而胀者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "服补中益气汤"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "如伤食，误服消导药成胀；或胁下积块",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服健脾汤"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "如大便不通，误服下药成胀，及腹中作痛",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服养荣生化汤"
+        },
+        {
+          "caseIndex": 4,
+          "symptomText": "凡误用消食耗气药，以致绝谷",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "长生活命丹屡效"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0126",
+      "contentHash": "adde8ec43ecde143",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "则心中跳动不安，谓之怔仲；若惕然震惊，心中怯怯，如人将捕之状，谓之惊悸",
+          "disputes": [],
+          "pathogenesis": "由产忧惊劳倦，去血过多",
+          "organs": [
+            "心",
+            "脾",
+            "胃"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "惟调和脾胃，志定神清而病愈矣",
+          "formulaIds": [],
+          "formulaText": "宜服生化汤，且补血行块"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "如块消痛止后患此",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服加减养荣汤"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "治产后心血不定，心神不安",
+          "disputes": [],
+          "organs": [
+            "心"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎养心汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0127",
+      "contentHash": "b7144df8ff670f0b",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服保真汤。先服清骨散"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "治骨蒸劳热。若服清骨散、梅连丸不效服此方",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎加味大造汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0128",
+      "contentHash": "47ccd712515e823b",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "因胃脘在心之下，劳伤风寒，及食冷物而作痛",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "俗呼为心痛",
+              "rebuttal": "此即胃脘痛"
+            }
+          ],
+          "pathogenesis": "劳伤风寒，及食冷物而作痛",
+          "organs": [
+            "胃"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治当散胃中之寒气，消胃中之冷物",
+          "formulaIds": [],
+          "formulaText": "必用生化汤，佐消寒食之药"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "若绵绵而痛，可按止之，问无血块",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "则当论虚而加补也",
+          "formulaIds": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0129",
+      "contentHash": "931b80f5e813ef30",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "块痛",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "只服生化汤，调失笑散二钱，加元胡一钱"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "无块",
+          "disputes": [],
+          "pathogenesis": "则是遇风冷作痛",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服加减生化汤"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0130",
+      "contentHash": "bbfb5aaf4d6d137b",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产后虚中，感寒饮冷，其寒下攻小腹作痛；又有血块作痛者；又产后血虚脐下痛者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "并治之以加减生化汤"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "若无块，但小腹痛，亦可按而少止者",
+          "disputes": [],
+          "pathogenesis": "属血虚",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "加熟地三钱，前胡、肉桂各一钱为末，名前胡散"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0131",
+      "contentHash": "268c86912e59e605",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "指节冷痛，头汗不止",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "先将猪肾煮熟，取汁煎药八分，温服"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0132",
+      "contentHash": "cb89cdccaceaf8ce",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "故腰背不能转侧，手足不能动履，或身热头痛",
+          "disputes": [
+            {
+              "kind": "misdiagnosis",
+              "claim": "若误作伤寒，发表出汗",
+              "rebuttal": "则筋脉动荡，手足发冷，变症出焉"
+            }
+          ],
+          "pathogenesis": "气弱则经络间血多阻滞，累日不散，则筋牵脉引，骨节不利",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服趁痛散"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0133",
+      "contentHash": "ce820ceed1d53bc5",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "治产后感风寒，腰痛不可转",
+          "disputes": [],
+          "pathogenesis": "产后劳伤肾气，损动胞络，或虚未复而风乘之也",
+          "organs": [
+            "肾"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎养荣壮肾汤"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "治产后日久，气血两虚，腰痛肾弱",
+          "disputes": [],
+          "organs": [
+            "肾"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎加味大造丸"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0134",
+      "contentHash": "4a575346021d7f6d",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "气滞",
+          "disputes": [
+            {
+              "kind": "mistreatment",
+              "claim": "若概用香燥之药",
+              "rebuttal": "则反伤清和之气，无所生矣"
+            }
+          ],
+          "pathogenesis": "乃肝经血虚气滞之故",
+          "organs": [
+            "肝"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "用四君子汤加青皮、柴胡"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "血虚",
+          "disputes": [],
+          "organs": [
+            "肝"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "用四物汤加柴胡、人参、白术"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "治胁痛",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎补肺散"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0135",
+      "contentHash": "dc7260a6c90d3d93",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "产门感风作痛，衣被难近身体",
+          "disputes": [],
+          "pathogenesis": "产后起居太早，产门感风作痛",
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜用祛风定痛汤"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "阴中疮曰匿疮，或痛或痒，如虫行状，浓汁淋漓",
+          "disputes": [],
+          "pathogenesis": "由心肾烦郁，胃气虚弱，致气血流滞",
+          "organs": [
+            "心",
+            "肾",
+            "胃"
+          ],
+          "relations": [],
+          "treatmentPrinciple": "治当补心养肾，外以药熏洗",
+          "formulaIds": [],
+          "formulaText": "宜用十全阴疳散"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0136",
+      "contentHash": "91059b88c070a6fb",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "或身热骨蒸，食少赢瘦；或五心烦热，月水不行",
+          "disputes": [],
+          "pathogenesis": "若腹欠温暖，或伤冷物，以致恶露凝块，日久不散，则虚症百出",
+          "organs": [],
+          "relations": [],
+          "treatmentPrinciple": "治者欲泄其邪，先补其虚",
+          "formulaIds": [],
+          "formulaText": "必用补中益气汤送三消丸"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "若初产恶露不下",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜服生化汤加楂炭三钱"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0137",
+      "contentHash": "58b1e71a04211576",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "若乳房臃肿，结核色红，数日外肿痛溃稠脓",
+          "disputes": [],
+          "pathogenesis": "此属胆胃热毒，气血壅滞",
+          "organs": [
+            "胆",
+            "胃",
+            "肝"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎瓜蒌散：治一切痈疽，并治乳痈"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "若初起内结小核，不红不肿不痛，积之岁月，渐大如巉岩石，破如熟榴",
+          "disputes": [
+            {
+              "kind": "mistreatment",
+              "claim": "若用行气破血之剂",
+              "rebuttal": "速亡甚矣"
+            }
+          ],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "乳岩初起，用益气养荣汤加归脾汤"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "乳痈未溃时服此",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "◎回脉散"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "又有乳吹，乃小儿饮乳，口气所吹，乳汁不通，壅结作痛",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "宜速服瓜蒌散，更以手揉散之"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0138",
+      "contentHash": "6238c94e952cdb41",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "用山羊血取色新者，于新瓦上焙干，研末，老酒冲下五，六分为度"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "如治虚寒危症",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "用蓝须子根刮皮，新瓦上焙干，研末，温服一钱为度"
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0139",
+      "contentHash": "34d3e8dd2d14f560",
+      "cases": [
+        {
+          "caseIndex": 0,
+          "symptomText": "舌强不语",
+          "disputes": [],
+          "pathogenesis": "乃恶血停蓄于心，故心气闭塞",
+          "organs": [
+            "心"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "用七珍散"
+        },
+        {
+          "caseIndex": 1,
+          "symptomText": "因痰气郁结，闭口不语者",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "用好明矾一钱，水飞过，沸汤送下"
+        },
+        {
+          "caseIndex": 2,
+          "symptomText": "产后暗",
+          "disputes": [
+            {
+              "kind": "mistreatment",
+              "claim": "若单用佛手散等破血药",
+              "rebuttal": "误矣"
+            }
+          ],
+          "pathogenesis": "心肾虚不能发声",
+          "organs": [
+            "心",
+            "肾"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "七珍散；脾气郁结，归脾汤"
+        },
+        {
+          "caseIndex": 3,
+          "symptomText": "产后大便不通",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "用生化汤内减黑姜加麻仁"
+        },
+        {
+          "caseIndex": 4,
+          "symptomText": "治产后鸡爪风",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "桑柴灰（三钱，存性）"
+        },
+        {
+          "caseIndex": 5,
+          "symptomText": "上方保胎，每月三、五服，临产热服，催生如神",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "保产无忧散"
+        },
+        {
+          "caseIndex": 6,
+          "symptomText": "治遍体浮肿",
+          "disputes": [],
+          "pathogenesis": "是脾虚水溢之过",
+          "organs": [
+            "脾"
+          ],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "真缩砂仁四两，莱菔子二两四钱"
+        },
+        {
+          "caseIndex": 7,
+          "symptomText": "偶伤胎气，腰疼腹痛，甚至见红不止，势欲小产",
+          "disputes": [],
+          "organs": [],
+          "relations": [],
+          "formulaIds": [],
+          "formulaText": "保产神效方"
+        }
+      ]
+    }
+  ]
+}

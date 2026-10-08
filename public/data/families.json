@@ -5,45 +5,38 @@
     "baseFormulaId": "songben-formula-桂枝汤",
     "formulaIds": [
       "songben-formula-桂枝汤",
-      "guilin-formula-桂枝汤",
-      "bianzheng-formula-bianzheng-0011-7",
-      "jingui-formula-桂枝汤"
-    ]
-  },
-  {
-    "id": "family-桂枝加葛根汤",
-    "name": "桂枝加葛根汤类",
-    "baseFormulaId": "songben-formula-桂枝加葛根汤",
-    "formulaIds": [
       "songben-formula-桂枝加葛根汤",
-      "guilin-formula-桂枝加葛根汤"
-    ]
-  },
-  {
-    "id": "family-桂枝加附子汤",
-    "name": "桂枝加附子汤类",
-    "baseFormulaId": "songben-formula-桂枝加附子汤",
-    "formulaIds": [
       "songben-formula-桂枝加附子汤",
-      "guilin-formula-桂枝加附子汤"
-    ]
-  },
-  {
-    "id": "family-桂枝去芍药汤",
-    "name": "桂枝去芍药汤类",
-    "baseFormulaId": "songben-formula-桂枝去芍药汤",
-    "formulaIds": [
       "songben-formula-桂枝去芍药汤",
-      "guilin-formula-桂枝去芍药汤"
-    ]
-  },
-  {
-    "id": "family-桂枝去芍药加附子汤",
-    "name": "桂枝去芍药加附子汤类",
-    "baseFormulaId": "songben-formula-桂枝去芍药加附子汤",
-    "formulaIds": [
       "songben-formula-桂枝去芍药加附子汤",
-      "guilin-formula-桂枝去芍药加附子汤"
+      "songben-formula-桂枝去桂加茯苓白术汤",
+      "songben-formula-桂枝加厚朴杏子汤",
+      "songben-formula-桂枝加芍药生姜各一两人参三两新加汤",
+      "songben-formula-桂枝去芍药加蜀漆牡蛎龙骨救逆汤",
+      "songben-formula-桂枝加桂汤",
+      "songben-formula-桂枝加芍药汤",
+      "songben-formula-桂枝加大黄汤",
+      "jingui-formula-桂枝加桂汤",
+      "guilin-formula-桂枝去桂加黄芩牡丹汤",
+      "guilin-formula-桂枝汤",
+      "guilin-formula-桂枝去桂加茯苓白术汤",
+      "guilin-formula-桂枝加葛根汤",
+      "guilin-formula-桂枝加附子汤",
+      "guilin-formula-桂枝去芍药加附子汤",
+      "guilin-formula-桂枝加厚朴杏子汤",
+      "guilin-formula-桂枝去芍药加人参生姜汤",
+      "guilin-formula-桂枝去芍药加牡蛎龙骨救逆汤",
+      "guilin-formula-桂枝加桂汤",
+      "guilin-formula-桂枝加黄芪汤",
+      "guilin-formula-桂枝加芍药汤",
+      "guilin-formula-桂枝加大黄汤",
+      "guilin-formula-桂枝去芍药加茯苓白术汤",
+      "guilin-formula-桂枝加附子当归细辛人参干姜汤",
+      "jingui-formula-桂枝加龙骨牡蛎汤",
+      "jingui-formula-桂枝加黄耆汤",
+      "jingui-formula-桂枝去芍药加麻辛附子汤",
+      "jingui-formula-桂枝汤",
+      "guilin-formula-桂枝去芍药汤"
     ]
   },
   {
@@ -65,13 +58,22 @@
     ]
   },
   {
-    "id": "family-白虎加人参汤",
-    "name": "白虎加人参汤类",
-    "baseFormulaId": "songben-formula-白虎加人参汤",
+    "id": "family-白虎汤",
+    "name": "白虎汤类",
+    "baseFormulaId": "songben-formula-白虎汤",
     "formulaIds": [
       "songben-formula-白虎加人参汤",
+      "songben-formula-白虎汤",
       "jingui-formula-白虎加人参汤",
-      "guilin-formula-白虎加人参汤"
+      "jingui-formula-白虎加桂枝汤",
+      "guilin-formula-白虎汤",
+      "guilin-formula-白虎加地黄汤",
+      "guilin-formula-白虎加黄连阿胶汤",
+      "guilin-formula-白虎加人参汤",
+      "guilin-formula-白虎加桂枝人参芍药汤",
+      "guilin-formula-白虎加桂枝人参汤",
+      "guilin-formula-白虎加人参黄连阿胶汤",
+      "guilin-formula-白虎加桂枝汤"
     ]
   },
   {
@@ -81,15 +83,6 @@
     "formulaIds": [
       "songben-formula-桂枝二越婢一汤",
       "guilin-formula-桂枝二越婢一汤"
-    ]
-  },
-  {
-    "id": "family-桂枝去桂加茯苓白术汤",
-    "name": "桂枝去桂加茯苓白术汤类",
-    "baseFormulaId": "songben-formula-桂枝去桂加茯苓白术汤",
-    "formulaIds": [
-      "songben-formula-桂枝去桂加茯苓白术汤",
-      "guilin-formula-桂枝去桂加茯苓白术汤"
     ]
   },
   {
@@ -125,7 +118,10 @@
     "baseFormulaId": "songben-formula-四逆汤",
     "formulaIds": [
       "songben-formula-四逆汤",
+      "songben-formula-四逆加人参汤",
       "guilin-formula-四逆汤",
+      "guilin-formula-四逆加吴茱萸黄连汤",
+      "guilin-formula-四逆加人参汤",
       "jingui-formula-四逆汤"
     ]
   },
@@ -135,16 +131,9 @@
     "baseFormulaId": "songben-formula-葛根汤",
     "formulaIds": [
       "songben-formula-葛根汤",
-      "jingui-formula-葛根汤",
-      "guilin-formula-葛根汤"
-    ]
-  },
-  {
-    "id": "family-葛根加半夏汤",
-    "name": "葛根加半夏汤类",
-    "baseFormulaId": "songben-formula-葛根加半夏汤",
-    "formulaIds": [
       "songben-formula-葛根加半夏汤",
+      "jingui-formula-葛根汤",
+      "guilin-formula-葛根汤",
       "guilin-formula-葛根加半夏汤"
     ]
   },
@@ -154,7 +143,9 @@
     "baseFormulaId": "songben-formula-麻黄汤",
     "formulaIds": [
       "songben-formula-麻黄汤",
-      "guilin-formula-麻黄汤"
+      "jingui-formula-麻黄加术汤",
+      "guilin-formula-麻黄汤",
+      "guilin-formula-麻黄加术汤"
     ]
   },
   {
@@ -163,6 +154,7 @@
     "baseFormulaId": "songben-formula-大青龙汤",
     "formulaIds": [
       "songben-formula-大青龙汤",
+      "guilin-formula-大青龙加附子汤",
       "guilin-formula-大青龙汤",
       "jingui-formula-大青龙汤"
     ]
@@ -173,17 +165,9 @@
     "baseFormulaId": "songben-formula-小青龙汤",
     "formulaIds": [
       "songben-formula-小青龙汤",
+      "jingui-formula-小青龙加石膏汤",
       "guilin-formula-小青龙汤",
       "jingui-formula-小青龙汤"
-    ]
-  },
-  {
-    "id": "family-桂枝加厚朴杏子汤",
-    "name": "桂枝加厚朴杏子汤类",
-    "baseFormulaId": "songben-formula-桂枝加厚朴杏子汤",
-    "formulaIds": [
-      "songben-formula-桂枝加厚朴杏子汤",
-      "guilin-formula-桂枝加厚朴杏子汤"
     ]
   },
   {
@@ -257,11 +241,6 @@
     "formulaIds": [
       "songben-formula-五苓散",
       "guilin-formula-五苓散",
-      "bianzheng-formula-bianzheng-0142-2",
-      "bianzheng-formula-bianzheng-0199-1",
-      "bianzheng-formula-bianzheng-0280-1",
-      "bianzheng-formula-bianzheng-0331-2",
-      "bianzheng-formula-bianzheng-0364-4",
       "jingui-formula-五苓散"
     ]
   },
@@ -326,9 +305,14 @@
     "baseFormulaId": "songben-formula-小柴胡汤",
     "formulaIds": [
       "songben-formula-小柴胡汤",
+      "songben-formula-柴胡加芒硝汤",
+      "songben-formula-柴胡加龙骨牡蛎汤",
       "guilin-formula-小柴胡汤",
-      "bianzheng-formula-bianzheng-0012-1",
-      "bianzheng-formula-bianzheng-0444-2",
+      "guilin-formula-小柴胡加黄连牡丹汤",
+      "guilin-formula-柴胡加芒硝汤",
+      "guilin-formula-柴胡加龙骨牡蛎汤",
+      "guilin-formula-小柴胡加茯苓白术汤",
+      "guilin-formula-小柴胡加茯苓汤",
       "jingui-formula-小柴胡汤"
     ]
   },
@@ -352,34 +336,6 @@
     ]
   },
   {
-    "id": "family-柴胡加芒硝汤",
-    "name": "柴胡加芒硝汤类",
-    "baseFormulaId": "songben-formula-柴胡加芒硝汤",
-    "formulaIds": [
-      "songben-formula-柴胡加芒硝汤",
-      "guilin-formula-柴胡加芒硝汤"
-    ]
-  },
-  {
-    "id": "family-柴胡加龙骨牡蛎汤",
-    "name": "柴胡加龙骨牡蛎汤类",
-    "baseFormulaId": "songben-formula-柴胡加龙骨牡蛎汤",
-    "formulaIds": [
-      "songben-formula-柴胡加龙骨牡蛎汤",
-      "guilin-formula-柴胡加龙骨牡蛎汤"
-    ]
-  },
-  {
-    "id": "family-桂枝加桂汤",
-    "name": "桂枝加桂汤类",
-    "baseFormulaId": "songben-formula-桂枝加桂汤",
-    "formulaIds": [
-      "songben-formula-桂枝加桂汤",
-      "jingui-formula-桂枝加桂汤",
-      "guilin-formula-桂枝加桂汤"
-    ]
-  },
-  {
     "id": "family-桂枝甘草龙骨牡蛎汤",
     "name": "桂枝甘草龙骨牡蛎汤类",
     "baseFormulaId": "songben-formula-桂枝甘草龙骨牡蛎汤",
@@ -395,7 +351,6 @@
     "formulaIds": [
       "songben-formula-抵当汤",
       "guilin-formula-抵当汤",
-      "bianzheng-formula-bianzheng-0289-1",
       "jingui-formula-抵当汤"
     ]
   },
@@ -405,8 +360,7 @@
     "baseFormulaId": "songben-formula-抵当丸",
     "formulaIds": [
       "songben-formula-抵当丸",
-      "guilin-formula-抵当丸",
-      "bianzheng-formula-bianzheng-0034-2"
+      "guilin-formula-抵当丸"
     ]
   },
   {
@@ -536,9 +490,7 @@
     "baseFormulaId": "songben-formula-瓜蒂散",
     "formulaIds": [
       "songben-formula-瓜蒂散",
-      "guilin-formula-瓜蒂散",
-      "bianzheng-formula-bianzheng-0129-2",
-      "bianzheng-formula-bianzheng-0363-6"
+      "guilin-formula-瓜蒂散"
     ]
   },
   {
@@ -547,15 +499,8 @@
     "baseFormulaId": "songben-formula-黄芩汤",
     "formulaIds": [
       "songben-formula-黄芩汤",
-      "guilin-formula-黄芩汤"
-    ]
-  },
-  {
-    "id": "family-黄芩加半夏生姜汤",
-    "name": "黄芩加半夏生姜汤类",
-    "baseFormulaId": "songben-formula-黄芩加半夏生姜汤",
-    "formulaIds": [
       "songben-formula-黄芩加半夏生姜汤",
+      "guilin-formula-黄芩汤",
       "guilin-formula-黄芩加半夏生姜汤",
       "jingui-formula-黄芩加半夏生姜汤"
     ]
@@ -580,8 +525,8 @@
     ]
   },
   {
-    "id": "family-去桂加白术汤",
-    "name": "去桂加白术汤类",
+    "id": "family-去桂汤",
+    "name": "去桂汤类",
     "baseFormulaId": "songben-formula-去桂加白术汤",
     "formulaIds": [
       "songben-formula-去桂加白术汤",
@@ -596,15 +541,6 @@
       "songben-formula-甘草附子汤",
       "jingui-formula-甘草附子汤",
       "guilin-formula-甘草附子汤"
-    ]
-  },
-  {
-    "id": "family-白虎汤",
-    "name": "白虎汤类",
-    "baseFormulaId": "songben-formula-白虎汤",
-    "formulaIds": [
-      "songben-formula-白虎汤",
-      "guilin-formula-白虎汤"
     ]
   },
   {
@@ -643,6 +579,8 @@
     "formulaIds": [
       "songben-formula-猪苓汤",
       "jingui-formula-猪苓汤",
+      "guilin-formula-猪苓加黄连牡丹汤",
+      "guilin-formula-猪苓加人参汤",
       "guilin-formula-猪苓汤"
     ]
   },
@@ -673,24 +611,6 @@
     "formulaIds": [
       "songben-formula-麻黄连轺赤小豆汤",
       "guilin-formula-麻黄连轺赤小豆汤"
-    ]
-  },
-  {
-    "id": "family-桂枝加芍药汤",
-    "name": "桂枝加芍药汤类",
-    "baseFormulaId": "songben-formula-桂枝加芍药汤",
-    "formulaIds": [
-      "songben-formula-桂枝加芍药汤",
-      "guilin-formula-桂枝加芍药汤"
-    ]
-  },
-  {
-    "id": "family-桂枝加大黄汤",
-    "name": "桂枝加大黄汤类",
-    "baseFormulaId": "songben-formula-桂枝加大黄汤",
-    "formulaIds": [
-      "songben-formula-桂枝加大黄汤",
-      "guilin-formula-桂枝加大黄汤"
     ]
   },
   {
@@ -782,16 +702,8 @@
     "baseFormulaId": "songben-formula-白通汤",
     "formulaIds": [
       "songben-formula-白通汤",
-      "guilin-formula-白通汤",
-      "bianzheng-formula-bianzheng-0121-1"
-    ]
-  },
-  {
-    "id": "family-白通加猪胆汁汤",
-    "name": "白通加猪胆汁汤类",
-    "baseFormulaId": "songben-formula-白通加猪胆汁汤",
-    "formulaIds": [
       "songben-formula-白通加猪胆汁汤",
+      "guilin-formula-白通汤",
       "guilin-formula-白通加猪胆汁汤"
     ]
   },
@@ -801,7 +713,9 @@
     "baseFormulaId": "songben-formula-通脉四逆汤",
     "formulaIds": [
       "songben-formula-通脉四逆汤",
+      "songben-formula-通脉四逆加猪胆汁汤",
       "guilin-formula-通脉四逆汤",
+      "guilin-formula-通脉四逆加猪胆汁汤",
       "jingui-formula-通脉四逆汤"
     ]
   },
@@ -830,7 +744,10 @@
     "baseFormulaId": "songben-formula-当归四逆汤",
     "formulaIds": [
       "songben-formula-当归四逆汤",
-      "guilin-formula-当归四逆汤"
+      "songben-formula-当归四逆加吴茱萸生姜汤",
+      "guilin-formula-当归四逆汤",
+      "guilin-formula-当归四逆加人参附子汤",
+      "guilin-formula-当归四逆加吴茱萸生姜附子汤"
     ]
   },
   {
@@ -858,16 +775,10 @@
     "formulaIds": [
       "songben-formula-白头翁汤",
       "guilin-formula-白头翁汤",
-      "jingui-formula-白头翁汤"
-    ]
-  },
-  {
-    "id": "family-四逆加人参汤",
-    "name": "四逆加人参汤类",
-    "baseFormulaId": "songben-formula-四逆加人参汤",
-    "formulaIds": [
-      "songben-formula-四逆加人参汤",
-      "guilin-formula-四逆加人参汤"
+      "guilin-formula-白头翁加阿胶甘草汤",
+      "guilin-formula-白头翁加甘草阿胶汤",
+      "jingui-formula-白头翁汤",
+      "jingui-formula-白头翁加甘草阿胶汤"
     ]
   },
   {
@@ -877,15 +788,6 @@
     "formulaIds": [
       "songben-formula-理中丸",
       "guilin-formula-理中丸"
-    ]
-  },
-  {
-    "id": "family-通脉四逆加猪胆汁汤",
-    "name": "通脉四逆加猪胆汁汤类",
-    "baseFormulaId": "songben-formula-通脉四逆加猪胆汁汤",
-    "formulaIds": [
-      "songben-formula-通脉四逆加猪胆汁汤",
-      "guilin-formula-通脉四逆加猪胆汁汤"
     ]
   },
   {
@@ -913,15 +815,6 @@
     "formulaIds": [
       "songben-formula-竹叶石膏汤",
       "guilin-formula-竹叶石膏汤"
-    ]
-  },
-  {
-    "id": "family-麻黄加术汤",
-    "name": "麻黄加术汤类",
-    "baseFormulaId": "jingui-formula-麻黄加术汤",
-    "formulaIds": [
-      "jingui-formula-麻黄加术汤",
-      "guilin-formula-麻黄加术汤"
     ]
   },
   {
@@ -966,6 +859,7 @@
     "baseFormulaId": "jingui-formula-百合地黄汤",
     "formulaIds": [
       "jingui-formula-百合地黄汤",
+      "guilin-formula-百合地黄加牡蛎汤",
       "guilin-formula-百合地黄汤"
     ]
   },
@@ -1002,7 +896,8 @@
     "baseFormulaId": "jingui-formula-升麻鳖甲汤",
     "formulaIds": [
       "jingui-formula-升麻鳖甲汤",
-      "guilin-formula-升麻鳖甲汤"
+      "guilin-formula-升麻鳖甲汤",
+      "guilin-formula-升麻鳖甲去雄黄蜀椒汤"
     ]
   },
   {
@@ -1012,15 +907,6 @@
     "formulaIds": [
       "jingui-formula-鳖甲煎丸",
       "guilin-formula-鳖甲煎丸"
-    ]
-  },
-  {
-    "id": "family-白虎加桂枝汤",
-    "name": "白虎加桂枝汤类",
-    "baseFormulaId": "jingui-formula-白虎加桂枝汤",
-    "formulaIds": [
-      "jingui-formula-白虎加桂枝汤",
-      "guilin-formula-白虎加桂枝汤"
     ]
   },
   {
@@ -1182,13 +1068,24 @@
     "baseFormulaId": "guilin-formula-理中汤",
     "formulaIds": [
       "guilin-formula-理中汤",
-      "bianzheng-formula-bianzheng-0011-4"
+      "guilin-formula-理中加黄芪汤",
+      "guilin-formula-理中加人参括蒌根汤",
+      "guilin-formula-理中加附子汤"
+    ]
+  },
+  {
+    "id": "family-桔梗甘草枳实芍药汤",
+    "name": "桔梗甘草枳实芍药汤类",
+    "baseFormulaId": "guilin-formula-桔梗甘草枳实芍药汤",
+    "formulaIds": [
+      "guilin-formula-桔梗甘草枳实芍药汤",
+      "guilin-formula-桔梗甘草枳实芍药加地黄牡丹汤"
     ]
   },
   {
     "id": "family-桂枝甘草汤",
     "name": "桂枝甘草汤类",
-    "baseFormulaId": "guilin-formula-桂枝甘草汤",
+    "baseFormulaId": "songben-formula-桂枝甘草汤",
     "formulaIds": [
       "guilin-formula-桂枝甘草汤",
       "songben-formula-桂枝甘草汤"
@@ -1197,7 +1094,7 @@
   {
     "id": "family-吴茱萸汤",
     "name": "吴茱萸汤类",
-    "baseFormulaId": "guilin-formula-吴茱萸汤",
+    "baseFormulaId": "songben-formula-吴茱萸汤",
     "formulaIds": [
       "guilin-formula-吴茱萸汤",
       "songben-formula-吴茱萸汤"
@@ -1209,13 +1106,15 @@
     "baseFormulaId": "guilin-formula-小半夏汤",
     "formulaIds": [
       "guilin-formula-小半夏汤",
-      "jingui-formula-小半夏汤"
+      "guilin-formula-小半夏加茯苓汤",
+      "jingui-formula-小半夏汤",
+      "jingui-formula-小半夏加茯苓汤"
     ]
   },
   {
     "id": "family-栀子柏皮汤",
     "name": "栀子柏皮汤类",
-    "baseFormulaId": "guilin-formula-栀子柏皮汤",
+    "baseFormulaId": "songben-formula-栀子柏皮汤",
     "formulaIds": [
       "guilin-formula-栀子柏皮汤",
       "songben-formula-栀子柏皮汤"
@@ -1429,12 +1328,17 @@
     ]
   },
   {
-    "id": "family-越婢加半夏汤",
-    "name": "越婢加半夏汤类",
-    "baseFormulaId": "guilin-formula-越婢加半夏汤",
+    "id": "family-越婢汤",
+    "name": "越婢汤类",
+    "baseFormulaId": "guilin-formula-越婢汤",
     "formulaIds": [
       "guilin-formula-越婢加半夏汤",
-      "jingui-formula-越婢加半夏汤"
+      "guilin-formula-越婢汤",
+      "guilin-formula-越婢加术汤",
+      "jingui-formula-越婢加半夏汤",
+      "jingui-formula-越婢加术汤",
+      "jingui-formula-越婢汤",
+      "guilin-formula-越婢加白术汤"
     ]
   },
   {
@@ -1456,6 +1360,15 @@
     ]
   },
   {
+    "id": "family-木防已汤",
+    "name": "木防已汤类",
+    "baseFormulaId": "guilin-formula-木防已汤",
+    "formulaIds": [
+      "guilin-formula-木防已汤",
+      "guilin-formula-木防已去石膏加茯苓芒硝汤"
+    ]
+  },
+  {
     "id": "family-泽泻汤",
     "name": "泽泻汤类",
     "baseFormulaId": "guilin-formula-泽泻汤",
@@ -1471,33 +1384,6 @@
     "formulaIds": [
       "guilin-formula-厚朴大黄汤",
       "jingui-formula-厚朴大黄汤"
-    ]
-  },
-  {
-    "id": "family-小半夏加茯苓汤",
-    "name": "小半夏加茯苓汤类",
-    "baseFormulaId": "guilin-formula-小半夏加茯苓汤",
-    "formulaIds": [
-      "guilin-formula-小半夏加茯苓汤",
-      "jingui-formula-小半夏加茯苓汤"
-    ]
-  },
-  {
-    "id": "family-越婢汤",
-    "name": "越婢汤类",
-    "baseFormulaId": "guilin-formula-越婢汤",
-    "formulaIds": [
-      "guilin-formula-越婢汤",
-      "jingui-formula-越婢汤"
-    ]
-  },
-  {
-    "id": "family-越婢加术汤",
-    "name": "越婢加术汤类",
-    "baseFormulaId": "guilin-formula-越婢加术汤",
-    "formulaIds": [
-      "guilin-formula-越婢加术汤",
-      "jingui-formula-越婢加术汤"
     ]
   },
   {
@@ -1618,15 +1504,6 @@
     ]
   },
   {
-    "id": "family-白头翁加甘草阿胶汤",
-    "name": "白头翁加甘草阿胶汤类",
-    "baseFormulaId": "guilin-formula-白头翁加甘草阿胶汤",
-    "formulaIds": [
-      "guilin-formula-白头翁加甘草阿胶汤",
-      "jingui-formula-白头翁加甘草阿胶汤"
-    ]
-  },
-  {
     "id": "family-胶姜汤",
     "name": "胶姜汤类",
     "baseFormulaId": "guilin-formula-胶姜汤",
@@ -1651,6 +1528,243 @@
     "formulaIds": [
       "guilin-formula-蛇床子散",
       "jingui-formula-蛇床子散"
+    ]
+  },
+  {
+    "id": "family-与小柴胡汤",
+    "name": "与小柴胡汤类",
+    "baseFormulaId": "songben-formula-与小柴胡汤",
+    "formulaIds": [
+      "songben-formula-与小柴胡汤",
+      "guilin-formula-与小柴胡汤"
+    ]
+  },
+  {
+    "id": "family-后以柴胡汤",
+    "name": "后以柴胡汤类",
+    "baseFormulaId": "songben-formula-后以柴胡加芒硝汤",
+    "formulaIds": [
+      "songben-formula-后以柴胡加芒硝汤",
+      "guilin-formula-后以柴胡加芒硝汤"
+    ]
+  },
+  {
+    "id": "family-去芍药汤",
+    "name": "去芍药汤类",
+    "baseFormulaId": "songben-formula-去芍药加蜀漆牡蛎龙骨救逆汤",
+    "formulaIds": [
+      "songben-formula-去芍药加蜀漆牡蛎龙骨救逆汤",
+      "jingui-formula-去芍药加蜀漆牡蛎龙骨救逆汤"
+    ]
+  },
+  {
+    "id": "family-木防己汤",
+    "name": "木防己汤类",
+    "baseFormulaId": "jingui-formula-木防己汤",
+    "formulaIds": [
+      "jingui-formula-木防己汤",
+      "jingui-formula-木防己汤去石膏加茯苓芒硝汤"
+    ]
+  },
+  {
+    "id": "family-黄土汤",
+    "name": "黄土汤类",
+    "baseFormulaId": "jingui-formula-黄土汤",
+    "formulaIds": [
+      "jingui-formula-黄土汤",
+      "guilin-formula-黄土汤"
+    ]
+  },
+  {
+    "id": "family-sim-葛根黄芩黄连汤",
+    "name": "葛根黄芩黄连汤相近方",
+    "baseFormulaId": "songben-formula-葛根黄芩黄连汤",
+    "formulaIds": [
+      "songben-formula-葛根黄芩黄连汤",
+      "guilin-formula-石膏黄连黄芩甘草汤",
+      "guilin-formula-黄连黄芩阿胶甘草汤",
+      "guilin-formula-葛根黄连黄芩甘草汤"
+    ]
+  },
+  {
+    "id": "family-sim-桂技甘草汤",
+    "name": "桂技甘草汤相近方",
+    "baseFormulaId": "songben-formula-桂技甘草汤",
+    "formulaIds": [
+      "songben-formula-桂技甘草汤",
+      "guilin-formula-半夏散"
+    ]
+  },
+  {
+    "id": "family-sim-栀子厚朴汤",
+    "name": "栀子厚朴汤相近方",
+    "baseFormulaId": "songben-formula-栀子厚朴汤",
+    "formulaIds": [
+      "songben-formula-栀子厚朴汤",
+      "guilin-formula-栀子厚朴枳实汤"
+    ]
+  },
+  {
+    "id": "family-sim-禹余粮丸",
+    "name": "禹余粮丸相近方",
+    "baseFormulaId": "songben-formula-禹余粮丸",
+    "formulaIds": [
+      "songben-formula-禹余粮丸",
+      "guilin-formula-禹馀粮丸"
+    ]
+  },
+  {
+    "id": "family-sim-桃核承气汤",
+    "name": "桃核承气汤相近方",
+    "baseFormulaId": "songben-formula-桃核承气汤",
+    "formulaIds": [
+      "songben-formula-桃核承气汤",
+      "guilin-formula-桃仁承气汤"
+    ]
+  },
+  {
+    "id": "family-sim-大黄黄连泻心汤",
+    "name": "大黄黄连泻心汤相近方",
+    "baseFormulaId": "songben-formula-大黄黄连泻心汤",
+    "formulaIds": [
+      "songben-formula-大黄黄连泻心汤",
+      "guilin-formula-大黄黄连黄芩泻心汤"
+    ]
+  },
+  {
+    "id": "family-sim-麻黄细辛附子汤",
+    "name": "麻黄细辛附子汤相近方",
+    "baseFormulaId": "songben-formula-麻黄细辛附子汤",
+    "formulaIds": [
+      "songben-formula-麻黄细辛附子汤",
+      "guilin-formula-麻黄附子细辛汤"
+    ]
+  },
+  {
+    "id": "family-sim-栝蒌桂枝汤",
+    "name": "栝蒌桂枝汤相近方",
+    "baseFormulaId": "jingui-formula-栝蒌桂枝汤",
+    "formulaIds": [
+      "jingui-formula-栝蒌桂枝汤",
+      "guilin-formula-括蒌桂枝汤",
+      "guilin-formula-桂枝龙骨牡蛎汤"
+    ]
+  },
+  {
+    "id": "family-sim-滑石代赭汤",
+    "name": "滑石代赭汤相近方",
+    "baseFormulaId": "jingui-formula-滑石代赭汤",
+    "formulaIds": [
+      "jingui-formula-滑石代赭汤",
+      "guilin-formula-百合滑石代赭汤"
+    ]
+  },
+  {
+    "id": "family-sim-百合鸡子汤",
+    "name": "百合鸡子汤相近方",
+    "baseFormulaId": "jingui-formula-百合鸡子汤",
+    "formulaIds": [
+      "jingui-formula-百合鸡子汤",
+      "guilin-formula-百合鸡子黄汤"
+    ]
+  },
+  {
+    "id": "family-sim-黄耆桂枝五物汤",
+    "name": "黄耆桂枝五物汤相近方",
+    "baseFormulaId": "jingui-formula-黄耆桂枝五物汤",
+    "formulaIds": [
+      "jingui-formula-黄耆桂枝五物汤",
+      "guilin-formula-黄芪桂枝五物汤"
+    ]
+  },
+  {
+    "id": "family-sim-枳术汤",
+    "name": "枳术汤相近方",
+    "baseFormulaId": "jingui-formula-枳术汤",
+    "formulaIds": [
+      "jingui-formula-枳术汤",
+      "guilin-formula-枳实白术汤"
+    ]
+  },
+  {
+    "id": "family-sim-大黄石膏茯苓白术枳实甘草汤",
+    "name": "大黄石膏茯苓白术枳实甘草汤相近方",
+    "baseFormulaId": "guilin-formula-大黄石膏茯苓白术枳实甘草汤",
+    "formulaIds": [
+      "guilin-formula-大黄石膏茯苓白术枳实甘草汤",
+      "guilin-formula-枳实白术茯苓甘草汤"
+    ]
+  },
+  {
+    "id": "family-sim-黄芩石膏杏子甘草汤",
+    "name": "黄芩石膏杏子甘草汤相近方",
+    "baseFormulaId": "guilin-formula-黄芩石膏杏子甘草汤",
+    "formulaIds": [
+      "guilin-formula-黄芩石膏杏子甘草汤",
+      "guilin-formula-竹叶石膏杏子甘草汤"
+    ]
+  },
+  {
+    "id": "family-sim-茯苓白术甘草汤",
+    "name": "茯苓白术甘草汤相近方",
+    "baseFormulaId": "guilin-formula-茯苓白术甘草汤",
+    "formulaIds": [
+      "guilin-formula-茯苓白术甘草汤",
+      "guilin-formula-甘草干姜茯苓白术汤"
+    ]
+  },
+  {
+    "id": "family-sim-黄连半夏石膏甘草汤",
+    "name": "黄连半夏石膏甘草汤相近方",
+    "baseFormulaId": "guilin-formula-黄连半夏石膏甘草汤",
+    "formulaIds": [
+      "guilin-formula-黄连半夏石膏甘草汤",
+      "guilin-formula-黄连石膏半夏甘草汤"
+    ]
+  },
+  {
+    "id": "family-sim-大黄厚朴甘草汤",
+    "name": "大黄厚朴甘草汤相近方",
+    "baseFormulaId": "guilin-formula-大黄厚朴甘草汤",
+    "formulaIds": [
+      "guilin-formula-大黄厚朴甘草汤",
+      "guilin-formula-大黄厚朴枳实半夏甘草汤"
+    ]
+  },
+  {
+    "id": "family-sim-黄芪桂枝茯苓细辛汤",
+    "name": "黄芪桂枝茯苓细辛汤相近方",
+    "baseFormulaId": "guilin-formula-黄芪桂枝茯苓细辛汤",
+    "formulaIds": [
+      "guilin-formula-黄芪桂枝茯苓细辛汤",
+      "guilin-formula-桂枝茯苓白术细辛汤"
+    ]
+  },
+  {
+    "id": "family-sim-柴胡枳实芍药甘草汤",
+    "name": "柴胡枳实芍药甘草汤相近方",
+    "baseFormulaId": "guilin-formula-柴胡枳实芍药甘草汤",
+    "formulaIds": [
+      "guilin-formula-柴胡枳实芍药甘草汤",
+      "guilin-formula-柴胡芍药枳实甘草汤"
+    ]
+  },
+  {
+    "id": "family-sim-枳实厚朴白术甘草汤",
+    "name": "枳实厚朴白术甘草汤相近方",
+    "baseFormulaId": "guilin-formula-枳实厚朴白术甘草汤",
+    "formulaIds": [
+      "guilin-formula-枳实厚朴白术甘草汤",
+      "guilin-formula-厚朴枳实白术甘草汤"
+    ]
+  },
+  {
+    "id": "family-sim-白术枳实桃仁干姜汤",
+    "name": "白术枳实桃仁干姜汤相近方",
+    "baseFormulaId": "guilin-formula-白术枳实桃仁干姜汤",
+    "formulaIds": [
+      "guilin-formula-白术枳实桃仁干姜汤",
+      "guilin-formula-白术枳实干姜白蜜汤"
     ]
   },
   {
@@ -2001,6 +2115,15 @@
     ]
   },
   {
+    "id": "family-小柴胡汤",
+    "name": "小柴胡汤类",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0012-1",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0012-1",
+      "bianzheng-formula-bianzheng-0444-2"
+    ]
+  },
+  {
     "id": "family-独参汤",
     "name": "独参汤类",
     "baseFormulaId": "bianzheng-formula-bianzheng-0018-2",
@@ -2098,6 +2221,18 @@
     ]
   },
   {
+    "id": "family-此症用汤",
+    "name": "此症用汤类",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0140-2",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0055-2",
+      "bianzheng-formula-bianzheng-0140-2",
+      "bianzheng-formula-bianzheng-0218-2",
+      "bianzheng-formula-bianzheng-0326-4",
+      "bianzheng-formula-bianzheng-0394-2"
+    ]
+  },
+  {
     "id": "family-四物汤",
     "name": "四物汤类",
     "baseFormulaId": "bianzheng-formula-bianzheng-0062-2",
@@ -2156,6 +2291,15 @@
     ]
   },
   {
+    "id": "family-瓜蒂散",
+    "name": "瓜蒂散类",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0129-2",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0129-2",
+      "bianzheng-formula-bianzheng-0363-6"
+    ]
+  },
+  {
     "id": "family-苏气汤",
     "name": "苏气汤类",
     "baseFormulaId": "bianzheng-formula-bianzheng-0139-1",
@@ -2180,6 +2324,18 @@
     "formulaIds": [
       "bianzheng-formula-bianzheng-0142-1",
       "bianzheng-formula-bianzheng-0220-1"
+    ]
+  },
+  {
+    "id": "family-五苓散",
+    "name": "五苓散类",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0142-2",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0142-2",
+      "bianzheng-formula-bianzheng-0199-1",
+      "bianzheng-formula-bianzheng-0280-1",
+      "bianzheng-formula-bianzheng-0331-2",
+      "bianzheng-formula-bianzheng-0364-4"
     ]
   },
   {
@@ -2230,313 +2386,6 @@
     ]
   },
   {
-    "id": "family-与小柴胡汤",
-    "name": "与小柴胡汤类",
-    "baseFormulaId": "songben-formula-与小柴胡汤",
-    "formulaIds": [
-      "songben-formula-与小柴胡汤",
-      "guilin-formula-与小柴胡汤"
-    ]
-  },
-  {
-    "id": "family-后以柴胡加芒硝汤",
-    "name": "后以柴胡加芒硝汤类",
-    "baseFormulaId": "songben-formula-后以柴胡加芒硝汤",
-    "formulaIds": [
-      "songben-formula-后以柴胡加芒硝汤",
-      "guilin-formula-后以柴胡加芒硝汤"
-    ]
-  },
-  {
-    "id": "family-去芍药加蜀漆牡蛎龙骨救逆汤",
-    "name": "去芍药加蜀漆牡蛎龙骨救逆汤类",
-    "baseFormulaId": "songben-formula-去芍药加蜀漆牡蛎龙骨救逆汤",
-    "formulaIds": [
-      "songben-formula-去芍药加蜀漆牡蛎龙骨救逆汤",
-      "jingui-formula-去芍药加蜀漆牡蛎龙骨救逆汤"
-    ]
-  },
-  {
-    "id": "family-木防己汤",
-    "name": "木防己汤类",
-    "baseFormulaId": "jingui-formula-木防己汤",
-    "formulaIds": [
-      "jingui-formula-木防己汤",
-      "jingui-formula-木防己汤去石膏加茯苓芒硝汤"
-    ]
-  },
-  {
-    "id": "family-黄土汤",
-    "name": "黄土汤类",
-    "baseFormulaId": "jingui-formula-黄土汤",
-    "formulaIds": [
-      "jingui-formula-黄土汤",
-      "guilin-formula-黄土汤"
-    ]
-  },
-  {
-    "id": "family-sim-葛根黄芩黄连汤",
-    "name": "葛根黄芩黄连汤相近方",
-    "baseFormulaId": "songben-formula-葛根黄芩黄连汤",
-    "formulaIds": [
-      "songben-formula-葛根黄芩黄连汤",
-      "guilin-formula-石膏黄连黄芩甘草汤",
-      "guilin-formula-黄连黄芩阿胶甘草汤",
-      "guilin-formula-葛根黄连黄芩甘草汤"
-    ]
-  },
-  {
-    "id": "family-sim-桂枝加芍药生姜各一两人参三两新加汤",
-    "name": "桂枝加芍药生姜各一两人参三两新加汤相近方",
-    "baseFormulaId": "songben-formula-桂枝加芍药生姜各一两人参三两新加汤",
-    "formulaIds": [
-      "songben-formula-桂枝加芍药生姜各一两人参三两新加汤",
-      "jingui-formula-栝蒌桂枝汤",
-      "guilin-formula-桂枝去芍药加人参生姜汤",
-      "guilin-formula-桂枝加黄芪汤",
-      "guilin-formula-括蒌桂枝汤",
-      "guilin-formula-桂枝加附子当归细辛人参干姜汤",
-      "guilin-formula-桂枝龙骨牡蛎汤"
-    ]
-  },
-  {
-    "id": "family-sim-桂技甘草汤",
-    "name": "桂技甘草汤相近方",
-    "baseFormulaId": "songben-formula-桂技甘草汤",
-    "formulaIds": [
-      "songben-formula-桂技甘草汤",
-      "guilin-formula-半夏散"
-    ]
-  },
-  {
-    "id": "family-sim-栀子厚朴汤",
-    "name": "栀子厚朴汤相近方",
-    "baseFormulaId": "songben-formula-栀子厚朴汤",
-    "formulaIds": [
-      "songben-formula-栀子厚朴汤",
-      "guilin-formula-栀子厚朴枳实汤"
-    ]
-  },
-  {
-    "id": "family-sim-禹余粮丸",
-    "name": "禹余粮丸相近方",
-    "baseFormulaId": "songben-formula-禹余粮丸",
-    "formulaIds": [
-      "songben-formula-禹余粮丸",
-      "guilin-formula-禹馀粮丸"
-    ]
-  },
-  {
-    "id": "family-sim-桃核承气汤",
-    "name": "桃核承气汤相近方",
-    "baseFormulaId": "songben-formula-桃核承气汤",
-    "formulaIds": [
-      "songben-formula-桃核承气汤",
-      "guilin-formula-桃仁承气汤"
-    ]
-  },
-  {
-    "id": "family-sim-桂枝去芍药加蜀漆牡蛎龙骨救逆汤",
-    "name": "桂枝去芍药加蜀漆牡蛎龙骨救逆汤相近方",
-    "baseFormulaId": "songben-formula-桂枝去芍药加蜀漆牡蛎龙骨救逆汤",
-    "formulaIds": [
-      "songben-formula-桂枝去芍药加蜀漆牡蛎龙骨救逆汤",
-      "guilin-formula-桂枝去芍药加牡蛎龙骨救逆汤"
-    ]
-  },
-  {
-    "id": "family-sim-大黄黄连泻心汤",
-    "name": "大黄黄连泻心汤相近方",
-    "baseFormulaId": "songben-formula-大黄黄连泻心汤",
-    "formulaIds": [
-      "songben-formula-大黄黄连泻心汤",
-      "guilin-formula-大黄黄连黄芩泻心汤"
-    ]
-  },
-  {
-    "id": "family-sim-麻黄细辛附子汤",
-    "name": "麻黄细辛附子汤相近方",
-    "baseFormulaId": "songben-formula-麻黄细辛附子汤",
-    "formulaIds": [
-      "songben-formula-麻黄细辛附子汤",
-      "guilin-formula-麻黄附子细辛汤"
-    ]
-  },
-  {
-    "id": "family-sim-当归四逆加吴茱萸生姜汤",
-    "name": "当归四逆加吴茱萸生姜汤相近方",
-    "baseFormulaId": "songben-formula-当归四逆加吴茱萸生姜汤",
-    "formulaIds": [
-      "songben-formula-当归四逆加吴茱萸生姜汤",
-      "guilin-formula-当归四逆加吴茱萸生姜附子汤"
-    ]
-  },
-  {
-    "id": "family-sim-滑石代赭汤",
-    "name": "滑石代赭汤相近方",
-    "baseFormulaId": "jingui-formula-滑石代赭汤",
-    "formulaIds": [
-      "jingui-formula-滑石代赭汤",
-      "guilin-formula-百合滑石代赭汤"
-    ]
-  },
-  {
-    "id": "family-sim-百合鸡子汤",
-    "name": "百合鸡子汤相近方",
-    "baseFormulaId": "jingui-formula-百合鸡子汤",
-    "formulaIds": [
-      "jingui-formula-百合鸡子汤",
-      "guilin-formula-百合鸡子黄汤"
-    ]
-  },
-  {
-    "id": "family-sim-黄耆桂枝五物汤",
-    "name": "黄耆桂枝五物汤相近方",
-    "baseFormulaId": "jingui-formula-黄耆桂枝五物汤",
-    "formulaIds": [
-      "jingui-formula-黄耆桂枝五物汤",
-      "guilin-formula-黄芪桂枝五物汤"
-    ]
-  },
-  {
-    "id": "family-sim-枳术汤",
-    "name": "枳术汤相近方",
-    "baseFormulaId": "jingui-formula-枳术汤",
-    "formulaIds": [
-      "jingui-formula-枳术汤",
-      "guilin-formula-枳实白术汤"
-    ]
-  },
-  {
-    "id": "family-sim-大青龙加附子汤",
-    "name": "大青龙加附子汤相近方",
-    "baseFormulaId": "guilin-formula-大青龙加附子汤",
-    "formulaIds": [
-      "guilin-formula-大青龙加附子汤",
-      "guilin-formula-桂枝甘草麻黄生姜大枣细辛附子汤"
-    ]
-  },
-  {
-    "id": "family-sim-大黄石膏茯苓白术枳实甘草汤",
-    "name": "大黄石膏茯苓白术枳实甘草汤相近方",
-    "baseFormulaId": "guilin-formula-大黄石膏茯苓白术枳实甘草汤",
-    "formulaIds": [
-      "guilin-formula-大黄石膏茯苓白术枳实甘草汤",
-      "guilin-formula-枳实白术茯苓甘草汤"
-    ]
-  },
-  {
-    "id": "family-sim-猪苓加黄连牡丹汤",
-    "name": "猪苓加黄连牡丹汤相近方",
-    "baseFormulaId": "guilin-formula-猪苓加黄连牡丹汤",
-    "formulaIds": [
-      "guilin-formula-猪苓加黄连牡丹汤",
-      "guilin-formula-猪苓加人参汤"
-    ]
-  },
-  {
-    "id": "family-sim-黄芩石膏杏子甘草汤",
-    "name": "黄芩石膏杏子甘草汤相近方",
-    "baseFormulaId": "guilin-formula-黄芩石膏杏子甘草汤",
-    "formulaIds": [
-      "guilin-formula-黄芩石膏杏子甘草汤",
-      "guilin-formula-竹叶石膏杏子甘草汤"
-    ]
-  },
-  {
-    "id": "family-sim-茯苓白术甘草汤",
-    "name": "茯苓白术甘草汤相近方",
-    "baseFormulaId": "guilin-formula-茯苓白术甘草汤",
-    "formulaIds": [
-      "guilin-formula-茯苓白术甘草汤",
-      "guilin-formula-甘草干姜茯苓白术汤"
-    ]
-  },
-  {
-    "id": "family-sim-白虎加黄连阿胶汤",
-    "name": "白虎加黄连阿胶汤相近方",
-    "baseFormulaId": "guilin-formula-白虎加黄连阿胶汤",
-    "formulaIds": [
-      "guilin-formula-白虎加黄连阿胶汤",
-      "guilin-formula-白虎加桂枝人参汤"
-    ]
-  },
-  {
-    "id": "family-sim-黄连半夏石膏甘草汤",
-    "name": "黄连半夏石膏甘草汤相近方",
-    "baseFormulaId": "guilin-formula-黄连半夏石膏甘草汤",
-    "formulaIds": [
-      "guilin-formula-黄连半夏石膏甘草汤",
-      "guilin-formula-黄连石膏半夏甘草汤"
-    ]
-  },
-  {
-    "id": "family-sim-大黄厚朴甘草汤",
-    "name": "大黄厚朴甘草汤相近方",
-    "baseFormulaId": "guilin-formula-大黄厚朴甘草汤",
-    "formulaIds": [
-      "guilin-formula-大黄厚朴甘草汤",
-      "guilin-formula-大黄厚朴枳实半夏甘草汤"
-    ]
-  },
-  {
-    "id": "family-sim-黄芪桂枝茯苓细辛汤",
-    "name": "黄芪桂枝茯苓细辛汤相近方",
-    "baseFormulaId": "guilin-formula-黄芪桂枝茯苓细辛汤",
-    "formulaIds": [
-      "guilin-formula-黄芪桂枝茯苓细辛汤",
-      "guilin-formula-桂枝茯苓白术细辛汤"
-    ]
-  },
-  {
-    "id": "family-sim-柴胡枳实芍药甘草汤",
-    "name": "柴胡枳实芍药甘草汤相近方",
-    "baseFormulaId": "guilin-formula-柴胡枳实芍药甘草汤",
-    "formulaIds": [
-      "guilin-formula-柴胡枳实芍药甘草汤",
-      "guilin-formula-桔梗甘草枳实芍药汤",
-      "guilin-formula-柴胡芍药枳实甘草汤"
-    ]
-  },
-  {
-    "id": "family-sim-枳实厚朴白术甘草汤",
-    "name": "枳实厚朴白术甘草汤相近方",
-    "baseFormulaId": "guilin-formula-枳实厚朴白术甘草汤",
-    "formulaIds": [
-      "guilin-formula-枳实厚朴白术甘草汤",
-      "guilin-formula-厚朴枳实白术甘草汤"
-    ]
-  },
-  {
-    "id": "family-sim-白术枳实桃仁干姜汤",
-    "name": "白术枳实桃仁干姜汤相近方",
-    "baseFormulaId": "guilin-formula-白术枳实桃仁干姜汤",
-    "formulaIds": [
-      "guilin-formula-白术枳实桃仁干姜汤",
-      "guilin-formula-白术枳实干姜白蜜汤"
-    ]
-  },
-  {
-    "id": "family-sim-理中加黄芪汤",
-    "name": "理中加黄芪汤相近方",
-    "baseFormulaId": "guilin-formula-理中加黄芪汤",
-    "formulaIds": [
-      "guilin-formula-理中加黄芪汤",
-      "guilin-formula-理中加人参括蒌根汤",
-      "guilin-formula-理中加附子汤"
-    ]
-  },
-  {
-    "id": "family-sim-小柴胡加茯苓白术汤",
-    "name": "小柴胡加茯苓白术汤相近方",
-    "baseFormulaId": "guilin-formula-小柴胡加茯苓白术汤",
-    "formulaIds": [
-      "guilin-formula-小柴胡加茯苓白术汤",
-      "guilin-formula-小柴胡加茯苓汤",
-      "funanke-formula-funanke-0020-1"
-    ]
-  },
-  {
     "id": "family-sim-加减逍遥散",
     "name": "加减逍遥散相近方",
     "baseFormulaId": "funvke-formula-funvke-0002-1",
@@ -2546,12 +2395,48 @@
     ]
   },
   {
+    "id": "family-sim-易黄汤",
+    "name": "易黄汤相近方",
+    "baseFormulaId": "funvke-formula-funvke-0003-1",
+    "formulaIds": [
+      "funvke-formula-funvke-0003-1",
+      "bianzheng-formula-bianzheng-0380-1"
+    ]
+  },
+  {
+    "id": "family-sim-逐瘀止血汤",
+    "name": "逐瘀止血汤相近方",
+    "baseFormulaId": "funvke-formula-funvke-0011-1",
+    "formulaIds": [
+      "funvke-formula-funvke-0011-1",
+      "bianzheng-formula-bianzheng-0386-3"
+    ]
+  },
+  {
     "id": "family-sim-调肝汤",
     "name": "调肝汤相近方",
     "baseFormulaId": "funvke-formula-funvke-0022-1",
     "formulaIds": [
       "funvke-formula-funvke-0022-1",
       "bianzheng-formula-bianzheng-0391-8"
+    ]
+  },
+  {
+    "id": "family-sim-益经汤",
+    "name": "益经汤相近方",
+    "baseFormulaId": "funvke-formula-funvke-0028-1",
+    "formulaIds": [
+      "funvke-formula-funvke-0028-1",
+      "bianzheng-formula-bianzheng-0381-1"
+    ]
+  },
+  {
+    "id": "family-sim-并提汤",
+    "name": "并提汤相近方",
+    "baseFormulaId": "funvke-formula-funvke-0030-1",
+    "formulaIds": [
+      "funvke-formula-funvke-0030-1",
+      "bianzheng-formula-bianzheng-0396-1"
     ]
   },
   {
@@ -2573,6 +2458,52 @@
     ]
   },
   {
+    "id": "family-sim-清骨滋肾汤",
+    "name": "清骨滋肾汤相近方",
+    "baseFormulaId": "funvke-formula-funvke-0036-1",
+    "formulaIds": [
+      "funvke-formula-funvke-0036-1",
+      "bianzheng-formula-bianzheng-0399-3"
+    ]
+  },
+  {
+    "id": "family-sim-化水种子汤",
+    "name": "化水种子汤相近方",
+    "baseFormulaId": "funvke-formula-funvke-0038-1",
+    "formulaIds": [
+      "funvke-formula-funvke-0038-1",
+      "bianzheng-formula-bianzheng-0221-1",
+      "bianzheng-formula-bianzheng-0400-2"
+    ]
+  },
+  {
+    "id": "family-sim-解郁汤",
+    "name": "解郁汤相近方",
+    "baseFormulaId": "funvke-formula-funvke-0044-1",
+    "formulaIds": [
+      "funvke-formula-funvke-0044-1",
+      "bianzheng-formula-bianzheng-0405-1"
+    ]
+  },
+  {
+    "id": "family-sim-扶气止啼汤",
+    "name": "扶气止啼汤相近方",
+    "baseFormulaId": "funvke-formula-funvke-0047-1",
+    "formulaIds": [
+      "funvke-formula-funvke-0047-1",
+      "bianzheng-formula-bianzheng-0406-1"
+    ]
+  },
+  {
+    "id": "family-sim-息焚安胎汤",
+    "name": "息焚安胎汤相近方",
+    "baseFormulaId": "funvke-formula-funvke-0048-1",
+    "formulaIds": [
+      "funvke-formula-funvke-0048-1",
+      "bianzheng-formula-bianzheng-0407-1"
+    ]
+  },
+  {
     "id": "family-sim-利气泄火汤",
     "name": "利气泄火汤相近方",
     "baseFormulaId": "funvke-formula-funvke-0050-1",
@@ -2582,12 +2513,76 @@
     ]
   },
   {
+    "id": "family-sim-降子汤",
+    "name": "降子汤相近方",
+    "baseFormulaId": "funvke-formula-funvke-0057-1",
+    "formulaIds": [
+      "funvke-formula-funvke-0057-1",
+      "bianzheng-formula-bianzheng-0413-2"
+    ]
+  },
+  {
+    "id": "family-sim-舒气散",
+    "name": "舒气散相近方",
+    "baseFormulaId": "funvke-formula-funvke-0059-1",
+    "formulaIds": [
+      "funvke-formula-funvke-0059-1",
+      "bianzheng-formula-bianzheng-0416-1"
+    ]
+  },
+  {
     "id": "family-sim-补气升肠饮",
     "name": "补气升肠饮相近方",
     "baseFormulaId": "funvke-formula-funvke-0066-1",
     "formulaIds": [
       "funvke-formula-funvke-0066-1",
-      "funvke-formula-funvke-0075-1"
+      "funvke-formula-funvke-0075-1",
+      "bianzheng-formula-bianzheng-0425-1"
+    ]
+  },
+  {
+    "id": "family-sim-散结定疼汤",
+    "name": "散结定疼汤相近方",
+    "baseFormulaId": "funvke-formula-funvke-0067-1",
+    "formulaIds": [
+      "funvke-formula-funvke-0067-1",
+      "bianzheng-formula-bianzheng-0421-1"
+    ]
+  },
+  {
+    "id": "family-sim-救脱活母汤",
+    "name": "救脱活母汤相近方",
+    "baseFormulaId": "funvke-formula-funvke-0068-1",
+    "formulaIds": [
+      "funvke-formula-funvke-0068-1",
+      "bianzheng-formula-bianzheng-0423-1"
+    ]
+  },
+  {
+    "id": "family-sim-温肾止呕汤",
+    "name": "温肾止呕汤相近方",
+    "baseFormulaId": "funvke-formula-funvke-0070-1",
+    "formulaIds": [
+      "funvke-formula-funvke-0070-1",
+      "bianzheng-formula-bianzheng-0424-1"
+    ]
+  },
+  {
+    "id": "family-sim-两收汤",
+    "name": "两收汤相近方",
+    "baseFormulaId": "funvke-formula-funvke-0074-1",
+    "formulaIds": [
+      "funvke-formula-funvke-0074-1",
+      "bianzheng-formula-bianzheng-0429-1"
+    ]
+  },
+  {
+    "id": "family-sim-伤食·方1",
+    "name": "伤食·方1相近方",
+    "baseFormulaId": "funanke-formula-funanke-0005-1",
+    "formulaIds": [
+      "funanke-formula-funanke-0005-1",
+      "bianzheng-formula-bianzheng-0296-1"
     ]
   },
   {
@@ -2612,12 +2607,102 @@
     ]
   },
   {
+    "id": "family-sim-扶正散邪汤·方1",
+    "name": "扶正散邪汤·方1相近方",
+    "baseFormulaId": "funanke-formula-funanke-0020-1",
+    "formulaIds": [
+      "funanke-formula-funanke-0020-1",
+      "funanke-formula-funanke-0073-1",
+      "funanke-formula-funanke-0106-1",
+      "bianzheng-formula-bianzheng-0005-1",
+      "bianzheng-formula-bianzheng-0031-1",
+      "bianzheng-formula-bianzheng-0296-3",
+      "bianzheng-formula-bianzheng-0298-1",
+      "bianzheng-formula-bianzheng-0326-5"
+    ]
+  },
+  {
+    "id": "family-sim-开郁·方1",
+    "name": "开郁·方1相近方",
+    "baseFormulaId": "funanke-formula-funanke-0029-1",
+    "formulaIds": [
+      "funanke-formula-funanke-0029-1",
+      "bianzheng-formula-bianzheng-0118-1"
+    ]
+  },
+  {
+    "id": "family-sim-阳虚下陷·方1",
+    "name": "阳虚下陷·方1相近方",
+    "baseFormulaId": "funanke-formula-funanke-0034-1",
+    "formulaIds": [
+      "funanke-formula-funanke-0034-1",
+      "bianzheng-formula-bianzheng-0036-5"
+    ]
+  },
+  {
+    "id": "family-sim-阴寒无火·方1",
+    "name": "阴寒无火·方1相近方",
+    "baseFormulaId": "funanke-formula-funanke-0037-1",
+    "formulaIds": [
+      "funanke-formula-funanke-0037-1",
+      "bianzheng-formula-bianzheng-0008-1",
+      "bianzheng-formula-bianzheng-0017-1"
+    ]
+  },
+  {
+    "id": "family-sim-过劳·方1",
+    "name": "过劳·方1相近方",
+    "baseFormulaId": "funanke-formula-funanke-0038-1",
+    "formulaIds": [
+      "funanke-formula-funanke-0038-1",
+      "bianzheng-formula-bianzheng-0401-1"
+    ]
+  },
+  {
+    "id": "family-sim-气血两虚·方1",
+    "name": "气血两虚·方1相近方",
+    "baseFormulaId": "funanke-formula-funanke-0042-1",
+    "formulaIds": [
+      "funanke-formula-funanke-0042-1",
+      "bianzheng-formula-bianzheng-0018-5"
+    ]
+  },
+  {
     "id": "family-sim-气喘·方1",
     "name": "气喘·方1相近方",
     "baseFormulaId": "funanke-formula-funanke-0074-1",
     "formulaIds": [
       "funanke-formula-funanke-0074-1",
       "funanke-formula-funanke-0076-1"
+    ]
+  },
+  {
+    "id": "family-sim-抬肩大喘·方1",
+    "name": "抬肩大喘·方1相近方",
+    "baseFormulaId": "funanke-formula-funanke-0077-1",
+    "formulaIds": [
+      "funanke-formula-funanke-0077-1",
+      "bianzheng-formula-bianzheng-0304-1"
+    ]
+  },
+  {
+    "id": "family-sim-胃吐·方1",
+    "name": "胃吐·方1相近方",
+    "baseFormulaId": "funanke-formula-funanke-0094-1",
+    "formulaIds": [
+      "funanke-formula-funanke-0094-1",
+      "bianzheng-formula-bianzheng-0025-1",
+      "bianzheng-formula-bianzheng-0037-1",
+      "bianzheng-formula-bianzheng-0485-1"
+    ]
+  },
+  {
+    "id": "family-sim-伤湿·方1",
+    "name": "伤湿·方1相近方",
+    "baseFormulaId": "funanke-formula-funanke-0107-1",
+    "formulaIds": [
+      "funanke-formula-funanke-0107-1",
+      "bianzheng-formula-bianzheng-0326-1"
     ]
   },
   {
@@ -2630,12 +2715,48 @@
     ]
   },
   {
+    "id": "family-sim-气虚猝倒·方1",
+    "name": "气虚猝倒·方1相近方",
+    "baseFormulaId": "funanke-formula-funanke-0127-1",
+    "formulaIds": [
+      "funanke-formula-funanke-0127-1",
+      "bianzheng-formula-bianzheng-0062-3"
+    ]
+  },
+  {
+    "id": "family-sim-口眼歪邪·方1",
+    "name": "口眼歪邪·方1相近方",
+    "baseFormulaId": "funanke-formula-funanke-0133-1",
+    "formulaIds": [
+      "funanke-formula-funanke-0133-1",
+      "bianzheng-formula-bianzheng-0231-1"
+    ]
+  },
+  {
     "id": "family-sim-胃气痛·方1",
     "name": "胃气痛·方1相近方",
     "baseFormulaId": "funanke-formula-funanke-0157-1",
     "formulaIds": [
       "funanke-formula-funanke-0157-1",
       "funanke-formula-funanke-0203-1"
+    ]
+  },
+  {
+    "id": "family-sim-阳强不倒·方1",
+    "name": "阳强不倒·方1相近方",
+    "baseFormulaId": "funanke-formula-funanke-0179-1",
+    "formulaIds": [
+      "funanke-formula-funanke-0179-1",
+      "bianzheng-formula-bianzheng-0196-1"
+    ]
+  },
+  {
+    "id": "family-sim-感冒风寒·方1",
+    "name": "感冒风寒·方1相近方",
+    "baseFormulaId": "funanke-formula-funanke-0205-1",
+    "formulaIds": [
+      "funanke-formula-funanke-0205-1",
+      "bianzheng-formula-bianzheng-0080-1"
     ]
   },
   {
@@ -2651,8 +2772,46 @@
       "bianzheng-formula-bianzheng-0040-3",
       "bianzheng-formula-bianzheng-0051-2",
       "bianzheng-formula-bianzheng-0092-1",
+      "bianzheng-formula-bianzheng-0121-1",
       "bianzheng-formula-bianzheng-0238-1",
       "bianzheng-formula-bianzheng-0333-5"
+    ]
+  },
+  {
+    "id": "family-sim-参附汤",
+    "name": "参附汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0008-2",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0008-2",
+      "bianzheng-formula-bianzheng-0010-1"
+    ]
+  },
+  {
+    "id": "family-sim-理中汤",
+    "name": "理中汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0011-4",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0011-4",
+      "bianzheng-formula-bianzheng-0047-2",
+      "bianzheng-formula-bianzheng-0178-3"
+    ]
+  },
+  {
+    "id": "family-sim-子母两快汤",
+    "name": "子母两快汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0011-5",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0011-5",
+      "bianzheng-formula-bianzheng-0329-1"
+    ]
+  },
+  {
+    "id": "family-sim-救腑回阳汤",
+    "name": "救腑回阳汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0016-1",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0016-1",
+      "bianzheng-formula-bianzheng-0270-1"
     ]
   },
   {
@@ -2667,9 +2826,17 @@
       "bianzheng-formula-bianzheng-0092-2",
       "bianzheng-formula-bianzheng-0125-2",
       "bianzheng-formula-bianzheng-0132-3",
-      "bianzheng-formula-bianzheng-0140-2",
       "bianzheng-formula-bianzheng-0259-4",
       "bianzheng-formula-bianzheng-0323-2"
+    ]
+  },
+  {
+    "id": "family-sim-全身汤",
+    "name": "全身汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0020-2",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0020-2",
+      "bianzheng-formula-bianzheng-0307-1"
     ]
   },
   {
@@ -2683,22 +2850,153 @@
     ]
   },
   {
-    "id": "family-sim-八珍汤",
-    "name": "八珍汤相近方",
-    "baseFormulaId": "bianzheng-formula-bianzheng-0047-2",
+    "id": "family-sim-败瘀止痛汤",
+    "name": "败瘀止痛汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0034-3",
     "formulaIds": [
-      "bianzheng-formula-bianzheng-0047-2",
-      "bianzheng-formula-bianzheng-0178-3"
+      "bianzheng-formula-bianzheng-0034-3",
+      "bianzheng-formula-bianzheng-0170-1"
     ]
   },
   {
-    "id": "family-sim-此症用止沸汤",
-    "name": "此症用止沸汤相近方",
-    "baseFormulaId": "bianzheng-formula-bianzheng-0167-3",
+    "id": "family-sim-卫生汤",
+    "name": "卫生汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0037-2",
     "formulaIds": [
+      "bianzheng-formula-bianzheng-0037-2",
+      "bianzheng-formula-bianzheng-0238-3"
+    ]
+  },
+  {
+    "id": "family-sim-治牙仙丹",
+    "name": "治牙仙丹相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0046-1",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0046-1",
+      "bianzheng-formula-bianzheng-0069-3"
+    ]
+  },
+  {
+    "id": "family-sim-润胆汤",
+    "name": "润胆汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0050-1",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0050-1",
+      "bianzheng-formula-bianzheng-0097-3"
+    ]
+  },
+  {
+    "id": "family-sim-益水准火汤",
+    "name": "益水准火汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0051-1",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0051-1",
+      "bianzheng-formula-bianzheng-0070-1"
+    ]
+  },
+  {
+    "id": "family-sim-两归汤",
+    "name": "两归汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0052-1",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0052-1",
+      "bianzheng-formula-bianzheng-0108-1",
+      "bianzheng-formula-bianzheng-0209-1"
+    ]
+  },
+  {
+    "id": "family-sim-加减八味丸",
+    "name": "加减八味丸相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0053-1",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0053-1",
+      "bianzheng-formula-bianzheng-0066-1",
+      "bianzheng-formula-bianzheng-0152-1"
+    ]
+  },
+  {
+    "id": "family-sim-固气生血汤",
+    "name": "固气生血汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0063-1",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0063-1",
+      "bianzheng-formula-bianzheng-0417-1"
+    ]
+  },
+  {
+    "id": "family-sim-三台救命汤",
+    "name": "三台救命汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0064-1",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0064-1",
+      "bianzheng-formula-bianzheng-0069-1",
+      "bianzheng-formula-bianzheng-0148-1"
+    ]
+  },
+  {
+    "id": "family-sim-此症用麦冬熟地汤",
+    "name": "此症用麦冬熟地汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0069-2",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0069-2",
       "bianzheng-formula-bianzheng-0167-3",
-      "bianzheng-formula-bianzheng-0180-3",
-      "bianzheng-formula-bianzheng-0259-6"
+      "bianzheng-formula-bianzheng-0180-3"
+    ]
+  },
+  {
+    "id": "family-sim-开郁至神汤",
+    "name": "开郁至神汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0083-1",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0083-1",
+      "bianzheng-formula-bianzheng-0261-3",
+      "bianzheng-formula-bianzheng-0364-2",
+      "bianzheng-formula-bianzheng-0483-1"
+    ]
+  },
+  {
+    "id": "family-sim-通郁汤",
+    "name": "通郁汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0101-2",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0101-2",
+      "bianzheng-formula-bianzheng-0135-1"
+    ]
+  },
+  {
+    "id": "family-sim-平呃散",
+    "name": "平呃散相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0115-3",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0115-3",
+      "bianzheng-formula-bianzheng-0193-1"
+    ]
+  },
+  {
+    "id": "family-sim-温土汤",
+    "name": "温土汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0122-1",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0122-1",
+      "bianzheng-formula-bianzheng-0218-1"
+    ]
+  },
+  {
+    "id": "family-sim-益金散",
+    "name": "益金散相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0142-4",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0142-4",
+      "bianzheng-formula-bianzheng-0304-2"
+    ]
+  },
+  {
+    "id": "family-sim-救亡生阴丹",
+    "name": "救亡生阴丹相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0174-1",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0174-1",
+      "bianzheng-formula-bianzheng-0208-1"
     ]
   },
   {
@@ -2711,21 +3009,57 @@
     ]
   },
   {
-    "id": "family-sim-开邪散",
-    "name": "开邪散相近方",
-    "baseFormulaId": "bianzheng-formula-bianzheng-0241-1",
+    "id": "family-sim-扫氛汤",
+    "name": "扫氛汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0286-1",
     "formulaIds": [
-      "bianzheng-formula-bianzheng-0241-1",
-      "bianzheng-formula-bianzheng-0298-1"
+      "bianzheng-formula-bianzheng-0286-1",
+      "bianzheng-formula-bianzheng-0340-2"
     ]
   },
   {
-    "id": "family-sim-通肾祛邪散",
-    "name": "通肾祛邪散相近方",
-    "baseFormulaId": "bianzheng-formula-bianzheng-0278-2",
+    "id": "family-sim-升阳降浊汤",
+    "name": "升阳降浊汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0288-1",
     "formulaIds": [
-      "bianzheng-formula-bianzheng-0278-2",
-      "bianzheng-formula-bianzheng-0314-1"
+      "bianzheng-formula-bianzheng-0288-1",
+      "bianzheng-formula-bianzheng-0492-1"
+    ]
+  },
+  {
+    "id": "family-sim-脾肾双益丹",
+    "name": "脾肾双益丹相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0302-2",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0302-2",
+      "bianzheng-formula-bianzheng-0320-1"
+    ]
+  },
+  {
+    "id": "family-sim-解炎汤",
+    "name": "解炎汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0327-1",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0327-1",
+      "bianzheng-formula-bianzheng-0352-1"
+    ]
+  },
+  {
+    "id": "family-sim-散斑饮",
+    "name": "散斑饮相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0342-1",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0342-1",
+      "bianzheng-formula-bianzheng-0370-3"
+    ]
+  },
+  {
+    "id": "family-sim-通肝生乳汤",
+    "name": "通肝生乳汤相近方",
+    "baseFormulaId": "bianzheng-formula-bianzheng-0431-2",
+    "formulaIds": [
+      "bianzheng-formula-bianzheng-0431-2",
+      "bianzheng-formula-bianzheng-0431-3"
     ]
   }
 ]
