@@ -1,0 +1,4892 @@
+[
+  {
+    "id": "funanke-0001",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 1,
+    "text": "凡病初起之时。 用药原易奏功，无如世人看不清症，用药错乱，往往致变症蜂起,苟看病清，用药当，何变症之有。\n\n==== 伤风 ====",
+    "formulaIds": [],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "初病说"
+  },
+  {
+    "id": "funanke-0002",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 2,
+    "text": "（ 按古方书皆曰中风今曰伤风）\n\n凡人初伤风，必然头痛身痛，咳嗽痰多，鼻流清水，切其脉必浮,　方用\n\n荆芥、防风、柴、胡、黄、芩、半、夏、甘草［各等分]\n\n水煎服,一剂即止，不必再剂也。\n\n==== 伤寒 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0002-1"
+    ],
+    "symptomTags": [
+      "头痛",
+      "身痛",
+      "咳嗽",
+      "痰多",
+      "鼻塞"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "风寒"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "伤风"
+  },
+  {
+    "id": "funanke-0003",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 3,
+    "text": "凡伤寒初起，鼻塞目痛，项强头痛，切其脉必浮紧。\n方用\n\n\n桂枝、干葛、陈皮、甘草各等分\n\n水煎服，一剂即愈。\n\n==== 外感 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0003-1"
+    ],
+    "symptomTags": [
+      "鼻塞",
+      "目痛",
+      "头痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "风寒"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "伤寒"
+  },
+  {
+    "id": "funanke-0004",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 4,
+    "text": "（ 外感之发热，卫气外闭也，内伤之发热，营气内损也，外感热在皮毛,内伤热在骨髓，治法不同，内伤发热方见下）\n\n凡人外感，必然发热。\n方用\n\n\n柴胡、黄芩、荆芥、半夏、甘草各等分\n\n水煎服。\n\n四时不正之气，来犯人身，必然由皮毛而入荣卫，故用柴胡、荆芥,先散皮毛之邪，邪既先散，安得入内，又有半夏以祛痰，使邪不得挟痰以作祟,黄芩以清火，使邪不得挟火以作殃，甘草调药以和中，是以邪散而无伤于正气也,若内伤之发热，则不可用此方。\n\n==== 伤食 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0004-1"
+    ],
+    "symptomTags": [
+      "发热"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "风寒"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "外感",
+    "misjudgment": {
+      "commonView": "内伤发热亦用此外感方",
+      "trueView": "内伤之发热则不可用此方"
+    }
+  },
+  {
+    "id": "funanke-0005",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 5,
+    "text": "凡伤食必心中饱闷，见食则恶，食之转痛也。\n方用\n\n\n白术　茯苓　枳壳（ 各壹钱） 谷芽　麦芽（ 各贰钱） 山楂（ 贰拾个） 神曲（ 伍钱） 半夏（ 壹钱） 甘草（ 伍分） 砂仁（ 参粒）\n\n水煎服，一剂快，二剂愈。\n\n疟疾方用\n遇仙丹（ 此方丸之大小，未曾定分两，愚酌以壹钱为准，南方之人，以及老弱久疟,尤宜减半）\n\n生军（ 陆两） 槟榔　三棱　莪术　黑丑　白丑（ 各参两） 木香（ 贰两） 甘草（ 壹两）\n\n水丸，遇发日清晨,温水化三四丸，寻以温米饮补之，忌生冷鱼腥荞面，孕妇勿服。\n\n==== 伤暑 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0005-1"
+    ],
+    "symptomTags": [
+      "腹胀",
+      "纳差",
+      "腹痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "食积"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "伤食"
+  },
+  {
+    "id": "funanke-0006",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 6,
+    "text": "人感此症，必然头晕口渴恶热，甚则痰多，身热气喘方用\n\n人参（ 壹钱） 白术（ 伍钱） 茯苓（ 叁钱） 甘草（ 壹钱）　青蒿（ 壹两） 香薷（ 三钱） 陈皮（ 壹钱）\n\n水煎服,一剂愈。\n\n==== 大满 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0006-1"
+    ],
+    "symptomTags": [
+      "眩晕",
+      "口渴",
+      "痰多",
+      "发热",
+      "气喘"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "暑热"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "伤暑"
+  },
+  {
+    "id": "funanke-0007",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 7,
+    "text": "此邪在上焦，壅塞而不得散也。\n方用\n\n\n瓜蒌（ 壹个捣碎） 枳壳　天花粉（ 各叁钱） 栀子（ 贰钱）　 陈皮（ 叁钱） 厚朴（ 壹钱伍分） 半夏　甘草（ 各壹钱）\n\n水煎服。\n\n此方之妙，全在用瓜蒌，能去胸膈之食，而消上焦之痰，况又佐以枳壳花粉,同是消中圣药，又有厚朴半夏，以消胃口之痰，尤妙在甘草，使群药留中而不速下,则邪气不能久存而散矣。\n\n==== 发汗 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0007-1"
+    ],
+    "symptomTags": [
+      "胸闷",
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "痰湿",
+      "食积"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "大满"
+  },
+  {
+    "id": "funanke-0008",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 8,
+    "text": "凡人邪居腠理之间，必须用汗药以泄之。\n方用\n\n\n荆芥　防风　甘草　桔梗　苏叶（ 各壹钱） 白术（ 五钱） 云苓（ 叁钱） 陈皮（ 五分）\n\n水煎服。\n\n此方妙在君白术,盖人之脾胃健，而后皮毛腠理始得开合自如，白术健脾去湿，而邪已难存,况有荆防苏梗以表散之乎。\n\n==== 寒热真假辨 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0008-1"
+    ],
+    "symptomTags": [
+      "无汗"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "风寒",
+      "脾湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "发汗"
+  },
+  {
+    "id": "funanke-0009",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 9,
+    "text": "真热症，口干极而呼水，舌燥极而开裂，生刺喉痛，日夜不已，大热烙手而无汗也,真寒症手足寒久而不回，色变青紫，身战不已，口噤出声而不可禁也。\n\n假热症，口虽渴而不甚，舌虽干而不燥，即燥而无芒刺纹裂也。 假寒症，手足冰冷,而有时温和厥逆身战。 亦未太甚，而有时而安，有时而搐是也。\n\n==== 乍寒乍热辨 ====",
+    "formulaIds": [],
+    "symptomTags": [
+      "无汗",
+      "渴",
+      "厥"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "寒热真假辨"
+  },
+  {
+    "id": "funanke-0010",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 10,
+    "text": "（玩此可知治疟有用小柴胡汤之法）\n\n病有洒淅恶寒而后发热者，盖阴脉不足，阳往从之，阳脉不足，阴往乘之,何谓阳不足，寸脉微，名曰阳不足，阴气上入阳中，则恶寒也，何谓阴不足,尺脉弱，名曰阴不足，阳气下陷阴中，则发热也，凡治寒热，用柴胡升阳气,使不下陷阴中，则不热也，用黄芩降阴气，使不升入阳中，则不寒也。\n\n==== 真热症方用 ====",
+    "formulaIds": [],
+    "symptomTags": [
+      "恶寒",
+      "发热"
+    ],
+    "pulseTags": [
+      "脉微",
+      "脉弱"
+    ],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "乍寒乍热辨"
+  },
+  {
+    "id": "funanke-0011",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 11,
+    "text": "麻黄　黄连　黄芩　石膏　知母　半夏（ 各叁钱） 当归（ 伍钱） 枳壳（ 贰钱） 甘草（ 壹钱）\n\n水煎服，一剂轻二剂愈。\n\n==== 真寒症方用 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0011-1"
+    ],
+    "symptomTags": [
+      "发热"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "胃热"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "真热症方用"
+  },
+  {
+    "id": "funanke-0012",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 12,
+    "text": "附子（ 叁钱） 肉桂　干姜（ 各壹钱） 白术（ 五钱） 人参（ 壹两）\n\n水煎服急救之。\n\n此乃真中寒邪，肾火避出躯壳之外，而阴邪之气,直犯心宫，心君不守，肝气无依，乃发战发噤，手足现青色,然则用桂附干姜逐其寒邪足矣，何用参术即用何至多加，盖元阳飞越,只一线之气未绝，纯用桂附干姜一派辛辣之药，邪虽外逐，而正气垂绝,若不多加参术，何以反正气于若存若亡之际哉。\n\n==== 假热症方用 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0012-1"
+    ],
+    "symptomTags": [
+      "恶寒"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "命门火衰",
+      "肾阳虚",
+      "阳虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "真寒症方用",
+    "misjudgment": {
+      "commonView": "真中寒邪仅用桂附干姜逐寒即可",
+      "trueView": "元阳飞越须多加参术以反正气"
+    }
+  },
+  {
+    "id": "funanke-0013",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 13,
+    "text": "黄连　当归　白芍　半夏（ 各叁钱） 茯苓　柴胡 栀子（ 各贰钱） 枳壳（ 壹钱） 菖蒲（ 参分）\n\n水煎服。\n\n此方妙在用黄连入心宫，佐以栀子，提刀直入，无邪不散，柴胡白芍,又塞敌运粮之道，半夏枳壳，斩杀党余，中原既定，四隅不战而归，然火势居中,非用之得法，则贼势弥张，依然复入，又加菖蒲之辛热，乘热饮之，则热喜热,不致相反而更相济也。\n\n==== 假寒症方用 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0013-1"
+    ],
+    "symptomTags": [
+      "发热"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "心火",
+      "肝火"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "假热症方用"
+  },
+  {
+    "id": "funanke-0014",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 14,
+    "text": "肉桂　附子（ 各壹钱） 人参（ 叁钱） 白术（ 五钱） 猪胆汁（ 半个） 苦菜汁（ 拾参匙）\n\n水三杯，煎一杯,冷服将药并器放冷水中，激凉入胆蔡汁调匀，一气服之。\n\n方中全是热药,倘服不如式，必然虚火上冲，将药呕出，必热药凉服，已足顺其性,况下行又有二汁之苦，以骗其假道之防也哉。\n\n==== 真热假寒 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0014-1"
+    ],
+    "symptomTags": [
+      "恶寒",
+      "呕吐"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "阳虚",
+      "命门火衰"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "假寒症方用"
+  },
+  {
+    "id": "funanke-0015",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 15,
+    "text": "此症身外冰冷，身内火炽，发寒发热，战栗不已,乃真热反现假寒之象以欺人也，法当用三黄汤加石膏生姜，乘热饮之,再用井水以扑其心，至二三十次，内热自止，外之战栗亦若失矣,后用元参麦冬白芍各二两煎汤，任其恣饮，后不再甚也。\n\n==== 真寒假热 ====",
+    "formulaIds": [],
+    "symptomTags": [
+      "发热"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "真热假寒"
+  },
+  {
+    "id": "funanke-0016",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 16,
+    "text": "此症下部冰冷，上部大热，渴欲饮水，下喉即吐,乃真寒反现假热之形以欺人也，法当用八味汤，大剂探冷与服,再令人以手擦其足心，如火之热，不热不已，以大热为度，用吴萸一两，附子一钱,麝香三分，以少许白面入之，打糊作膏，贴足心，少顷必睡，醒来下部热,而上之火息矣。\n\n==== 上热下寒 ====",
+    "formulaIds": [],
+    "symptomTags": [
+      "吐",
+      "渴"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "真寒假热"
+  },
+  {
+    "id": "funanke-0017",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 17,
+    "text": "此症上焦火盛，吐痰如涌泉，面赤喉痛，上身不欲盖衣，而下身冰冷,此上假热而下真寒也。\n方用\n\n\n附子（ 壹个） 熟地（ 半斛） 山萸（ 肆两） 麦冬（ 壹两）　茯苓（ 三两） 五味子（ 壹两） 丹皮（ 参两） 泽泻（ 参两） 肉桂（ 壹两）\n\n水十碗，煎三碗，探冷与服，其渣再用水三碗，煎一碗，一气服之,立刻安静，此上病下治之法也。\n\n==== 循衣撮空 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0017-1"
+    ],
+    "symptomTags": [
+      "痰多",
+      "咽痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾阳虚",
+      "命门火衰",
+      "心火"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "上热下寒",
+    "misjudgment": {
+      "commonView": "上焦火盛当清上焦",
+      "trueView": "上假热而下真寒，宜上病下治"
+    }
+  },
+  {
+    "id": "funanke-0018",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 18,
+    "text": "此症非大实则大虚，当审其因，察其脉，参其症而分黑白矣，实而便秘者,大承气汤，虚而便滑者，独参汤，厥逆者加附子, 阴虚双蛾方用\n\n附子（ 壹钱） 盐水炒，每用一片含口中，后以六味地黄汤,大剂饮之,\n\n附外治法\n\n引火下行，用附子一个为末，醋调贴涌泉穴，或吴萸一两,白面五钱水调贴涌泉穴，急针刺少商穴，则咽喉有一线之路矣。\n\n==== 结胸 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0018-1"
+    ],
+    "symptomTags": [
+      "便秘",
+      "咽痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "阴虚",
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "循衣撮空"
+  },
+  {
+    "id": "funanke-0019",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 19,
+    "text": "此伤寒之变症也，伤寒邪火正炽，不可急于饮食，饮食而成此者。\n方用\n\n\n瓜蒌（ 壹个捶碎） 甘草（ 壹钱） 水煎服，勿迟。\n\n瓜蒌乃结胸之圣药，常人服之，必至心如遗若，病人服之，不畏其虚乎,不知结胸之症，是食在胸中，非大黄枳壳槟榔厚朴所能袪逐，必得瓜蒌,始得推荡辟脾，少加甘草以和之，不致十分猛烈也.\n\n==== 扶正散邪汤 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0019-1"
+    ],
+    "symptomTags": [
+      "胸闷"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "食积",
+      "痰湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "结胸"
+  },
+  {
+    "id": "funanke-0020",
+    "book": "funanke",
+    "chapter": "伤寒门",
+    "chapterOrder": 1,
+    "order": 20,
+    "text": "人参 半夏 甘草（ 各壹钱） 白术 茯苓 柴胡（ 各叁钱）\n\n水煎服。\n\n此方专治正气虚而邪气入之者，如头痛发热,右寸脉大于左寸口者，急以此方投之，无不全愈。\n\n=== 火证门 ===\n\n==== 泻火汤总方 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0020-1"
+    ],
+    "symptomTags": [
+      "头痛",
+      "发热"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "扶正散邪汤"
+  },
+  {
+    "id": "funanke-0021",
+    "book": "funanke",
+    "chapter": "火证门",
+    "chapterOrder": 2,
+    "order": 21,
+    "text": "栀子 丹皮（ 各叁钱） 白芍（ 五钱） 元参（ 贰钱） 甘草（ 壹钱）\n\n水煎服。\n\n心火加黄连一钱，胃火加生石膏三钱，肾火加黄柏知母各一钱,肺火加黄芩一钱，大肠火加地榆一钱，小肠火加天冬麦冬各一钱,膀胱火加泽泻三钱，治火何独治肝经，盖肝属木，最易生火，肝火散,则诸经之火俱散，但散火必须用下泄之药，而使火之有出路也则得矣。\n\n==== 火症 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0021-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝火"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "泻火汤总方"
+  },
+  {
+    "id": "funanke-0022",
+    "book": "funanke",
+    "chapter": "火证门",
+    "chapterOrder": 2,
+    "order": 22,
+    "text": "真火症，初起必大渴引饮，身有斑点，或身热如焚，或发狂乱语,方用\n\n石膏 知母 升麻 半夏 甘草（ 各叁钱） 元参 麦冬（ 各壹两） 竹叶（ 壹伯片）\n\n水煎服，一剂少止，三剂愈。\n\n[ 大寒之症亦有发斑者,但看其渴与不渴，若身发斑不渴，小饮即吐饮虽沸汤不觉甚热，此大寒症,不可与此]\n\n==== 火越 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0022-1"
+    ],
+    "symptomTags": [
+      "口渴",
+      "发热"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "胃热",
+      "心火"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "火症",
+    "misjudgment": {
+      "commonView": "身发斑点即属火症",
+      "trueView": "当看渴与不渴，发斑不渴者为大寒症不可与此"
+    }
+  },
+  {
+    "id": "funanke-0023",
+    "book": "funanke",
+    "chapter": "火证门",
+    "chapterOrder": 2,
+    "order": 23,
+    "text": "此乃胃火与肝火共腾，而外越不为丹毒，即为痧疹，非他火也。\n方用\n\n\n元参（ 壹两） 干葛（ 参两） 升麻 青蒿 黄耆（ 各叁钱）\n\n水煎服。\n\n此方妙在用青蒿，肝胃之火俱平，又佐以群药重剂,而火安有不灭者乎，（ 治小儿亦效）\n\n==== 燥症 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0023-1"
+    ],
+    "symptomTags": [
+      "疮疡"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "胃热",
+      "肝火"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "火越"
+  },
+  {
+    "id": "funanke-0024",
+    "book": "funanke",
+    "chapter": "火证门",
+    "chapterOrder": 2,
+    "order": 24,
+    "text": "此症初起，喉干口渴，干燥不吐，痰干咳嗽不已，面色日红，不畏风吹者是也,方用\n\n麦冬 元参（ 各伍钱） 桔梗（ 叁钱） 花粉 甘草（ 各壹钱） 陈皮（ 参分） 百部（ 捌分）\n\n水煎服。\n\n==== 治火丹神方 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0024-1"
+    ],
+    "symptomTags": [
+      "口渴",
+      "咳嗽",
+      "咽痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "阴虚",
+      "肺热"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "燥症"
+  },
+  {
+    "id": "funanke-0025",
+    "book": "funanke",
+    "chapter": "火证门",
+    "chapterOrder": 2,
+    "order": 25,
+    "text": "丝瓜子 元参（ 各壹两） 柴胡 升麻（ 各壹钱） 当归（ 伍钱）\n\n水煎服 小儿服之亦效\n\n==== 消食病 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0025-1"
+    ],
+    "symptomTags": [
+      "疮疡"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝火"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "治火丹神方"
+  },
+  {
+    "id": "funanke-0026",
+    "book": "funanke",
+    "chapter": "火证门",
+    "chapterOrder": 2,
+    "order": 26,
+    "text": "此火盛之症，大渴引饮，呼水自救，朝食即饥，或夜食不止。\n方用\n\n\n元参（ 壹两） 麦冬（ 伍钱） 生地（ 叁钱） 竹叶（ 参拾片） 菊花 白芥子 丹皮（ 各贰钱） 陈皮（ 伍分）\n\n水煎服。\n\n==== 痿症 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0026-1"
+    ],
+    "symptomTags": [
+      "口渴"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "胃热",
+      "心火"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "消食病"
+  },
+  {
+    "id": "funanke-0027",
+    "book": "funanke",
+    "chapter": "火证门",
+    "chapterOrder": 2,
+    "order": 27,
+    "text": "不能起床，已成废人者，此乃火盛内炽，肾水熬干,治法宜降胃火而补肾水。 方用\n降补汤。\n\n熟地 元参 麦冬（ 各壹两） 甘菊花 生地 沙参 地骨皮（ 各伍钱） 车前子（ 贰钱） 人参（ 叁钱）\n\n水煎服。\n\n==== 痿症 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0027-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾阴虚",
+      "胃热",
+      "阴虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "痿症"
+  },
+  {
+    "id": "funanke-0028",
+    "book": "funanke",
+    "chapter": "火证门",
+    "chapterOrder": 2,
+    "order": 28,
+    "text": "人有两足无力，不能起立，而口又健饭，少饥则头面皆热，咳嗽不已,此亦痿症。\n方用\n起痿至神汤。\n\n熟地 元参 山药 菊花（ 各壹两） 当归 白芍 人参（ 各伍钱） 神曲（ 贰钱） 白芥子（ 叁钱）\n\n水煎服，三十剂而愈.\n\n=== 郁结门 ===\n\n==== 开郁 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0028-1"
+    ],
+    "symptomTags": [
+      "咳嗽",
+      "发热"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "阴虚",
+      "肾阴虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "痿症"
+  },
+  {
+    "id": "funanke-0029",
+    "book": "funanke",
+    "chapter": "郁结门",
+    "chapterOrder": 3,
+    "order": 29,
+    "text": "如人头痛身热，伤风咳嗽，或心不爽，而郁气蕴于中怀，或气不舒,而怒气留于胁下，断不可用补药。\n方用\n\n\n当归（ 叁钱） 白芍（ 伍钱） 半夏（ 贰钱） 枳壳 薄荷 白术 丹皮 甘草（ 各壹钱）\n\n水煎服。\n\n头痛加川芎一钱，目痛加蒺藜一钱，菊花一钱,鼻塞加苏叶一钱，喉痛加桔梗二钱，肩背痛加枳壳羌活，两手痛加姜黄或桂枝一钱,腹痛不可按者，加大黄二钱，按之而不痛者，加肉桂（ 壹钱） ，余不必加。\n\n==== 关格 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0029-1"
+    ],
+    "symptomTags": [
+      "头痛",
+      "发热",
+      "咳嗽",
+      "胁痛",
+      "心烦"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝郁",
+      "气滞"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "开郁"
+  },
+  {
+    "id": "funanke-0030",
+    "book": "funanke",
+    "chapter": "郁结门",
+    "chapterOrder": 3,
+    "order": 30,
+    "text": "怒气伤肝，而肝气冲于胃口之间，肾气不得上行，肺气不得下行，而成此症, 以开郁为主,方用\n\n荆芥 柴胡 川郁金 茯苓 苏子 白芥子 花粉（ 各壹钱） 白芍（ 叁钱） 甘草（ 伍分）\n\n水煎服，又方用 阴阳水各一碗,加盐一撮，打百余下，起泡，饮之即吐而愈，凡上焦有疾，欲吐而不能吐者,饮之立吐。\n\n=== 虚劳门 ===\n\n==== 痨症虚损辨 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0030-1"
+    ],
+    "symptomTags": [
+      "呕吐"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝郁",
+      "气滞",
+      "肝克脾"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "关格"
+  },
+  {
+    "id": "funanke-0031",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 31,
+    "text": "二症外相似而治法不同，虚损者，阴阳两虚也，劳症者，阴虚阳亢也,故虚损可用温补，若劳症则忌温补而用清补也，两症辨法不必凭脉，但看人着复衣,此着单衣者为劳症，人着单衣，此着复衣者为虚损，劳症骨蒸而热, 虚损营卫虚而热也。\n\n==== 内伤发热 ====",
+    "formulaIds": [],
+    "symptomTags": [
+      "发热"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "痨症虚损辨"
+  },
+  {
+    "id": "funanke-0032",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 32,
+    "text": "方用\n\n当归 柴胡 陈皮 栀子 甘草（ 各壹钱） 白芍 花粉（ 各贰钱）\n\n水煎服。\n\n凡肝木郁者，此方一剂即快，人病发热，有内伤外感, 必先散其邪气，邪退而后补正，则正不为邪所伤也，但外感内伤，不可用一方也, 外感发热方见前.\n\n==== 未成劳而将成劳 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0032-1"
+    ],
+    "symptomTags": [
+      "发热"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝郁"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "内伤发热",
+    "misjudgment": {
+      "commonView": "外感内伤发热可用一方",
+      "trueView": "外感内伤不可用一方，必先散邪而后补正"
+    }
+  },
+  {
+    "id": "funanke-0033",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 33,
+    "text": "方用\n\n熟地（ 壹两） 地骨皮 人参 麦冬（ 各伍钱） 白芥子 山药（ 各叁钱） 白术（ 壹钱） 五味子（ 参分）\n\n水煎服。\n\n凡人右寸脉大于左寸, 即内伤之症，不论左右关尺脉何如，以此方投之效验。\n\n==== 阳虚下陷 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0033-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "阴虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "未成劳而将成劳"
+  },
+  {
+    "id": "funanke-0034",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 34,
+    "text": "凡人饥饱劳役，内伤正气，以致气乃下行，脾胃不能克化，饮食不能运动, 往往变为劳瘵，盖疑饮食不进为脾胃之病，肉黍之积，轻则砂仁、枳壳、山查、麦芽之品，重则芒硝、大黄、牵牛巴豆之类，纷然杂进，必致臌闷而渐成劳矣, 若先以升提之药治之，何至于成劳, 方用\n\n人参 柴胡 陈皮 甘草（ 各壹钱） 升麻（ 三分） 黄耆 白术（ 各叁钱）\n\n水煎服。\n\n==== 阴虚下陷 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0034-1"
+    ],
+    "symptomTags": [
+      "纳差",
+      "腹胀"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "阳虚",
+      "脾虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "阳虚下陷",
+    "misjudgment": {
+      "commonView": "饮食不进为脾胃积滞，用砂仁枳壳消导或硝黄牵牛泻下",
+      "trueView": "乃气虚下陷，当先以升提之药治之"
+    }
+  },
+  {
+    "id": "funanke-0035",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 35,
+    "text": "凡人阴虚脾泄，岁久不止，或食而不化，或化而溏泄, 方用\n\n熟地（ 壹两） 山药 山萸 白术（ 各伍钱） 茯苓（ 叁钱） 升麻（ 参分） 肉桂 五味子 车前子（ 各壹钱）\n\n水煎晚服。\n\n此方纯是补阴之药，且有升麻以提阴中之气, 又有温湿之品以暖命门而健脾土，何至溏泄哉。\n\n[ 此症每至腿脚发踵, 稍多饮食即便蛔虫，乃脾阴虚陷已极，方宜加入干姜、乌梅]\n\n==== 阴虚火动夜热昼寒 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0035-1"
+    ],
+    "symptomTags": [
+      "泄泻"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "阴虚",
+      "脾虚",
+      "命门火衰"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "阴虚下陷"
+  },
+  {
+    "id": "funanke-0036",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 36,
+    "text": "此肾水虚兼感寒，或肾水亏竭，夜热昼寒，若认作阳症治之，则口渴而热益炽, 必致消尽阴水，吐痰如絮，咳嗽不已，声哑声嘶，变成劳瘵，法当峻补其阴, 则阴水足而火焰消，骨髓清泰矣。\n方用\n\n\n熟地 元参（ 各壹两） 山萸 地骨皮 芡实（ 各伍钱） 五味子 麦冬 沙参 白芥子（ 各叁钱） 桑叶（ 拾肆片）\n\n水煎服。\n\n此方治阴虚火动者神效。\n\n==== 阴寒无火 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0036-1"
+    ],
+    "symptomTags": [
+      "发热",
+      "恶寒",
+      "口渴",
+      "痰多",
+      "咳嗽"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾阴虚",
+      "阴虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "阴虚火动夜热昼寒",
+    "misjudgment": {
+      "commonView": "夜热昼寒认作阳症治之",
+      "trueView": "乃肾水亏竭，当峻补其阴"
+    }
+  },
+  {
+    "id": "funanke-0037",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 37,
+    "text": "方用\n\n肉桂 柴胡（ 各壹钱） 熟地（ 壹两） 附子 白术 人参（ 各叁钱）\n\n水煎服。\n\n二方治阴之中，即有以治阳,治阳之中，即藏于补阴。\n\n[ 此两方似六味八味地黄，而上方之白芥，桑叶,下方之柴胡，其妙用有过于地黄丸之丹，泽者，用者不可以意加减也]\n\n==== 过劳 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0037-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "阳虚",
+      "阴虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "阴寒无火"
+  },
+  {
+    "id": "funanke-0038",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 38,
+    "text": "凡人过劳，脉必浮大不伦，若不安闲作息，必有吐血之症，法当滋补,方用\n\n熟地 黄耆 白芍 白术（ 各伍两） 山萸肆两 人参 茯苓 五味子 麦冬（ 各参两） 神曲（ 壹两）　砂仁 陈皮 当归（ 半斛）\n\n蜜丸，早晚滚水送下五钱。\n\n==== 日重夜轻 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0038-1"
+    ],
+    "symptomTags": [
+      "吐血"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "血虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "过劳"
+  },
+  {
+    "id": "funanke-0039",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 39,
+    "text": "病重于日间，而发寒发热，较夜尤重，此症必须从天未明而先截之,方用\n\n人参　枳壳　青皮　陈皮　半夏　甘草（ 各壹钱） 黄耆 白术（ 各伍钱） 当归（ 叁钱） 柴胡（ 叁钱） 干姜（ 五分）\n\n水煎服。\n\n又方\n\n熟地（ 壹两） 人参 陈皮 白芥子 甘草（ 各壹钱） 白术（ 伍钱） 柴胡（ 贰钱）\n\n水煎服。\n\n==== 夜重日轻 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0039-1"
+    ],
+    "symptomTags": [
+      "发热",
+      "恶寒"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "日重夜轻"
+  },
+  {
+    "id": "funanke-0040",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 40,
+    "text": "病重于夜间，而发热发寒，或寒少热多，或热少寒多，一到天明, 便觉清爽一到黄昏，即觉沉重，此阴气虚甚也。\n方用\n\n\n熟地（ 壹两） 山萸（ 肆钱） 当归 白芍 柴胡 生何首乌 麦冬 白芥子（ 各叁钱） 鳖甲（ 伍钱） 五味子 陈皮（ 各壹钱）\n\n水煎服。\n\n此方妙在用鳖甲,　乃至阴之物，逢阴则入，遇阳则转，生何首乌直入阴经，亦攻邪气，白芥子去痰, 又不耗真阴之气，有不奏功者乎，必须将黄昏时服，则阴气固,而邪气不敢入矣。\n\n==== 阴邪兼阳邪 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0040-1"
+    ],
+    "symptomTags": [
+      "发热",
+      "恶寒"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "阴虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "夜重日轻"
+  },
+  {
+    "id": "funanke-0041",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 41,
+    "text": "此症亦发于夜间，亦发寒发热，无异纯阴邪气之症，但少少烦燥耳, 不若阴症之常静也，法当于补阴之中，少加阳药一二味，使阳长阴消, 自奏功如响矣。\n方用\n\n\n熟地（ 壹两） 山萸（ 肆钱）　鳖甲 茯苓（ 各伍钱） 当归 白术 白芥子 麦冬 五味子 生何首乌（ 各叁钱） 人参 柴胡（ 各贰钱） 陈皮（ 壹钱）\n\n水煎服。\n\n==== 气血两虚 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0041-1"
+    ],
+    "symptomTags": [
+      "发热",
+      "恶寒",
+      "心烦"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "阴虚",
+      "阳虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "阴邪兼阳邪"
+  },
+  {
+    "id": "funanke-0042",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 42,
+    "text": "饮食不进，形容枯稿，补其气血益燥，补其血气益馁，助胃气而盗汗难止, 补血脉而胸膈阻滞，法当气血同治, 方用\n\n人参 白术 川芎 谷芽（ 各壹钱） 麦冬（ 伍钱） 甘草（ 捌分）　当归 茯苓（ 各贰钱） 熟地 白芍（ 各叁钱） 陈皮 神曲（ 各伍分）\n\n水煎服。\n\n此治气血两补，与八珍汤同功，而胜于八珍汤者, 妙在补中有调和之法耳。\n\n==== 气虚胃虚 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0042-1"
+    ],
+    "symptomTags": [
+      "纳差",
+      "汗出",
+      "胸闷"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "血虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "气血两虚",
+    "parallelIds": [
+      "shishi-0066"
+    ]
+  },
+  {
+    "id": "funanke-0043",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 43,
+    "text": "人有病久而气虚者，必身体蠃弱，饮食不进，或大便溏泄，小便艰涩, 方用\n\n人参（ 壹两） 白术（ 伍钱） 茯苓（ 叁钱） 甘草 陈皮 车前子 泽泻（ 各壹钱）\n\n水煎服。\n\n此方用\n人参为君者, 开其胃气，盖胃为肾之关，关门不开，则上之饮食不能进，下之糟粕不能化, 必用人参以养胃土，茯苓车前以分消水气，如服此不效，兼服八味丸, 最能实大肠而利膀胱也。\n\n==== 气虚饮食不消 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0043-1"
+    ],
+    "symptomTags": [
+      "纳差",
+      "泄泻",
+      "小便不利"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "胃虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "气虚胃虚"
+  },
+  {
+    "id": "funanke-0044",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 44,
+    "text": "饮食入胃，必须气充足，始能消化而生津液，今饮食不消，气虚也, 方用\n\n人参（ 贰钱） 黄耆 白术 茯苓 甘草（ 各叁钱）　神曲　麦芽 陈皮（ 各伍分） 山查（ 参个）\n\n水煎服。\n\n伤曲食加来服子，有痰加半夏白芥子，各一钱，咳嗽加苏子一钱，桔梗二钱, 伤风加柴胡二钱，夜卧不安，加炒枣仁二钱，胸中微痛，加枳壳五分, 方内纯是开胃之品，又恐饮食难消，后加消导之品，则饮食化而津液生矣.\n\n==== 血虚面色黄瘦 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0044-1"
+    ],
+    "symptomTags": [
+      "纳差"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "食积",
+      "胃虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "气虚饮食不消"
+  },
+  {
+    "id": "funanke-0045",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 45,
+    "text": "出汗盗汗，夜卧常醒，不能润色以养筋是也，血虚自当补血, 舍四物汤又何求耶，今不用四物汤，用\n\n熟地（ 壹两） 麦冬 枸杞（ 各叁钱）　当归（ 伍钱） 茜草（ 壹钱） 桑叶（ 拾片）\n\n水煎服。\n\n此方妙在用桑叶，以补阴而生血，又妙在加茜草, 则血得活而益生，况又济之归地麦冬大剂，以共生乎。\n\n==== 肺脾双亏 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0045-1"
+    ],
+    "symptomTags": [
+      "汗出",
+      "失眠"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "血虚",
+      "阴虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "血虚面色黄瘦",
+    "misjudgment": {
+      "commonView": "舍四物汤又何求耶",
+      "trueView": "妙在用桑叶茜草，济之归地麦冬以共生"
+    }
+  },
+  {
+    "id": "funanke-0046",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 46,
+    "text": "咳嗽不已，吐泻不已，此肺脾受伤也，人以咳嗽宜治肺，吐泻宜治脾, 殊不知咳嗽由于脾气之衰，斡旋之令不行，则上为咳嗽矣，吐泻由于肺气之弱, 清肃之令不行，始上吐而下泻矣。\n方用\n\n\n人参（ 壹钱伍分） 麦冬 茯苓（ 各贰钱） 车前子 甘草（ 各壹钱）　柴胡 神曲　薏仁（ 各伍分）\n\n水煎服。\n\n此治脾治肺之药，合而用之,咳嗽吐泻之病各愈，所谓一方而两用之也。\n\n==== 肝肾两虚 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0046-1"
+    ],
+    "symptomTags": [
+      "咳嗽",
+      "呕吐",
+      "泄泻"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "脾虚",
+      "肺虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "肺脾双亏",
+    "misjudgment": {
+      "commonView": "咳嗽宜治肺，吐泻宜治脾",
+      "trueView": "咳嗽由于脾气之衰，吐泻由于肺气之弱"
+    }
+  },
+  {
+    "id": "funanke-0047",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 47,
+    "text": "肾水亏不能滋肝，则肝木抑郁而不舒，必有两胁饱闷之症, 肝木不能生肾中之火，则肾水日寒，必有腰背难以服俯仰之症，此症必须肝肾同补, 方用\n\n熟地（ 壹两） 山萸 当归 白芍（ 各伍钱） 柴胡（ 贰钱）　肉桂（ 壹钱）\n\n水煎服。\n\n熟地、山萸，补肾之药，归、芍、柴、桂, 补肝之品，既云平补，似乎用药不宜有重轻，今补肝之药多于补肾者何, 盖肾为肝之母，肝又为命门之母，岂有木旺而不生命门之火者哉。\n\n==== 心肾不交 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0047-1"
+    ],
+    "symptomTags": [
+      "胁痛",
+      "腰痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾虚",
+      "肝郁",
+      "水不涵木",
+      "肝血虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "肝肾两虚"
+  },
+  {
+    "id": "funanke-0048",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 48,
+    "text": "肾，水藏也，心，火藏也，是心肾二经，为仇敌矣，似不可牵连而合治之也, 不知心肾相克而实相须，肾无心之火则水寒，心无肾之水则火炽, 心必得肾水以滋润，肾必得心火以温暖，如人惊惕不安，梦遗精泄, 皆心肾不交之故，人以惊惕为心之病，我以为肾之病，人以梦泄为肾之病, 我以为心之病，非颠倒也，实有至理焉，人果细心思之，自然明白, 方用\n\n熟地 白术（ 各伍两）　山萸 人参 茯神 枣仁炒 麦冬 柏子仁（ 各叁两） 远志 菖蒲 五味子（ 各壹两） 山药（ 叁钱） 芡实（ 伍钱）\n\n蜜丸, 每早晚温水送下五钱。\n\n此方之妙，治肾之药，少于治心之味, 盖心君谧静，肾气自安，何至心动，此治肾正所以治心，治心即所以治肾也, 所谓心肾相依。\n\n==== 精滑梦遗 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0048-1"
+    ],
+    "symptomTags": [
+      "遗精",
+      "心烦"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "心肾不交"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "心肾不交",
+    "misjudgment": {
+      "commonView": "惊惕为心之病，梦泄为肾之病",
+      "trueView": "惊惕为肾之病，梦泄为心之病"
+    }
+  },
+  {
+    "id": "funanke-0049",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 49,
+    "text": "此症人以为肾虚也，不独肾病也，心病也，宜心肾兼治, 方用\n\n熟地（ 半斛） 山药 肉桂 鹿茸 炒枣仁 远志 杜仲 柏子仁 破故纸 五味子（ 各壹两） 山萸 白术（ 各肆两） 人参 茯苓 麦冬 白芍 巴戟　肉苁蓉（ 各参两） 紫河车（ 壹副） 砂仁（ 伍钱） 附子（ 壹钱）\n\n蜜丸, 早晚白水送下五钱。\n\n此方用\n熟地山药山萸之类，补肾也，巴戟、肉苁蓉、 附子、鹿茸，补肾中之火也，可以已矣, 而又必加人参、茯苓、柏子仁、麦冬、远志、枣仁者何也，盖肾火虚，由于心火虚也,使补肾火不补心火，则反增上焦枯渴，故欲补肾火，必须补心火,则水火相济也。\n\n==== 夜梦遗精 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0049-1"
+    ],
+    "symptomTags": [
+      "遗精"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾虚",
+      "肾阳虚",
+      "命门火衰",
+      "心肾不交"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "精滑梦遗",
+    "misjudgment": {
+      "commonView": "肾虚也",
+      "trueView": "不独肾病也，心病也"
+    }
+  },
+  {
+    "id": "funanke-0050",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 50,
+    "text": "此症由于肾水耗竭，上不能通于心，中不能润于肝，下不能生于脾, 以致玉关不闭，无梦且遗，法当补肾而少佐以益心肝脾之品, 方用\n\n熟地（ 壹两） 山萸（ 肆钱） 茯苓 白芍 生枣仁 当归 薏仁（ 各叁钱） 白术（ 伍钱） 茯神（ 贰钱） 五味子 白芥子（ 各壹钱） 肉桂 黄连（ 各伍分）\n\n水煎服，一剂止, 十剂不犯。\n\n==== 遗精健忘 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0050-1"
+    ],
+    "symptomTags": [
+      "遗精"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾阴虚",
+      "肾虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "夜梦遗精"
+  },
+  {
+    "id": "funanke-0051",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 51,
+    "text": "遗精，下病也，健忘，上病也，何以合治之而咸当乎，盖遗精虽是肾水之虚, 而实本于君火之弱，今补其心君，则玉关不必闭而自闭矣，所谓一举而两得也, 方用\n\n人参 芡实 麦冬 生枣仁 当归 山萸（ 各参两） 莲须（ 贰两） 熟地（ 伍两） 山药（ 肆两） 柏子仁去油 远志 昌蒲 五味子（ 各壹两）\n\n蜜丸，每日服五钱，白水下。\n\n==== 倒饱中满 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0051-1"
+    ],
+    "symptomTags": [
+      "遗精",
+      "健忘"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾阴虚",
+      "心肾不交"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "遗精健忘",
+    "misjudgment": {
+      "commonView": "遗精为肾病，健忘为上病，何以合治",
+      "trueView": "遗精虽是肾水之虚，而实本于君火之弱"
+    }
+  },
+  {
+    "id": "funanke-0052",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 52,
+    "text": "气虚不能食，食则倒满。\n方用\n\n\n人参 来服子 甘草（ 各壹钱）　白术（ 贰钱） 茯苓 山药（ 各叁钱） 芡实 薏仁（ 各五钱） 陈皮（ 参分）\n\n水煎服\n\n下喉虽则微胀，入腹渐觉爽快。\n\n==== 久虚缓补 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0052-1"
+    ],
+    "symptomTags": [
+      "纳差",
+      "腹胀"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "胃虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "倒饱中满"
+  },
+  {
+    "id": "funanke-0053",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 53,
+    "text": "久虚之人，气息奄奄，无不曰宜急治矣，不知气血大虚，骤加大补之剂, 力量难任，必致胃口转膨胀，不如缓缓清补之也, 方用\n\n当归 茯苓 山药（ 各壹钱） 白芍（ 贰钱） 白术 枣仁（ 各伍分） 人参 陈皮 麦芽 炮姜 甘草（ 各参分）\n\n水煎服。\n\n此方妙在以白芍为君，引参苓入肝为佐，小小使令，徐徐奏功, 使脾气渐实，胃口渐开，然后再用纯补之剂，先宜缓补之也。\n\n[ 如久饿之人, 骤投以饭则饱死，须以薄粥徐徐饮之，同是一理]\n\n==== 补气 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0053-1"
+    ],
+    "symptomTags": [
+      "纳差",
+      "腹胀"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "血虚",
+      "脾虚",
+      "胃虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "久虚缓补"
+  },
+  {
+    "id": "funanke-0054",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 54,
+    "text": "右手脉大，气分之劳也, 方用\n补气丸。\n\n人参 黄耆 白芍（ 各三两） ，茯苓（ 肆两） 白术（ 半斛） 陈皮 五味子 白芥子 远志（ 各壹两） 麦冬（ 贰两） 灸甘草（ 捌钱）\n\n蜜丸，早服五钱，白水下。\n\n==== 补血 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0054-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "补气"
+  },
+  {
+    "id": "funanke-0055",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 55,
+    "text": "左手脉大，血分之劳也。\n方用\n补血丸。\n\n熟地 白芍（ 各半斛） 山萸 当归（ 各肆两） 枣仁 麦冬 白芥子 五味子（ 壹钱） 砂仁 肉桂（ 各伍钱）\n\n蜜丸，晚服一两，白水下，如身热,去肉桂加地骨皮五钱。\n\n==== 出汗 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0055-1"
+    ],
+    "symptomTags": [
+      "发热"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "血虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "补血"
+  },
+  {
+    "id": "funanke-0056",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 56,
+    "text": "人有病不宜汗多，若过出汗，恐其亡阳，不可不用药以敛之, 方用\n\n人参 黄耆 当归（ 各壹两） 桑叶（ 伍片） 麦冬（ 叁钱）　炒枣仁（ 壹钱）\n\n水煎服。\n\n==== 痨症 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0056-1"
+    ],
+    "symptomTags": [
+      "汗出"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "阳虚",
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "出汗"
+  },
+  {
+    "id": "funanke-0057",
+    "book": "funanke",
+    "chapter": "虚劳门",
+    "chapterOrder": 4,
+    "order": 57,
+    "text": "痨症既成，最难治者，必有虫生之以食人之气血也，若徒补其气血, 而不入杀虫之药，则饮食入胃，祇荫虫而不生气血，若但杀虫而不补气血, 则五藏俱受伤，又何有生理哉，惟于大补之中，加杀虫之药，则元气既全, 真阳未散，虫死而身安矣。\n方用\n\n\n熟地 地栗粉 何首乌（ 各半斛） 鳖甲 山药（ 各壹斛） 神曲　麦冬（ 各伍两） 桑叶（ 半斛） 人参 白微（ 各参两）\n\n熟地为丸，每日白水送下五钱, 半年虫从大便出矣。\n\n=== 痰嗽门 ===\n\n==== 痰嗽 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0057-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "血虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "痨症",
+    "misjudgment": {
+      "commonView": "徒补其气血，或不补而但杀虫",
+      "trueView": "惟于大补之中，加杀虫之药"
+    }
+  },
+  {
+    "id": "funanke-0058",
+    "book": "funanke",
+    "chapter": "痰嗽门",
+    "chapterOrder": 5,
+    "order": 58,
+    "text": "古人所立治痰之法，皆是治痰之标，而不能治其本也，如二陈汤, 上中下久暂之痰皆治之，而其实无实效也，今立三方，痰病总不出其范围也。\n\n==== 初病之痰 ====",
+    "formulaIds": [],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "痰嗽"
+  },
+  {
+    "id": "funanke-0059",
+    "book": "funanke",
+    "chapter": "痰嗽门",
+    "chapterOrder": 5,
+    "order": 59,
+    "text": "伤风咳嗽吐痰是也, 方用\n\n陈皮 半夏 花粉 茯苓 苏子 甘草（ 各壹钱）\n\n水煎服。\n\n二剂而痰可消矣，此去上焦之痰，上焦之痰, 原在胃中而不在肺，去其胃中之痰，而肺自然清肃, 又何致火之上升哉。\n\n[ 此症医治不善，极易成劳，缘痰嗽皆责之于肺，伤风痰嗽是风伤肺也，若发散燥痰太过，则肺不敛必嗽愈甚，而上呛血丝, 久则肺伤而肾炽，若寒凉滋润太过，则肺不舒必痰愈多，而气喘声痿, 久则金冷而水寒，此方无此二弊，愿病者勿以小病而忽之也。 ]\n\n==== 已病之痰 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0059-1"
+    ],
+    "symptomTags": [
+      "咳嗽",
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "痰湿",
+      "风寒"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "初病之痰",
+    "misjudgment": {
+      "commonView": "痰嗽皆责之于肺",
+      "trueView": "上焦之痰原在胃中而不在肺"
+    }
+  },
+  {
+    "id": "funanke-0060",
+    "book": "funanke",
+    "chapter": "痰嗽门",
+    "chapterOrder": 5,
+    "order": 60,
+    "text": "必观其色之白与黄而辨之，黄者火已退也，白者火正炽也，正炽者用寒凉之品, 将退者用袪逐之味，今一方而俱治之。\n方用\n\n\n白术 白芥子（ 各叁钱） 茯苓（ 伍钱） 陈皮 甘草（ 各壹钱） 枳壳（ 伍分）\n\n水煎服,有火加栀子，无火不必加。\n\n此方健脾去湿，治痰之在中焦者也,　又方\n\n白术 茯苓 薏仁至义尽（ 各五钱） 陈皮（ 壹钱） 益智（ 参分）\n\n水煎服。 有火加黄苓一钱，无火加干姜一钱, 甘草二分。\n\n此方健脾去湿而不耗气，二剂而痰自消也。\n\n==== 久病之痰 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0060-1"
+    ],
+    "symptomTags": [
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "脾湿",
+      "痰湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "已病之痰"
+  },
+  {
+    "id": "funanke-0061",
+    "book": "funanke",
+    "chapter": "痰嗽门",
+    "chapterOrder": 5,
+    "order": 61,
+    "text": "久病痰多，切不可作脾湿生痰论之，盖久病不愈，未有不因肾水亏损者也, 非肾水泛上为痰，即肾火沸腾为痰，当补肾以袪逐之, 方用\n\n熟地 薏仁（ 各壹两） 山药 山萸 麦冬 芡实（ 各伍钱） 五味子 茯苓（ 各叁钱） 益智仁（ 贰钱） 车前子（ 壹钱）\n\n水煎服。\n\n此治水泛为痰之圣药也, 若火沸腾为痰，加肉桂一钱，补肾去湿而化痰，水入肾宫，自变为真精而不化痰矣, 此治下焦之痰也，又方六味地黄汤，加麦冬五味子，实有奇功，无火加桂附。\n\n==== 滞痰 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0061-1"
+    ],
+    "symptomTags": [
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾虚",
+      "肾阴虚",
+      "水饮",
+      "痰湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "久病之痰",
+    "misjudgment": {
+      "commonView": "脾湿生痰",
+      "trueView": "肾水亏损，水泛为痰或火沸腾为痰"
+    }
+  },
+  {
+    "id": "funanke-0062",
+    "book": "funanke",
+    "chapter": "痰嗽门",
+    "chapterOrder": 5,
+    "order": 62,
+    "text": "夫痰之滞，乃气之滞也，茍不补气，而惟去其痰，未见痰去而病消也, 方用\n\n人参 陈皮 花粉 白芥子（ 各壹钱） 白术（ 贰钱）　茯苓（ 叁钱） 苏子（ 捌分） 白蔻仁（ 贰粒）\n\n水煎服。\n\n==== 湿痰 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0062-1"
+    ],
+    "symptomTags": [
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气滞",
+      "气虚",
+      "痰湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "滞痰",
+    "misjudgment": {
+      "commonView": "惟去其痰",
+      "trueView": "痰之滞乃气之滞，必先补气"
+    }
+  },
+  {
+    "id": "funanke-0063",
+    "book": "funanke",
+    "chapter": "痰嗽门",
+    "chapterOrder": 5,
+    "order": 63,
+    "text": "治痰之法，不可徒去其湿，必以补气为先，而佐以化痰之品，乃克有效, 方用\n\n人参壹两 茯苓 半夏 神曲（ 各叁钱） 薏仁（ 伍钱）　陈皮 甘草（ 各壹钱）\n\n水煎服。\n\n盖此方之中用神曲，人多不识, 谓神曲乃消食之味，绝非化痰之品，不知痰之积聚稠粘，甚不易化, 惟用此神曲以发之，则积聚稠粘开矣，继之以半夏、陈皮，可以奏功,　然虽有陈半消痰，使不多用人参，则痰难消，今有人参以助气，又有薏仁茯苓, 健脾去湿，而痰焉有不消者乎。\n\n==== 寒痰 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0063-1"
+    ],
+    "symptomTags": [
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "痰湿",
+      "脾湿",
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "湿痰",
+    "misjudgment": {
+      "commonView": "神曲乃消食之味，绝非化痰之品",
+      "trueView": "神曲可发开痰之积聚稠粘"
+    }
+  },
+  {
+    "id": "funanke-0064",
+    "book": "funanke",
+    "chapter": "痰嗽门",
+    "chapterOrder": 5,
+    "order": 64,
+    "text": "人有气虚而痰寒者，即用前方加肉桂三钱、干姜五分足之矣。\n\n==== 热痰 ====",
+    "formulaIds": [],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "寒痰"
+  },
+  {
+    "id": "funanke-0065",
+    "book": "funanke",
+    "chapter": "痰嗽门",
+    "chapterOrder": 5,
+    "order": 65,
+    "text": "人有气虚而痰热者。\n方用\n\n\n当归叁钱 白芍 麦冬 茯苓（ 各贰钱） 甘草 白芥子 花粉 陈皮（ 各壹钱） 神曲（ 参分）\n\n水煎服。\n\n==== 老痰 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0065-1"
+    ],
+    "symptomTags": [
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "痰湿",
+      "湿热"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "热痰"
+  },
+  {
+    "id": "funanke-0066",
+    "book": "funanke",
+    "chapter": "痰嗽门",
+    "chapterOrder": 5,
+    "order": 66,
+    "text": "凡痰在胸膈不化者，谓之老痰, 方用\n\n柴胡 茯苓 甘草 陈皮 丹皮 花粉（ 各壹钱） 白芍 薏仁（ 各壹钱） 白芥子（ 伍钱）\n\n水煎服。\n\n此方妙在百芥子为君，薏仁、白芍为臣，柴胡、花粉为佐, 使老痰无处可藏，十剂而老痰可化矣。\n\n==== 顽痰 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0066-1"
+    ],
+    "symptomTags": [
+      "痰多",
+      "胸闷"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "痰湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "老痰"
+  },
+  {
+    "id": "funanke-0067",
+    "book": "funanke",
+    "chapter": "痰嗽门",
+    "chapterOrder": 5,
+    "order": 67,
+    "text": "痰成而塞咽喉者，谓之顽痰。\n方用\n\n\n贝母 半夏 茯苓（ 各叁钱） 白术（ 伍钱） 神曲（ 贰钱） 甘草 桔梗 白矾 炙紫苑（ 各壹钱）\n\n水煎服。\n\n此方妙在贝母半夏同用，一燥一湿，使痰无处逃避, 又有白矾消块，梗苑去邪，甘草调中，有不奏功者乎。\n\n==== 水泛为痰 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0067-1"
+    ],
+    "symptomTags": [
+      "痰多",
+      "咽痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "痰湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "顽痰"
+  },
+  {
+    "id": "funanke-0068",
+    "book": "funanke",
+    "chapter": "痰嗽门",
+    "chapterOrder": 5,
+    "order": 68,
+    "text": "肾中之水，有火则安，无火则泛，倘人过于入房，则水去而火亦去, 久之则水虚而火亦虚，水无可藏之地，必泛上为痰矣，治之法，欲抑水之下降, 必先使火之下温，当于补肾之中，加大热之药，使水足以制火，火足以暖水, 则水火有既济之道，自不上泛为痰矣。\n方用\n\n\n熟地（ 壹两） 山萸（ 伍钱） 肉桂（ 贰钱） 牛膝（ 叁钱） 五味子（ 壹钱）\n\n水煎服, 一剂而痰下行矣，二剂而痰自消矣。\n\n==== 中气又中痰 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0068-1"
+    ],
+    "symptomTags": [
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾虚",
+      "肾阳虚",
+      "水饮",
+      "命门火衰"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "水泛为痰"
+  },
+  {
+    "id": "funanke-0069",
+    "book": "funanke",
+    "chapter": "痰嗽门",
+    "chapterOrder": 5,
+    "order": 69,
+    "text": "中气中痰，虽若中之异，而实中于气之虚也，气虚自然多痰，痰多必然耗气, 虽分而实合也。\n方用\n\n\n人参 甘草（ 各壹两） 半夏、 南星 茯苓（ 各叁钱） 附子（ 壹钱）\n\n水煎服。\n\n人参原是气分之神剂，而亦消痰之妙药，半夏南星, 虽逐痰之神品，而亦扶气之正药，附子甘草，一仁一勇，相济而成。\n\n==== 湿嗽 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0069-1"
+    ],
+    "symptomTags": [
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "痰湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "中气又中痰"
+  },
+  {
+    "id": "funanke-0070",
+    "book": "funanke",
+    "chapter": "痰嗽门",
+    "chapterOrder": 5,
+    "order": 70,
+    "text": "秋伤于湿，若用乌梅粟壳等味，断乎不效, 方用\n\n陈皮 当归 甘草 枳壳 桔梗（ 各壹钱） 白术（ 贰钱）\n\n水煎服。 三剂帖然矣，冬嗽皆秋伤于湿也，岂可拘于受寒乎。\n\n==== 久嗽 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0070-1"
+    ],
+    "symptomTags": [
+      "咳嗽"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "寒湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "湿嗽"
+  },
+  {
+    "id": "funanke-0071",
+    "book": "funanke",
+    "chapter": "痰嗽门",
+    "chapterOrder": 5,
+    "order": 71,
+    "text": "方用\n\n人参（ 伍钱） 益智仁（ 伍分） 白芍 枣仁（ 各叁钱） 五味子 白芥子（ 各壹钱）\n\n水煎服。 二剂后, 服六味地黄丸。\n\n方用\n\n瓜蒌仁（ 去油） 乌梅（ 各伍钱） 薄荷 甘草（ 各伍分） 人参（ 童便浸） 五味子（ 酒蒸） 寒水石火煅　杏仁 硼砂（ 各壹钱） 贝母（ 参两） 胡桃仁（ 贰钱去油）\n\n蜜丸樱桃大，净绵包之, 口中噙化，虚劳未曾失血，脉未数者，皆用之，无论老少神曲效，十粒见功, 二十粒愈，又方用\n\n人参、当归、细茶各一钱\n\n水煎，连渣嚼尽，一二剂即愈。\n\n==== 肺嗽兼补肾 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0071-1",
+      "funanke-formula-funanke-0071-2"
+    ],
+    "symptomTags": [
+      "咳嗽"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肺虚",
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "久嗽"
+  },
+  {
+    "id": "funanke-0072",
+    "book": "funanke",
+    "chapter": "痰嗽门",
+    "chapterOrder": 5,
+    "order": 72,
+    "text": "肺嗽之症，本是肺虚，其补肺也明矣，奈何兼补肾乎，盖肺经之气, 夜必归于肾，若肺金为心火所伤，必求救于其子，子若力量不足，将何以救其母哉, 方用\n\n熟地 麦冬（ 各壹钱） 紫苑（ 伍分） 山萸（ 肆钱） 元参（ 伍钱） 苏子 牛膝（ 各壹钱） 沙参 天冬（ 各贰钱）\n\n水煎服。\n\n=== 喘证门 ===\n\n==== 气治法 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0072-1"
+    ],
+    "symptomTags": [
+      "咳嗽"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肺虚",
+      "心火",
+      "肾虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "肺嗽兼补肾"
+  },
+  {
+    "id": "funanke-0073",
+    "book": "funanke",
+    "chapter": "喘证门",
+    "chapterOrder": 6,
+    "order": 73,
+    "text": "气虚气实，不可不平之也，气实者非气实，乃正气虚而邪气实也, 法当用补正之药，而加袪逐之品，则正气足而邪气消矣, 方用\n\n人参 白术 麻黄 半夏 甘草（ 各壹钱） 柴胡（ 贰钱） 白芍（ 叁钱）\n\n水煎服。\n\n推而广之，治气非一条也,\n\n气陷　补中益气汤可用，\n\n气衰　六君子汤可采,\n\n气寒　人参白术附子汤可施,\n\n气虚则用四君子汤，\n\n气郁则用归脾汤,\n\n气热用生脉散，\n\n气喘用独参汤,\n\n气动用二陈汤加人参，\n\n气壅塞用射干汤,\n\n气逆用逍遥散，\n\n气虚则嬴弱，\n\n气实则壮盛，\n\n气虚用前方, 实者另一方，\n\n白术 柴胡 甘草 栀子（ 各壹钱） 茯苓（ 叁钱） 白芍（ 贰钱） 陈皮 枳壳（ 各伍分） 山查（ 拾个）\n\n水煎服。\n\n==== 气喘 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0073-1"
+    ],
+    "symptomTags": [
+      "喘"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "气治法",
+    "parallelIds": [
+      "shishi-0116"
+    ]
+  },
+  {
+    "id": "funanke-0074",
+    "book": "funanke",
+    "chapter": "喘证门",
+    "chapterOrder": 6,
+    "order": 74,
+    "text": "凡人气喘而上者，人以为气有余也，殊不知气盛当作气虚看，有余当作不足看, 若认作肺气之盛，而用苏叶桔梗百部豆根之类，去生远矣。\n方用\n\n\n人参（ 参两） 牛膝（ 叁钱） 熟地 麦冬（ 各伍钱） 山萸（ 肆钱）　胡桃（ 参个） 枸杞 五味子（ 各壹钱） 生姜（ 伍片）\n\n水煎服。\n\n此方不治肺，而正所以治肺也，或疑人参乃健脾土之药，既宜补肾,　不宜多用人参，不知肾水大虚，在一时不能遽生，非急补其气, 则元阳一线必且断绝，况人参少用则泛上，多用即下行，妙在用人参三两, 使下达病原，补气以生肾水，方中熟地、山萸之类，同气相求，直入命门, 又何患其多哉，若病重之人，尤宜多加，但喘有初起之喘，有久病之喘, 初起之喘多实邪，久病之喘多气虚，实邪喘者必抬肩，气虚喘者微微气息耳, 此方治久病之喘，若初起之喘，四磨四七汤，一剂即止喘, 不独肺气虚而肾水竭也。\n\n实喘方用\n\n黄芩（ 贰钱） 柴胡 甘草（ 各伍分） 麦冬（ 叁钱）　苏叶 乌药 半夏 山豆根（ 各壹钱）\n\n水煎服。\n\n一剂喘定, 不必再剂也，凡实喘症，气大急，喉中必作声，肩必抬，似重而实轻也。\n\n==== 虚喘 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0074-1"
+    ],
+    "symptomTags": [
+      "气喘"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "肾虚",
+      "肺虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "气喘",
+    "misjudgment": {
+      "commonView": "气有余也",
+      "trueView": "气盛当作气虚看，有余当作不足看"
+    }
+  },
+  {
+    "id": "funanke-0075",
+    "book": "funanke",
+    "chapter": "喘证门",
+    "chapterOrder": 6,
+    "order": 75,
+    "text": "大抵此等症，气少息，喉无声，肩不抬也，乃肾气大虚，脾气又复将绝, 故奔冲而上，欲绝未绝也。\n方用\n救绝汤。\n\n人参 熟地（ 各一两） 山萸（ 三钱） 牛膝 五味子 白芥子（ 各一钱） 麦冬（ 五钱）\n\n水煎服。\n\n==== 气短似喘 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0075-1"
+    ],
+    "symptomTags": [
+      "气喘"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾虚",
+      "脾虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "虚喘"
+  },
+  {
+    "id": "funanke-0076",
+    "book": "funanke",
+    "chapter": "喘证门",
+    "chapterOrder": 6,
+    "order": 76,
+    "text": "此证似喘而非实喘也，若非实喘治之，立死，盖气短乃肾气虚耗，气冲上焦, 壅塞于肺经不足之故也。\n方用\n\n\n人参（ 二两） 熟地（ 一两） 山萸 牛膝 补骨脂 枸杞（ 各三钱）　麦冬（ 五钱） 胡桃（ 三个去皮） 五味子（ 二钱）\n\n水煎服, 三剂气平喘定。\n\n此方妙在用人参之多，能下达气原，挽回于无何有之乡, 又纯是补肺补肾之品，子母相生，水气自旺，则火气自安于故宅, 不上冲于喉门矣。\n\n==== 抬肩大喘 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0076-1"
+    ],
+    "symptomTags": [
+      "气喘"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾虚",
+      "肺虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "气短似喘"
+  },
+  {
+    "id": "funanke-0077",
+    "book": "funanke",
+    "chapter": "喘证门",
+    "chapterOrder": 6,
+    "order": 77,
+    "text": "人忽感风邪，寒入于肺，以致喘息肩抬气逆，痰吐不出，身不能卧, 方用\n\n柴胡 茯苓 麦冬 桔梗（ 各二钱）　黄芩 当归 甘草 半夏 射干（ 各一钱）\n\n水煎服。\n\n此方妙在用柴胡、射干、桔梗，以发舒肺金之气，半夏以去痰, 黄芩以去火，盖感寒邪，内必变为热证，故用黄芩以清解之，然徒用黄芩, 虽曰清火，转足以遏抑其火，而火未必伏也，有射干桔梗柴胡一派辛散之品, 则足以消火减邪矣。\n\n==== 肾寒气喘 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0077-1"
+    ],
+    "symptomTags": [
+      "气喘",
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "风寒",
+      "肺热"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "抬肩大喘"
+  },
+  {
+    "id": "funanke-0078",
+    "book": "funanke",
+    "chapter": "喘证门",
+    "chapterOrder": 6,
+    "order": 78,
+    "text": "人有气喘不能卧，吐痰如涌泉者，舌不燥而喘不止，一卧即喘, 此非外感之寒邪，乃肾中之寒气也，盖肾中无火，则水无所养，乃泛上而为痰, 方用\n\n六味地黄汤 ，加桂附大剂饮之，盖人之卧，必肾气与肺气相安, 而后河车之路，平安而无奔越也。\n\n==== 肾火扶肝上冲 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0078-1"
+    ],
+    "symptomTags": [
+      "气喘",
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾阳虚",
+      "命门火衰",
+      "水饮"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "肾寒气喘"
+  },
+  {
+    "id": "funanke-0079",
+    "book": "funanke",
+    "chapter": "喘证门",
+    "chapterOrder": 6,
+    "order": 79,
+    "text": "凡人肾火，逆扶肝气而上冲，以致作喘，甚有吐红粉痰者，此又肾火炎, 上以烧肺金，肺热不能克肝，而龙雷之火升腾矣, 方用\n\n沙参 地骨皮（ 各壹两） 麦冬（ 伍钱） 丹皮（ 叁钱） 甘草（ 参分） 桔梗（ 伍分） 白芍（ 伍钱） 白芥子（ 贰钱）\n\n水煎服。\n\n此方妙在地骨皮清骨中之火，沙参、丹皮以养阴，白芍平肝，麦冬清肺, 甘草桔梗引入肺经，则痰消而喘定矣。\n\n==== 假热气喘吐痰 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0079-1"
+    ],
+    "symptomTags": [
+      "气喘",
+      "痰多",
+      "吐血"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝火",
+      "肺热",
+      "相火妄动"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "肾火扶肝上冲"
+  },
+  {
+    "id": "funanke-0080",
+    "book": "funanke",
+    "chapter": "喘证门",
+    "chapterOrder": 6,
+    "order": 80,
+    "text": "人有假热气喘吐痰者，人以为热而非热也，乃下元寒极，逼其火而上喘也, 此最危急之症，茍不急补其肾水与命门之火，则一线之微，必然断绝, 方用\n\n熟地（ 肆两） 山药 麦冬（ 各参两） 五味子 牛膝（ 各壹两） 附子 肉桂（ 各壹钱）\n\n水煎冷服，一剂而愈.\n\n==== 喘嗽 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0080-1"
+    ],
+    "symptomTags": [
+      "气喘",
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾阳虚",
+      "命门火衰",
+      "肾阴虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "假热气喘吐痰",
+    "misjudgment": {
+      "commonView": "热也",
+      "trueView": "乃下元寒极，逼其火而上喘也"
+    }
+  },
+  {
+    "id": "funanke-0081",
+    "book": "funanke",
+    "chapter": "喘证门",
+    "chapterOrder": 6,
+    "order": 81,
+    "text": "人有喘而且嗽者，人以为气虚而有风痰也，谁知是气虚不能归源于肾, 而肝木挟之作祟乎，法当峻补其肾，少助以引火之品，则气自归源于肾, 而喘嗽俱止。\n方用\n\n\n人参（ 壹两） 熟地（ 贰两） 麦冬（ 伍钱）　茯苓（ 叁钱） 牛膝 枸杞 白术 五味子 兔丝子（ 各壹钱）\n\n水煎服，连服几剂，必有大功，倘以四磨四七汤治之，则不效矣。\n\n贞元饮 此方专治喘而脉微濇者\n\n熟地（ 参两） 当归（ 柒钱） 甘草（ 壹钱）\n\n水煎服，妇人多此症。\n\n=== 吐血门 ===\n\n==== 阳症吐血 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0081-1"
+    ],
+    "symptomTags": [
+      "气喘",
+      "咳嗽"
+    ],
+    "pulseTags": [
+      "脉微"
+    ],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "肾虚",
+      "肝郁"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "喘嗽",
+    "misjudgment": {
+      "commonView": "气虚而有风痰也",
+      "trueView": "是气虚不能归源于肾, 而肝木挟之作祟"
+    }
+  },
+  {
+    "id": "funanke-0082",
+    "book": "funanke",
+    "chapter": "吐血门",
+    "chapterOrder": 7,
+    "order": 82,
+    "text": "人有感暑伤气，忽然吐血盈盆，人以为阴虚也，不知阴虚吐血与阳虚不同, 阴虚吐血，人安静无躁动，阳虚必大热作渴，欲饮冷水，舌必有刺, 阴虚口不渴而舌胎滑也，法当清胃火，不必止血也, 方用\n\n人参 当归 香薷 石膏（ 各叁钱） 荆芥（ 壹钱） 青蒿（ 伍钱）\n\n水煎服。\n\n此方乃阳症吐血之神曲剂也，方中虽有解暑之品, 然补正多于解暑，去香薷一味，实可同治，但此方祇可用一二剂, 即改六味地黄汤。\n\n==== 大怒吐血 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0082-1"
+    ],
+    "symptomTags": [
+      "吐血",
+      "口渴",
+      "发热"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "暑热",
+      "胃热",
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "阳症吐血",
+    "misjudgment": {
+      "commonView": "阴虚也",
+      "trueView": "阳症吐血，当清胃火"
+    }
+  },
+  {
+    "id": "funanke-0083",
+    "book": "funanke",
+    "chapter": "吐血门",
+    "chapterOrder": 7,
+    "order": 83,
+    "text": "其吐也，或倾盆而出，或冲口而来，一时昏晕，死在顷刻，以止血治之, 则气闷不安，以补血治之，则胸满不受，有变症蜂起而死者，不可不治之得法也,\n\n方用\n解血平气汤。\n\n白芍 当归（ 各贰两） 炒荆芥 黑栀（ 各叁钱） 红花（ 贰钱） 柴胡（ 捌分） 甘草（ 壹钱）\n\n水煎服。\n\n一剂而气平舒，二剂而血止息, 三剂而病大愈。\n\n此症盖怒伤肝，不能平其气，以致吐血，若不先舒其气，而遽止血, 则愈激动肝火之气，必气愈旺而血愈吐矣，方中用白芍平肝又舒气, 荆芥、柴胡引血归经，当归、红花，生新去旧，安有不愈者哉。\n\n==== 吐血 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0083-1"
+    ],
+    "symptomTags": [
+      "吐血"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝火",
+      "气滞"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "大怒吐血"
+  },
+  {
+    "id": "funanke-0084",
+    "book": "funanke",
+    "chapter": "吐血门",
+    "chapterOrder": 7,
+    "order": 84,
+    "text": "此症人非以为火盛，即以为阴亏，用凉药以泻火，乃火愈退而血愈多, 用滋阴之味，止血之品，仍不效，谁知是血不归经乎，治法当用补气之药, 而佐以引血归经之味，不止血而血自止矣。\n方用\n\n\n人参（ 伍钱）　当归（ 壹两） 丹皮炒，黑芥穗（ 各叁钱）\n\n水煎服,一剂而止。\n\n此方妙在不专补血，而反去补气以补血，尤妙在不去止血，而去行血以止血, 盖血逢寒则凝，逢散则归经，救死于呼吸之际，大有神曲功。\n\n[大凡吐血, 多系不归经之血，因何腑何藏而发，腑藏之血，吐则立死，此自然之理也, 火盛阴亏两层，世间误杀，奚止千百，寒凉滋阴之药，轻则凝结而成病根, 重则经阻而成干血，此论此方，发菩提心，作当头棒喝也。]\n\n==== 吐白血 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0084-1"
+    ],
+    "symptomTags": [
+      "吐血"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "血瘀"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "吐血",
+    "misjudgment": {
+      "commonView": "火盛或阴亏",
+      "trueView": "是血不归经乎"
+    }
+  },
+  {
+    "id": "funanke-0085",
+    "book": "funanke",
+    "chapter": "吐血门",
+    "chapterOrder": 7,
+    "order": 85,
+    "text": "血未有不红者，何以名白血，不知久病之人，吐痰皆白沫，乃白血也, 白沫何以名白血，以其状似蟹涎，无败痰存其中，实血而非痰也，若将所吐白沫, 露于星光之下，一夜必变红矣，此沫出于肾，而肾火沸腾于咽喉，不得不吐者也, 虽是白沫，而实肾中之精，岂特血而已哉，茍不速治，则白沫变为绿痰, 无可如何矣。\n方用\n\n\n熟地 麦冬 （ 各壹两） 山药 山萸 茯苓（ 各伍钱） 丹皮 泽泻（ 各贰钱） 五味子（ 壹钱）\n\n水煎，日日服之。\n\n==== 血不归经 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0085-1"
+    ],
+    "symptomTags": [
+      "吐血",
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾虚",
+      "相火妄动"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "吐白血"
+  },
+  {
+    "id": "funanke-0086",
+    "book": "funanke",
+    "chapter": "吐血门",
+    "chapterOrder": 7,
+    "order": 86,
+    "text": "凡人血不归经，或上或下，或四肢毛窍，各处出血，循行经络，外行于皮毛, 中行于脏腑，内行于筋骨，上行于头目两手，下行于二便，一剂周身无非血路, 一不归经，斯各处妄行，有孔则钻，有洞则泄，甚则呕吐，或见于皮毛, 或出于齿缝，或渗于脐腹，或露于二便，皆宜顺其性以引之归经, 方用\n\n熟地 生地（ 各五钱） 当归 白芍 麦冬（ 各叁钱）　荆芥 川芎 甘草 茜草根（ 各一钱）\n\n水煎服。\n\n此方即四物汤加减, 妙在用茜草引血归经。\n\n==== 附：三黑神曲奇散 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0086-1"
+    ],
+    "symptomTags": [
+      "出血",
+      "吐血"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "血瘀"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "血不归经"
+  },
+  {
+    "id": "funanke-0087",
+    "book": "funanke",
+    "chapter": "吐血门",
+    "chapterOrder": 7,
+    "order": 87,
+    "text": "丹皮（ 炒黑七分） 黑栀（ 五分） 真蒲黄（ 炒黑一钱二分） 川芎（ 酒洗） 贝母（ 各一钱） 生地（ 酒洗）\n\n水二樽，童便藕汁各半樽,　煎服。\n\n此方治吐血神效无比，二剂止。 六味地黄汤加麦冬五味子, 最能补肾滋肝，木得其养，则血有可藏之经，而不外泄，血证最宜服之。\n\n=== 呕吐门 ===\n\n==== 脾胃症辨 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0087-1"
+    ],
+    "symptomTags": [
+      "吐血"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾虚",
+      "肝血虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "附：三黑神曲奇散"
+  },
+  {
+    "id": "funanke-0088",
+    "book": "funanke",
+    "chapter": "呕吐门",
+    "chapterOrder": 8,
+    "order": 88,
+    "text": "人有能食而不能化者，乃胃不病而脾病也，当补脾，补脾尤宜补肾中之火, 盖肾火能生脾土也，不能食，食之而安然者，乃脾不病而胃病也，不可补肾中之火, 当补心火，盖心火能生胃土也，世人一见不饮食，动曰脾胃虚也，殊不知胃之虚寒, 责之心，脾之虚寒，责之肾也，不可不辨也。\n\n==== 反胃大吐 ====",
+    "formulaIds": [],
+    "symptomTags": [
+      "吐",
+      "不能食"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "脾胃症辨"
+  },
+  {
+    "id": "funanke-0089",
+    "book": "funanke",
+    "chapter": "呕吐门",
+    "chapterOrder": 8,
+    "order": 89,
+    "text": "大吐之症，舌有芒刺，双目红肿，人以为热也，谁知是肾水之亏乎, 盖脾胃必借肾水而滋润，肾水一亏，则脾胃之火，沸腾而上, 以致目红肿而舌芒刺也，但此症时躁时静，时欲饮水，及水到又不欲饮, 即强之饮亦不甚快，此乃上假热而下真寒也，宜六味地黄汤加桂附，水煎服。\n\n外治法，先以手擦其足心，使之极热，然后用附子壹个煎汤, 用鹅翎扫之，随干随扫，少顷即不吐矣，后以六味地黄汤，大剂饮之, 即安然也，或逍遥散加黄连，亦立止也，无如世医以杂药投之，而成噎嗝矣, 方用\n\n熟地（ 贰两） 山萸 元参（ 各壹两） 当归（ 伍钱）五味子（ 贰钱） 牛膝 白芥子（ 各叁钱）\n\n水煎服，盖肾水不足，则大肠必干而细, 饮食入胃，难于下行，故反而上吐矣。\n\n==== 寒邪犯肾大吐 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0089-1"
+    ],
+    "symptomTags": [
+      "呕吐"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾阴虚",
+      "胃热"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "反胃大吐",
+    "misjudgment": {
+      "commonView": "热也",
+      "trueView": "是肾水之亏"
+    }
+  },
+  {
+    "id": "funanke-0090",
+    "book": "funanke",
+    "chapter": "呕吐门",
+    "chapterOrder": 8,
+    "order": 90,
+    "text": "寒入肾宫，将脾胃之水，挟之尽出，手足厥逆，小腹痛不可忍, 以热物熨之少快，否则寒冷难支，人多以为胃病，其实肾病也, 方用\n\n附子（ 壹个） 白术（ 肆两） 肉桂（ 壹钱） 干姜（ 叁钱）　人参（ 参两）\n\n水煎服。 此药下喉，便觉吐定，煎渣再服，安然如故。\n\n==== 呕吐 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0090-1"
+    ],
+    "symptomTags": [
+      "呕吐",
+      "腹痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾阳虚",
+      "寒湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "寒邪犯肾大吐",
+    "misjudgment": {
+      "commonView": "胃病",
+      "trueView": "其实肾病也"
+    }
+  },
+  {
+    "id": "funanke-0091",
+    "book": "funanke",
+    "chapter": "呕吐门",
+    "chapterOrder": 8,
+    "order": 91,
+    "text": "世人皆以呕吐为胃虚，谁知由于肾虚乎，故治吐不效，为窥见病之根也, 方用\n\n人参 芡实（ 各叁钱） 白术 薏仁（ 各伍钱） 砂仁（ 伍粒）　吴萸（ 伍分）\n\n水煎服。\n\n==== 火吐 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0091-1"
+    ],
+    "symptomTags": [
+      "呕吐"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "呕吐",
+    "misjudgment": {
+      "commonView": "呕吐为胃虚",
+      "trueView": "由于肾虚"
+    }
+  },
+  {
+    "id": "funanke-0092",
+    "book": "funanke",
+    "chapter": "呕吐门",
+    "chapterOrder": 8,
+    "order": 92,
+    "text": "此症若降火，则火由脾而入于大肠，必变为便血之症，法宜清火止吐, 方用\n\n茯苓（ 壹两） 人参（ 贰钱） 砂仁（ 伍粒） 黄连（ 叁钱）\n\n水煎服。\n\n==== 寒吐 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0092-1"
+    ],
+    "symptomTags": [
+      "呕吐"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "胃热"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "火吐"
+  },
+  {
+    "id": "funanke-0093",
+    "book": "funanke",
+    "chapter": "呕吐门",
+    "chapterOrder": 8,
+    "order": 93,
+    "text": "此症若降寒，则又引入肾而流于膀胱，必变为遗尿之症，法宜散寒止吐, 方用\n\n白术（ 贰两） 人参（ 伍钱） 附子 干姜（ 各壹钱） 丁香（ 伍分）\n\n水煎服。\n\n此方散寒而用补脾之品，则寒不能上越，而亦不得下行, 势不能不从脐出也。\n\n==== 胃吐 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0093-1"
+    ],
+    "symptomTags": [
+      "呕吐"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "寒湿",
+      "脾虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "寒吐"
+  },
+  {
+    "id": "funanke-0094",
+    "book": "funanke",
+    "chapter": "呕吐门",
+    "chapterOrder": 8,
+    "order": 94,
+    "text": "此症由于脾虚，脾气不得下行，自必上反而吐，补脾则胃安, 方用\n\n人参 茯苓（ 各叁钱） 白术（ 伍钱） 甘草 肉桂 神曲　半夏（ 各壹钱） 砂仁（ 参粒）\n\n水煎服。\n\n此方治胃病，以补脾者何也，盖胃为脾之关，关门之沸腾, 由于关中之溃乱，欲使关外之安静，必先使关中之安宁, 况方中砂仁半夏神曲 等味，全是止吐之品，有不奏功者乎，此脾胃两补之法也。\n\n==== 反胃 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0094-1"
+    ],
+    "symptomTags": [
+      "呕吐"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "脾虚",
+      "胃虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "胃吐"
+  },
+  {
+    "id": "funanke-0095",
+    "book": "funanke",
+    "chapter": "呕吐门",
+    "chapterOrder": 8,
+    "order": 95,
+    "text": "人有食入而即出者，乃肾水虚不能润喉，故喉燥而即出也, 方用\n\n熟地（ 贰两） 山萸 茯苓 麦冬（ 各伍钱） 山药（ 壹两） 泽泻 丹皮（ 各叁钱） 五味子（ 贰钱）\n\n水煎服。\n\n此症又有食久而反出者，乃肾火虚不能温脾，故脾寒而反出也, 方用\n\n熟地（ 贰两） 山萸（ 壹两） 山药（ 陆钱） 泽泻（ 贰钱） 茯苓 丹皮 附子 肉桂（ 各叁钱）\n\n水煎服。\n\n[此即八味地黄,　也可用生地桂枝]\n\n==== 胃寒 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0095-1",
+      "funanke-formula-funanke-0095-2"
+    ],
+    "symptomTags": [
+      "呕吐"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾阴虚",
+      "肾阳虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "反胃"
+  },
+  {
+    "id": "funanke-0096",
+    "book": "funanke",
+    "chapter": "呕吐门",
+    "chapterOrder": 8,
+    "order": 96,
+    "text": "心肾兼补，治脾胃两虚者固效，若单胃之虚寒，自宜独治心之为妙, 方用\n\n人参 远志（ 各壹两） 白术 茯苓 莲子 白芍（ 各参两）　菖蒲 良姜 枣仁（ 各伍钱） 半夏 附子 白芥子（ 各叁钱） 山药（ 肆钱）\n\n蜜丸，每日白水送下五钱。\n\n==== 肾寒吐泻心寒胃弱 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0096-1"
+    ],
+    "symptomTags": [
+      "呕吐"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "胃虚",
+      "阳虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "胃寒"
+  },
+  {
+    "id": "funanke-0097",
+    "book": "funanke",
+    "chapter": "呕吐门",
+    "chapterOrder": 8,
+    "order": 97,
+    "text": "此症由于心寒胃弱，呕吐不已，食久而出是也，下痢不止, 五更时痛泻三五次者是也，人以为脾胃之寒，服脾胃之药而不效者何也, 盖胃为肾之关，而脾为肾之海，胃气弱，不补命门之火，则心包寒甚, 何以生胃土而消谷食，脾气弱不补命门之火，则下焦虚冷，何以化饮食而生精华, 故补脾胃，莫急于补肾也。 方用\n\n熟地 茯苓 人参（ 各参两） 山萸（ 贰两） 山药（ 肆两） 附子 肉桂 五味子（ 各壹两） 吴萸（ 伍钱）\n\n蜜丸，每日空心白水送下五钱。\n\n=== 臌证门 ===\n\n==== 水臌 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0097-1"
+    ],
+    "symptomTags": [
+      "呕吐",
+      "泄泻"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾阳虚",
+      "命门火衰",
+      "脾虚",
+      "胃虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "肾寒吐泻心寒胃弱",
+    "misjudgment": {
+      "commonView": "脾胃之寒",
+      "trueView": "补脾胃，莫急于补肾也"
+    }
+  },
+  {
+    "id": "funanke-0098",
+    "book": "funanke",
+    "chapter": "臌证门",
+    "chapterOrder": 9,
+    "order": 98,
+    "text": "此症满身皆水，按之如泥者，是若不急治，水流四肢，不得从膀胱出, 则为死症矣。\n方用\n决流汤。\n\n黑丑 甘草（ 各贰钱）　肉桂（ 参分） 车前（ 壹两）\n\n水煎服。\n\n一剂水流斗余，二剂全愈, 断勿与三剂也，与三剂反杀之矣，盖二丑甘遂，最善利水，又加肉桂车前子, 引火以入膀胱，利水而不走气，不使牛遂之过猛也，二剂之后，须改五苓散, 调理二剂，再用六君子汤补脾可也，忌食盐, 犯之则不救矣。\n\n[诸臌症最忌宽中市医多用五皮饮描头画角百无一效]\n\n==== 气臌 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0098-1"
+    ],
+    "symptomTags": [
+      "水肿"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "水饮",
+      "脾虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "水臌"
+  },
+  {
+    "id": "funanke-0099",
+    "book": "funanke",
+    "chapter": "臌证门",
+    "chapterOrder": 9,
+    "order": 99,
+    "text": "此症气虚作肿，似水而实非水也，但按之不如泥耳，必先从脚面上肿起, 后渐肿至身上，于是头面皆肿者有之，此即谓之气臌，宜于健脾行气之中, 加引水之品，若以治水臌治之，是速之死也, 方用\n\n白术 茯苓 薏仁（ 各壹两） 甘草 肉桂（ 各壹分） 枳壳（ 伍分） 人参 神曲　车前子 萝卜子（ 各壹钱） 山药（ 伍钱）\n\n水煎服。\n\n初服若觉有碍，久之自有大功，三十剂而愈矣,亦忌食盐秋石。\n\n==== 虫臌 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0099-1"
+    ],
+    "symptomTags": [
+      "水肿"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "脾虚",
+      "气滞"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "气臌",
+    "misjudgment": {
+      "commonView": "以治水臌治之",
+      "trueView": "气虚作肿，似水而实非水，宜健脾行气加引水"
+    }
+  },
+  {
+    "id": "funanke-0100",
+    "book": "funanke",
+    "chapter": "臌证门",
+    "chapterOrder": 9,
+    "order": 100,
+    "text": "此症小腹痛，四肢浮肿而未甚，面色红而有白点，如虫食之状, 是之谓虫臌。\n方用\n消虫神奇丹。\n\n当归 鳖甲 地栗粉（ 各壹两）　雷丸 神曲　茯苓 白矾（ 各叁钱） 车前子（ 伍钱）\n\n水煎服。 一剂下虫无数，二剂虫尽臌消，不必三剂, 但病好必用六君子汤，去甘草调理。\n\n==== 血臌 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0100-1"
+    ],
+    "symptomTags": [
+      "腹痛",
+      "水肿",
+      "积聚"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "虫臌"
+  },
+  {
+    "id": "funanke-0101",
+    "book": "funanke",
+    "chapter": "臌证门",
+    "chapterOrder": 9,
+    "order": 101,
+    "text": "此症或因跌闪而瘀血不散，或忧郁而结血不行，或风邪而蓄血不散，留在腹中, 致成血臌，饮食入胃不变精血，反去助邪，久则胀，胀成臌矣，倘以治水法逐之,\n\n而症非水，徒伤元气，以治气法治之，而又非气，徒增饱满, 方用\n逐瘀汤。\n\n水蛭（ 此物最难死火烧经年，入水犹生, 必须炒黄为末方妥） 雷丸 红花 枳壳 白芍 牛膝（ 各叁钱） 当归（ 贰两） 桃仁（ 肆拾两）\n\n水煎服。\n\n一剂血尽而愈，切勿与二剂, 当改四物汤调理，于补血内加白术茯苓人参，补元气而利水，自然全愈,　否则恐成干枯之症，辨血臌惟腹账如臌，而四肢手足并无臌意也。\n\n=== 水证门 ===\n\n==== 水肿 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0101-1"
+    ],
+    "symptomTags": [
+      "腹胀"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "血瘀",
+      "气滞"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "血臌"
+  },
+  {
+    "id": "funanke-0102",
+    "book": "funanke",
+    "chapter": "水证门",
+    "chapterOrder": 10,
+    "order": 102,
+    "text": "此症土不能克水也。\n方用\n\n\n牵牛 甘遂（ 各叁钱）\n\n水煎服。\n\n此症治法虽多，独此方奇妙，其次鸡屎醴亦效, 鸡屎醴治血臌尤效。\n\n==== 呃逆 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0102-1"
+    ],
+    "symptomTags": [
+      "水肿"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "脾虚",
+      "水饮"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "水肿"
+  },
+  {
+    "id": "funanke-0103",
+    "book": "funanke",
+    "chapter": "水证门",
+    "chapterOrder": 10,
+    "order": 103,
+    "text": "此症乃水气凌心包也，心包为水气所凌，呃逆不止，号召五脏之气, 救水气之犯心也，治法当利湿分水。\n方用\n\n\n茯神 薏仁（ 各壹两）　苍术 白术 人参（ 各叁钱） 芡实 丁香（ 各伍钱） 法制半夏陈皮（ 各壹钱）　吴萸（ 三分）\n\n水煎服，二剂愈。\n\n==== 水结膀胱 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0103-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "水饮",
+      "脾湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "呃逆"
+  },
+  {
+    "id": "funanke-0104",
+    "book": "funanke",
+    "chapter": "水证门",
+    "chapterOrder": 10,
+    "order": 104,
+    "text": "此症目突口张，足肿气喘，人以为不治之症，不知膀胱与肾，相为表里, 膀胱之开合，肾司其权，特通其肾气而膀胱自通矣, 方用\n通肾消水汤。\n\n熟地 山药 薏仁（ 各壹两）　山萸（ 壹钱伍分） 茯神（ 伍钱） 肉桂 牛膝（ 各壹钱） 车前子（ 叁钱）\n\n水煎服。\n\n=== 湿证门 ===\n\n==== 黄症 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0104-1"
+    ],
+    "symptomTags": [
+      "水肿",
+      "气喘"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾虚",
+      "水饮"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "水结膀胱"
+  },
+  {
+    "id": "funanke-0105",
+    "book": "funanke",
+    "chapter": "湿证门",
+    "chapterOrder": 11,
+    "order": 105,
+    "text": "此症外感之湿易治，内伤之湿难疗，外感者利水则愈，若内伤之湿, 泻水则气消，发汗则精泄，必健脾行气而后可也, 方用\n\n白术 茯苓 薏仁（ 各壹两） 茵陈 黑栀（ 各叁钱）　陈皮（ 伍分）\n\n水煎服。\n\n此方治内感之湿，不治外感之湿, 若欲多服去栀子。\n\n==== 瘅症 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0105-1"
+    ],
+    "symptomTags": [
+      "黄疸"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "湿热",
+      "脾湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "黄症"
+  },
+  {
+    "id": "funanke-0106",
+    "book": "funanke",
+    "chapter": "湿证门",
+    "chapterOrder": 11,
+    "order": 106,
+    "text": "此症虽因风寒湿而来，亦因元气之虚，邪治得趁虚而入，倘攻邪而不补正, 则难愈矣，今于补正之中，佐以去风寒湿之品，而瘅如失矣, 方用\n\n白术（ 伍钱） 人参（ 叁钱） 茯苓（ 壹两）　柴胡 附子 半夏（ 各壹钱） 陈皮（ 伍分）\n\n水煎服。\n\n[ 经云风寒湿三者合而成痹，此条原本瘅字，当是痹字之误]\n\n==== 伤湿 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0106-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "寒湿",
+      "气虚",
+      "风寒"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "瘅症"
+  },
+  {
+    "id": "funanke-0107",
+    "book": "funanke",
+    "chapter": "湿证门",
+    "chapterOrder": 11,
+    "order": 107,
+    "text": "此症恶湿，身重足肿，小便短赤。\n方用\n\n\n泽泻 猪苓（ 各叁钱） 肉桂（ 伍分） 茯苓 白术（ 各伍钱） 柴胡 半夏 车前子（ 各壹钱）\n\n水煎服，一剂愈。\n\n==== 脚气 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0107-1"
+    ],
+    "symptomTags": [
+      "水肿",
+      "小便不利"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "寒湿",
+      "脾湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "伤湿"
+  },
+  {
+    "id": "funanke-0108",
+    "book": "funanke",
+    "chapter": "湿证门",
+    "chapterOrder": 11,
+    "order": 108,
+    "text": "今人以五苓散去湿，亦是正理，然不升其气，而湿未必尽去也, 必须提气而水乃散也。\n方用\n\n\n黄耆（ 壹两） 人参 白术（ 各叁钱）　防风 肉桂 柴胡（ 各壹钱） 薏仁 芡实 白芍（ 各伍钱） 半夏（ 贰钱）　陈皮（ 伍分）\n\n水煎服。\n\n此方去湿之圣药，防风用于黄耆之中, 已足提气而去湿，又助之柴胡舒气，则气自升腾，气升则水散，白术茯苓薏仁芡实, 俱是去湿之品，有不神效者乎。\n\n== 卷下 ==\n\n=== 泄泻门 ===\n\n==== 泻甚 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0108-1"
+    ],
+    "symptomTags": [
+      "水肿"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "脾湿",
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "脚气"
+  },
+  {
+    "id": "funanke-0109",
+    "book": "funanke",
+    "chapter": "泄泻门",
+    "chapterOrder": 12,
+    "order": 109,
+    "text": "一日五六十回，倾肠而出，完谷不化，粪门肿痛，如火之热，茍无以救之, 必致立亡。\n方用\n截泻汤。\n\n薏仁 白芍（ 各贰钱）　山药 车前子（ 各壹两） 黄连 茯苓（ 各伍钱） 泽泻 甘草（ 各贰钱）　肉桂（ 参分） 人参（ 叁钱）\n\n水煎服。\n\n==== 水泻 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0109-1"
+    ],
+    "symptomTags": [
+      "泄泻",
+      "腹痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "湿热"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "泻甚"
+  },
+  {
+    "id": "funanke-0110",
+    "book": "funanke",
+    "chapter": "泄泻门",
+    "chapterOrder": 12,
+    "order": 110,
+    "text": "方用\n\n白术（ 壹两） 车前子（ 伍钱）\n\n水煎服。\n\n此方补肾健脾，利水去湿，治泻神效。\n\n[ 泄泻之症, 皆由于膀胱不能化气，胃中所纳水谷不得分消，直由大肠而出故以利小便为主, 与伤寒下利自利，大相悬殊，须察之。 ]\n\n==== 火泻 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0110-1"
+    ],
+    "symptomTags": [
+      "泄泻"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "脾虚",
+      "脾湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "水泻"
+  },
+  {
+    "id": "funanke-0111",
+    "book": "funanke",
+    "chapter": "泄泻门",
+    "chapterOrder": 12,
+    "order": 111,
+    "text": "完谷不化，饮食下喉即出，日夜数十次，甚至百次，人皆知为热也, 然而热之生也何故，生于肾中之水衰不能制火，使胃土关门，不守于上下, 所以直进而直出也，论其势之急迫，似乎宜治其标，然治其标而不能使火之骤降, 必须急补肾中之水，使火有可居之地，而后不致上腾也, 方用\n\n熟地 白芍（ 各参两） 山萸 茯苓 甘草 车前子（ 各壹两）　肉桂（ 参分）\n\n水煎服。\n\n此乃补肾之药，非止泻之品，然而止泻之妙, 捷如鼓矣，世人安知此也。\n\n==== 水泻 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0111-1"
+    ],
+    "symptomTags": [
+      "泄泻"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾阴虚",
+      "相火妄动"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "火泻"
+  },
+  {
+    "id": "funanke-0112",
+    "book": "funanke",
+    "chapter": "泄泻门",
+    "chapterOrder": 12,
+    "order": 112,
+    "text": "此乃纯是下清水，非言下痢也，痢无止法，岂泻水亦无止法乎，故人患水泻者, 急宜止遏。\n方用\n\n\n白术（ 伍钱） 茯苓（ 叁钱） 吴萸（ 五分）　车前子 五味子（ 各壹钱）\n\n水煎服。\n\n==== 泄泻吞酸 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0112-1"
+    ],
+    "symptomTags": [
+      "泄泻"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "脾湿",
+      "水饮"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "水泻"
+  },
+  {
+    "id": "funanke-0113",
+    "book": "funanke",
+    "chapter": "泄泻门",
+    "chapterOrder": 12,
+    "order": 113,
+    "text": "泄泻，寒也，吞酸，火也，似乎寒热殊而治法异矣，不知吞酸虽热, 由于肝气之郁结，泄泻虽寒，由于肝木之克脾，茍用一方以治水郁, 又一方以培脾土，土必大崩，木必大雕矣，不若一方而两治之为愈也, 方用\n\n白芍（ 伍钱） 柴胡 车前子（ 各壹钱） 茯苓（ 叁钱） 神曲　陈皮 甘草（ 各伍分）\n\n水煎服。\n\n此方妙在白芍以舒肝木之郁, 木郁一舒，上不克胃，下不克脾，又有茯苓车前，以分消水湿之气, 则水尽从小便出，而何有余水以吞酸，刺汁以泄泻哉。\n\n=== 痢疾门 ===\n\n==== 火邪内伤辨 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0113-1"
+    ],
+    "symptomTags": [
+      "泄泻"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝郁",
+      "肝克脾",
+      "脾湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "泄泻吞酸"
+  },
+  {
+    "id": "funanke-0114",
+    "book": "funanke",
+    "chapter": "痢疾门",
+    "chapterOrder": 13,
+    "order": 114,
+    "text": "火邪之血，色必鲜红，脉必洪缓，口必渴而饮冷水，小便必涩而赤浊, 内伤之血色不鲜而紫暗，或微红淡白，脉必细而迟，或浮濇而空，口不渴, 即渴而喜饮热汤，小便不赤不涩，即赤而不热不浊, 此诀也。\n\n[ 痢疾以调达气血为主，痢门以芍药汤为总方，芍药汤偏于凉, 用之每不得效此诸方虽归芍木香，却分症而用芩连，不用大黄，可云尽善尽美。 ]\n\n==== 痢疾 ====",
+    "formulaIds": [],
+    "symptomTags": [
+      "渴"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "火邪内伤辨"
+  },
+  {
+    "id": "funanke-0115",
+    "book": "funanke",
+    "chapter": "痢疾门",
+    "chapterOrder": 13,
+    "order": 115,
+    "text": "此症感湿热而成，红白相见，如脓如血，至危至急者也，茍用凉药止血, 热药攻邪，俱非善治之法。\n方用\n\n\n白芍 当归（ 各贰两）　枳壳 槟榔（ 各贰钱） 滑石（ 叁钱） 广木香 来服子 甘草（ 各壹钱）\n\n水煎服，一二剂收功。\n\n此方妙在用归芍至二两之多，则肝血有余, 不去克脾土，自然大肠有传送之功，加之枳壳槟榔，俱逐秽去积之品, 尤能于补中用，攻而滑石甘草木香，调达于迟速之间，不疾不徐，使瘀滞尽下也, 其余些小痢疾，减半用之，无不奏功，此方不论红白痢疾，痛与不痛, 服之皆神效，又方\n\n当归（ 壹两） 黄芩（ 柒分酒洗）　苍术 厚朴 大复皮 陈皮（ 各壹钱）\n\n水二碗，煎一碗，顿服。\n\n==== 血痢 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0115-1"
+    ],
+    "symptomTags": [
+      "泄泻",
+      "便血",
+      "腹痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "湿热",
+      "肝克脾",
+      "血瘀"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "痢疾"
+  },
+  {
+    "id": "funanke-0116",
+    "book": "funanke",
+    "chapter": "痢疾门",
+    "chapterOrder": 13,
+    "order": 116,
+    "text": "凡血痢腹痛者，火也。\n方用\n\n\n归尾 白芍（ 各壹两） 黄连（ 叁钱）　枳壳 木香 来服子（ 各贰钱）\n\n水煎服。\n\n==== 寒痢 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0116-1"
+    ],
+    "symptomTags": [
+      "便血",
+      "腹痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝火"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "血痢"
+  },
+  {
+    "id": "funanke-0117",
+    "book": "funanke",
+    "chapter": "痢疾门",
+    "chapterOrder": 13,
+    "order": 117,
+    "text": "凡痢腹不痛者，寒也。\n方用\n\n\n白芍 当归（ 各叁钱）　枳壳 槟榔 甘草 来服子（ 各壹钱）\n\n水煎服。\n\n前方治壮实之人, 火邪挟湿者，此方治寒痢，腹不痛者，更有内伤劳倦，与中气虚寒之人, 脾不摄血而成血痢者，当用理中汤，加木香肉桂，或用补中益气汤加熟地炒干姜, 治之而始愈也。\n\n=== 大小便门 ===\n\n==== 大便不通 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0117-1"
+    ],
+    "symptomTags": [
+      "泄泻"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "寒湿",
+      "脾虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "寒痢"
+  },
+  {
+    "id": "funanke-0118",
+    "book": "funanke",
+    "chapter": "大小便门",
+    "chapterOrder": 14,
+    "order": 118,
+    "text": "此症人以为大肠燥也，谁知是肺气燥乎，盖肺燥则清肃之气，不能下行于大肠, 而肾经之水，仅足自顾，又何能旁流以润涧哉, 方用\n\n熟地 元参（ 各参两） 升麻（ 叁钱） 火麻仁（ 壹钱） 牛乳（ 壹碗）\n\n水二碗，煎六分，将牛乳同调服之， 一二剂必大便矣。\n\n此方不在润大肠而在补肾及清肺，夫大肠居于下流，最难独治，必须从肾以润之, 从肺以清之，启其上窍，则下窍自然流动通利矣, 此下病上治之法也。\n\n==== 实症大便不通 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0118-1"
+    ],
+    "symptomTags": [
+      "便秘"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肺虚",
+      "肾阴虚",
+      "阴虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "大便不通",
+    "misjudgment": {
+      "commonView": "大肠燥也",
+      "trueView": "是肺气燥，肺燥则清肃之气不能下行于大肠"
+    }
+  },
+  {
+    "id": "funanke-0119",
+    "book": "funanke",
+    "chapter": "大小便门",
+    "chapterOrder": 14,
+    "order": 119,
+    "text": "方用\n\n大黄（ 伍钱） 归尾（ 壹两） 升麻（ 伍分）　蜂蜜（ 半杯）\n\n水煎服。\n\n此方大黄泄利，当归以润之，仍以为君, 虽泄而不至十分猛烈，不致有亡险之弊，况有升麻以提之，则泄中有留, 又何必过虑哉。\n\n[ 此方之妙在升麻，味能化板为灵，启其上窍则下窍自流, 每以笔管汲砚池水比之，指按管则得水，指启则水落砚上，浅而易明, 岳诊小便不通，以青龙汤之姜、细、味主之，亦此意也。 此方比大承气和平, 然阳明燥粪，非大承气不可，此方当归重用，温润而不猛也, 此方从八味地黄悟出。 ]\n\n==== 虚症大便不通 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0119-1"
+    ],
+    "symptomTags": [
+      "便秘"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "胃热"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "实症大便不通"
+  },
+  {
+    "id": "funanke-0120",
+    "book": "funanke",
+    "chapter": "大小便门",
+    "chapterOrder": 14,
+    "order": 120,
+    "text": "人有病后大便秘者。\n方用\n\n\n熟地 元参 当归（ 各壹两） 川芎（ 伍钱） 桃仁（ 拾粒） 红花 大黄（ 各叁钱） 火麻仁（ 壹钱）　蜂蜜（ 半杯）\n\n水煎服。\n\n==== 小便不通 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0120-1"
+    ],
+    "symptomTags": [
+      "便秘"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "血虚",
+      "阴虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "虚症大便不通"
+  },
+  {
+    "id": "funanke-0121",
+    "book": "funanke",
+    "chapter": "大小便门",
+    "chapterOrder": 14,
+    "order": 121,
+    "text": "膀胱之气化不行，即小便不通，似乎治膀胱也，然而治法全不在膀胱, 方用\n\n人参 茯苓 莲子（ 各叁钱） 白果（ 贰钱）　甘草 肉桂 车前子 王不留行（ 各壹钱）\n\n水煎服。\n\n此方妙在用人参肉桂，盖膀胱必得气化而出，气化者何, 心包络之气也，既用参桂而气化行矣，尤妙在用白果，人多不识此意, 白果通任督之脉，走膀胱而引群药，况车前子王不留行，尽下泄之品, 服之而前阴有不利者乎。\n\n又方\n\n熟地（ 壹两） 山药 丹皮 泽泻 肉桂 车前子（ 各壹钱） 山萸（ 肆钱）\n\n水煎服。\n\n此方不去通小便而专治肾水，肾中有水, 而膀胱之气，自然行矣，盖膀胱之开合，肾司其权也。\n\n==== 大小便不通 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0121-1"
+    ],
+    "symptomTags": [
+      "小便不利"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾虚",
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "小便不通"
+  },
+  {
+    "id": "funanke-0122",
+    "book": "funanke",
+    "chapter": "大小便门",
+    "chapterOrder": 14,
+    "order": 122,
+    "text": "方用\n\n头发烧灰研末，用三指一捻，入热水半碗, 饮之立通。\n\n又方\n\n蜜一茶杯，皮硝一两，黄酒一茶杯，大黄一钱,\n\n煎一处，温服神效。\n\n=== 厥证门 ===\n\n==== 寒厥 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0122-1"
+    ],
+    "symptomTags": [
+      "便秘",
+      "小便不利"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "大小便不通"
+  },
+  {
+    "id": "funanke-0123",
+    "book": "funanke",
+    "chapter": "厥证门",
+    "chapterOrder": 15,
+    "order": 123,
+    "text": "此症手足必青紫，饮水必吐，腹必痛，喜火熨之。\n方用\n\n\n人参（ 叁钱）　白术（ 壹两） 附子 肉桂 吴萸（ 各壹钱）\n\n水煎服。\n\n==== 热厥 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0123-1"
+    ],
+    "symptomTags": [
+      "腹痛",
+      "呕吐"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "阳虚",
+      "寒湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "寒厥"
+  },
+  {
+    "id": "funanke-0124",
+    "book": "funanke",
+    "chapter": "厥证门",
+    "chapterOrder": 15,
+    "order": 124,
+    "text": "此症手足虽寒而不青紫，饮水不吐，火熨之腹必痛，一时手足厥逆，痛不可忍, 人以为四肢之风症也，谁知是心中热蒸，外不能泄，故四肢手足则寒, 而胸腹皮热如火。\n方用\n\n\n柴胡（ 叁钱） 当归 黄连 炒栀（ 各贰钱） 荆芥 半夏 枳壳（ 各壹钱）\n\n水煎服，二剂愈。\n\n又方\n\n白芍（ 壹两） 黑栀（ 叁钱） 陈皮 柴胡（ 各壹钱） 花粉（ 贰钱）\n\n水煎服，以白芍为君, 取入肝而平木也。\n\n[ 此症热在于肝前方之柴胡当归后方之白芍皆肝药也]\n\n==== 尸厥 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0124-1"
+    ],
+    "symptomTags": [
+      "腹痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "心火",
+      "肝火"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "热厥",
+    "misjudgment": {
+      "commonView": "四肢之风症也",
+      "trueView": "是心中热蒸，外不能泄，故四肢手足则寒，而胸腹皮热如火"
+    }
+  },
+  {
+    "id": "funanke-0125",
+    "book": "funanke",
+    "chapter": "厥证门",
+    "chapterOrder": 15,
+    "order": 125,
+    "text": "此症一时猝倒，不省人事，乃气虚而痰迷心也，补气化痰而已, 方用\n\n人参 半夏 南星（ 各叁钱） 白术（ 伍钱） 附子（ 伍分） 白芥子（ 壹钱）\n\n水煎服。\n\n又方\n\n苍术（ 叁钱）\n\n水煎, 灌之必吐，吐后即愈，盖苍术阳药，善能祛风，故有奇效, 凡见鬼者用之更效。\n\n==== 厥症 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0125-1"
+    ],
+    "symptomTags": [
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "痰湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "尸厥"
+  },
+  {
+    "id": "funanke-0126",
+    "book": "funanke",
+    "chapter": "厥证门",
+    "chapterOrder": 15,
+    "order": 126,
+    "text": "人有忽然发厥，闭目撒手，喉中有声，有一日死者，有二三日死者, 此厥多犯神明，然亦素有痰气而发也，治法宜攻其痰而开心窍, 方用\n起迷丹。\n\n人参 半夏（ 各伍钱） 菖蒲（ 贰钱） 兔丝子（ 壹两） 茯苓 皂荚（ 各叁钱） 生姜（ 壹钱） 甘草（ 参分）\n\n水煎服。\n\n==== 气虚猝倒 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0126-1"
+    ],
+    "symptomTags": [
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "痰湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "厥症"
+  },
+  {
+    "id": "funanke-0127",
+    "book": "funanke",
+    "chapter": "厥证门",
+    "chapterOrder": 15,
+    "order": 127,
+    "text": "人有猝然昏倒，迷而不悟，喉中有痰，人以为风也，谁知是气虚乎，若作风治, 无不死者，此症盖因平日不慎女色，精亏以致气衰，又加不慎起居，而有似乎风者, 其实非风也。 方用\n\n人参 黄耆 白术（ 各壹两） 茯苓（ 伍钱）　菖蒲 附子（ 各壹钱） 半夏（ 贰钱） 白芥子（ 叁钱）\n\n水煎服。\n\n此方补气而不治风，消痰而不耗气，一剂神定，二剂痰消, 三剂全愈。\n\n==== 阴虚猝倒 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0127-1"
+    ],
+    "symptomTags": [
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "肾虚",
+      "痰湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "气虚猝倒",
+    "misjudgment": {
+      "commonView": "风也",
+      "trueView": "是气虚"
+    }
+  },
+  {
+    "id": "funanke-0128",
+    "book": "funanke",
+    "chapter": "厥证门",
+    "chapterOrder": 15,
+    "order": 128,
+    "text": "此症有肾中之水虚，而不上交于心者，又有肝气燥，不能生心之火者, 此皆阴虚，而能令人猝倒者也。\n方用\n再苏丹。\n\n熟地（ 贰两） 山萸 元参 麦冬 五味子（ 各壹两） 柴胡 菖蒲（ 各壹钱） 茯苓（ 伍钱） 白芥子（ 叁钱）\n\n水煎服。\n\n此方补肾水，滋肺气，安心通窍，泻火消痰, 实有神功，十剂全愈。\n\n[ 此症切实为阴虚者，当此人身本瘦，面部以下青黑, 倒时微喘，目不能瞑。]\n\n==== 阳虚猝倒 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0128-1"
+    ],
+    "symptomTags": [
+      "喘"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾阴虚",
+      "阴虚",
+      "心肾不交"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "阴虚猝倒"
+  },
+  {
+    "id": "funanke-0129",
+    "book": "funanke",
+    "chapter": "厥证门",
+    "chapterOrder": 15,
+    "order": 129,
+    "text": "人有心中火虚，不能下交于肾而猝倒者，阳虚也, 方用\n\n人参 白术 生枣仁（ 各壹两） 茯神（ 伍钱） 附子 甘草（ 各壹钱） 生半夏（ 叁钱）\n\n水煎服。\n\n药下喉, 则痰静而气出矣，连服数剂，则安然如故。\n\n此症又有胃热，不能安心之火而猝倒者, 亦阳虚也。\n方用\n\n\n人参 元参（ 各壹两） 石膏 花粉（ 各伍钱）　麦冬（ 叁钱） 菖蒲（ 壹钱）\n\n水煎服。\n\n一剂心定，二剂火清, 三剂全愈。\n\n[ 此症切实为阳虚者，当此人素有眩晕，面色红明, 倒时额鼻有微汗，阴器欲举，胃热必口有秽气，板齿燥。]\n\n==== 肾虚猝倒 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0129-1",
+      "funanke-formula-funanke-0129-2"
+    ],
+    "symptomTags": [
+      "眩晕",
+      "汗出"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "阳虚",
+      "胃热",
+      "心肾不交"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "阳虚猝倒"
+  },
+  {
+    "id": "funanke-0130",
+    "book": "funanke",
+    "chapter": "厥证门",
+    "chapterOrder": 15,
+    "order": 130,
+    "text": "人有口渴索引，眼红气喘，心脉洪大，舌不能言，不可作气虚治, 此乃肾虚之极，不能上滋于心，心火亢极，自焚闷乱，遂致身倒，有如中风者, 法当补肾，而佐以清火之药, 方用\n水火两治汤。\n\n熟地 当归 元参（ 各壹钱）　麦冬 生地 山萸 茯苓（ 各伍钱） 黄连 白芥子 五味子（ 各叁钱）\n\n水煎服，连服数剂而愈。\n\n==== 大怒猝倒 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0130-1"
+    ],
+    "symptomTags": [
+      "口渴",
+      "气喘"
+    ],
+    "pulseTags": [
+      "脉洪大"
+    ],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾虚",
+      "心火",
+      "阴虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "肾虚猝倒"
+  },
+  {
+    "id": "funanke-0131",
+    "book": "funanke",
+    "chapter": "厥证门",
+    "chapterOrder": 15,
+    "order": 131,
+    "text": "人有大怒跳跃，忽然卧地，两臂抽搦，唇口歪邪，左目紧闭，此乃肝火血虚, 内热生风之症，当用八珍汤，加丹皮钩藤山栀，若小便自遗, 左关脉弦洪而数，此肝火血燥，当用六味汤，加钩藤、 五味子、麦冬、川芎、当归，愈后需改用补中益气汤，加山栀、丹皮、 钩藤，多服，如妇人得此症，则逍遥散加钩藤及六味汤，便是治法。\n\n==== 中风不语 ====",
+    "formulaIds": [],
+    "symptomTags": [],
+    "pulseTags": [
+      "脉弦"
+    ],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "大怒猝倒"
+  },
+  {
+    "id": "funanke-0132",
+    "book": "funanke",
+    "chapter": "厥证门",
+    "chapterOrder": 15,
+    "order": 132,
+    "text": "人有跌倒昏迷，或自卧而跌下床者，此皆气虚，而痰邪犯之也, 方用\n三生引。\n\n人参（ 壹两） 半夏（ 生） 南星（ 生各叁钱） 附子（ 生壹个）\n\n水煎灌之。\n\n此症又有因肾虚而得之者，夫肾主藏精, 主下焦地道之生身，冲任二脉系焉，二脉与肾之大络，同出于肾之下，起于胞之中, 其冲脤因称胞络，为经脉之海，遂名海焉，其冲脤之上行者，渗诸阳，灌诸精,下行者，渗诸阴，灌诸络，而温肌肉，别络结于跗，因肾虚而肾络与胞内绝, 不通于上则瘖，肾脉不上循喉咙挟舌本，则不能言，二络不通于下，则痱厥矣, 方用\n地黄饮子。\n\n熟地 巴戟　山萸 茯苓 麦冬 肉苁蓉（ 各壹两 ） 附子 菖蒲 五味子（ 各伍钱） 石斛（ 陆钱） 肉桂（ 叁钱） 薄荷、姜、 枣\n\n水煎服。\n\n==== 口眼歪邪 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0132-1",
+      "funanke-formula-funanke-0132-2"
+    ],
+    "symptomTags": [
+      "厥"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "痰湿",
+      "肾虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "中风不语"
+  },
+  {
+    "id": "funanke-0133",
+    "book": "funanke",
+    "chapter": "厥证门",
+    "chapterOrder": 15,
+    "order": 133,
+    "text": "此症人多治木治金固是，而不知胃土之为尤切，当治胃土，且有经脉之分, 经云足阳明之经，急则口目为僻，眦急不能视，此胃土之经为歪邪也, 又云足阳明之脉，挟口环唇，口歪唇邪，此胃土之脉为歪邪也，二者治法, 皆当用黄耆、当归、人参、白芍、甘草、桂枝、升麻、葛根、秦艽、白芷、 防风、黄柏、苏木、红花，水酒各半煎，微热服，如初起有外感者, 加葱白三茎同煎，取微汗自愈。\n\n此症又有心中虚极，不能运于口耳之间, 轻则邪，重则不语。\n方用\n\n\n人参 茯苓 菖蒲 白芍（ 各叁钱） 白术（ 伍钱） 甘草（ 壹钱） 半夏 肉桂（ 各贰钱） 当归（ 壹两）\n\n水煎服, 二剂愈。\n\n又治法，令一人抱住身子，又一人抱住歪邪之耳轮, 再令一人手摩其歪邪之处，至数百下，使面上火热而后已，少顷口眼如故矣,　最神效。\n\n==== 半身不遂 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0133-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "胃虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "口眼歪邪"
+  },
+  {
+    "id": "funanke-0134",
+    "book": "funanke",
+    "chapter": "厥证门",
+    "chapterOrder": 15,
+    "order": 134,
+    "text": "此症宜于心胃而调理之，盖心为天真，神机开发之本，胃是谷府, 充大真气之标，标本相得，则心膈间之膻中气海，所留宗气盈溢，分布五脏三焦, 上下中外，无不周偏，若标本相失，不能致其气于气海，而宗气散矣, 故分布不周于经脉，则偏枯，不周于五脏，则瘖，即此言之, 未有不因真气不周而病者也，法宜黄耆为君，参、归、白芍为臣，防风、桂枝、钩藤、竹沥、姜、韭、葛、梨、乳汁为佐，治之而愈，若杂投乎乌附羌活之类, 以涸营而耗卫，如此死者，医杀人也。\n\n半身不遂，口眼歪邪,方用\n\n人参 当归 白术（ 各伍钱） 黄耆（ 壹两） 半夏 干葛（ 各叁钱） 甘草（ 壹钱） 红花（ 贰钱） 桂枝（ 壹钱伍分）\n\n水二樽，姜三片，枣二枚, 煎服。\n\n此症人多用风药治之，殊不见功，此药调理气血,故无不效。\n\n[ 此症由于血不行又中风，若用驱风之品，偏枯则终不起矣, 故当以养血和血为主，治风先治血，血行风自灭，此为的论]\n\n==== 痫症 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0134-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "血虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "半身不遂",
+    "misjudgment": {
+      "commonView": "多用风药治之",
+      "trueView": "调理气血"
+    }
+  },
+  {
+    "id": "funanke-0135",
+    "book": "funanke",
+    "chapter": "厥证门",
+    "chapterOrder": 15,
+    "order": 135,
+    "text": "此症忽然卧地，作牛马猪羊之声，吐痰如涌泉者，痰迷心窍也，盖因寒而成, 感寒而发也。\n方用\n\n\n人参 山药 半夏（ 各叁钱） 白术（ 壹两） 茯神 薏仁（ 各伍钱） 肉桂 附子（ 各壹钱）\n\n水煎服。\n\n又方\n\n人参 茯苓（ 各壹两） 白术（ 伍钱） 半夏 南星 附子 柴胡（ 各壹钱） 菖蒲（ 参分）\n\n水煎服, 此本治寒狂之方，治痫亦效。\n\n=== 癫狂门 ===\n\n==== 癫狂 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0135-1"
+    ],
+    "symptomTags": [
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "痰湿",
+      "寒湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "痫症"
+  },
+  {
+    "id": "funanke-0136",
+    "book": "funanke",
+    "chapter": "癫狂门",
+    "chapterOrder": 16,
+    "order": 136,
+    "text": "此症多生于脾胃之虚寒，饮食入胃，不变精而变痰，痰迷心窍，遂成癫狂, 茍徒治痰而不补气，未有不死者也。\n方用\n\n\n人参 白芥子（ 各伍钱） 白术（ 壹两） 半夏（ 叁钱） 陈皮 干姜 肉桂（ 各壹钱） 甘草 菖蒲（ 各伍分）\n\n水煎服。\n\n如女人得此症，去肉桂加白芍、柴胡、黑栀，治之亦最神效。\n\n==== 发狂见鬼 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0136-1"
+    ],
+    "symptomTags": [
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "脾虚",
+      "胃虚",
+      "痰湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "癫狂",
+    "misjudgment": {
+      "commonView": "徒治痰而不补气",
+      "trueView": "当补气而化痰"
+    }
+  },
+  {
+    "id": "funanke-0137",
+    "book": "funanke",
+    "chapter": "癫狂门",
+    "chapterOrder": 16,
+    "order": 137,
+    "text": "此症气虚而中痰也，宜固其正气，而佐以化痰之品, 方用\n\n人参 白术（ 各壹两） 半夏 南星（ 各叁钱） 附子（ 壹钱）\n\n水煎服。\n\n[男子补气，女子补血]\n\n==== 发狂不见鬼 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0137-1"
+    ],
+    "symptomTags": [
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "痰湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "发狂见鬼"
+  },
+  {
+    "id": "funanke-0138",
+    "book": "funanke",
+    "chapter": "癫狂门",
+    "chapterOrder": 16,
+    "order": 138,
+    "text": "此是内热之症。\n方用\n\n\n人参 白芍 半夏（ 各叁钱） 南星 黄连（ 各贰钱） 陈皮 甘草 白芥子（ 各壹钱）\n\n水煎服。\n\n==== 狂症 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0138-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "胃热"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "发狂不见鬼"
+  },
+  {
+    "id": "funanke-0139",
+    "book": "funanke",
+    "chapter": "癫狂门",
+    "chapterOrder": 16,
+    "order": 139,
+    "text": "此症有因寒得之者，一时之狂也，可用白虎汤以泻火，更有终年狂而不愈者, 或拿刀杀人，或骂亲戚，不认儿女，见水大喜，见食大恶，此乃心气之虚, 而热邪乘之，痰气侵之也, 方用\n化狂丹。\n\n人参 白术 茯神（ 各一两） 附子（ 一分） 半夏 兔丝子（ 各三钱） 菖蒲 甘草（ 各一钱）\n\n水煎服, 一剂狂定。\n\n此方妙补心脾胃三经，而化其痰，不去泻火，盖泻火则心气益虚, 而痰涎益盛，狂何以止乎，尤妙在微用附子，引补心消痰之品，直入心中, 则气易补而痰易消，又何用泻火之多事哉。\n\n[ 此症因寒得之，何以用白虎汤, 血寒邪外逼，里不热泄而扰心胃，如冬伤于寒，春必病温是也。 ]\n\n==== 寒狂 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0139-1"
+    ],
+    "symptomTags": [
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "痰湿",
+      "心火"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "狂症",
+    "misjudgment": {
+      "commonView": "因寒得之何以用白虎汤泻火",
+      "trueView": "寒邪外逼，里不热泄而扰心胃，如冬伤于寒春必病温"
+    }
+  },
+  {
+    "id": "funanke-0140",
+    "book": "funanke",
+    "chapter": "癫狂门",
+    "chapterOrder": 16,
+    "order": 140,
+    "text": "凡发狂骂人，未渴索饮，与水不饮者，寒证之狂也，此必气郁不舒，怒气未泄, 其人必性情过于柔弱，不能自振者耳，宜补气消痰, 方用\n\n人参 茯神（ 各一钱） 白术（ 五钱） 菖蒲（ 三分） 半夏 南星 附子 柴胡（ 各一钱）\n\n水煎服，药下喉，睡熟醒来, 病如失也。\n\n=== 怔忡惊悸门 ===\n\n==== 怔忡不寐 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0140-1"
+    ],
+    "symptomTags": [
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气滞",
+      "气虚",
+      "痰湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "寒狂"
+  },
+  {
+    "id": "funanke-0141",
+    "book": "funanke",
+    "chapter": "怔忡惊悸门",
+    "chapterOrder": 17,
+    "order": 141,
+    "text": "此症心经血虚也。\n方用\n\n\n人参 当归 茯苓（ 各叁钱） 丹皮 麦冬（ 各贰钱） 甘草 菖蒲 五味子（ 各壹钱） 生枣仁 熟枣仁（ 各伍钱）\n\n水煎服。\n\n此方妙在用生熟枣仁, 生使其日间不卧，熟使其日间不醒，又以补心之药为佐，而怔忡安矣。\n\n==== 心惊不安夜卧不睡 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0141-1"
+    ],
+    "symptomTags": [
+      "心悸",
+      "失眠"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "心血虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "怔忡不寐"
+  },
+  {
+    "id": "funanke-0142",
+    "book": "funanke",
+    "chapter": "怔忡惊悸门",
+    "chapterOrder": 17,
+    "order": 142,
+    "text": "此心病而实肾病也，宜心肾兼治, 方用\n\n人参 茯苓 茯神 熟地 山萸 当归（ 各参两） 远志（ 贰两） 菖蒲（ 叁钱） 黄连 肉桂 砂仁（ 各伍钱） 生枣仁 白芥子（ 各壹两）　麦冬（ 参两）\n\n蜜丸，每日下五钱，汤酒俱可。\n\n此方治心惊不安与不寐耳, 用人参、当归、茯神、麦冬足矣，即为起火不寐，亦不过用黄连足矣, 何以反用熟地、山萸补肾之药，又加肉桂以助火，不知人之心惊, 乃肾气不入于心也，不寐乃心气不归于肾也，今用熟地山萸补肾，则肾气可通于心, 肉桂以补命门之火，则肾气既温，相火有权，君火相得，自然上下同心, 君臣合德矣，然补肾固是，而亦有肝气不上于心而成此症者，如果有之, 宜再加白芍二两，兼补肝木，斯心泰然矣。 恐怕人夜卧交睫，则梦争斗负败，恐怖之状，难以形容，人以为心病, 谁知是肝病乎，盖肝藏魂，肝血虚则魂失养，故交睫若魇，此乃肝胆虚怯, 故负恐维多，此非大补，不克奏功，而草木之品，不堪任重，当以酒化鹿角胶, 空腹服之可愈，盖鹿角胶大补精血，血旺则神自安矣。\n\n[ 何以知肝气不上于心, 此人当面色青，或潮热，或手足烧，或眩晕左?涨。 ]\n\n==== 神气不宁 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0142-1"
+    ],
+    "symptomTags": [
+      "心悸",
+      "失眠",
+      "眩晕"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "心肾不交",
+      "肾虚",
+      "命门火衰",
+      "肝血虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "心惊不安夜卧不睡",
+    "misjudgment": {
+      "commonView": "心病",
+      "trueView": "肝病"
+    }
+  },
+  {
+    "id": "funanke-0143",
+    "book": "funanke",
+    "chapter": "怔忡惊悸门",
+    "chapterOrder": 17,
+    "order": 143,
+    "text": "人每卧则魂飞扬，觉身在床而魂离体矣，惊悸多魇，通夕不寐，人皆以为心病也, 谁知是肝经受邪乎，盖肝气一虚，邪气袭之，肝藏魂，肝受邪，魂无依, 是以魂飞扬而若离体也，法用珍珠母为君，龙齿佐之，珍珠母入肝为第一, 龙齿与肝同类，龙齿虎睛，今人例以为镇心之药，讵知龙齿安魂，虎睛定魄, 东方苍龙木也，属肝而藏魂，西方白虎金也，属肺而藏魄，龙能变化, 故魂游而不定，虎能专静，故魄止而有守，是以治魄不宁宜虎睛，治魂飞扬宜龙齿, 药各有当也，\n\n[此症岳每用桂枝汤温胆汤参之颇效]\n\n=== 腰腿肩背手足疼痛门 ===\n\n==== 满身皆痛 ====",
+    "formulaIds": [],
+    "symptomTags": [
+      "悸"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "神气不宁"
+  },
+  {
+    "id": "funanke-0144",
+    "book": "funanke",
+    "chapter": "腰腿肩背手足疼痛门",
+    "chapterOrder": 18,
+    "order": 144,
+    "text": "手足心腹一身皆痛，将治手乎，治足乎治肝为主，盖肝气一舒，诸痛自愈, 不可头痛救头，足痛救足也。\n方用\n\n\n柴胡 甘草 陈皮 栀子（ 各壹钱）　白芍 薏仁 茯苓（ 各伍钱） 当归 苍术（ 各贰钱）\n\n水煎服, 此逍遥散之变化也，舒肝而又去湿去火，治一经而诸经无不愈也。\n\n==== 腰痛 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0144-1"
+    ],
+    "symptomTags": [
+      "身痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝郁",
+      "湿热"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "满身皆痛"
+  },
+  {
+    "id": "funanke-0145",
+    "book": "funanke",
+    "chapter": "腰腿肩背手足疼痛门",
+    "chapterOrder": 18,
+    "order": 145,
+    "text": "痛而不能俯者，湿气也。\n方用\n\n\n柴胡 泽泻 猪苓 白芥子（ 各壹钱）　防已（ 贰钱） 白术 甘草（ 各伍钱） 肉桂（ 参分） 山药（ 叁钱）\n\n水煎服。\n\n此方妙在入肾去湿，不是入肾而补水，初痛者，一二剂可以奏功, 日久必多服为妙。\n\n痛而不能直者，风寒也。\n方用\n逍遥散加防已一钱，一剂可愈，若日久者, 当加杜仲一两，改白术二钱，酒煎服，十剂而愈。\n\n又方\n\n杜仲（ 壹两盐炒）　破故纸（ 伍钱盐炒） 熟地 白术（ 各参两） 核桃仁（ 贰钱）\n\n蜜丸, 每日空心白水送下五钱，服完可愈，如未全愈，再服一料，必愈。\n\n凡痛而不止者，肾经之病，乃脾湿之故。\n方用\n\n\n白术（ 肆两）　薏仁（ 参两） 芡实（ 贰两）\n\n水六碗，煎一碗，一气饮之, 此方治梦遗之病亦神效。\n\n==== 腰腿筋骨痛 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0145-1",
+      "funanke-formula-funanke-0145-2",
+      "funanke-formula-funanke-0145-3"
+    ],
+    "symptomTags": [
+      "腰痛",
+      "遗精"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "寒湿",
+      "风寒",
+      "肾虚",
+      "脾湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "腰痛"
+  },
+  {
+    "id": "funanke-0146",
+    "book": "funanke",
+    "chapter": "腰腿肩背手足疼痛门",
+    "chapterOrder": 18,
+    "order": 146,
+    "text": "方用\n养血汤\n\n当归 生地 肉桂 牛膝 杜仲 破故纸 茯苓 防风 （ 各壹钱） 川芎（ 五分） 甘草（ 参分） 核桃（ 贰个） 山萸 土茯苓（ 各贰钱）\n\n水酒煎服。\n\n==== 腰痛足亦痛 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0146-1"
+    ],
+    "symptomTags": [
+      "腰痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "血虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "腰腿筋骨痛"
+  },
+  {
+    "id": "funanke-0147",
+    "book": "funanke",
+    "chapter": "腰腿肩背手足疼痛门",
+    "chapterOrder": 18,
+    "order": 147,
+    "text": "方用\n\n黄耆（ 半斛） 防风 茯苓（ 各伍钱）　薏仁（ 伍两） 杜仲（ 壹两） 肉桂（ 壹钱） 车前子（ 叁钱）\n\n水十碗, 煎二碗入酒，以醉为主，醒即愈。\n\n腰足痛，明系是肾虚而气衰，更加之湿,自必作楚，妙在不补肾而单益气，盖气足则血生，血生则邪退，又助之薏仁、茯苓、车前之类，去湿，湿去而血活矣，况又有杜仲之健肾，肉桂之温肾,防风之荡风乎。\n\n==== 腿痛 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0147-1"
+    ],
+    "symptomTags": [
+      "腰痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾虚",
+      "气虚",
+      "脾湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "腰痛足亦痛"
+  },
+  {
+    "id": "funanke-0148",
+    "book": "funanke",
+    "chapter": "腰腿肩背手足疼痛门",
+    "chapterOrder": 18,
+    "order": 148,
+    "text": "身不离床褥，伛偻之状可掬，乃寒湿之气侵也。\n方用\n\n\n白术（ 伍钱） 芡实（ 贰钱） 肉桂（ 壹钱） 茯苓 荜薢（ 各壹两） 杜仲（ 叁钱） 薏仁（ 贰两）\n\n水煎，日日服之，不必改方，久之自奏大功。\n\n==== 两臂肩膊痛 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0148-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "寒湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "腿痛"
+  },
+  {
+    "id": "funanke-0149",
+    "book": "funanke",
+    "chapter": "腰腿肩背手足疼痛门",
+    "chapterOrder": 18,
+    "order": 149,
+    "text": "此手经之病，肝气之郁也。\n方用\n\n\n当归 白芍（ 各参两） 柴胡 陈皮（ 各伍钱） 羌活 秦艽 白芥子 半夏（ 各叁钱） 附子（ 壹钱）\n\n水六碗，煎三沸，取汁一碗，入黄酒服之，一醉而愈。\n\n此方妙在用白芍为君，以平肝木不来侮胃，而羌活柴胡又去风，直走手经之上,秦艽亦是风药，而兼附子攻邪，邪自退出，半夏、陈皮、白芥子，祛痰圣药, 风邪去而痰不留，更得附子无经不达，而其痛如失也。\n\n==== 手足痛 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0149-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝郁",
+      "痰湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "两臂肩膊痛"
+  },
+  {
+    "id": "funanke-0150",
+    "book": "funanke",
+    "chapter": "腰腿肩背手足疼痛门",
+    "chapterOrder": 18,
+    "order": 150,
+    "text": "手足肝之分野，而人乃为脾经之热，不知散肝木之郁结，而手足之痛自去, 方用\n逍遥散，加栀子（ 叁钱） 半夏（ 贰钱） 白芥子（ 贰钱）\n\n水煎服，二剂，其痛如失，盖肝木作祟，脾不敢当其锋，气散于四肢,结而不伸，所以作楚，今平其肝气，则脾气自舒矣。\n\n==== 胸背手足颈项腰膝痛 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0150-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝郁",
+      "肝克脾"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "手足痛",
+    "misjudgment": {
+      "commonView": "脾经之热",
+      "trueView": "肝木之郁结"
+    }
+  },
+  {
+    "id": "funanke-0151",
+    "book": "funanke",
+    "chapter": "腰腿肩背手足疼痛门",
+    "chapterOrder": 18,
+    "order": 151,
+    "text": "筋骨牵引，坐卧不得，时时走易不定，此是涎伏在心膈上下，或令人头痛, 夜间喉中如锯声，口流涎唾，手足重，腿冷，治法用控涎丹，不足十剂, 其病如失矣。\n\n[ 控涎丹方药未见此条，仍照原本存之。 ]\n\n==== 背骨痛 ====",
+    "formulaIds": [],
+    "symptomTags": [
+      "头痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "胸背手足颈项腰膝痛"
+  },
+  {
+    "id": "funanke-0152",
+    "book": "funanke",
+    "chapter": "腰腿肩背手足疼痛门",
+    "chapterOrder": 18,
+    "order": 152,
+    "text": "此症乃肾水衰耗，不能上润于脑，则河车之路，干涩而难行，故作痛也, 方用\n\n黄耆 熟地（ 各壹两） 山萸（ 肆钱） 白术 防风（ 各伍钱） 五味子（ 壹钱） 茯苓（ 叁钱） 附子（ 壹分） 麦冬（ 贰钱）\n\n水煎服。\n\n此方补气补水，去湿去风，润筋滋骨，何痛之不愈哉。\n\n==== 腰痛兼头痛 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0152-1"
+    ],
+    "symptomTags": [
+      "头痛",
+      "腰痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾阴虚",
+      "阴虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "背骨痛"
+  },
+  {
+    "id": "funanke-0153",
+    "book": "funanke",
+    "chapter": "腰腿肩背手足疼痛门",
+    "chapterOrder": 18,
+    "order": 153,
+    "text": "上下相殊也，如何治之乎，治腰乎，治头乎，谁知是肾气不通乎, 盖肾气上通于脑，而脑气下达于肾，上下虽殊，而气实相通，法当用温补之药,以大益其肾中之阴，则上下之气通矣。\n方用\n\n\n熟地（ 壹两） 杜仲 麦冬（ 各伍钱） 五味子（ 贰钱） 水煎服，一剂即愈。\n\n方内熟地, 杜仲，肾中药也，腰痛是其专功，今并头而亦愈者何也，盖此头痛,是肾气不上达之故，用补肾之味，则肾气旺而上通于脑,故腰不痛而头亦不痛矣。\n\n=== 心腹痛门 ===\n\n==== 心痛辨 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0153-1"
+    ],
+    "symptomTags": [
+      "腰痛",
+      "头痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "腰痛兼头痛"
+  },
+  {
+    "id": "funanke-0154",
+    "book": "funanke",
+    "chapter": "心腹痛门",
+    "chapterOrder": 19,
+    "order": 154,
+    "text": "心痛之症有二，一则寒气侵心而痛，一则火气焚心而痛，寒气侵心者,手足反温，火气焚心者，手足反冷，以此辨之最得。\n\n寒痛方用\n\n良姜 白术 草乌 贯仲（ 各叁钱） 肉桂 甘草（ 各壹钱）\n\n水煎服。\n\n热痛方用\n\n黑栀（ 叁钱） 白术（ 伍钱） 甘草 半夏 柴胡（ 各壹钱）\n\n水煎服。\n\n心不可使痛，或寒或火,皆冲心包耳。\n\n==== 久病心痛 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0154-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "阳虚",
+      "心火"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "心痛辨"
+  },
+  {
+    "id": "funanke-0155",
+    "book": "funanke",
+    "chapter": "心腹痛门",
+    "chapterOrder": 19,
+    "order": 155,
+    "text": "心乃神明之君，一毫邪气不可干犯，犯则立死，经年累月而痛者,邪气犯心包络也，但邪有寒热之辨，如恶寒见水如仇，火熨之则快，此寒邪也,方用\n\n苍术（ 贰钱） 白术（ 伍钱） 当归（ 壹两） 肉桂 良姜（ 各壹钱）\n\n水煎服。\n\n如见水喜悦，手按之而转痛者，热气犯心包络也。\n方用\n\n\n白芍（ 壹两） 黑栀 当归 生地（ 各叁钱） 甘草（ 壹钱） 陈皮（ 捌分）\n\n水煎服。\n\n寒热二症，皆责之于肝也，肝属木，心属火，木衰不能生火,则包络寒，补肝而邪自退，若包络之热，由于肝经之热,泻肝而火自消也。\n\n[ 心腹之痛共有九种，其实皆心包络、胃脘、膻中及腹痛,无真心痛也，虫痛、注痛、气痛、血痛、悸痛、食痛、饮痛、冷痛、热痛、证各有辨，其用药亦大有不同，如虫痛则唇上有疮，痛时作时止，可与乌梅圆,注痛则兼头痛，或抽慉或妄语，可与苏合丸，气痛则或上或下，或前或后，有肝、有胃、有肺，可与左金丸、平胃散之属，血痛则有痞块，可与桃仁汤、失笑散,悸痛则按之不拒，可与理中汤、妙香散，食痛则拒按发热，可与承气汤、槟榔丸,饮痛则吐清水，?下有水声，可与二陈汤，甚者十枣汤，冷痛热痛则此二方可用,先生此书因穷乡僻壤而设，执此可以应急，且免误于庸医，故去烦就简也。 ]\n\n==== 腹痛 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0155-1",
+      "funanke-formula-funanke-0155-2"
+    ],
+    "symptomTags": [
+      "恶寒",
+      "腹痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝郁",
+      "肝火"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "久病心痛"
+  },
+  {
+    "id": "funanke-0156",
+    "book": "funanke",
+    "chapter": "心腹痛门",
+    "chapterOrder": 19,
+    "order": 156,
+    "text": "痛不可忍，按之愈痛，口渴饮以凉水，则痛少止，少顷依然大痛,此火结在大小肠也，若不急治，一时气绝,方用\n定痛如神汤。\n\n黑栀 苍术（ 各叁钱） 甘草 厚朴（ 各壹钱） 茯苓（ 壹两） 白芍（ 伍钱）\n\n水煎服。\n\n此方舒肝经之气，利膀胱之水，泻水逐瘀，再加大黄壹钱,水煎服勿迟。\n\n腹中有痞块，一时发作，而痛不可手按者。\n方用\n\n\n白术（ 贰两） 枳实（ 壹两） 马粪（ 炒焦伍钱）\n\n好酒煎服。\n\n冷气心腹痛,方用\n火龙丹。\n\n硫磺（ 醋制壹两） 胡椒（ 壹钱） 白矾（ 肆钱）\n\n醋打荞面为丸如桐子大，每服二十五丸，米下汤。\n\n==== 胃气痛 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0156-1",
+      "funanke-formula-funanke-0156-2"
+    ],
+    "symptomTags": [
+      "腹痛",
+      "口渴",
+      "积聚"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝郁",
+      "血瘀",
+      "水饮"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "腹痛"
+  },
+  {
+    "id": "funanke-0157",
+    "book": "funanke",
+    "chapter": "心腹痛门",
+    "chapterOrder": 19,
+    "order": 157,
+    "text": "人病不能饮食，或食而不化，作痛作满，或兼吐泻，此肝木克脾土也,方用\n\n白芍 当归 柴胡 茯苓（ 各贰钱） 白术（ 叁钱） 甘草 白芥子（ 各壹钱）\n\n水煎服。\n\n有火加栀子贰钱，无火加肉桂壹钱,有食加山查叁钱，伤面食加枳壳壹钱，麦芽壹钱，有痰加半夏壹钱，有火能散,有寒能驱，此右病而左治之也。\n\n=== 麻木门 ===\n\n==== 手麻木 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0157-1"
+    ],
+    "symptomTags": [
+      "纳差",
+      "腹痛",
+      "腹胀",
+      "呕吐",
+      "泄泻"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝克脾",
+      "肝郁"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "胃气痛"
+  },
+  {
+    "id": "funanke-0158",
+    "book": "funanke",
+    "chapter": "麻木门",
+    "chapterOrder": 20,
+    "order": 158,
+    "text": "此乃气虚而寒湿中之，如其不治，三年后必中大风,方用\n\n白术 黄耆（ 各伍钱） 陈皮 桂枝（ 各伍分） 甘草（ 壹两）\n\n水煎服。\n\n==== 手麻 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0158-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚",
+      "寒湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "手麻木"
+  },
+  {
+    "id": "funanke-0159",
+    "book": "funanke",
+    "chapter": "麻木门",
+    "chapterOrder": 20,
+    "order": 159,
+    "text": "十指皆麻，面目失色，此亦气虚也，治当补中益气汤, 加木香麦冬香附羌活乌药防风，三剂可愈。\n\n==== 手足麻木 ====",
+    "formulaIds": [],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "手麻"
+  },
+  {
+    "id": "funanke-0160",
+    "book": "funanke",
+    "chapter": "麻木门",
+    "chapterOrder": 20,
+    "order": 160,
+    "text": "[手足麻木为中风之候，左右偏枯皆先由手足大指不用起,盖手太阴肺经行于手大指，肺藏气而右降，气分虚则病偏于右,足厥阴肝经行于足大指，肝藏血而左升，血分虚则病偏于左，故手足麻木必补气血,且验中风之候于未来也]\n\n四物汤加人参、白术、茯苓、陈皮、半夏、桂枝、柴胡、羌活、防风、秦艽、牛膝炙草，姜、枣引煎服，四剂愈。\n\n==== 木 ====",
+    "formulaIds": [],
+    "symptomTags": [
+      "厥"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "手足麻木"
+  },
+  {
+    "id": "funanke-0161",
+    "book": "funanke",
+    "chapter": "麻木门",
+    "chapterOrder": 20,
+    "order": 161,
+    "text": "凡木是湿痰死血也，用四物汤加陈皮、半夏、茯苓、桃仁、红花、白芥子、甘草、竹沥、姜汁，\n\n水煎服。\n\n==== 腿麻木 ====",
+    "formulaIds": [],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "木"
+  },
+  {
+    "id": "funanke-0162",
+    "book": "funanke",
+    "chapter": "麻木门",
+    "chapterOrder": 20,
+    "order": 162,
+    "text": "方用\n导气散\n\n黄耆（ 贰钱） 甘草（ 壹钱伍分） 青皮（ 壹钱） 升麻 柴胡 归尾 泽泻（ 各伍分） 五味子（ 参拾粒） 陈皮（ 捌分） 红花（ 少许）\n\n水煎，温服甚效。\n\n==== 两手麻困倦嗜卧 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0162-1"
+    ],
+    "symptomTags": [
+      "嗜卧"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "腿麻木"
+  },
+  {
+    "id": "funanke-0163",
+    "book": "funanke",
+    "chapter": "麻木门",
+    "chapterOrder": 20,
+    "order": 163,
+    "text": "此乃热伤元气也。\n方用\n益气汤。\n\n人参 甘草（ 各壹钱） 黄耆（ 贰钱） 灸草（ 伍分） 五味子（ 参拾粒） 柴胡 白芍（ 各柒分） 姜（ 参片） 枣（ 贰枚）\n\n水煎热服。\n\n==== 浑身麻木 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0163-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "两手麻困倦嗜卧"
+  },
+  {
+    "id": "funanke-0164",
+    "book": "funanke",
+    "chapter": "麻木门",
+    "chapterOrder": 20,
+    "order": 164,
+    "text": "凡人身体麻木不仁，两目羞明怕日，眼涩难开，视物昏花，睛痛,方用\n神效黄耆汤。\n\n黄耆 白芍（ 各壹钱） 陈皮（ 伍分） 人参（ 捌分） 炙草（ 肆分） 蔓荆子（ 贰分） 如有热，加黄柏参分,\n\n水煎服。\n\n==== 麻木痛 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0164-1"
+    ],
+    "symptomTags": [
+      "目昏",
+      "目痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "浑身麻木"
+  },
+  {
+    "id": "funanke-0165",
+    "book": "funanke",
+    "chapter": "麻木门",
+    "chapterOrder": 20,
+    "order": 165,
+    "text": "风寒湿三气，合而成疾，客于皮肤肌肉之间，或痛或麻木,方用\n\n牛膝胶（ 贰两） 南星（ 伍钱） 姜汁（ 半碗）\n\n共熬膏摊贴，再以热鞋底熨之，加羌活乳香没药，更妙。\n\n==== 足弱 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0165-1"
+    ],
+    "symptomTags": [
+      "身痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "风寒",
+      "寒湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "麻木痛"
+  },
+  {
+    "id": "funanke-0166",
+    "book": "funanke",
+    "chapter": "麻木门",
+    "chapterOrder": 20,
+    "order": 166,
+    "text": "此症不能步履，人以为肾水之虚，谁知由于气虚而不能运动乎, 方用\n\n补中益气汤加 人参 牛膝（ 各叁钱） 金石斛（ 伍钱） 黄耆（ 壹两）\n\n水煎服。\n\n==== 筋缩 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0166-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "足弱",
+    "misjudgment": {
+      "commonView": "肾水之虚",
+      "trueView": "气虚而不能运动"
+    }
+  },
+  {
+    "id": "funanke-0167",
+    "book": "funanke",
+    "chapter": "麻木门",
+    "chapterOrder": 20,
+    "order": 167,
+    "text": "凡人一身筋脉，不可有病，病则筋缩而身痛，脉濇而体重矣，然筋之舒,在于血和，而脉之平，在于气足，故治筋必须先治血，而治脉必须补气,人若筋急拳缩伛偻，而不能直立者，皆筋病也。\n方用\n\n\n当归（ 壹两） 白芍 薏仁 生地 元参（ 各伍钱） 柴胡（ 壹钱）\n\n水煎服。\n\n此方妙在用柴胡一味，入于补药中，盖血亏则筋病,用补药以治筋宜矣，何又用柴胡，夫肝为筋之主，筋乃肝之余，气不顺，筋自缩急,今用柴胡以舒散之，郁气既除，而又济之以大剂补血，则筋得其养矣。\n\n=== 胁痛门 ===\n\n==== 两胁有块 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0167-1"
+    ],
+    "symptomTags": [
+      "身痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "血虚",
+      "气滞",
+      "肝郁"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "筋缩"
+  },
+  {
+    "id": "funanke-0168",
+    "book": "funanke",
+    "chapter": "胁痛门",
+    "chapterOrder": 21,
+    "order": 168,
+    "text": "左胁有块作痛，是死血也，右胁有块作痛，是食积也，遍身作痛，筋骨尤甚,不能伸屈，口渴目赤头眩，痰壅胸不利，小便短赤，夜间殊甚，又遍身作痒如虫行,人以为风也，谁知是肾气虚而热也，法用六味地黄汤加栀子柴胡，是乃正治也,三剂见效。\n\n==== 左胁痛 ====",
+    "formulaIds": [],
+    "symptomTags": [
+      "胁痛",
+      "渴"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "两胁有块",
+    "misjudgment": {
+      "commonView": "风也",
+      "trueView": "是肾气虚而热也，法用六味地黄汤加栀子柴胡，是乃正治也,三剂见效"
+    }
+  },
+  {
+    "id": "funanke-0169",
+    "book": "funanke",
+    "chapter": "胁痛门",
+    "chapterOrder": 21,
+    "order": 169,
+    "text": "左胁痛，肝经受邪也。\n方用\n\n\n黄连（ 吴萸炒贰钱） 柴胡 当归 青皮 桃仁（ 研各壹钱） 川芎（ 捌分） 红花（ 伍分）\n\n水煎食（ 远服） 。\n\n有痰。 加陈皮半夏。\n\n==== 右胁痛 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0169-1"
+    ],
+    "symptomTags": [
+      "胁痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝郁"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "左胁痛"
+  },
+  {
+    "id": "funanke-0170",
+    "book": "funanke",
+    "chapter": "胁痛门",
+    "chapterOrder": 21,
+    "order": 170,
+    "text": "此是邪入肺经也。 方用\n\n片姜黄　枳壳（ 各贰钱） 桂心（ 贰分） 炙草　陈皮　半夏（ 各伍分）\n\n水煎服。\n\n==== 左右胁俱痛 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0170-1"
+    ],
+    "symptomTags": [
+      "胁痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肺热"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "右胁痛"
+  },
+  {
+    "id": "funanke-0171",
+    "book": "funanke",
+    "chapter": "胁痛门",
+    "chapterOrder": 21,
+    "order": 171,
+    "text": "方用\n\n柴胡 青皮　龙胆草　当归（ 各一钱） 川芎 枳壳（ 各捌分） 甘草（ 参分） 砂仁 木香（ 各伍分）\n\n姜水煎服。\n\n==== 两胁走注 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0171-1"
+    ],
+    "symptomTags": [
+      "胁痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "左右胁俱痛"
+  },
+  {
+    "id": "funanke-0172",
+    "book": "funanke",
+    "chapter": "胁痛门",
+    "chapterOrder": 21,
+    "order": 172,
+    "text": "两胁走注，痛而有声者，痰也。\n方用\n\n\n二陈汤，去甘草加枳壳、砂仁、广木香、川芎、青皮、苍术、香附、茴香\n\n水煎服。\n\n==== 胁痛身热 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0172-1"
+    ],
+    "symptomTags": [
+      "胁痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "痰湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "两胁走注"
+  },
+  {
+    "id": "funanke-0173",
+    "book": "funanke",
+    "chapter": "胁痛门",
+    "chapterOrder": 21,
+    "order": 173,
+    "text": "此劳也，用补中益气汤，加川芎、白芍、青皮、砂仁、枳壳、茴香，去黄耆，水煎服。\n\n==== 胁痛 ====",
+    "formulaIds": [],
+    "symptomTags": [
+      "胁痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "胁痛身热"
+  },
+  {
+    "id": "funanke-0174",
+    "book": "funanke",
+    "chapter": "胁痛门",
+    "chapterOrder": 21,
+    "order": 174,
+    "text": "此乃肝病也，故治胁痛，必须平肝，平肝必须补肾，肾水足而后肝气有养,不治胁痛，而胁痛自平也。\n方用\n肝肾兼资汤。\n\n熟地 当归（ 各壹两） 白芍（ 贰两） 黑栀（ 壹钱） 山萸（ 伍钱） 白芥子 甘草（ 各叁钱）\n\n水煎服。\n\n[ 每咯血之人，胁涨痛而咯,是经血瘀滞胁下也，两方用\n时加桃仁柒枚，黑荆芥穗捌分尤效。 ]\n\n==== 胁痛咳嗽 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0174-1"
+    ],
+    "symptomTags": [
+      "胁痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾阴虚",
+      "水不涵木"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "胁痛"
+  },
+  {
+    "id": "funanke-0175",
+    "book": "funanke",
+    "chapter": "胁痛门",
+    "chapterOrder": 21,
+    "order": 175,
+    "text": "咳嗽气急，脉滑数者，痰结痛也。\n\n瓜蒌仁 枳壳 青皮 茴香 白芥子\n\n水煎服。\n\n=== 浊淋门 ===\n\n==== 二浊五淋病 ====",
+    "formulaIds": [],
+    "symptomTags": [
+      "咳"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "胁痛咳嗽"
+  },
+  {
+    "id": "funanke-0176",
+    "book": "funanke",
+    "chapter": "浊淋门",
+    "chapterOrder": 22,
+    "order": 176,
+    "text": "浊淋二症，俱小便赤也，浊多虚，淋多实，淋痛浊不痛为异耳，浊淋俱属热症,惟其不痛，大约属湿痰下陷，及脱精所致，惟其有痛，大约纵淫欲火动,强留败精而然，不可混治。\n\n==== 淋症 ====",
+    "formulaIds": [],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "二浊五淋病"
+  },
+  {
+    "id": "funanke-0177",
+    "book": "funanke",
+    "chapter": "浊淋门",
+    "chapterOrder": 22,
+    "order": 177,
+    "text": "方用\n\n五淋散\n\n淡竹叶 赤茯苓 芥穗 灯心（ 各壹钱） 车前子（ 伍钱）\n\n水煎服。\n\n==== 浊症 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0177-1"
+    ],
+    "symptomTags": [
+      "小便不利"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "淋症"
+  },
+  {
+    "id": "funanke-0178",
+    "book": "funanke",
+    "chapter": "浊淋门",
+    "chapterOrder": 22,
+    "order": 178,
+    "text": "方用\n\n清心莲子饮\n\n石莲子 人参（ 各贰钱伍分） 灸草 赤茯苓（ 各贰钱） 麦冬 黄耆 地骨皮 车前子（ 各壹钱伍分） 甘草（ 伍分）\n\n水煎服。\n\n=== 肾病门 ===\n\n==== 阳强不倒 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0178-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "浊症"
+  },
+  {
+    "id": "funanke-0179",
+    "book": "funanke",
+    "chapter": "肾病门",
+    "chapterOrder": 23,
+    "order": 179,
+    "text": "此虚火炎上，而肺气不能下行故耳，若用黄柏知母煎汤饮之，立时消散,然自倒之后，终年不能振起，亦非善治之法也, 方用\n\n元参 麦冬（ 各参两） 肉桂（ 参分）\n\n水煎服。\n\n此方妙在用元参以泻肾中之火，肉桂入其宅，麦冬助肺金之气,清肃下行，以生肾水，水足则火自息矣，不求倒而自倒矣。\n\n==== 阳痿不举 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0179-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "相火妄动",
+      "肾阴虚",
+      "金不生水"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "阳强不倒",
+    "misjudgment": {
+      "commonView": "用黄柏知母煎汤饮之，立时消散",
+      "trueView": "自倒之后终年不能振起，亦非善治之法"
+    }
+  },
+  {
+    "id": "funanke-0180",
+    "book": "funanke",
+    "chapter": "肾病门",
+    "chapterOrder": 23,
+    "order": 180,
+    "text": "此症乃平日过于削，日泄其肾中之水，而肾中之火，亦因而消亡,盖水去而火亦去，必然之理，有如一家人口，厨下无水，何以为炊, 必有水而后取柴炭以煮饭，不则空铛也。\n方用\n\n\n熟地（ 壹两） 山萸（ 肆钱） 远志 巴戟　肉苁蓉 杜仲（ 各壹钱） 肉桂 茯神（ 各贰钱） 白术（ 伍钱） 人参（ 叁钱）\n\n水煎服。\n\n==== 尿血又便血 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0180-1"
+    ],
+    "symptomTags": [
+      "阳痿"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾虚",
+      "肾阳虚",
+      "肾阴虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "阳痿不举"
+  },
+  {
+    "id": "funanke-0181",
+    "book": "funanke",
+    "chapter": "肾病门",
+    "chapterOrder": 23,
+    "order": 181,
+    "text": "便血出于后阴，尿血出于前阴，最难调治，然总之出血于下也,方用\n\n生地（ 壹两） 地榆（ 叁钱） 水煎服，二症俱愈,盖大小便各有经络，而其症皆因膀胱之热也，生地地榆，俱能清膀胱之热,一方而两用之也，盖分之中有合。\n\n==== 疝气 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0181-1"
+    ],
+    "symptomTags": [
+      "便血",
+      "出血"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "湿热"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "尿血又便血"
+  },
+  {
+    "id": "funanke-0182",
+    "book": "funanke",
+    "chapter": "肾病门",
+    "chapterOrder": 23,
+    "order": 182,
+    "text": "方用\n去铃丸\n\n大茴香 姜汁（ 各壹斛）\n\n将姜汁入茴香内，侵一宿，入青盐贰两,同炒红为末，酒丸桐子大，每服三十丸，温酒或米汤送下。\n\n==== 肾子痛 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0182-1"
+    ],
+    "symptomTags": [
+      "疝气"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "疝气"
+  },
+  {
+    "id": "funanke-0183",
+    "book": "funanke",
+    "chapter": "肾病门",
+    "chapterOrder": 23,
+    "order": 183,
+    "text": "方用\n\n泽泻 陈皮 赤苓（ 各壹钱） 丹皮 小茴香 枳实（ 各叁钱） 吴萸 苍术（ 各伍分） 山查（ 肆分） 苏梗（ 肆分）\n\n姜水煎服。\n\n又方\n\n酒炒大茴香、酒炒小茴香、赤石脂（ 煅） 、广木香各等分,乌梅肉捣烂为丸，如桐子大，空心每服十五丸，葱酒送下立效。\n\n==== 偏坠 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0183-1"
+    ],
+    "symptomTags": [
+      "疝气"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "肾子痛"
+  },
+  {
+    "id": "funanke-0184",
+    "book": "funanke",
+    "chapter": "肾病门",
+    "chapterOrder": 23,
+    "order": 184,
+    "text": "方用\n\n小茴香、猪苓等分，微炒为末，空心盐水冲服,热盐熨亦甚效。\n\n=== 杂方 ===\n\n==== 病在上而求诸下 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0184-1"
+    ],
+    "symptomTags": [
+      "疝气"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "偏坠"
+  },
+  {
+    "id": "funanke-0185",
+    "book": "funanke",
+    "chapter": "杂方",
+    "chapterOrder": 24,
+    "order": 185,
+    "text": "头痛、目痛、耳红、腮肿，一切上焦等症，除清凉发散正治外，人即束手无策,而不知更有三法，如大便结、脉沉实者，用酒蒸大黄三钱微下之，名釜底抽薪之法,如大便泻，脉沉足冷者，宜六味地黄汤，加牛膝、车前、肉桂,足冷甚者，加熟附子，是冷极于下，而迫其火之上升也,此名导龙入海之法，大便如常，脉无力者，用牛膝车前引下之,此名引火归源之法也。\n\n==== 病在下而求诸上 ====",
+    "formulaIds": [],
+    "symptomTags": [
+      "头痛"
+    ],
+    "pulseTags": [
+      "脉沉"
+    ],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "病在上而求诸下"
+  },
+  {
+    "id": "funanke-0186",
+    "book": "funanke",
+    "chapter": "杂方",
+    "chapterOrder": 24,
+    "order": 186,
+    "text": "凡治下焦病用本药不愈者，须从上治之，如足痛足肿，无力虚软，膝疮红肿, 用木瓜、薏仁、牛膝、防已、黄柏、苍术之品,不效者定是中气下陷，湿热下流，用补中益气升提之,如足软不能行而能食，名曰痿症，宜清肺热，如治泄泻,用实脾利水之剂，不效者亦用补中益气，去当归，加炮姜苍术,脉迟加肉蔻、故纸，如尿血、用凉血利水药不效、宜清心莲子饮,若清心不止，再加升柴，如治便血　用止涩之药，不效,或兼泄泻，须察其脉如右关微，或数大无力，是脾虚不摄血，宜六君子加炮姜,若右关沉紧，是饮食伤脾，不能摄血，加沉香贰分，右寸洪数，是实热在肺,宜清肺，麦冬、花粉、元参、枯芩、桔梗、五味子、枳壳等味。\n\n==== 疮毒 ====",
+    "formulaIds": [],
+    "symptomTags": [],
+    "pulseTags": [
+      "脉迟"
+    ],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "病在下而求诸上"
+  },
+  {
+    "id": "funanke-0187",
+    "book": "funanke",
+    "chapter": "杂方",
+    "chapterOrder": 24,
+    "order": 187,
+    "text": "方用\n如神汤\n\n银花 当归 蒲公英（ 各壹两） 荆芥 连翘（ 各壹钱） 甘草（ 叁钱）\n\n水煎服。\n\n==== 头面上疮 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0187-1"
+    ],
+    "symptomTags": [
+      "疮疡"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "疮毒"
+  },
+  {
+    "id": "funanke-0188",
+    "book": "funanke",
+    "chapter": "杂方",
+    "chapterOrder": 24,
+    "order": 188,
+    "text": "方用\n\n银花（ 贰两） 当归（ 壹两） 川芎 甘草（ 各伍钱） 桔梗 蒲公英（ 各叁钱） 黄芩（ 壹钱）\n\n水煎服。 二剂全消。\n\n头疮不可用升提之药，最宜用降火之品，切记之。\n\n==== 身上手足之疮疽 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0188-1"
+    ],
+    "symptomTags": [
+      "疮疡"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "头面上疮"
+  },
+  {
+    "id": "funanke-0189",
+    "book": "funanke",
+    "chapter": "杂方",
+    "chapterOrder": 24,
+    "order": 189,
+    "text": "方用\n\n银花 甘草 蒲公英（ 各叁钱） 当归（ 壹两） 牛蒡子（ 贰钱） 花粉（ 伍钱） 芙蓉叶（ 七片无叶用根）\n\n水煎服。\n\n==== 统治诸疮 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0189-1"
+    ],
+    "symptomTags": [
+      "疮疡"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "身上手足之疮疽"
+  },
+  {
+    "id": "funanke-0190",
+    "book": "funanke",
+    "chapter": "杂方",
+    "chapterOrder": 24,
+    "order": 190,
+    "text": "方用\n\n花粉 甘草 银花 蒲公英\n\n水煎服，二剂全愈。\n\n此方消毒大有其功,诸痈诸疽，不论部位，皆治之。\n\n==== 黄水疮 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0190-1"
+    ],
+    "symptomTags": [
+      "疮疡"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "统治诸疮"
+  },
+  {
+    "id": "funanke-0191",
+    "book": "funanke",
+    "chapter": "杂方",
+    "chapterOrder": 24,
+    "order": 191,
+    "text": "方用\n\n雄黄、防风煎汤，洗之即愈。\n\n==== 手汗 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0191-1"
+    ],
+    "symptomTags": [
+      "疮疡"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "黄水疮"
+  },
+  {
+    "id": "funanke-0192",
+    "book": "funanke",
+    "chapter": "杂方",
+    "chapterOrder": 24,
+    "order": 192,
+    "text": "方用\n\n黄耆 干葛（ 各壹两） 荆芥 防风（ 各叁钱）\n\n水煎壹盆,热熏温洗三次愈。\n\n==== 饮砒毒 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0192-1"
+    ],
+    "symptomTags": [
+      "汗出"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "手汗"
+  },
+  {
+    "id": "funanke-0193",
+    "book": "funanke",
+    "chapter": "杂方",
+    "chapterOrder": 24,
+    "order": 193,
+    "text": "用生甘草参两，加羊血半碗，和匀饮之，立吐而愈，若不吐,速用大黄贰两甘草伍钱，白矾壹两，当归参两，水煎数碗饮之,立时大泻即生。\n\n==== 补肾 ====",
+    "formulaIds": [],
+    "symptomTags": [
+      "吐"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "饮砒毒"
+  },
+  {
+    "id": "funanke-0194",
+    "book": "funanke",
+    "chapter": "杂方",
+    "chapterOrder": 24,
+    "order": 194,
+    "text": "方用\n\n大盐青菽苇七寸，煮核桃。\n\n==== 嚏喷 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0194-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肾虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "补肾"
+  },
+  {
+    "id": "funanke-0195",
+    "book": "funanke",
+    "chapter": "杂方",
+    "chapterOrder": 24,
+    "order": 195,
+    "text": "方用\n\n生半夏为末，水丸绿豆大，入鼻孔，必嚏喷不已,用水饮之立止，通治中风不语，及中恶中鬼俱妙。\n\n==== 破伤风 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0195-1"
+    ],
+    "symptomTags": [
+      "鼻塞"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "嚏喷"
+  },
+  {
+    "id": "funanke-0196",
+    "book": "funanke",
+    "chapter": "杂方",
+    "chapterOrder": 24,
+    "order": 196,
+    "text": "方用\n\n蝉退去净，头足为末伍钱，用好酒壹碗，煎滚入末，调匀服之,立生。\n\n==== 疯狗咬伤 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0196-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "风寒"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "破伤风"
+  },
+  {
+    "id": "funanke-0197",
+    "book": "funanke",
+    "chapter": "杂方",
+    "chapterOrder": 24,
+    "order": 197,
+    "text": "用：手指甲焙黄为末 滚黄酒冲服，发汗即愈，忌房事百日。\n\n=== 小儿科 ===\n\n==== 色 ====",
+    "formulaIds": [],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "疯狗咬伤"
+  },
+  {
+    "id": "funanke-0198",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 198,
+    "text": "小儿鼻之上，眼之中，色红者心热也，红筋横直，现于山根，皆心热也,色紫者，心热之甚而肺亦热也，色青者，肝有风也，青筋横直现者肝热也,直者风上行，横者风下行也，色黑者风甚，而肾中有寒也，色白者肺中有痰,黄者脾胃虚而作泻，一观其色，而疾可知矣。\n\n==== 脉 ====",
+    "formulaIds": [],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "色"
+  },
+  {
+    "id": "funanke-0199",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 199,
+    "text": "大人看脉于寸关尺，小儿不然，但看其数不数而已，数甚则热，不数则寒也,数之中浮者风也，沉者寒也，缓者湿也，濇者邪也，滑者痰也，有止歇者痛也,如此而已，余不必过谈也。\n\n==== 三关 ====",
+    "formulaIds": [],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "脉"
+  },
+  {
+    "id": "funanke-0200",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 200,
+    "text": "小儿虎口，风气命三关，紫属热，红属寒，青属惊风，白属疳，风关轻，气为重,若至命关，则难治矣。\n\n==== 不食乳 ====",
+    "formulaIds": [],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "三关"
+  },
+  {
+    "id": "funanke-0201",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 201,
+    "text": "小儿不食乳，心热也，葱煎乳汁，令小儿服之亦妙，不若用黄连三分,煎汤一分，灌数次即食矣，神效。\n\n==== 脐不干 ====",
+    "formulaIds": [],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "不食乳"
+  },
+  {
+    "id": "funanke-0202",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 202,
+    "text": "用：\n\n车前子炒焦为细末，敷之即干。\n\n==== 山根 ====",
+    "formulaIds": [],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "脐不干"
+  },
+  {
+    "id": "funanke-0203",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 203,
+    "text": "山根之上，有青筋直视者，乃肝热也。\n方用\n\n\n柴胡 半夏（ 各参分） 白芍 茯苓（ 各壹钱） 当归 白术（ 各伍分） 山查（ 参个） 甘草（ 壹分）\n\n水煎服。\n\n有青筋横现者。 亦肝热也。 直者风上行。 横者风下行。 用前方加柴胡（ 伍分） 麦芽（ 壹钱） 干姜（ 壹分）\n\n水煎服。\n\n有红筋直现者，心热也，亦用前方加黄连（ 壹分） 麦冬（ 伍分）去半夏，加桑白皮、天花粉（ 各贰分）\n\n水煎服。\n\n有红筋斜现者,亦心热也，亦用前方加黄连（ 贰分） ，热积于胸中，不可用半夏,用桑白皮、花粉可也。\n\n有黄筋现于山根者，不论横直，总是脾胃之症,或吐或泻，腹痛或不思食。\n方用\n\n\n白术 茯苓（ 各伍分） 陈皮 人参 麦芽（ 各贰分） 神曲　甘草（ 各壹分） 淡竹叶（ 柒分）\n\n水煎服。\n\n有痰加半夏壹分，白芥子贰分，如口渴有热者,加麦冬参分，黄芩壹分，有寒加干姜壹分，吐加白蔻壹粒,泻加猪苓伍分，腹痛按之大叫者食也，加大黄参分，枳实壹分，按之不呼号者寒也,加干姜参分，如身发热者，不可用此方。\n\n==== 发热 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0203-1",
+      "funanke-formula-funanke-0203-2"
+    ],
+    "symptomTags": [
+      "呕吐",
+      "泄泻",
+      "腹痛",
+      "纳差",
+      "口渴",
+      "发热"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝火",
+      "心火",
+      "脾虚",
+      "食积"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "山根"
+  },
+  {
+    "id": "funanke-0204",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 204,
+    "text": "不拘早晚发热，俱用万全汤神效。\n\n柴胡 白术 黄芩 神曲（ 各参分） 白芍 麦冬（ 各壹钱） 当归（ 伍分） 茯苓（ 贰分） 甘草 苏叶（ 各壹分） 山查（ 参个）\n\n水煎服。\n\n冬加麻黄壹分，夏加石膏参分，春加青蒿参分，秋加桔梗参分,有食加枳壳参分，有痰加白芥子参分，吐加白蔻壹粒，泻加猪苓壹钱，小儿诸症,不过如此，不可作惊风治之，如果有惊风，加人参伍分，其效如神。\n\n凡潮热、积热、疟热，乃脾积寒热，俱用姜梨引。\n\n柴胡、人参、黄芩、前胡、秦艽、甘草、青蒿各壹分，童便浸晒干，生地一寸,薄荷二叶，或生梨生藕一片，水煎服，甚效。\n\n==== 感冒风寒 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0204-1"
+    ],
+    "symptomTags": [
+      "发热"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "风寒",
+      "食积",
+      "痰湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "发热"
+  },
+  {
+    "id": "funanke-0205",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 205,
+    "text": "方用\n\n柴胡（ 伍分） 白术 白芍（ 各壹钱） 茯苓 炙草 半夏（ 各参分） 陈皮（ 贰分） 当归（ 捌分）\n\n水煎热服。\n\n==== 惊风 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0205-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "风寒"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "感冒风寒"
+  },
+  {
+    "id": "funanke-0206",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 206,
+    "text": "世人动曰惊风，谁知小儿惊则有之，而风则无，小儿纯阳之体，不当有风,而状有风者，盖小儿阳旺内热，内热则生风，是非外来之风，乃内出之风也,内风作外风治，是速之死也。\n方用\n清火散风汤。\n\n白术 栀子（ 各参分） 茯苓（ 贰钱） 陈皮 甘草 半夏（ 各壹分） 白芍（ 壹钱） 柴胡（ 伍分）\n\n水煎服。\n\n此方健脾平肝之圣药,肝平则火散，脾健则风止，断不可以风药表散之也。\n\n==== 惊风 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0206-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝火",
+      "脾虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "惊风",
+    "misjudgment": {
+      "commonView": "内风作外风治，用风药表散",
+      "trueView": "内热生风非外来之风，不可以风药表散"
+    }
+  },
+  {
+    "id": "funanke-0207",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 207,
+    "text": "凡惊风皆由于气虚。\n方用\n压风汤,\n\n人参 白术 神曲（ 各伍分） 甘草 半夏 丹砂（ 各参分） 茯神（ 壹钱） 砂仁（ 壹粒） 陈皮（ 壹分）\n\n水煎服，此方治慢惊风,加黄耆。\n\n==== 痢疾 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0207-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "惊风"
+  },
+  {
+    "id": "funanke-0208",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 208,
+    "text": "方用\n\n当归 白芍（ 各壹钱） 黄连（ 贰分） 枳壳 槟榔（ 各伍分） 甘草（ 参分）\n\n水煎温服。\n\n红痢倍黄连，白痢加泽泻参分，腹痛倍甘草，加白芍,小便赤加木通参分，下如豆汁，加白术壹钱，伤食加山查麦芽各参分,气虚加人参参分。\n\n==== 泄泻 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0208-1"
+    ],
+    "symptomTags": [
+      "腹痛",
+      "小便不利"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "湿热",
+      "食积",
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "痢疾"
+  },
+  {
+    "id": "funanke-0209",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 209,
+    "text": "身热如火，口渴舌燥，喜冷饮而不喜热汤。\n方用\n泻火止泻汤\n\n车前子（ 贰钱） 茯苓 白芍 麦芽（ 各壹钱） 黄连 猪苓（ 各参分） 泽泻（ 伍分） 枳壳（ 贰分）\n\n水煎服。\n\n==== 寒泻 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0209-1"
+    ],
+    "symptomTags": [
+      "泄泻",
+      "发热",
+      "口渴"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "胃热"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "泄泻"
+  },
+  {
+    "id": "funanke-0210",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 210,
+    "text": "此症必腹痛而喜手按摩，口不渴而舌滑，喜热饮而不喜冷水也,方用\n散寒止泻汤。\n\n人参 白术（ 各壹钱） 茯苓（ 贰钱） 肉桂 干姜（ 各贰分） 甘草（ 壹分） 砂仁（ 壹粒） 神曲（ 伍分）\n\n水煎服。\n\n==== 吐 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0210-1"
+    ],
+    "symptomTags": [
+      "腹痛",
+      "泄泻"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "寒湿"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "寒泻"
+  },
+  {
+    "id": "funanke-0211",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 211,
+    "text": "此症虽胃气之弱，亦脾气之虚，小儿恣意饱食，不能消化,久之上冲于胃口而吐也。\n方用\n止吐速效汤\n\n人参 白术（ 各壹钱） 砂仁（ 壹粒） 茯苓（ 贰钱） 陈皮（ 贰分） 麦芽（ 伍分）半夏 干姜（ 各壹分） 山查（ 参个）\n\n水煎服。\n\n==== 咳嗽 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0211-1"
+    ],
+    "symptomTags": [
+      "呕吐"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "胃虚",
+      "脾虚",
+      "食积"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "吐"
+  },
+  {
+    "id": "funanke-0212",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 212,
+    "text": "方用 苏叶（ 伍分） 桔梗 甘草（ 各壹钱）\n\n水煎热服,有痰加白芥子（ 伍分） 便是。\n\n==== 疳症 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0212-1"
+    ],
+    "symptomTags": [
+      "咳嗽"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "咳嗽"
+  },
+  {
+    "id": "funanke-0213",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 213,
+    "text": "此脾热而因乎心热也，遂至口中流涎，若不平其心火，则脾火更旺，湿热上蒸,而口涎不能止。\n方用\n\n\n芦荟 桑白皮（ 各壹钱） 黄连 薄荷 半夏（ 各参分） 茯苓（ 贰钱） 甘草（ 壹分）\n\n水煎服。\n\n此心脾两清之圣药也，引火下行，而疳自去矣。\n\n==== 口疳流水口烂神方 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0213-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "心火",
+      "湿热"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "疳症"
+  },
+  {
+    "id": "funanke-0214",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 214,
+    "text": "黄柏（ 贰钱） 人参（ 壹钱） 共为细末，敷口内，一日三次即愈。\n\n此方用\n黄柏去火，人参健脾，大人用之亦效。\n\n==== 疳症泻痢眼障神效方 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0214-1"
+    ],
+    "symptomTags": [
+      "口疮"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "脾虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "口疳流水口烂神方"
+  },
+  {
+    "id": "funanke-0215",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 215,
+    "text": "石决明（ 壹两醋煅） 芦荟 川芎 白蒺藜 胡黄连 五灵脂 细辛 谷精草（ 各伍钱） 甘草（ 叁钱） 菊花（ 肆钱）\n\n猪苓去筋，捣烂为丸如桐子大，每服贰拾伍丸，不拘时,米汤下。\n\n==== 疟疾 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0215-1"
+    ],
+    "symptomTags": [
+      "泄泻",
+      "目昏"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "疳症泻痢眼障神效方"
+  },
+  {
+    "id": "funanke-0216",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 216,
+    "text": "方用\n\n柴胡（ 陆分） 白术 茯苓 归身（ 各壹钱） 白芍（ 壹钱伍分） 半夏 青皮 厚朴（ 各伍分）\n\n水煎成，露一宿,再温与服。\n\n热多者加人参、黄耆各伍分，寒多者加干姜参分，痰多者加白芥子壹钱,夜热加何首乌、熟地各贰钱，日发者不用加，腹痛加槟榔参分。\n\n==== 便虫 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0216-1"
+    ],
+    "symptomTags": [
+      "发热",
+      "腹痛",
+      "痰多"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "疟疾"
+  },
+  {
+    "id": "funanke-0217",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 217,
+    "text": "方用\n\n榧子（ 伍个去壳） 甘草（ 参分） 米饭为丸，服二次,则虫化为水矣。\n\n==== 积虫 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0217-1"
+    ],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "便虫"
+  },
+  {
+    "id": "funanke-0218",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 218,
+    "text": "方用\n\n史君子（ 去壳炒） 榧子（ 各拾个去壳） 槟榔 甘草（ 各壹钱） 米饭为丸如桐子大，每服十丸，二日虫出，五日全愈。\n\n==== 痘症回毒或疔肿 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0218-1"
+    ],
+    "symptomTags": [
+      "积聚"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "积虫"
+  },
+  {
+    "id": "funanke-0219",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 219,
+    "text": "方用\n\n银花（ 伍钱） 人参（ 贰钱） 甘草 元参（ 贰钱）\n\n水煎服。\n\n==== 痘疮坏症已黑 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0219-1"
+    ],
+    "symptomTags": [
+      "疮疡"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "痘症回毒或疔肿"
+  },
+  {
+    "id": "funanke-0220",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 220,
+    "text": "痘疮坏症已黑者，人将弃之，药下喉即活。\n方用\n\n\n人参（ 叁钱） 陈皮 荆芥（ 各壹钱） 蝉退（ 伍分） 元参 当归（ 各贰钱）\n\n水煎服。\n\n此乃元气虚而火不能发也，故用人参以补元气,元参去浮游之火，陈皮去痰开胃，则参无碍，而相得益彰，荆芥以发之,又能引火以归经，当归生新去旧，消瘀血，蝉退解毒除风，世人何知此妙法,初起时不可服，必坏症乃可服。\n\n==== 急慢风 ====",
+    "formulaIds": [
+      "funanke-formula-funanke-0220-1"
+    ],
+    "symptomTags": [
+      "疮疡"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "气虚"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "痘疮坏症已黑",
+    "misjudgment": {
+      "commonView": "痘疮坏症已黑者，人将弃之",
+      "trueView": "药下喉即活；初起时不可服，必坏症乃可服"
+    }
+  },
+  {
+    "id": "funanke-0221",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 221,
+    "text": "三六九日一切风俱治。\n\n陈胆星 雄黄 朱砂 人参 茯苓 天竺黄 钩藤 牛黄 麝香 川郁金 柴胡 青皮 甘草\n\n为细末，煎膏为丸如莞豆大，真金一张为衣,阴干勿泄气，薄荷汤磨服。\n\n==== 治火丹神方 ====",
+    "formulaIds": [],
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft",
+    "heading": "急慢风"
+  },
+  {
+    "id": "funanke-0222",
+    "book": "funanke",
+    "chapter": "小儿科",
+    "chapterOrder": 25,
+    "order": 222,
+    "text": "丝瓜子 元参（ 各壹两） 柴胡 升麻（ 各壹钱） 当归（ 伍钱）\n\n水煎服。\n\n又方\n\n升麻 青蒿 黄耆（ 各叁钱） 元参（ 壹两） 干葛（ 参两）\n\n水煎服。 此二方详火症，小儿用之亦效,\n\n故又出之。\n\n此方妙在用青蒿，肝胃之火俱平，又佐以群药重剂,而火安有不灭者乎。",
+    "formulaIds": [
+      "funanke-formula-funanke-0222-1"
+    ],
+    "symptomTags": [
+      "疮疡"
+    ],
+    "pulseTags": [],
+    "channelTags": [],
+    "pathogenesisTags": [
+      "肝火",
+      "胃热"
+    ],
+    "reviewStatus": "ai-draft",
+    "heading": "治火丹神方"
+  }
+]

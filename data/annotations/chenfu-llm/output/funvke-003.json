@@ -1,0 +1,247 @@
+{
+  "book": "funvke",
+  "batch": 3,
+  "model": "grok-4.5",
+  "entries": [
+    {
+      "clauseId": "funvke-0066",
+      "contentHash": "fa6a3f889081ecc1",
+      "symptomTags": [],
+      "pathogenesisTags": ["气虚"],
+      "misjudgment": {
+        "commonView": "儿门不关之故",
+        "trueView": "是气虚下陷而不能收"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0066-1",
+          "herbRoles": [
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "纯于补气",
+              "sourceSentence": "此方纯于补气，全不去升肠"
+            },
+            {
+              "herbId": "生黄耆",
+              "roleText": "补气",
+              "mechanism": "纯于补气",
+              "sourceSentence": "此方纯于补气，全不去升肠"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "补气",
+              "mechanism": "纯于补气",
+              "sourceSentence": "此方纯于补气，全不去升肠"
+            },
+            {
+              "herbId": "升麻",
+              "roleText": "升提",
+              "mechanism": "引气而升",
+              "sourceSentence": "即如用升麻一分，亦不过引气而升耳"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0067",
+      "contentHash": "1a5517be0193bed1",
+      "symptomTags": ["产后腹痛"],
+      "pathogenesisTags": ["血瘀"],
+      "misjudgment": {
+        "commonView": "儿枕之疼也",
+        "trueView": "是瘀血作祟"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0067-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0068",
+      "contentHash": "a6e0899dbacb94a3",
+      "symptomTags": ["气喘"],
+      "pathogenesisTags": ["气虚", "血虚"],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0068-1",
+          "herbRoles": [
+            {
+              "herbId": "人参",
+              "roleText": "补阳",
+              "mechanism": "接续元阳",
+              "sourceSentence": "此方用人参以接续元阳"
+            },
+            {
+              "herbId": "熟地黄",
+              "roleText": "益肾",
+              "mechanism": "大补肝肾之精",
+              "sourceSentence": "所以又用熟地、山萸、枸杞之类，以大补其肝肾之精"
+            },
+            {
+              "herbId": "山萸",
+              "roleText": "益肾",
+              "mechanism": "大补肝肾之精",
+              "sourceSentence": "所以又用熟地、山萸、枸杞之类，以大补其肝肾之精"
+            },
+            {
+              "herbId": "枸杞子",
+              "roleText": "益肾",
+              "mechanism": "大补肝肾之精",
+              "sourceSentence": "所以又用熟地、山萸、枸杞之类，以大补其肝肾之精"
+            },
+            {
+              "herbId": "肉桂",
+              "roleText": "补阳",
+              "mechanism": "补命门之火，助人参以生气，运化地黄以化精生血",
+              "sourceSentence": "又加肉桂以补命门之火，使火气有根，助人参以生气，且能运化地黄之类，以化精生血"
+            },
+            {
+              "herbId": "荆芥穗",
+              "roleText": "引经",
+              "mechanism": "引血归经",
+              "sourceSentence": "更加荆芥以引血归经，则肺气安而喘速定"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0069",
+      "contentHash": "8efb9a3e3897eebe",
+      "symptomTags": ["恶寒", "发热", "口渴"],
+      "pathogenesisTags": ["气虚", "血虚"],
+      "misjudgment": {
+        "commonView": "产后伤寒也",
+        "trueView": "是气血两虚，正不敌邪而然"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0069-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0070",
+      "contentHash": "52acd51fab349175",
+      "symptomTags": ["呕吐"],
+      "pathogenesisTags": ["肾阳虚", "胃虚"],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0070-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0071",
+      "contentHash": "40392fd8e1bc1d72",
+      "symptomTags": ["崩漏", "眩晕"],
+      "pathogenesisTags": ["气虚", "肾虚"],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0071-1",
+          "herbRoles": [
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "补气以回元阳",
+              "sourceSentence": "此方补气以回元阳于无何有之乡，阳回而气回，自可摄血以归神，生精而续命矣"
+            },
+            {
+              "herbId": "附子",
+              "roleText": "补阳",
+              "mechanism": "回元阳",
+              "sourceSentence": "此方补气以回元阳于无何有之乡，阳回而气回，自可摄血以归神，生精而续命矣"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0072",
+      "contentHash": "b922dddc116f0aaa",
+      "symptomTags": ["出血"],
+      "pathogenesisTags": ["气虚", "血虚"],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0072-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0073",
+      "contentHash": "020d803861d72df5",
+      "symptomTags": ["水肿", "气喘", "咳嗽", "胁痛", "发热", "恶寒", "胸闷"],
+      "pathogenesisTags": ["肾虚", "肝血虚", "水不涵木", "阴虚", "气虚"],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0073-1",
+          "herbRoles": [
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "补血补精",
+              "sourceSentence": "此方皆是补血补精之品"
+            },
+            {
+              "herbId": "白芍",
+              "roleText": "补血",
+              "mechanism": "补血补精",
+              "sourceSentence": "此方皆是补血补精之品"
+            },
+            {
+              "herbId": "熟地黄",
+              "roleText": "补血",
+              "mechanism": "补血补精",
+              "sourceSentence": "此方皆是补血补精之品"
+            },
+            {
+              "herbId": "山萸",
+              "roleText": "益肾",
+              "mechanism": "补血补精",
+              "sourceSentence": "此方皆是补血补精之品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0074",
+      "contentHash": "5ebdbb90c832a73f",
+      "symptomTags": ["腰痛"],
+      "pathogenesisTags": ["带脉不固", "冲任虚损", "血虚", "肾虚"],
+      "misjudgment": {
+        "commonView": "胞胎之下坠也",
+        "trueView": "是带脉之虚脱"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0074-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0075",
+      "contentHash": "589124d5eb783b3d",
+      "symptomTags": [],
+      "pathogenesisTags": ["肝血虚", "气虚", "血虚"],
+      "misjudgment": {
+        "commonView": "产颓也",
+        "trueView": "是肝痿之故"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0075-1",
+          "herbRoles": []
+        }
+      ]
+    }
+  ]
+}

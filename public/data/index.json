@@ -1,0 +1,117 @@
+{
+  "books": [
+    {
+      "id": "songben",
+      "title": "宋本伤寒论",
+      "corpus": "jingfang",
+      "clauseCount": 400,
+      "formulaCount": 118,
+      "chapterCount": 10
+    },
+    {
+      "id": "jingui",
+      "title": "金匮要略",
+      "corpus": "jingfang",
+      "clauseCount": 189,
+      "formulaCount": 166,
+      "chapterCount": 25
+    },
+    {
+      "id": "guilin",
+      "title": "桂林古本伤寒杂病论",
+      "corpus": "jingfang",
+      "clauseCount": 531,
+      "formulaCount": 342,
+      "chapterCount": 31
+    },
+    {
+      "id": "funvke",
+      "title": "傅青主女科",
+      "corpus": "chenfu",
+      "clauseCount": 139,
+      "formulaCount": 70,
+      "chapterCount": 13
+    },
+    {
+      "id": "funanke",
+      "title": "傅青主男科",
+      "corpus": "chenfu",
+      "clauseCount": 222,
+      "formulaCount": 201,
+      "chapterCount": 25
+    },
+    {
+      "id": "bianzheng",
+      "title": "辨证录",
+      "corpus": "chenfu",
+      "clauseCount": 505,
+      "formulaCount": 792,
+      "chapterCount": 126
+    },
+    {
+      "id": "shishi",
+      "title": "石室秘录",
+      "corpus": "chenfu",
+      "clauseCount": 215,
+      "formulaCount": 26,
+      "chapterCount": 128
+    },
+    {
+      "id": "bencao",
+      "title": "本草新编",
+      "corpus": "chenfu",
+      "clauseCount": 0,
+      "formulaCount": 0,
+      "chapterCount": 0
+    }
+  ],
+  "herbCount": 3455,
+  "formulaCount": 1715,
+  "clauseCount": 2201,
+  "diffPairCount": 498,
+  "herbRoleCount": 1969,
+  "monographCount": 258,
+  "generatedAt": "2026-10-08T07:21:11.972Z",
+  "sources": [
+    {
+      "id": "songben",
+      "title": "宋本伤寒论（赵开美本）",
+      "url": "https://zh.wikisource.org/zh-hans/傷寒論"
+    },
+    {
+      "id": "jingui",
+      "title": "金匮要略",
+      "url": "https://zh.wikisource.org/zh-hans/金匱要略"
+    },
+    {
+      "id": "guilin",
+      "title": "桂林古本伤寒杂病论",
+      "url": "https://zh.wikisource.org/zh-hans/傷寒雜病論_(桂林古本)"
+    },
+    {
+      "id": "funvke",
+      "title": "傅青主女科",
+      "url": "https://zh.wikisource.org/zh-hans/傅青主女科"
+    },
+    {
+      "id": "funanke",
+      "title": "傅青主男科",
+      "url": "https://zh.wikisource.org/zh-hans/傅青主男科"
+    },
+    {
+      "id": "bianzheng",
+      "title": "辨证录",
+      "url": "https://zh.wikisource.org/zh-hans/辨證錄"
+    },
+    {
+      "id": "shishi",
+      "title": "石室秘录",
+      "url": "https://zh.wikisource.org/zh-hans/石室秘錄"
+    },
+    {
+      "id": "bencao",
+      "title": "本草新编",
+      "url": "https://zh.wikisource.org/zh-hans/本草新編"
+    }
+  ]
+}

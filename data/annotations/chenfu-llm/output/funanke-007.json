@@ -1,0 +1,199 @@
+{
+  "book": "funanke",
+  "batch": 7,
+  "model": "grok-4.5",
+  "entries": [
+    {
+      "clauseId": "funanke-0210",
+      "contentHash": "e3e30f700495109d",
+      "symptomTags": ["腹痛", "泄泻"],
+      "pathogenesisTags": ["寒湿"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0210-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0211",
+      "contentHash": "8d1bf1e047ebf558",
+      "symptomTags": ["呕吐"],
+      "pathogenesisTags": ["胃虚", "脾虚", "食积"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0211-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0212",
+      "contentHash": "b508da7469c3b2e6",
+      "symptomTags": ["咳嗽"],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0212-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0213",
+      "contentHash": "fb22094ad72ca314",
+      "symptomTags": [],
+      "pathogenesisTags": ["心火", "湿热"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0213-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0214",
+      "contentHash": "40a73eafae2eb028",
+      "symptomTags": ["口疮"],
+      "pathogenesisTags": ["脾虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0214-1",
+          "herbRoles": [
+            {
+              "herbId": "人参",
+              "roleText": "健脾",
+              "mechanism": "健脾",
+              "sourceSentence": "人参健脾"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0215",
+      "contentHash": "b0382c38774984d3",
+      "symptomTags": ["泄泻", "目昏"],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0215-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0216",
+      "contentHash": "1473a038185b5f30",
+      "symptomTags": ["发热", "腹痛", "痰多"],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0216-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0217",
+      "contentHash": "e933ba5065b0e33a",
+      "symptomTags": [],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0217-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0218",
+      "contentHash": "73b32bbe1492367b",
+      "symptomTags": ["积聚"],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0218-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0219",
+      "contentHash": "b02717ce2b1b7320",
+      "symptomTags": ["疮疡"],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0219-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0220",
+      "contentHash": "83d3e69f36eec009",
+      "symptomTags": ["疮疡"],
+      "pathogenesisTags": ["气虚"],
+      "misjudgment": {
+        "commonView": "痘疮坏症已黑者，人将弃之",
+        "trueView": "药下喉即活；初起时不可服，必坏症乃可服"
+      },
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0220-1",
+          "herbRoles": [
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "补元气",
+              "sourceSentence": "故用人参以补元气"
+            },
+            {
+              "herbId": "玄参",
+              "roleText": "泻火",
+              "mechanism": "去浮游之火",
+              "sourceSentence": "元参去浮游之火"
+            },
+            {
+              "herbId": "陈皮",
+              "roleText": "化痰",
+              "mechanism": "去痰开胃",
+              "sourceSentence": "陈皮去痰开胃"
+            },
+            {
+              "herbId": "荆芥",
+              "roleText": "解表",
+              "mechanism": "以发之，又能引火以归经",
+              "sourceSentence": "荆芥以发之,又能引火以归经"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "化瘀",
+              "mechanism": "生新去旧，消瘀血",
+              "sourceSentence": "当归生新去旧，消瘀血"
+            },
+            {
+              "herbId": "蝉退",
+              "roleText": "解毒",
+              "mechanism": "解毒除风",
+              "sourceSentence": "蝉退解毒除风"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0222",
+      "contentHash": "2d40b1e3be7edc42",
+      "symptomTags": ["疮疡"],
+      "pathogenesisTags": ["肝火", "胃热"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0222-1",
+          "herbRoles": []
+        }
+      ]
+    }
+  ]
+}

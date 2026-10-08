@@ -1,0 +1,579 @@
+{
+  "book": "funanke",
+  "batch": 5,
+  "model": "grok-4.5",
+  "entries": [
+    {
+      "clauseId": "funanke-0132",
+      "contentHash": "2e4336b0d2d46902",
+      "symptomTags": [],
+      "pathogenesisTags": ["气虚", "痰湿", "肾虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0132-1",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "funanke-formula-funanke-0132-2",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0133",
+      "contentHash": "e7b34796a6ba113c",
+      "symptomTags": [],
+      "pathogenesisTags": ["气虚", "胃虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0133-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0134",
+      "contentHash": "7780860bd28a9272",
+      "symptomTags": [],
+      "pathogenesisTags": ["气虚", "血虚"],
+      "misjudgment": {
+        "commonView": "多用风药治之",
+        "trueView": "调理气血"
+      },
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0134-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0135",
+      "contentHash": "115dd5251950265f",
+      "symptomTags": ["痰多"],
+      "pathogenesisTags": ["痰湿", "寒湿"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0135-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0136",
+      "contentHash": "dfada0aee9ba85e9",
+      "symptomTags": ["痰多"],
+      "pathogenesisTags": ["脾虚", "胃虚", "痰湿"],
+      "misjudgment": {
+        "commonView": "徒治痰而不补气",
+        "trueView": "当补气而化痰"
+      },
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0136-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0137",
+      "contentHash": "c83128a946f6aa1b",
+      "symptomTags": ["痰多"],
+      "pathogenesisTags": ["气虚", "痰湿"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0137-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0138",
+      "contentHash": "751940d249c7ccfe",
+      "symptomTags": [],
+      "pathogenesisTags": ["胃热"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0138-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0139",
+      "contentHash": "96104c8aef4f1d85",
+      "symptomTags": ["痰多"],
+      "pathogenesisTags": ["气虚", "痰湿", "心火"],
+      "misjudgment": {
+        "commonView": "因寒得之何以用白虎汤泻火",
+        "trueView": "寒邪外逼，里不热泄而扰心胃，如冬伤于寒春必病温"
+      },
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0139-1",
+          "herbRoles": [
+            {
+              "herbId": "附子",
+              "roleText": "引经",
+              "mechanism": "引补心消痰之品，直入心中，则气易补而痰易消",
+              "sourceSentence": "尤妙在微用附子，引补心消痰之品，直入心中, 则气易补而痰易消"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0140",
+      "contentHash": "5919692e40db3791",
+      "symptomTags": ["痰多"],
+      "pathogenesisTags": ["气滞", "气虚", "痰湿"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0140-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0141",
+      "contentHash": "bfb45ed8f1bba168",
+      "symptomTags": ["心悸", "失眠"],
+      "pathogenesisTags": ["心血虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0141-1",
+          "herbRoles": [
+            {
+              "herbId": "生枣",
+              "roleText": "安神",
+              "mechanism": "生使其日间不卧",
+              "sourceSentence": "生使其日间不卧"
+            },
+            {
+              "herbId": "熟枣仁",
+              "roleText": "安神",
+              "mechanism": "熟使其日间不醒",
+              "sourceSentence": "熟使其日间不醒"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0142",
+      "contentHash": "2632077bc0dbc2d9",
+      "symptomTags": ["心悸", "失眠", "眩晕"],
+      "pathogenesisTags": ["心肾不交", "肾虚", "命门火衰", "肝血虚"],
+      "misjudgment": {
+        "commonView": "心病",
+        "trueView": "肝病"
+      },
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0142-1",
+          "herbRoles": [
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "治心惊不安与不寐",
+              "sourceSentence": "用人参、当归、茯神、麦冬足矣"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "治心惊不安与不寐",
+              "sourceSentence": "用人参、当归、茯神、麦冬足矣"
+            },
+            {
+              "herbId": "茯神",
+              "roleText": "安神",
+              "mechanism": "治心惊不安与不寐",
+              "sourceSentence": "用人参、当归、茯神、麦冬足矣"
+            },
+            {
+              "herbId": "麦冬",
+              "roleText": "补阴",
+              "mechanism": "治心惊不安与不寐",
+              "sourceSentence": "用人参、当归、茯神、麦冬足矣"
+            },
+            {
+              "herbId": "黄连",
+              "roleText": "泻火",
+              "mechanism": "治起火不寐",
+              "sourceSentence": "即为起火不寐，亦不过用黄连足矣"
+            },
+            {
+              "herbId": "熟地黄",
+              "roleText": "益肾",
+              "mechanism": "补肾，则肾气可通于心",
+              "sourceSentence": "今用熟地山萸补肾，则肾气可通于心"
+            },
+            {
+              "herbId": "山萸",
+              "roleText": "益肾",
+              "mechanism": "补肾，则肾气可通于心",
+              "sourceSentence": "今用熟地山萸补肾，则肾气可通于心"
+            },
+            {
+              "herbId": "肉桂",
+              "roleText": "补阳",
+              "mechanism": "补命门之火，则肾气既温，相火有权",
+              "sourceSentence": "肉桂以补命门之火，则肾气既温，相火有权"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0144",
+      "contentHash": "bc5949444f487eec",
+      "symptomTags": ["身痛"],
+      "pathogenesisTags": ["肝郁", "湿热"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0144-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0145",
+      "contentHash": "887e92f7a158e043",
+      "symptomTags": ["腰痛", "遗精"],
+      "pathogenesisTags": ["寒湿", "风寒", "肾虚", "脾湿"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0145-1",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "funanke-formula-funanke-0145-2",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "funanke-formula-funanke-0145-3",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0146",
+      "contentHash": "7c9ddf70ff2a842b",
+      "symptomTags": ["腰痛"],
+      "pathogenesisTags": ["血虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0146-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0147",
+      "contentHash": "93021b32df20335c",
+      "symptomTags": ["腰痛"],
+      "pathogenesisTags": ["肾虚", "气虚", "脾湿"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0147-1",
+          "herbRoles": [
+            {
+              "herbId": "薏苡仁",
+              "roleText": "利湿",
+              "mechanism": "去湿，湿去而血活",
+              "sourceSentence": "又助之薏仁、茯苓、车前之类，去湿，湿去而血活矣"
+            },
+            {
+              "herbId": "茯苓",
+              "roleText": "利湿",
+              "mechanism": "去湿，湿去而血活",
+              "sourceSentence": "又助之薏仁、茯苓、车前之类，去湿，湿去而血活矣"
+            },
+            {
+              "herbId": "车前子",
+              "roleText": "利湿",
+              "mechanism": "去湿，湿去而血活",
+              "sourceSentence": "又助之薏仁、茯苓、车前之类，去湿，湿去而血活矣"
+            },
+            {
+              "herbId": "杜仲",
+              "roleText": "益肾",
+              "mechanism": "健肾",
+              "sourceSentence": "况又有杜仲之健肾"
+            },
+            {
+              "herbId": "肉桂",
+              "roleText": "补阳",
+              "mechanism": "温肾",
+              "sourceSentence": "肉桂之温肾"
+            },
+            {
+              "herbId": "防风",
+              "roleText": "解表",
+              "mechanism": "荡风",
+              "sourceSentence": "防风之荡风乎"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0148",
+      "contentHash": "7bbd78a4fc391ce0",
+      "symptomTags": [],
+      "pathogenesisTags": ["寒湿"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0148-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0149",
+      "contentHash": "326428b43a5a844f",
+      "symptomTags": [],
+      "pathogenesisTags": ["肝郁", "痰湿"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0149-1",
+          "herbRoles": [
+            {
+              "herbId": "白芍",
+              "roleText": "平肝",
+              "mechanism": "为君，以平肝木不来侮胃",
+              "sourceSentence": "此方妙在用白芍为君，以平肝木不来侮胃"
+            },
+            {
+              "herbId": "羌活",
+              "roleText": "解表",
+              "mechanism": "去风，直走手经之上",
+              "sourceSentence": "而羌活柴胡又去风，直走手经之上"
+            },
+            {
+              "herbId": "柴胡",
+              "roleText": "疏肝",
+              "mechanism": "去风，直走手经之上",
+              "sourceSentence": "而羌活柴胡又去风，直走手经之上"
+            },
+            {
+              "herbId": "秦艽",
+              "roleText": "解表",
+              "mechanism": "亦是风药，而兼附子攻邪",
+              "sourceSentence": "秦艽亦是风药，而兼附子攻邪"
+            },
+            {
+              "herbId": "附子",
+              "roleText": "散寒",
+              "mechanism": "攻邪；无经不达",
+              "sourceSentence": "更得附子无经不达，而其痛如失也"
+            },
+            {
+              "herbId": "半夏",
+              "roleText": "化痰",
+              "mechanism": "祛痰圣药",
+              "sourceSentence": "半夏、陈皮、白芥子，祛痰圣药"
+            },
+            {
+              "herbId": "陈皮",
+              "roleText": "化痰",
+              "mechanism": "祛痰圣药",
+              "sourceSentence": "半夏、陈皮、白芥子，祛痰圣药"
+            },
+            {
+              "herbId": "白芥子",
+              "roleText": "化痰",
+              "mechanism": "祛痰圣药",
+              "sourceSentence": "半夏、陈皮、白芥子，祛痰圣药"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0150",
+      "contentHash": "5321d62be2ebc723",
+      "symptomTags": [],
+      "pathogenesisTags": ["肝郁", "肝克脾"],
+      "misjudgment": {
+        "commonView": "脾经之热",
+        "trueView": "肝木之郁结"
+      },
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0150-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0152",
+      "contentHash": "183e64e3cda9537a",
+      "symptomTags": [],
+      "pathogenesisTags": ["肾阴虚", "阴虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0152-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0153",
+      "contentHash": "dea211c2fcc2ded5",
+      "symptomTags": ["腰痛", "头痛"],
+      "pathogenesisTags": ["肾虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0153-1",
+          "herbRoles": [
+            {
+              "herbId": "熟地黄",
+              "roleText": "益肾",
+              "mechanism": "肾中药也，腰痛是其专功",
+              "sourceSentence": "方内熟地, 杜仲，肾中药也，腰痛是其专功"
+            },
+            {
+              "herbId": "杜仲",
+              "roleText": "益肾",
+              "mechanism": "肾中药也，腰痛是其专功",
+              "sourceSentence": "方内熟地, 杜仲，肾中药也，腰痛是其专功"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0154",
+      "contentHash": "e4dfe4ad45ffdc9c",
+      "symptomTags": [],
+      "pathogenesisTags": ["阳虚", "心火"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0154-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0155",
+      "contentHash": "802c35e5f6c65a76",
+      "symptomTags": ["恶寒", "腹痛"],
+      "pathogenesisTags": ["肝郁", "肝火"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0155-1",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "funanke-formula-funanke-0155-2",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0156",
+      "contentHash": "4cc0ecc45a413a7e",
+      "symptomTags": ["腹痛", "口渴", "积聚"],
+      "pathogenesisTags": ["肝郁", "血瘀", "水饮"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0156-1",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "funanke-formula-funanke-0156-2",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0157",
+      "contentHash": "5df93f5fbf221417",
+      "symptomTags": ["纳差", "腹痛", "腹胀", "呕吐", "泄泻"],
+      "pathogenesisTags": ["肝克脾", "肝郁"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0157-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0158",
+      "contentHash": "83f07de8b76d2802",
+      "symptomTags": [],
+      "pathogenesisTags": ["气虚", "寒湿"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0158-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0162",
+      "contentHash": "bad813dc49e604d1",
+      "symptomTags": [],
+      "pathogenesisTags": ["气虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0162-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0163",
+      "contentHash": "ff09602dc94ddd17",
+      "symptomTags": [],
+      "pathogenesisTags": ["气虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0163-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0164",
+      "contentHash": "2ae08bbcea2f595e",
+      "symptomTags": ["目昏", "目痛"],
+      "pathogenesisTags": ["气虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0164-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0165",
+      "contentHash": "47a1a33879550deb",
+      "symptomTags": ["身痛"],
+      "pathogenesisTags": ["风寒", "寒湿"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0165-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0166",
+      "contentHash": "7f44d1351a6b3164",
+      "symptomTags": [],
+      "pathogenesisTags": ["气虚"],
+      "misjudgment": {
+        "commonView": "肾水之虚",
+        "trueView": "气虚而不能运动"
+      },
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0166-1",
+          "herbRoles": []
+        }
+      ]
+    }
+  ]
+}

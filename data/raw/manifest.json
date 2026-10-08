@@ -1,0 +1,61 @@
+{
+  "sources": [
+    {
+      "id": "songben",
+      "title": "宋本伤寒论（赵开美本）",
+      "page": "傷寒論",
+      "filename": "songben-shanghan.wiki",
+      "url": "https://zh.wikisource.org/zh-hans/傷寒論"
+    },
+    {
+      "id": "jingui",
+      "title": "金匮要略",
+      "page": "金匱要略",
+      "filename": "jingui-yaolue.wiki",
+      "url": "https://zh.wikisource.org/zh-hans/金匱要略"
+    },
+    {
+      "id": "guilin",
+      "title": "桂林古本伤寒杂病论（白云阁藏本）",
+      "page": "傷寒雜病論_(桂林古本)",
+      "filename": "guilin-guben.wiki",
+      "url": "https://zh.wikisource.org/zh-hans/傷寒雜病論_(桂林古本)"
+    },
+    {
+      "id": "bianzheng",
+      "title": "辨证录",
+      "page": "辨證錄",
+      "filename": "bianzheng-lu.wiki",
+      "url": "https://zh.wikisource.org/zh-hans/辨證錄"
+    },
+    {
+      "id": "shishi",
+      "title": "石室秘录",
+      "page": "石室秘錄",
+      "filename": "shishi-milu.wiki",
+      "url": "https://zh.wikisource.org/zh-hans/石室秘錄"
+    },
+    {
+      "id": "bencao",
+      "title": "本草新编",
+      "page": "本草新編",
+      "filename": "bencao-xinbian.wiki",
+      "url": "https://zh.wikisource.org/zh-hans/本草新編"
+    },
+    {
+      "id": "funvke",
+      "title": "傅青主女科",
+      "page": "傅青主女科",
+      "filename": "funvke.wiki",
+      "url": "https://zh.wikisource.org/zh-hans/傅青主女科"
+    },
+    {
+      "id": "funanke",
+      "title": "傅青主男科",
+      "page": "傅青主男科",
+      "filename": "funanke.wiki",
+      "url": "https://zh.wikisource.org/zh-hans/傅青主男科"
+    }
+  ],
+  "note": "公有领域古籍文本，来自维基文库"
+}

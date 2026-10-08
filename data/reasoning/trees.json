@@ -1,0 +1,257 @@
+[
+  {
+    "id": "cold-overview",
+    "title": "感冒日用选方",
+    "sourcePage": 3,
+    "rootNodeId": "stage",
+    "nodes": {
+      "stage": {
+        "question": "目前处于感冒的哪个阶段？",
+        "options": [
+          { "label": "觉得有点开始感冒 / 周遭的人开始感冒", "result": { "formulaName": "桂枝汤", "note": "预防与初感" } },
+          { "label": "感冒两三天，清鼻水、清痰", "result": { "formulaName": "小青龙汤" } },
+          { "label": "无汗、身痛的感冒", "result": { "formulaName": "葛根汤" } },
+          { "label": "还有一点汗的感冒", "result": { "formulaName": "桂枝汤" } },
+          { "label": "感冒中间期 / 往来寒热 / 月经期感冒", "result": { "formulaName": "小柴胡汤" } },
+          { "label": "肠胃型感冒", "nextNodeId": "gi-cold" },
+          { "label": "感冒愈后", "nextNodeId": "aftermath" }
+        ]
+      },
+      "gi-cold": {
+        "question": "肠胃型感冒以何症为主？",
+        "options": [
+          { "label": "拉肚子，水泻（腹痛不甚）", "result": { "formulaName": "五苓散+平胃散", "note": "合为胃苓汤意" } },
+          { "label": "拉肚子（热、臭、腹痛）", "result": { "formulaName": "葛根汤", "addHerbs": ["黄连", "黄芩"], "note": "葛根汤加黄连黄芩" } }
+        ]
+      },
+      "aftermath": {
+        "question": "感冒愈后残留何症？",
+        "options": [
+          { "label": "咳嗽仍有", "result": { "formulaName": "小青龙汤" } },
+          { "label": "肚子不舒服", "result": { "formulaName": "桂枝汤+平胃散" } },
+          { "label": "清鼻水仍有", "result": { "formulaName": "小青龙汤" } },
+          { "label": "莫名还会发烧", "result": { "formulaName": "小柴胡汤" } },
+          { "label": "身体虚弱", "result": { "formulaName": "小建中汤", "note": "亦可酌用花旗参" } }
+        ]
+      }
+    }
+  },
+  {
+    "id": "respiratory",
+    "title": "呼吸系统及感冒鉴别",
+    "sourcePage": 5,
+    "rootNodeId": "main",
+    "nodes": {
+      "main": {
+        "question": "主症属于哪一类？",
+        "options": [
+          { "label": "外感（表证）", "nextNodeId": "exterior" },
+          { "label": "外感中期往来寒热", "nextNodeId": "shaoyang" },
+          { "label": "咳嗽为主", "nextNodeId": "cough" },
+          { "label": "哮喘", "nextNodeId": "asthma" },
+          { "label": "咽痛", "nextNodeId": "throat" },
+          { "label": "鼻渊", "nextNodeId": "sinus" }
+        ]
+      },
+      "exterior": {
+        "question": "有汗还是无汗？寒热如何？",
+        "options": [
+          { "label": "有汗外感", "result": { "formulaName": "桂枝汤" } },
+          { "label": "无汗外感", "result": { "formulaName": "麻黄汤" } },
+          { "label": "肩颈痛、项强", "result": { "formulaName": "葛根汤" } },
+          { "label": "流鼻涕、喷嚏", "result": { "formulaName": "小青龙汤" } },
+          { "label": "周身发冷严重 / 脉弦细但欲寐", "result": { "formulaName": "麻黄附子细辛汤" } }
+        ]
+      },
+      "shaoyang": {
+        "question": "体质强弱如何？",
+        "options": [
+          { "label": "体质结实", "result": { "formulaName": "大柴胡汤" } },
+          { "label": "体质一般", "result": { "formulaName": "小柴胡汤" } },
+          { "label": "体质弱（可伴头痛、肩凝）", "result": { "formulaName": "柴胡桂枝汤" } },
+          { "label": "更弱且本质甚寒（外热相）", "result": { "formulaName": "柴胡桂枝干姜汤" } },
+          { "label": "咽喉肿痛", "result": { "formulaName": "小柴胡汤", "addHerbs": ["桔梗", "石膏"] } }
+        ]
+      },
+      "cough": {
+        "question": "咳嗽特点？",
+        "options": [
+          { "label": "咳嗽为主、胸闷或喉中不舒", "result": { "formulaName": "半夏厚朴汤" } },
+          { "label": "稀痰多（慢性支气管炎）", "result": { "formulaName": "苓甘姜味辛夏仁汤" } },
+          { "label": "无痰且干咳严重", "result": { "formulaName": "麦门冬汤" } },
+          { "label": "少痰或黏稠痰、热相", "result": { "formulaName": "麻杏甘石汤" } },
+          { "label": "夜咳为主", "result": { "formulaName": "小柴胡汤" } }
+        ]
+      },
+      "asthma": {
+        "question": "哮喘发作还是长期调补？",
+        "options": [
+          { "label": "发作：喷嚏流清涕", "result": { "formulaName": "小青龙汤" } },
+          { "label": "发作：热相强烈", "result": { "formulaName": "麻杏甘石汤" } },
+          { "label": "发作：实证", "result": { "formulaName": "大柴胡汤+半夏厚朴汤" } },
+          { "label": "发作：虚证", "result": { "formulaName": "小柴胡汤+半夏厚朴汤" } },
+          { "label": "长期补虚偏湿", "result": { "formulaName": "四君子汤+半夏厚朴汤" } },
+          { "label": "长期补虚偏燥", "result": { "formulaName": "小建中汤" } }
+        ]
+      },
+      "throat": {
+        "question": "咽痛轻重？",
+        "options": [
+          { "label": "有炎症，较重", "result": { "formulaName": "桔梗汤" } },
+          { "label": "无炎症，较轻", "result": { "formulaName": "甘草汤" } }
+        ]
+      },
+      "sinus": {
+        "question": "鼻渊兼夹？",
+        "options": [
+          { "label": "一般", "result": { "formulaName": "葛根汤", "addHerbs": ["川芎", "辛夷"] } },
+          { "label": "贫血衰弱", "result": { "formulaName": "补中益气汤" } }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fever-cough-tree",
+    "title": "发热·痰咳·咽痛决策树",
+    "sourcePage": 7,
+    "rootNodeId": "has-fever",
+    "nodes": {
+      "has-fever": {
+        "question": "是否发热？",
+        "options": [
+          { "label": "有发热", "nextNodeId": "fever-sputum" },
+          { "label": "无发热", "nextNodeId": "no-fever" }
+        ]
+      },
+      "fever-sputum": {
+        "question": "痰多还是痰不多？",
+        "options": [
+          { "label": "多痰", "nextNodeId": "much-sputum" },
+          { "label": "痰不多", "nextNodeId": "little-sputum" }
+        ]
+      },
+      "much-sputum": {
+        "question": "痰质与兼症？",
+        "options": [
+          { "label": "清鼻涕、痰饮严重", "result": { "formulaName": "小青龙汤" } },
+          { "label": "发热恶寒、不汗出而烦躁", "result": { "formulaName": "大青龙汤" } },
+          { "label": "稀痰", "nextNodeId": "thin-sputum" },
+          { "label": "非稀痰", "nextNodeId": "thick-sputum" }
+        ]
+      },
+      "thin-sputum": {
+        "question": "有无咽喉痛？",
+        "options": [
+          { "label": "咽喉痛", "result": { "formulaName": "葛根汤" } },
+          { "label": "无咽喉痛·项背强痛无汗", "result": { "formulaName": "葛根汤" } },
+          { "label": "柴胡症+桂枝汤症", "result": { "formulaName": "柴胡桂枝汤" } }
+        ]
+      },
+      "thick-sputum": {
+        "question": "热痰表现？",
+        "options": [
+          { "label": "黄鼻涕、发热喘鸣", "result": { "formulaName": "麻杏甘石汤" } },
+          { "label": "呼吸急促、痰黄稠难喀", "result": { "formulaName": "小陷胸汤" } },
+          { "label": "咽干口燥而喘", "result": { "formulaName": "麦门冬汤" } }
+        ]
+      },
+      "little-sputum": {
+        "question": "有无咽喉痛 / 气上冲？",
+        "options": [
+          { "label": "咽喉痛", "result": { "formulaName": "小柴胡汤" } },
+          { "label": "气上冲", "result": { "formulaName": "茯苓桂枝五味甘草汤" } },
+          { "label": "无气上冲·见柴胡七症", "result": { "formulaName": "小柴胡汤" } },
+          { "label": "恶风有汗", "result": { "formulaName": "桂枝汤" } }
+        ]
+      },
+      "no-fever": {
+        "question": "无发热时的主症？",
+        "options": [
+          { "label": "咽喉异物感", "result": { "formulaName": "半夏厚朴汤" } },
+          { "label": "久咳·痰多泡沫口不渴", "result": { "formulaName": "射干麻黄汤" } },
+          { "label": "四肢厥冷、下利清谷", "result": { "formulaName": "四逆汤" } },
+          { "label": "眩晕·肢重浮肿", "result": { "formulaName": "真武汤" } },
+          { "label": "频尿·阳虚", "result": { "formulaName": "八味地黄丸" } },
+          { "label": "溢饮迁延、胸胁满微结", "result": { "formulaName": "柴胡桂枝干姜汤" } }
+        ]
+      }
+    }
+  },
+  {
+    "id": "guizhi-family",
+    "title": "桂枝汤类方鉴别",
+    "sourcePage": 16,
+    "rootNodeId": "root",
+    "nodes": {
+      "root": {
+        "question": "桂枝汤证基础上，突出何症？",
+        "options": [
+          { "label": "发热 + 项强", "nextNodeId": "neck" },
+          { "label": "发热 + 腹痛 / 体质虚弱", "nextNodeId": "weak-abd" },
+          { "label": "往来寒热", "result": { "formulaName": "柴胡桂枝汤" } },
+          { "label": "恶风有汗（本证）", "result": { "formulaName": "桂枝汤" } },
+          { "label": "痉病、角弓反张倾向", "result": { "formulaName": "栝蒌桂枝汤" } },
+          { "label": "身冷畏寒 / 四肢厥", "nextNodeId": "cold-limbs" },
+          { "label": "失眠", "result": { "formulaName": "桂枝加龙骨牡蛎汤" } },
+          { "label": "腹胀或便秘", "nextNodeId": "abdomen" },
+          { "label": "鼻涕鼻渊", "result": { "formulaName": "葛根汤", "addHerbs": ["川芎", "辛夷"] } },
+          { "label": "皮肤水气而肿、黄汗", "result": { "formulaName": "桂枝加黄耆汤" } }
+        ]
+      },
+      "neck": {
+        "question": "项强伴无汗还是仍有汗？",
+        "options": [
+          { "label": "无汗、体力尚可", "result": { "formulaName": "葛根汤" } },
+          { "label": "仍有汗出", "result": { "formulaName": "桂枝加葛根汤" } }
+        ]
+      },
+      "weak-abd": {
+        "question": "腹痛与体质？",
+        "options": [
+          { "label": "腹痛、食欲不振、体质虚弱", "result": { "formulaName": "小建中汤" } },
+          { "label": "全身痛证不明显、体力差", "result": { "formulaName": "柴胡桂枝汤" } }
+        ]
+      },
+      "cold-limbs": {
+        "question": "局部循环与兼症？",
+        "options": [
+          { "label": "手足厥寒、脉细欲绝", "result": { "formulaName": "当归四逆汤" } },
+          { "label": "兼久寒、呕吐涎沫", "result": { "formulaName": "当归四逆加吴茱萸生姜汤" } },
+          { "label": "心烦、小便难", "result": { "formulaName": "桂枝加附子汤" } },
+          { "label": "身痛烦疼偏寒", "result": { "formulaName": "桂枝附子汤" } }
+        ]
+      },
+      "abdomen": {
+        "question": "腹证特点？",
+        "options": [
+          { "label": "腹满时痛", "result": { "formulaName": "桂枝加芍药汤" } },
+          { "label": "大实痛 / 桂枝证且便秘", "result": { "formulaName": "桂枝加大黄汤" } }
+        ]
+      }
+    }
+  },
+  {
+    "id": "daily-symptom",
+    "title": "十二经方主症速查",
+    "sourcePage": 3,
+    "rootNodeId": "symptom",
+    "nodes": {
+      "symptom": {
+        "question": "当前最困扰的症状是？",
+        "options": [
+          { "label": "晕眩、晕车、腹泻（水饮）", "result": { "formulaName": "苓桂术甘汤" } },
+          { "label": "腹痛 / 经痛 / 小腿抽筋", "result": { "formulaName": "芍药甘草汤" } },
+          { "label": "少痰或黏稠痰之咳", "result": { "formulaName": "麻杏甘石汤" } },
+          { "label": "青白痰涕、多痰咳、寒喘", "result": { "formulaName": "小青龙汤" } },
+          { "label": "干咳", "result": { "formulaName": "小青龙汤", "addHerbs": ["石膏"], "note": "小青龙加石膏汤" } },
+          { "label": "咳且胸闷或喉中不舒", "result": { "formulaName": "半夏厚朴汤" } },
+          { "label": "阳虚、四肢厥冷", "result": { "formulaName": "四逆汤" } },
+          { "label": "口苦咽干目眩、胸胁闷、欲呕", "result": { "formulaName": "小柴胡汤" } },
+          { "label": "呕吐水逆、小便不利", "result": { "formulaName": "五苓散" } },
+          { "label": "肌肉酸痛紧绷、胀气消化不良", "result": { "formulaName": "平胃散" } },
+          { "label": "眼压过高 / 下焦虚寒频尿", "result": { "formulaName": "八味地黄丸" } }
+        ]
+      }
+    }
+  }
+]

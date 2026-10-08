@@ -1,0 +1,2176 @@
+{
+  "nvkeAlign": [
+    {
+      "leftId": "funvke-0001",
+      "rightId": null,
+      "score": 0.414,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0002",
+      "rightId": null,
+      "score": 0.369,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0003",
+      "rightId": null,
+      "score": 0.235,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0004",
+      "rightId": null,
+      "score": 0.249,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0005",
+      "rightId": null,
+      "score": 0.322,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0006",
+      "rightId": null,
+      "score": 0.29,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0007",
+      "rightId": null,
+      "score": 0.304,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0008",
+      "rightId": null,
+      "score": 0.343,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0009",
+      "rightId": null,
+      "score": 0.22,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0010",
+      "rightId": null,
+      "score": 0.256,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0011",
+      "rightId": null,
+      "score": 0.238,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0012",
+      "rightId": null,
+      "score": 0.321,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0013",
+      "rightId": null,
+      "score": 0.045,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0014",
+      "rightId": null,
+      "score": 0.192,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0015",
+      "rightId": "bianzheng-0388",
+      "score": 0.425,
+      "leftBook": "funvke",
+      "rightBook": "bianzheng"
+    },
+    {
+      "leftId": "funvke-0016",
+      "rightId": null,
+      "score": 0.33,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0017",
+      "rightId": null,
+      "score": 0.297,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0018",
+      "rightId": null,
+      "score": 0.207,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0019",
+      "rightId": null,
+      "score": 0.139,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0020",
+      "rightId": null,
+      "score": 0.164,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0021",
+      "rightId": null,
+      "score": 0.169,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0022",
+      "rightId": null,
+      "score": 0.061,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0023",
+      "rightId": null,
+      "score": 0.127,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0024",
+      "rightId": null,
+      "score": 0.271,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0025",
+      "rightId": null,
+      "score": 0.204,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0026",
+      "rightId": null,
+      "score": 0.241,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0027",
+      "rightId": null,
+      "score": 0.33,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0028",
+      "rightId": null,
+      "score": 0.325,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0029",
+      "rightId": null,
+      "score": 0.332,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0030",
+      "rightId": null,
+      "score": 0.209,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0031",
+      "rightId": null,
+      "score": 0.223,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0032",
+      "rightId": null,
+      "score": 0.296,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0033",
+      "rightId": null,
+      "score": 0.232,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0034",
+      "rightId": null,
+      "score": 0.124,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0035",
+      "rightId": null,
+      "score": 0.192,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0036",
+      "rightId": null,
+      "score": 0.273,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0037",
+      "rightId": null,
+      "score": 0.183,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0038",
+      "rightId": null,
+      "score": 0.269,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0039",
+      "rightId": null,
+      "score": 0.358,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0040",
+      "rightId": null,
+      "score": 0.37,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0041",
+      "rightId": null,
+      "score": 0.101,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0042",
+      "rightId": null,
+      "score": 0.091,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0043",
+      "rightId": null,
+      "score": 0.09,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0044",
+      "rightId": null,
+      "score": 0.113,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0045",
+      "rightId": null,
+      "score": 0.111,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0046",
+      "rightId": null,
+      "score": 0.103,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0047",
+      "rightId": null,
+      "score": 0.102,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0048",
+      "rightId": null,
+      "score": 0.097,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0049",
+      "rightId": null,
+      "score": 0.099,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0050",
+      "rightId": null,
+      "score": 0.116,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0051",
+      "rightId": null,
+      "score": 0.043,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0052",
+      "rightId": null,
+      "score": 0.036,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0053",
+      "rightId": null,
+      "score": 0.031,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0054",
+      "rightId": null,
+      "score": 0.028,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0055",
+      "rightId": null,
+      "score": 0.033,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0056",
+      "rightId": null,
+      "score": 0.024,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0057",
+      "rightId": null,
+      "score": 0.036,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0058",
+      "rightId": null,
+      "score": 0.035,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0059",
+      "rightId": null,
+      "score": 0.036,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0060",
+      "rightId": null,
+      "score": 0.039,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0061",
+      "rightId": null,
+      "score": 0.032,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0062",
+      "rightId": null,
+      "score": 0.037,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0063",
+      "rightId": null,
+      "score": 0.047,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0064",
+      "rightId": null,
+      "score": 0.02,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0065",
+      "rightId": null,
+      "score": 0.033,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0066",
+      "rightId": null,
+      "score": 0.215,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0067",
+      "rightId": "bianzheng-0421",
+      "score": 0.431,
+      "leftBook": "funvke",
+      "rightBook": "bianzheng"
+    },
+    {
+      "leftId": "funvke-0068",
+      "rightId": null,
+      "score": 0.295,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0069",
+      "rightId": null,
+      "score": 0.304,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0070",
+      "rightId": null,
+      "score": 0.252,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0071",
+      "rightId": null,
+      "score": 0.337,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0072",
+      "rightId": null,
+      "score": 0.259,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0073",
+      "rightId": null,
+      "score": 0.367,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0074",
+      "rightId": null,
+      "score": 0.337,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0075",
+      "rightId": null,
+      "score": 0.332,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0076",
+      "rightId": null,
+      "score": 0.218,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0077",
+      "rightId": null,
+      "score": 0.148,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0078",
+      "rightId": null,
+      "score": 0.003,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0079",
+      "rightId": null,
+      "score": 0.002,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0080",
+      "rightId": null,
+      "score": 0,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0081",
+      "rightId": null,
+      "score": 0,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0082",
+      "rightId": null,
+      "score": 0.007,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0083",
+      "rightId": null,
+      "score": 0,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0084",
+      "rightId": null,
+      "score": 0.01,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0085",
+      "rightId": null,
+      "score": 0.003,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0086",
+      "rightId": null,
+      "score": 0.019,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0087",
+      "rightId": null,
+      "score": 0.003,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0088",
+      "rightId": null,
+      "score": 0.04,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0089",
+      "rightId": null,
+      "score": 0.017,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0090",
+      "rightId": null,
+      "score": 0.013,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0091",
+      "rightId": null,
+      "score": 0,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0092",
+      "rightId": null,
+      "score": 0.024,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0093",
+      "rightId": null,
+      "score": 0.007,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0094",
+      "rightId": null,
+      "score": 0.08,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0095",
+      "rightId": null,
+      "score": 0.084,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0096",
+      "rightId": null,
+      "score": 0.013,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0097",
+      "rightId": null,
+      "score": 0.018,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0098",
+      "rightId": null,
+      "score": 0.015,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0099",
+      "rightId": null,
+      "score": 0.025,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0100",
+      "rightId": null,
+      "score": 0.093,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0101",
+      "rightId": null,
+      "score": 0.032,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0102",
+      "rightId": null,
+      "score": 0.022,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0103",
+      "rightId": null,
+      "score": 0.027,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0104",
+      "rightId": null,
+      "score": 0.027,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0105",
+      "rightId": null,
+      "score": 0.027,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0106",
+      "rightId": null,
+      "score": 0.018,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0107",
+      "rightId": null,
+      "score": 0.01,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0108",
+      "rightId": null,
+      "score": 0.013,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0109",
+      "rightId": null,
+      "score": 0.044,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0110",
+      "rightId": null,
+      "score": 0.019,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0111",
+      "rightId": null,
+      "score": 0.014,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0112",
+      "rightId": null,
+      "score": 0.011,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0113",
+      "rightId": null,
+      "score": 0.007,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0114",
+      "rightId": null,
+      "score": 0.006,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0115",
+      "rightId": null,
+      "score": 0.013,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0116",
+      "rightId": null,
+      "score": 0.005,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0117",
+      "rightId": null,
+      "score": 0.025,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0118",
+      "rightId": null,
+      "score": 0.026,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0119",
+      "rightId": null,
+      "score": 0.019,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0120",
+      "rightId": null,
+      "score": 0.037,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0121",
+      "rightId": null,
+      "score": 0.042,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0122",
+      "rightId": null,
+      "score": 0.022,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0123",
+      "rightId": null,
+      "score": 0.021,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0124",
+      "rightId": null,
+      "score": 0.018,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0125",
+      "rightId": null,
+      "score": 0.036,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0126",
+      "rightId": null,
+      "score": 0.04,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0127",
+      "rightId": null,
+      "score": 0.038,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0128",
+      "rightId": null,
+      "score": 0.021,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0129",
+      "rightId": null,
+      "score": 0.018,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0130",
+      "rightId": null,
+      "score": 0.029,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0131",
+      "rightId": null,
+      "score": 0.034,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0132",
+      "rightId": null,
+      "score": 0.023,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0133",
+      "rightId": null,
+      "score": 0.019,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0134",
+      "rightId": null,
+      "score": 0.027,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0135",
+      "rightId": null,
+      "score": 0.019,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0136",
+      "rightId": null,
+      "score": 0.034,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0137",
+      "rightId": null,
+      "score": 0.094,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0138",
+      "rightId": null,
+      "score": 0,
+      "leftBook": "funvke"
+    },
+    {
+      "leftId": "funvke-0139",
+      "rightId": null,
+      "score": 0.018,
+      "leftBook": "funvke"
+    }
+  ],
+  "nankeAlign": [
+    {
+      "leftId": "funanke-0001",
+      "rightId": null,
+      "score": 0.142,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0002",
+      "rightId": null,
+      "score": 0.122,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0003",
+      "rightId": null,
+      "score": 0.12,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0004",
+      "rightId": null,
+      "score": 0.168,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0005",
+      "rightId": null,
+      "score": 0.097,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0006",
+      "rightId": null,
+      "score": 0.114,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0007",
+      "rightId": null,
+      "score": 0.088,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0008",
+      "rightId": null,
+      "score": 0.21,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0009",
+      "rightId": null,
+      "score": 0.222,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0010",
+      "rightId": null,
+      "score": 0.025,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0011",
+      "rightId": null,
+      "score": 0.126,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0012",
+      "rightId": null,
+      "score": 0.224,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0013",
+      "rightId": null,
+      "score": 0.195,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0014",
+      "rightId": null,
+      "score": 0.168,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0015",
+      "rightId": null,
+      "score": 0.022,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0016",
+      "rightId": null,
+      "score": 0.024,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0017",
+      "rightId": null,
+      "score": 0.057,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0018",
+      "rightId": null,
+      "score": 0.042,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0019",
+      "rightId": null,
+      "score": 0.09,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0020",
+      "rightId": null,
+      "score": 0.093,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0021",
+      "rightId": null,
+      "score": 0.388,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0022",
+      "rightId": null,
+      "score": 0.097,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0023",
+      "rightId": null,
+      "score": 0.068,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0024",
+      "rightId": null,
+      "score": 0.092,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0025",
+      "rightId": null,
+      "score": 0.123,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0026",
+      "rightId": null,
+      "score": 0.064,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0027",
+      "rightId": null,
+      "score": 0.089,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0028",
+      "rightId": null,
+      "score": 0.09,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0029",
+      "rightId": null,
+      "score": 0.313,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0030",
+      "rightId": null,
+      "score": 0.14,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0031",
+      "rightId": null,
+      "score": 0.089,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0032",
+      "rightId": null,
+      "score": 0.113,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0033",
+      "rightId": null,
+      "score": 0.047,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0034",
+      "rightId": null,
+      "score": 0.152,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0035",
+      "rightId": null,
+      "score": 0.09,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0036",
+      "rightId": null,
+      "score": 0.193,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0037",
+      "rightId": null,
+      "score": 0.088,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0038",
+      "rightId": null,
+      "score": 0.132,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0039",
+      "rightId": null,
+      "score": 0.158,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0040",
+      "rightId": null,
+      "score": 0.166,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0041",
+      "rightId": null,
+      "score": 0.124,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0042",
+      "rightId": "shishi-0066",
+      "score": 0.513,
+      "leftBook": "funanke",
+      "rightBook": "shishi"
+    },
+    {
+      "leftId": "funanke-0043",
+      "rightId": null,
+      "score": 0.356,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0044",
+      "rightId": null,
+      "score": 0.282,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0045",
+      "rightId": null,
+      "score": 0.279,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0046",
+      "rightId": null,
+      "score": 0.11,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0047",
+      "rightId": null,
+      "score": 0.14,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0048",
+      "rightId": null,
+      "score": 0.144,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0049",
+      "rightId": null,
+      "score": 0.122,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0050",
+      "rightId": null,
+      "score": 0.095,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0051",
+      "rightId": null,
+      "score": 0.094,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0052",
+      "rightId": null,
+      "score": 0.119,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0053",
+      "rightId": null,
+      "score": 0.147,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0054",
+      "rightId": null,
+      "score": 0.084,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0055",
+      "rightId": null,
+      "score": 0.094,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0056",
+      "rightId": null,
+      "score": 0.065,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0057",
+      "rightId": null,
+      "score": 0.258,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0058",
+      "rightId": null,
+      "score": 0.045,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0059",
+      "rightId": null,
+      "score": 0.093,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0060",
+      "rightId": null,
+      "score": 0.107,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0061",
+      "rightId": null,
+      "score": 0.176,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0062",
+      "rightId": null,
+      "score": 0.103,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0063",
+      "rightId": null,
+      "score": 0.13,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0064",
+      "rightId": null,
+      "score": 0.082,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0065",
+      "rightId": null,
+      "score": 0.055,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0066",
+      "rightId": null,
+      "score": 0.273,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0067",
+      "rightId": null,
+      "score": 0.189,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0068",
+      "rightId": null,
+      "score": 0.115,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0069",
+      "rightId": null,
+      "score": 0.053,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0070",
+      "rightId": null,
+      "score": 0.043,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0071",
+      "rightId": null,
+      "score": 0.115,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0072",
+      "rightId": null,
+      "score": 0.062,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0073",
+      "rightId": "shishi-0116",
+      "score": 0.472,
+      "leftBook": "funanke",
+      "rightBook": "shishi"
+    },
+    {
+      "leftId": "funanke-0074",
+      "rightId": null,
+      "score": 0.317,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0075",
+      "rightId": null,
+      "score": 0.072,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0076",
+      "rightId": null,
+      "score": 0.059,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0077",
+      "rightId": null,
+      "score": 0.116,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0078",
+      "rightId": null,
+      "score": 0.199,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0079",
+      "rightId": null,
+      "score": 0.095,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0080",
+      "rightId": null,
+      "score": 0.151,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0081",
+      "rightId": null,
+      "score": 0.059,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0082",
+      "rightId": null,
+      "score": 0.211,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0083",
+      "rightId": null,
+      "score": 0.061,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0084",
+      "rightId": null,
+      "score": 0.105,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0085",
+      "rightId": null,
+      "score": 0.029,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0086",
+      "rightId": null,
+      "score": 0.219,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0087",
+      "rightId": null,
+      "score": 0.047,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0088",
+      "rightId": null,
+      "score": 0.151,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0089",
+      "rightId": null,
+      "score": 0.142,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0090",
+      "rightId": null,
+      "score": 0.085,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0091",
+      "rightId": null,
+      "score": 0.091,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0092",
+      "rightId": null,
+      "score": 0.042,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0093",
+      "rightId": null,
+      "score": 0.039,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0094",
+      "rightId": null,
+      "score": 0.143,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0095",
+      "rightId": null,
+      "score": 0.054,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0096",
+      "rightId": null,
+      "score": 0.067,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0097",
+      "rightId": null,
+      "score": 0.155,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0098",
+      "rightId": null,
+      "score": 0.042,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0099",
+      "rightId": null,
+      "score": 0.039,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0100",
+      "rightId": null,
+      "score": 0.056,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0101",
+      "rightId": null,
+      "score": 0.034,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0102",
+      "rightId": null,
+      "score": 0.114,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0103",
+      "rightId": null,
+      "score": 0.106,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0104",
+      "rightId": null,
+      "score": 0.062,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0105",
+      "rightId": null,
+      "score": 0.041,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0106",
+      "rightId": null,
+      "score": 0.048,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0107",
+      "rightId": null,
+      "score": 0.084,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0108",
+      "rightId": null,
+      "score": 0.104,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0109",
+      "rightId": null,
+      "score": 0.057,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0110",
+      "rightId": null,
+      "score": 0.105,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0111",
+      "rightId": null,
+      "score": 0.176,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0112",
+      "rightId": null,
+      "score": 0.106,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0113",
+      "rightId": null,
+      "score": 0.054,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0114",
+      "rightId": null,
+      "score": 0.249,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0115",
+      "rightId": null,
+      "score": 0.108,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0116",
+      "rightId": null,
+      "score": 0.116,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0117",
+      "rightId": null,
+      "score": 0.162,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0118",
+      "rightId": null,
+      "score": 0.242,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0119",
+      "rightId": null,
+      "score": 0.105,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0120",
+      "rightId": null,
+      "score": 0.126,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0121",
+      "rightId": null,
+      "score": 0.196,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0122",
+      "rightId": null,
+      "score": 0.084,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0123",
+      "rightId": null,
+      "score": 0.081,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0124",
+      "rightId": null,
+      "score": 0.061,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0125",
+      "rightId": null,
+      "score": 0.099,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0126",
+      "rightId": null,
+      "score": 0.107,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0127",
+      "rightId": null,
+      "score": 0.112,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0128",
+      "rightId": null,
+      "score": 0.046,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0129",
+      "rightId": null,
+      "score": 0.064,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0130",
+      "rightId": null,
+      "score": 0.05,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0131",
+      "rightId": null,
+      "score": 0.046,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0132",
+      "rightId": null,
+      "score": 0.109,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0133",
+      "rightId": null,
+      "score": 0.168,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0134",
+      "rightId": null,
+      "score": 0.017,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0135",
+      "rightId": null,
+      "score": 0.068,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0136",
+      "rightId": null,
+      "score": 0.064,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0137",
+      "rightId": null,
+      "score": 0.133,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0138",
+      "rightId": null,
+      "score": 0.108,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0139",
+      "rightId": null,
+      "score": 0.044,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0140",
+      "rightId": null,
+      "score": 0.088,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0141",
+      "rightId": null,
+      "score": 0.113,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0142",
+      "rightId": null,
+      "score": 0.169,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0143",
+      "rightId": null,
+      "score": 0.038,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0144",
+      "rightId": null,
+      "score": 0.127,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0145",
+      "rightId": null,
+      "score": 0.106,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0146",
+      "rightId": null,
+      "score": 0.022,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0147",
+      "rightId": null,
+      "score": 0.414,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0148",
+      "rightId": null,
+      "score": 0.132,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0149",
+      "rightId": null,
+      "score": 0.413,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0150",
+      "rightId": null,
+      "score": 0.092,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0151",
+      "rightId": null,
+      "score": 0.009,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0152",
+      "rightId": null,
+      "score": 0.052,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0153",
+      "rightId": null,
+      "score": 0.111,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0154",
+      "rightId": null,
+      "score": 0.11,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0155",
+      "rightId": null,
+      "score": 0.102,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0156",
+      "rightId": null,
+      "score": 0.109,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0157",
+      "rightId": null,
+      "score": 0.112,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0158",
+      "rightId": null,
+      "score": 0.054,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0159",
+      "rightId": null,
+      "score": 0.063,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0160",
+      "rightId": null,
+      "score": 0.091,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0161",
+      "rightId": null,
+      "score": 0.091,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0162",
+      "rightId": null,
+      "score": 0.049,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0163",
+      "rightId": null,
+      "score": 0.084,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0164",
+      "rightId": null,
+      "score": 0.041,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0165",
+      "rightId": null,
+      "score": 0.084,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0166",
+      "rightId": null,
+      "score": 0.075,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0167",
+      "rightId": null,
+      "score": 0.389,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0168",
+      "rightId": null,
+      "score": 0.08,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0169",
+      "rightId": null,
+      "score": 0.09,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0170",
+      "rightId": null,
+      "score": 0.091,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0171",
+      "rightId": null,
+      "score": 0.082,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0172",
+      "rightId": null,
+      "score": 0.086,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0173",
+      "rightId": null,
+      "score": 0.092,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0174",
+      "rightId": null,
+      "score": 0.119,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0175",
+      "rightId": null,
+      "score": 0.1,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0176",
+      "rightId": null,
+      "score": 0.006,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0177",
+      "rightId": null,
+      "score": 0.07,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0178",
+      "rightId": null,
+      "score": 0.074,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0179",
+      "rightId": null,
+      "score": 0.231,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0180",
+      "rightId": null,
+      "score": 0.094,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0181",
+      "rightId": null,
+      "score": 0.048,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0182",
+      "rightId": null,
+      "score": 0.08,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0183",
+      "rightId": null,
+      "score": 0.025,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0184",
+      "rightId": null,
+      "score": 0.01,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0185",
+      "rightId": null,
+      "score": 0.099,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0186",
+      "rightId": null,
+      "score": 0.081,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0187",
+      "rightId": null,
+      "score": 0.058,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0188",
+      "rightId": null,
+      "score": 0.212,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0189",
+      "rightId": null,
+      "score": 0.082,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0190",
+      "rightId": null,
+      "score": 0.145,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0191",
+      "rightId": null,
+      "score": 0.112,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0192",
+      "rightId": null,
+      "score": 0.035,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0193",
+      "rightId": null,
+      "score": 0.035,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0194",
+      "rightId": null,
+      "score": 0.006,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0195",
+      "rightId": null,
+      "score": 0.202,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0196",
+      "rightId": null,
+      "score": 0.009,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0197",
+      "rightId": null,
+      "score": 0.005,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0198",
+      "rightId": null,
+      "score": 0.175,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0199",
+      "rightId": null,
+      "score": 0.08,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0200",
+      "rightId": null,
+      "score": 0.004,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0201",
+      "rightId": null,
+      "score": 0.021,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0202",
+      "rightId": null,
+      "score": 0.091,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0203",
+      "rightId": null,
+      "score": 0.145,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0204",
+      "rightId": null,
+      "score": 0.091,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0205",
+      "rightId": null,
+      "score": 0.037,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0206",
+      "rightId": null,
+      "score": 0.094,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0207",
+      "rightId": null,
+      "score": 0.047,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0208",
+      "rightId": null,
+      "score": 0.089,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0209",
+      "rightId": null,
+      "score": 0.07,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0210",
+      "rightId": null,
+      "score": 0.063,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0211",
+      "rightId": null,
+      "score": 0.096,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0212",
+      "rightId": null,
+      "score": 0.101,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0213",
+      "rightId": null,
+      "score": 0.049,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0214",
+      "rightId": null,
+      "score": 0.027,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0215",
+      "rightId": null,
+      "score": 0.023,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0216",
+      "rightId": null,
+      "score": 0.111,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0217",
+      "rightId": null,
+      "score": 0.086,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0218",
+      "rightId": null,
+      "score": 0.024,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0219",
+      "rightId": null,
+      "score": 0.059,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0220",
+      "rightId": null,
+      "score": 0.113,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0221",
+      "rightId": null,
+      "score": 0.033,
+      "leftBook": "funanke"
+    },
+    {
+      "leftId": "funanke-0222",
+      "rightId": null,
+      "score": 0.099,
+      "leftBook": "funanke"
+    }
+  ]
+}

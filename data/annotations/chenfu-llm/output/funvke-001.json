@@ -1,0 +1,1788 @@
+{
+  "book": "funvke",
+  "batch": 1,
+  "model": "grok-4.5",
+  "entries": [
+    {
+      "clauseId": "funvke-0001",
+      "contentHash": "0c64b6f40f17f52b",
+      "symptomTags": [
+        "带下",
+        "白带"
+      ],
+      "pathogenesisTags": [
+        "脾虚",
+        "肝郁",
+        "脾湿",
+        "带脉不固"
+      ],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0001-1",
+          "herbRoles": [
+            {
+              "herbId": "柴胡",
+              "roleText": "疏肝",
+              "mechanism": "开提肝木之气，则肝血不燥",
+              "sourceSentence": "开提肝木之气，则肝血不燥，何至下尅脾土"
+            },
+            {
+              "herbId": "白芍",
+              "roleText": "养肝",
+              "mechanism": "开提肝木，使肝血不燥",
+              "sourceSentence": "开提肝木之气，则肝血不燥，何至下尅脾土"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "健脾",
+              "mechanism": "补益脾土之元，则脾气不湿",
+              "sourceSentence": "补益脾土之元，则脾气不湿，何难分消水气"
+            },
+            {
+              "herbId": "山药",
+              "roleText": "健脾",
+              "mechanism": "补益脾土之元",
+              "sourceSentence": "补益脾土之元，则脾气不湿，何难分消水气"
+            },
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "补脾而兼以补胃",
+              "sourceSentence": "至于补脾而兼以补胃者，由里以及表也"
+            },
+            {
+              "herbId": "苍术",
+              "roleText": "燥湿",
+              "mechanism": "分消水气",
+              "sourceSentence": "补益脾土之元，则脾气不湿，何难分消水气"
+            },
+            {
+              "herbId": "车前子",
+              "roleText": "利湿",
+              "mechanism": "分消水气",
+              "sourceSentence": "补益脾土之元，则脾气不湿，何难分消水气"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0002",
+      "contentHash": "d8f88930172bc19f",
+      "symptomTags": [
+        "带下",
+        "青带"
+      ],
+      "pathogenesisTags": [
+        "湿热",
+        "肝郁",
+        "肝火"
+      ],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0002-1",
+          "herbRoles": [
+            {
+              "herbId": "柴胡",
+              "roleText": "解郁",
+              "mechanism": "解肝之郁与逆",
+              "sourceSentence": "道遥散最能解肝之郁与逆"
+            },
+            {
+              "herbId": "白芍",
+              "roleText": "疏肝",
+              "mechanism": "解肝之郁与逆",
+              "sourceSentence": "道遥散最能解肝之郁与逆"
+            },
+            {
+              "herbId": "茵陈",
+              "roleText": "利湿",
+              "mechanism": "利湿",
+              "sourceSentence": "而又益之以茵陈之利湿，栀子之清热"
+            },
+            {
+              "herbId": "栀子",
+              "roleText": "清热",
+              "mechanism": "清热",
+              "sourceSentence": "而又益之以茵陈之利湿，栀子之清热"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0003",
+      "contentHash": "19503fcf2da97639",
+      "symptomTags": [
+        "带下",
+        "黄带"
+      ],
+      "pathogenesisTags": [
+        "任脉湿热",
+        "湿热",
+        "脾湿"
+      ],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0003-1",
+          "herbRoles": [
+            {
+              "herbId": "山药",
+              "roleText": "固涩",
+              "mechanism": "专补任脉之虚，又能利水",
+              "sourceSentence": "盖山药、芡实专补任脉之虚，又能利水"
+            },
+            {
+              "herbId": "芡实",
+              "roleText": "固涩",
+              "mechanism": "专补任脉之虚，又能利水",
+              "sourceSentence": "盖山药、芡实专补任脉之虚，又能利水"
+            },
+            {
+              "herbId": "白果",
+              "roleText": "引经",
+              "mechanism": "引入任脉之中",
+              "sourceSentence": "加白果引入任脉之中，更为便捷"
+            },
+            {
+              "herbId": "黄檗",
+              "roleText": "泻火",
+              "mechanism": "清肾中之火",
+              "sourceSentence": "至于用黄柏清肾中之火也"
+            },
+            {
+              "herbId": "车前子",
+              "roleText": "利湿",
+              "mechanism": "清肾火而湿始有去路",
+              "sourceSentence": "方用黄柏，车前子妙！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0004",
+      "contentHash": "622dd3dd9bfb9142",
+      "symptomTags": [
+        "带下",
+        "黑带",
+        "腹痛",
+        "小便不利",
+        "口渴"
+      ],
+      "pathogenesisTags": [
+        "胃热",
+        "湿热"
+      ],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0004-1",
+          "herbRoles": [
+            {
+              "herbId": "黄连",
+              "roleText": "清热",
+              "mechanism": "寒凉之品迅速扫除火盛",
+              "sourceSentence": "今用黄连、石膏、栀子、知母一派寒凉之品，入于大黄之中，则迅速扫除"
+            },
+            {
+              "herbId": "石膏",
+              "roleText": "清热",
+              "mechanism": "寒凉之品迅速扫除火盛",
+              "sourceSentence": "今用黄连、石膏、栀子、知母一派寒凉之品，入于大黄之中，则迅速扫除"
+            },
+            {
+              "herbId": "栀子",
+              "roleText": "泻火",
+              "mechanism": "寒凉之品迅速扫除火盛",
+              "sourceSentence": "今用黄连、石膏、栀子、知母一派寒凉之品，入于大黄之中，则迅速扫除"
+            },
+            {
+              "herbId": "知母",
+              "roleText": "清热",
+              "mechanism": "寒凉之品迅速扫除火盛",
+              "sourceSentence": "今用黄连、石膏、栀子、知母一派寒凉之品，入于大黄之中，则迅速扫除"
+            },
+            {
+              "herbId": "大黄",
+              "roleText": "泻火",
+              "mechanism": "迅速扫除火热",
+              "sourceSentence": "今用黄连、石膏、栀子、知母一派寒凉之品，入于大黄之中，则迅速扫除"
+            },
+            {
+              "herbId": "王不留行",
+              "roleText": "利湿",
+              "mechanism": "利湿甚急",
+              "sourceSentence": "而又得王不留行与刘寄奴之利湿甚急"
+            },
+            {
+              "herbId": "刘寄奴",
+              "roleText": "利湿",
+              "mechanism": "利湿甚急",
+              "sourceSentence": "而又得王不留行与刘寄奴之利湿甚急"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "健脾",
+              "mechanism": "辅土",
+              "sourceSentence": "佐白亢以辅土，茯苓以渗湿，车前以利水"
+            },
+            {
+              "herbId": "茯苓",
+              "roleText": "利湿",
+              "mechanism": "渗湿",
+              "sourceSentence": "佐白亢以辅土，茯苓以渗湿，车前以利水"
+            },
+            {
+              "herbId": "车前子",
+              "roleText": "利湿",
+              "mechanism": "利水",
+              "sourceSentence": "佐白亢以辅土，茯苓以渗湿，车前以利水"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0005",
+      "contentHash": "358feb1c1c80fa58",
+      "symptomTags": [
+        "带下",
+        "赤带"
+      ],
+      "pathogenesisTags": [
+        "肝火",
+        "湿热",
+        "脾虚",
+        "肝克脾"
+      ],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0005-1",
+          "herbRoles": [
+            {
+              "herbId": "白芍",
+              "roleText": "平肝",
+              "mechanism": "平肝则肝气舒，不尅土",
+              "sourceSentence": "不知用芍药以平肝，则肝气行得舒，肝气舒自不尅土"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "补肝之血以制火",
+              "sourceSentence": "此方但主补肝之血，全不利脾之湿者"
+            },
+            {
+              "herbId": "生地黄",
+              "roleText": "补血",
+              "mechanism": "补血即足以制火",
+              "sourceSentence": "失火之所以旺者，由于血之衰，补血即足以制火"
+            },
+            {
+              "herbId": "阿胶",
+              "roleText": "补血",
+              "mechanism": "补肝之血",
+              "sourceSentence": "此方但主补肝之血，全不利脾之湿者"
+            },
+            {
+              "herbId": "牡丹皮",
+              "roleText": "清热",
+              "mechanism": "少加清火之味",
+              "sourceSentence": "此方之妙，妙在纯于治血，少加清火之味"
+            },
+            {
+              "herbId": "黄檗",
+              "roleText": "泻火",
+              "mechanism": "少加清火之味",
+              "sourceSentence": "此方之妙，妙在纯于治血，少加清火之味"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0006",
+      "contentHash": "b2f8b2c0c1c1557a",
+      "symptomTags": [
+        "崩漏",
+        "眩晕"
+      ],
+      "pathogenesisTags": [
+        "血虚",
+        "气虚",
+        "阴虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0006-1",
+          "herbRoles": [
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "急补其气以生血",
+              "sourceSentence": "若不急补其气以生血，而先补其血而遗气"
+            },
+            {
+              "herbId": "黄芪",
+              "roleText": "补气",
+              "mechanism": "先补气",
+              "sourceSentence": "此所以不先补血而先补气也"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "补气",
+              "mechanism": "补气以生血",
+              "sourceSentence": "此所以不先补血而先补气也"
+            },
+            {
+              "herbId": "大熟地",
+              "roleText": "补血",
+              "mechanism": "补血",
+              "sourceSentence": "所以同补气补血之药并用之耳"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "补血",
+              "sourceSentence": "所以同补气补血之药并用之耳"
+            },
+            {
+              "herbId": "黑姜",
+              "roleText": "固涩",
+              "mechanism": "引血归经，补中又有收敛",
+              "sourceSentence": "况黑姜引血归经，是补中又有收敛之妙"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0007",
+      "contentHash": "bfbf11bca65cd19c",
+      "symptomTags": [
+        "崩漏"
+      ],
+      "pathogenesisTags": [
+        "肾阴虚",
+        "气虚",
+        "血虚"
+      ],
+      "misjudgment": {
+        "commonView": "老妇之虚耳",
+        "trueView": "是不慎房帏之故"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0007-1",
+          "herbRoles": [
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "气血两补",
+              "sourceSentence": "用此方以止其暂时之漏，实有奇功"
+            },
+            {
+              "herbId": "黄芪",
+              "roleText": "补气",
+              "mechanism": "气血两补",
+              "sourceSentence": "用此方以止其暂时之漏，实有奇功"
+            },
+            {
+              "herbId": "三七根末",
+              "roleText": "止血",
+              "mechanism": "止其暂时之漏",
+              "sourceSentence": "用此方以止其暂时之漏，实有奇功"
+            },
+            {
+              "herbId": "桑叶",
+              "roleText": "补阴",
+              "mechanism": "止漏",
+              "sourceSentence": "用此方以止其暂时之漏，实有奇功，而不可责其永远之绩者，以补精之味尚少也"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0008",
+      "contentHash": "1d94b7219b55db62",
+      "symptomTags": [
+        "崩漏",
+        "胎动不安"
+      ],
+      "pathogenesisTags": [
+        "气虚",
+        "血虚"
+      ],
+      "misjudgment": {
+        "commonView": "挫闪受伤而致",
+        "trueView": "是行房不慎之过"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0008-1",
+          "herbRoles": [
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "固气而兼补血",
+              "sourceSentence": "此方固气而兼补血"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "补气",
+              "mechanism": "固气",
+              "sourceSentence": "此方固气而兼补血"
+            },
+            {
+              "herbId": "大熟地",
+              "roleText": "补血",
+              "mechanism": "兼补血",
+              "sourceSentence": "此方固气而兼补血"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "兼补血",
+              "sourceSentence": "此方固气而兼补血"
+            },
+            {
+              "herbId": "五味子",
+              "roleText": "固涩",
+              "mechanism": "止血之味含于补气之中",
+              "sourceSentence": "其最妙者，不去止血，而止血之味，含于补气之中也"
+            },
+            {
+              "herbId": "山茱萸",
+              "roleText": "固涩",
+              "mechanism": "止血之味含于补气之中",
+              "sourceSentence": "其最妙者，不去止血，而止血之味，含于补气之中也"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0009",
+      "contentHash": "c0e308f6ae93ec2d",
+      "symptomTags": [
+        "崩漏",
+        "出血"
+      ],
+      "pathogenesisTags": [
+        "气虚",
+        "肾虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0009-1",
+          "herbRoles": [
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "用参以补气",
+              "sourceSentence": "此方用参儿以补气，用地萸以补精"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "补气",
+              "mechanism": "补气",
+              "sourceSentence": "此方用参儿以补气，用地萸以补精"
+            },
+            {
+              "herbId": "熟地黄",
+              "roleText": "补阴",
+              "mechanism": "用地以补精",
+              "sourceSentence": "此方用参儿以补气，用地萸以补精"
+            },
+            {
+              "herbId": "山茱萸",
+              "roleText": "益肾",
+              "mechanism": "用萸以补精",
+              "sourceSentence": "此方用参儿以补气，用地萸以补精"
+            },
+            {
+              "herbId": "茯苓",
+              "roleText": "利湿",
+              "mechanism": "利水与窍",
+              "sourceSentence": "加入茯苓、车前以利水与窍，水利则血管亦利"
+            },
+            {
+              "herbId": "车前子",
+              "roleText": "利湿",
+              "mechanism": "利水与窍",
+              "sourceSentence": "加入茯苓、车前以利水与窍，水利则血管亦利"
+            },
+            {
+              "herbId": "黄檗",
+              "roleText": "引经",
+              "mechanism": "为引，直入血管之中",
+              "sourceSentence": "又加黄柏为引，直入血管之中，而引夙精出于血管之外"
+            },
+            {
+              "herbId": "荆芥穗",
+              "roleText": "活血",
+              "mechanism": "引败血出于血管之内",
+              "sourceSentence": "芥穗引败血出于血管之内"
+            },
+            {
+              "herbId": "黑姜",
+              "roleText": "止血",
+              "mechanism": "止血管之口",
+              "sourceSentence": "黑姜以止血管之口"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0010",
+      "contentHash": "f17925356c1d10f1",
+      "symptomTags": [
+        "崩漏",
+        "口渴",
+        "呕吐"
+      ],
+      "pathogenesisTags": [
+        "肝郁",
+        "气滞"
+      ],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0010-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0011",
+      "contentHash": "c17f5e0cadf77af3",
+      "symptomTags": [
+        "崩漏",
+        "腹痛",
+        "出血"
+      ],
+      "pathogenesisTags": [
+        "血瘀"
+      ],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0011-1",
+          "herbRoles": [
+            {
+              "herbId": "当归尾",
+              "roleText": "活血",
+              "mechanism": "活血之中佐以下滞之品",
+              "sourceSentence": "此方之妙，妙于活血之中，佐以下滞之品，故逐瘀如扫，而止血如神"
+            },
+            {
+              "herbId": "桃仁",
+              "roleText": "化瘀",
+              "mechanism": "逐瘀如扫",
+              "sourceSentence": "此方之妙，妙于活血之中，佐以下滞之品，故逐瘀如扫，而止血如神"
+            },
+            {
+              "herbId": "赤芍",
+              "roleText": "活血",
+              "mechanism": "活血逐瘀",
+              "sourceSentence": "此方之妙，妙于活血之中，佐以下滞之品，故逐瘀如扫，而止血如神"
+            },
+            {
+              "herbId": "牡丹皮",
+              "roleText": "活血",
+              "mechanism": "活血逐瘀",
+              "sourceSentence": "此方之妙，妙于活血之中，佐以下滞之品，故逐瘀如扫，而止血如神"
+            },
+            {
+              "herbId": "大黄",
+              "roleText": "化瘀",
+              "mechanism": "下滞之品以逐瘀",
+              "sourceSentence": "此方之妙，妙于活血之中，佐以下滞之品，故逐瘀如扫，而止血如神"
+            },
+            {
+              "herbId": "枳壳",
+              "roleText": "理气",
+              "mechanism": "下滞之品",
+              "sourceSentence": "此方之妙，妙于活血之中，佐以下滞之品，故逐瘀如扫，而止血如神"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0012",
+      "contentHash": "8cebe0711cffad47",
+      "symptomTags": [
+        "崩漏",
+        "月经不调"
+      ],
+      "pathogenesisTags": [
+        "阴虚",
+        "相火妄动",
+        "冲任虚损"
+      ],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0012-1",
+          "herbRoles": [
+            {
+              "herbId": "大熟地",
+              "roleText": "补阴",
+              "mechanism": "补阴而无浮动之虑",
+              "sourceSentence": "此方补阴而无浮动之虑，缩血而无寒凉之苦"
+            },
+            {
+              "herbId": "山萸",
+              "roleText": "补阴",
+              "mechanism": "补阴",
+              "sourceSentence": "此方补阴而无浮动之虑，缩血而无寒凉之苦"
+            },
+            {
+              "herbId": "麦冬肉",
+              "roleText": "补阴",
+              "mechanism": "补阴",
+              "sourceSentence": "此方补阴而无浮动之虑，缩血而无寒凉之苦"
+            },
+            {
+              "herbId": "玄参",
+              "roleText": "补阴",
+              "mechanism": "补阴",
+              "sourceSentence": "此方补阴而无浮动之虑，缩血而无寒凉之苦"
+            },
+            {
+              "herbId": "龙骨",
+              "roleText": "固涩",
+              "mechanism": "缩血而无寒凉之苦",
+              "sourceSentence": "此方补阴而无浮动之虑，缩血而无寒凉之苦"
+            },
+            {
+              "herbId": "北五味",
+              "roleText": "固涩",
+              "mechanism": "缩血",
+              "sourceSentence": "此方补阴而无浮动之虑，缩血而无寒凉之苦"
+            },
+            {
+              "herbId": "地骨皮",
+              "roleText": "清热",
+              "mechanism": "使子宫清凉而血海自固",
+              "sourceSentence": "潜移默夺，子宫清凉，而血海自固"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0013",
+      "contentHash": "3b6ecb561ada8dc3",
+      "symptomTags": [
+        "积聚",
+        "闭经"
+      ],
+      "pathogenesisTags": [
+        "血瘀",
+        "气虚",
+        "血虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0013-1",
+          "herbRoles": [
+            {
+              "herbId": "雷丸",
+              "roleText": "其他",
+              "mechanism": "祛秽",
+              "sourceSentence": "此方用雷丸以祛秽，又得大黄之扫除"
+            },
+            {
+              "herbId": "大黄",
+              "roleText": "化瘀",
+              "mechanism": "扫除",
+              "sourceSentence": "此方用雷丸以祛秽，又得大黄之扫除"
+            },
+            {
+              "herbId": "厚朴",
+              "roleText": "理气",
+              "mechanism": "善行善攻",
+              "sourceSentence": "用佐以厚朴、红花、桃仁等味，皆善行善攻之品"
+            },
+            {
+              "herbId": "红花",
+              "roleText": "活血",
+              "mechanism": "善行善攻",
+              "sourceSentence": "用佐以厚朴、红花、桃仁等味，皆善行善攻之品"
+            },
+            {
+              "herbId": "小桃仁",
+              "roleText": "化瘀",
+              "mechanism": "善行善攻",
+              "sourceSentence": "用佐以厚朴、红花、桃仁等味，皆善行善攻之品"
+            },
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "补气血，邪去而正不伤",
+              "sourceSentence": "尤妙在用参、当以补气血，则邪去而正不伤"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "补气血，邪去而正不伤",
+              "sourceSentence": "尤妙在用参、当以补气血，则邪去而正不伤"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0014",
+      "contentHash": "20354240d6d24008",
+      "symptomTags": [
+        "闭经",
+        "积聚"
+      ],
+      "pathogenesisTags": [
+        "气虚",
+        "血虚",
+        "胃虚"
+      ],
+      "misjudgment": {
+        "commonView": "血结经闭也",
+        "trueView": "是灵鬼凭身"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0014-1",
+          "herbRoles": [
+            {
+              "herbId": "苍术",
+              "roleText": "健脾",
+              "mechanism": "用二术以补胃阳",
+              "sourceSentence": "用二术以补胃阳，阳气旺则阴气难犯"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0015",
+      "contentHash": "b17b75f607d282d1",
+      "symptomTags": [
+        "月经不调"
+      ],
+      "pathogenesisTags": [
+        "肾阴虚",
+        "相火妄动"
+      ],
+      "misjudgment": {
+        "commonView": "血热之极也",
+        "trueView": "是肾中水火太旺"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0015-1",
+          "herbRoles": [
+            {
+              "herbId": "牡丹皮",
+              "roleText": "清热",
+              "mechanism": "清火之品",
+              "sourceSentence": "此方虽是清火之品，然仍是滋水之味"
+            },
+            {
+              "herbId": "地骨皮",
+              "roleText": "清热",
+              "mechanism": "清火之品",
+              "sourceSentence": "此方虽是清火之品，然仍是滋水之味"
+            },
+            {
+              "herbId": "青蒿",
+              "roleText": "清热",
+              "mechanism": "清火之品",
+              "sourceSentence": "此方虽是清火之品，然仍是滋水之味"
+            },
+            {
+              "herbId": "黄檗",
+              "roleText": "泻火",
+              "mechanism": "清火",
+              "sourceSentence": "此方虽是清火之品，然仍是滋水之味"
+            },
+            {
+              "herbId": "大熟地",
+              "roleText": "补阴",
+              "mechanism": "滋水之味",
+              "sourceSentence": "此方虽是清火之品，然仍是滋水之味，火泄而水不与俱泄"
+            },
+            {
+              "herbId": "白芍",
+              "roleText": "补阴",
+              "mechanism": "滋水之味",
+              "sourceSentence": "此方虽是清火之品，然仍是滋水之味，火泄而水不与俱泄"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0016",
+      "contentHash": "631a1ecd6f1bf126",
+      "symptomTags": [
+        "月经不调"
+      ],
+      "pathogenesisTags": [
+        "血虚",
+        "肝郁"
+      ],
+      "misjudgment": {
+        "commonView": "血虚之病也",
+        "trueView": "非血虚"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0016-1",
+          "herbRoles": [
+            {
+              "herbId": "大熟地",
+              "roleText": "补血",
+              "mechanism": "大补肝、肾、脾之精与血",
+              "sourceSentence": "此方大补肝、肾、脾之精与血"
+            },
+            {
+              "herbId": "白芍",
+              "roleText": "补血",
+              "mechanism": "大补肝、肾、脾之精与血",
+              "sourceSentence": "此方大补肝、肾、脾之精与血"
+            },
+            {
+              "herbId": "川芎",
+              "roleText": "补血",
+              "mechanism": "大补肝、肾、脾之精与血",
+              "sourceSentence": "此方大补肝、肾、脾之精与血"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "健脾",
+              "mechanism": "大补肝、肾、脾之精与血",
+              "sourceSentence": "此方大补肝、肾、脾之精与血"
+            },
+            {
+              "herbId": "续断",
+              "roleText": "益肾",
+              "mechanism": "大补肝、肾、脾之精与血",
+              "sourceSentence": "此方大补肝、肾、脾之精与血"
+            },
+            {
+              "herbId": "肉桂",
+              "roleText": "散寒",
+              "mechanism": "祛其寒",
+              "sourceSentence": "加肉桂以祛其寒，柴胡以解其郁"
+            },
+            {
+              "herbId": "柴胡",
+              "roleText": "解郁",
+              "mechanism": "解其郁",
+              "sourceSentence": "加肉桂以祛其寒，柴胡以解其郁"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0017",
+      "contentHash": "b5565dcdf341e249",
+      "symptomTags": [
+        "月经不调"
+      ],
+      "pathogenesisTags": [
+        "肝郁",
+        "肾虚"
+      ],
+      "misjudgment": {
+        "commonView": "气血之虚也",
+        "trueView": "是肝气之郁结"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0017-1",
+          "herbRoles": [
+            {
+              "herbId": "柴胡",
+              "roleText": "疏肝",
+              "mechanism": "舒肝肾之气",
+              "sourceSentence": "此方舒肝肾之气，非通经之药也"
+            },
+            {
+              "herbId": "白芍",
+              "roleText": "养肝",
+              "mechanism": "舒肝肾之气",
+              "sourceSentence": "此方舒肝肾之气，非通经之药也"
+            },
+            {
+              "herbId": "菟丝子",
+              "roleText": "益肾",
+              "mechanism": "补肝肾之精",
+              "sourceSentence": "补肝肾之精，非利水之品也"
+            },
+            {
+              "herbId": "大熟地",
+              "roleText": "益肾",
+              "mechanism": "补肝肾之精",
+              "sourceSentence": "补肝肾之精，非利水之品也"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "补肝肾之精",
+              "sourceSentence": "补肝肾之精，非利水之品也"
+            },
+            {
+              "herbId": "山药",
+              "roleText": "益肾",
+              "mechanism": "补肝肾之精",
+              "sourceSentence": "补肝肾之精，非利水之品也，肝肾之气舒而精通，肝肾之精旺而水利"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0019",
+      "contentHash": "fc5ac6bdc99ca732",
+      "symptomTags": [
+        "崩漏",
+        "月经不调"
+      ],
+      "pathogenesisTags": [
+        "肝郁",
+        "脾虚",
+        "气虚",
+        "血虚",
+        "肾虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0019-1",
+          "herbRoles": [
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "补益肝脾之气",
+              "sourceSentence": "此方补益肝脾之气，气足自能生血而摄血"
+            },
+            {
+              "herbId": "黄芪",
+              "roleText": "补气",
+              "mechanism": "补益肝脾之气",
+              "sourceSentence": "此方补益肝脾之气，气足自能生血而摄血"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "健脾",
+              "mechanism": "补益肝脾之气",
+              "sourceSentence": "此方补益肝脾之气，气足自能生血而摄血"
+            },
+            {
+              "herbId": "大熟地",
+              "roleText": "补阴",
+              "mechanism": "大补肾水",
+              "sourceSentence": "尤妙大补肾水，水足而肝气自舒"
+            },
+            {
+              "herbId": "山萸",
+              "roleText": "益肾",
+              "mechanism": "大补肾水",
+              "sourceSentence": "尤妙大补肾水，水足而肝气自舒，肝舒而脾自得养"
+            },
+            {
+              "herbId": "阿胶",
+              "roleText": "补血",
+              "mechanism": "气足自能生血而摄血",
+              "sourceSentence": "此方补益肝脾之气，气足自能生血而摄血"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "生血而摄血",
+              "sourceSentence": "此方补益肝脾之气，气足自能生血而摄血"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0020",
+      "contentHash": "9da3acf6cfabe8ea",
+      "symptomTags": [
+        "月经不调",
+        "痛经",
+        "发热",
+        "恶寒"
+      ],
+      "pathogenesisTags": [
+        "肝郁",
+        "风寒",
+        "气滞"
+      ],
+      "misjudgment": {
+        "commonView": "血之凝也",
+        "trueView": "是肝气不舒"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0020-1",
+          "herbRoles": [
+            {
+              "herbId": "大熟地",
+              "roleText": "补血",
+              "mechanism": "四物以滋脾胃之阴血",
+              "sourceSentence": "此方用四物以滋脾胃之阴血"
+            },
+            {
+              "herbId": "白芍",
+              "roleText": "疏肝",
+              "mechanism": "宣肝经之风郁",
+              "sourceSentence": "用柴胡、白芍、丹皮以宣肝经之风郁"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "四物以滋脾胃之阴血",
+              "sourceSentence": "此方用四物以滋脾胃之阴血"
+            },
+            {
+              "herbId": "川芎",
+              "roleText": "补血",
+              "mechanism": "四物以滋脾胃之阴血",
+              "sourceSentence": "此方用四物以滋脾胃之阴血"
+            },
+            {
+              "herbId": "柴胡",
+              "roleText": "疏肝",
+              "mechanism": "宣肝经之风郁",
+              "sourceSentence": "用柴胡、白芍、丹皮以宣肝经之风郁"
+            },
+            {
+              "herbId": "牡丹皮",
+              "roleText": "清热",
+              "mechanism": "宣肝经之风郁",
+              "sourceSentence": "用柴胡、白芍、丹皮以宣肝经之风郁"
+            },
+            {
+              "herbId": "甘草",
+              "roleText": "利腰脐",
+              "mechanism": "利腰脐而和腹疼",
+              "sourceSentence": "用甘草．白术，元胡以利腰脐而和腹疼"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "利腰脐",
+              "mechanism": "利腰脐而和腹疼",
+              "sourceSentence": "用甘草．白术，元胡以利腰脐而和腹疼"
+            },
+            {
+              "herbId": "延胡索",
+              "roleText": "利腰脐",
+              "mechanism": "利腰脐而和腹疼",
+              "sourceSentence": "用甘草．白术，元胡以利腰脐而和腹疼"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0021",
+      "contentHash": "43fbea6f5b65062c",
+      "symptomTags": [
+        "痛经",
+        "月经不调",
+        "腹痛"
+      ],
+      "pathogenesisTags": [
+        "肝郁",
+        "肝火",
+        "气滞"
+      ],
+      "misjudgment": {
+        "commonView": "寒极而然也",
+        "trueView": "是热极而火不化"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0021-1",
+          "herbRoles": [
+            {
+              "herbId": "白芍",
+              "roleText": "补血",
+              "mechanism": "补肝之血",
+              "sourceSentence": "此方补肝之血，而解肝之郁，利肝之气，而降肝之火"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "补肝之血",
+              "sourceSentence": "此方补肝之血，而解肝之郁，利肝之气，而降肝之火"
+            },
+            {
+              "herbId": "柴胡",
+              "roleText": "解郁",
+              "mechanism": "解肝之郁",
+              "sourceSentence": "此方补肝之血，而解肝之郁，利肝之气，而降肝之火"
+            },
+            {
+              "herbId": "香附",
+              "roleText": "理气",
+              "mechanism": "利肝之气",
+              "sourceSentence": "此方补肝之血，而解肝之郁，利肝之气，而降肝之火"
+            },
+            {
+              "herbId": "川郁金",
+              "roleText": "理气",
+              "mechanism": "利肝之气",
+              "sourceSentence": "此方补肝之血，而解肝之郁，利肝之气，而降肝之火"
+            },
+            {
+              "herbId": "山栀子",
+              "roleText": "泻火",
+              "mechanism": "降肝之火",
+              "sourceSentence": "此方补肝之血，而解肝之郁，利肝之气，而降肝之火"
+            },
+            {
+              "herbId": "黄芩",
+              "roleText": "泻火",
+              "mechanism": "降肝之火",
+              "sourceSentence": "此方补肝之血，而解肝之郁，利肝之气，而降肝之火"
+            },
+            {
+              "herbId": "牡丹皮",
+              "roleText": "清热",
+              "mechanism": "降肝之火",
+              "sourceSentence": "此方补肝之血，而解肝之郁，利肝之气，而降肝之火"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0022",
+      "contentHash": "ddfa2dff669d4444",
+      "symptomTags": [
+        "痛经",
+        "腹痛"
+      ],
+      "pathogenesisTags": [
+        "肾虚",
+        "水不涵木",
+        "肝克脾"
+      ],
+      "misjudgment": {
+        "commonView": "气血之虚也",
+        "trueView": "是肾气之涸"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0022-1",
+          "herbRoles": [
+            {
+              "herbId": "白芍",
+              "roleText": "平肝",
+              "mechanism": "平调肝气，转逆气，止郁疼",
+              "sourceSentence": "此方平调肝气，既能转逆气，又善止郁疼"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "养肝",
+              "mechanism": "平调肝气",
+              "sourceSentence": "此方平调肝气，既能转逆气，又善止郁疼"
+            },
+            {
+              "herbId": "山茱萸",
+              "roleText": "益肾",
+              "mechanism": "平调肝气",
+              "sourceSentence": "此方平调肝气，既能转逆气，又善止郁疼"
+            },
+            {
+              "herbId": "巴戟天",
+              "roleText": "益肾",
+              "mechanism": "平调肝气",
+              "sourceSentence": "此方平调肝气，既能转逆气，又善止郁疼"
+            },
+            {
+              "herbId": "山药",
+              "roleText": "益肾",
+              "mechanism": "平调肝气",
+              "sourceSentence": "此方平调肝气，既能转逆气，又善止郁疼"
+            },
+            {
+              "herbId": "阿胶",
+              "roleText": "补血",
+              "mechanism": "平调肝气",
+              "sourceSentence": "此方平调肝气，既能转逆气，又善止郁疼"
+            },
+            {
+              "herbId": "甘草",
+              "roleText": "调和",
+              "mechanism": "平调肝气",
+              "sourceSentence": "此方平调肝气，既能转逆气，又善止郁疼"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0023",
+      "contentHash": "3bc977cff0359e46",
+      "symptomTags": [
+        "腹痛",
+        "吐血",
+        "月经不调"
+      ],
+      "pathogenesisTags": [
+        "肝郁",
+        "气滞",
+        "肾虚"
+      ],
+      "misjudgment": {
+        "commonView": "火热之极也",
+        "trueView": "是肝气之逆"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0023-1",
+          "herbRoles": [
+            {
+              "herbId": "大熟地",
+              "roleText": "益肾",
+              "mechanism": "补肾调经",
+              "sourceSentence": "此方于补肾调经之中，而用引血归经之品"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "补肾调经",
+              "sourceSentence": "此方于补肾调经之中，而用引血归经之品"
+            },
+            {
+              "herbId": "白芍",
+              "roleText": "补血",
+              "mechanism": "补肾调经",
+              "sourceSentence": "此方于补肾调经之中，而用引血归经之品"
+            },
+            {
+              "herbId": "荆芥穗",
+              "roleText": "引经",
+              "mechanism": "引血归经",
+              "sourceSentence": "此方于补肾调经之中，而用引血归经之品，是和血之法，实寓顺气之法也"
+            },
+            {
+              "herbId": "牡丹皮",
+              "roleText": "清热",
+              "mechanism": "和血之法，实寓顺气",
+              "sourceSentence": "是和血之法，实寓顺气之法也"
+            },
+            {
+              "herbId": "北沙参",
+              "roleText": "补阴",
+              "mechanism": "补肾调经",
+              "sourceSentence": "此方于补肾调经之中，而用引血归经之品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0024",
+      "contentHash": "66110113e980be98",
+      "symptomTags": [
+        "痛经",
+        "腹痛",
+        "发热",
+        "恶寒"
+      ],
+      "pathogenesisTags": [
+        "寒湿",
+        "冲任虚损"
+      ],
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0024-1",
+          "herbRoles": [
+            {
+              "herbId": "白术",
+              "roleText": "利腰脐",
+              "mechanism": "利腰脐之气",
+              "sourceSentence": "此方君白术以利腰脐之气"
+            },
+            {
+              "herbId": "巴戟肉",
+              "roleText": "补阳",
+              "mechanism": "通任脉",
+              "sourceSentence": "用巴戟、白果以通任脉"
+            },
+            {
+              "herbId": "白果",
+              "roleText": "固涩",
+              "mechanism": "通任脉",
+              "sourceSentence": "用巴戟、白果以通任脉"
+            },
+            {
+              "herbId": "白扁豆",
+              "roleText": "健脾",
+              "mechanism": "卫冲脉",
+              "sourceSentence": "扁豆、山药、莲子以卫冲脉"
+            },
+            {
+              "herbId": "山药",
+              "roleText": "健脾",
+              "mechanism": "卫冲脉",
+              "sourceSentence": "扁豆、山药、莲子以卫冲脉"
+            },
+            {
+              "herbId": "建莲子",
+              "roleText": "固涩",
+              "mechanism": "卫冲脉",
+              "sourceSentence": "扁豆、山药、莲子以卫冲脉，所以寒湿扫除而经水自调"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0025",
+      "contentHash": "5f73999374931d83",
+      "symptomTags": [
+        "月经不调"
+      ],
+      "pathogenesisTags": [
+        "血虚"
+      ],
+      "misjudgment": {
+        "commonView": "血热有余之故",
+        "trueView": "是血虚而不归经"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0025-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0026",
+      "contentHash": "50228339e9f36992",
+      "symptomTags": [
+        "泄泻",
+        "月经不调"
+      ],
+      "pathogenesisTags": [
+        "脾虚",
+        "脾湿"
+      ],
+      "misjudgment": {
+        "commonView": "血旺之故",
+        "trueView": "是脾气之虚"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0026-1",
+          "herbRoles": [
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "补脾气以固脾血",
+              "sourceSentence": "此方补脾气以固脾血，则血摄于气之中"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "健脾",
+              "mechanism": "补脾气以固脾血",
+              "sourceSentence": "此方补脾气以固脾血，则血摄于气之中"
+            },
+            {
+              "herbId": "白茯苓",
+              "roleText": "利湿",
+              "mechanism": "运化其湿",
+              "sourceSentence": "脾气日盛，自能运化其湿，湿既化为乌有"
+            },
+            {
+              "herbId": "薏苡仁",
+              "roleText": "利湿",
+              "mechanism": "运化其湿",
+              "sourceSentence": "脾气日盛，自能运化其湿，湿既化为乌有，自然经水调和"
+            },
+            {
+              "herbId": "巴戟天",
+              "roleText": "补阳",
+              "mechanism": "补脾气",
+              "sourceSentence": "此方补脾气以固脾血，则血摄于气之中"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0027",
+      "contentHash": "edb2a758ce49d38f",
+      "symptomTags": [
+        "便血",
+        "月经不调"
+      ],
+      "pathogenesisTags": [
+        "心肾不交",
+        "肝血虚",
+        "肾虚"
+      ],
+      "misjudgment": {
+        "commonView": "血崩之症",
+        "trueView": "是经流于大肠"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0027-1",
+          "herbRoles": [
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "大补心肝肾三经",
+              "sourceSentence": "此方乃大补心肝肾三经之药"
+            },
+            {
+              "herbId": "大熟地",
+              "roleText": "益肾",
+              "mechanism": "大补心肝肾三经",
+              "sourceSentence": "此方乃大补心肝肾三经之药"
+            },
+            {
+              "herbId": "山茱萸",
+              "roleText": "益肾",
+              "mechanism": "补肾",
+              "sourceSentence": "此方乃大补心肝肾三经之药，全不去顾胞胎，而胞胎有所归者，以心肾之气交也"
+            },
+            {
+              "herbId": "麦冬",
+              "roleText": "补阴",
+              "mechanism": "补心",
+              "sourceSentence": "此方乃大补心肝肾三经之药"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "补肝",
+              "sourceSentence": "补肝则肝气往来于心肾之间，自然上引心而下入于肾"
+            },
+            {
+              "herbId": "白芍",
+              "roleText": "养肝",
+              "mechanism": "补肝以为心肾相交之助",
+              "sourceSentence": "补肝则肝气往来于心肾之间，自然上引心而下入于肾，下引肾而上入于心"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "健脾",
+              "mechanism": "大补心肝肾三经",
+              "sourceSentence": "此方乃大补心肝肾三经之药"
+            },
+            {
+              "herbId": "巴戟肉",
+              "roleText": "补阳",
+              "mechanism": "补肾",
+              "sourceSentence": "此方乃大补心肝肾三经之药"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0028",
+      "contentHash": "82b35d219d8e0999",
+      "symptomTags": [
+        "闭经"
+      ],
+      "pathogenesisTags": [
+        "肝郁",
+        "气滞",
+        "肾虚",
+        "脾虚",
+        "心血虚"
+      ],
+      "misjudgment": {
+        "commonView": "血枯经闭也",
+        "trueView": "是心肝脾之气郁"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0028-1",
+          "herbRoles": [
+            {
+              "herbId": "大熟地",
+              "roleText": "益肾",
+              "mechanism": "心肝脾肾四经同治，补以通之",
+              "sourceSentence": "此方心肝脾肾四经同治药也。妙在补以通之，散以开之"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "健脾",
+              "mechanism": "补以通之",
+              "sourceSentence": "此方心肝脾肾四经同治药也。妙在补以通之，散以开之"
+            },
+            {
+              "herbId": "山药",
+              "roleText": "健脾",
+              "mechanism": "补以通之",
+              "sourceSentence": "此方心肝脾肾四经同治药也。妙在补以通之，散以开之"
+            },
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "补以通之",
+              "sourceSentence": "此方心肝脾肾四经同治药也。妙在补以通之，散以开之"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "补以通之",
+              "sourceSentence": "此方心肝脾肾四经同治药也。妙在补以通之，散以开之"
+            },
+            {
+              "herbId": "白芍",
+              "roleText": "养肝",
+              "mechanism": "补以通之",
+              "sourceSentence": "此方心肝脾肾四经同治药也。妙在补以通之，散以开之"
+            },
+            {
+              "herbId": "柴胡",
+              "roleText": "疏肝",
+              "mechanism": "散以开之",
+              "sourceSentence": "妙在补以通之，散以开之"
+            },
+            {
+              "herbId": "牡丹皮",
+              "roleText": "清热",
+              "mechanism": "散以开之",
+              "sourceSentence": "妙在补以通之，散以开之"
+            },
+            {
+              "herbId": "生枣仁",
+              "roleText": "安神",
+              "mechanism": "心肝脾肾四经同治",
+              "sourceSentence": "此方心肝脾肾四经同治药也"
+            },
+            {
+              "herbId": "北沙参",
+              "roleText": "补阴",
+              "mechanism": "心肝脾肾四经同治",
+              "sourceSentence": "此方心肝脾肾四经同治药也"
+            },
+            {
+              "herbId": "杜仲",
+              "roleText": "益肾",
+              "mechanism": "补以通之",
+              "sourceSentence": "此方心肝脾肾四经同治药也。妙在补以通之，散以开之"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0029",
+      "contentHash": "3db54e9ac8fcfde1",
+      "symptomTags": [
+        "不孕"
+      ],
+      "pathogenesisTags": [
+        "血虚",
+        "肾阴虚",
+        "阴虚",
+        "水不涵木"
+      ],
+      "misjudgment": {
+        "commonView": "气虚之故",
+        "trueView": "是血虚之故"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0029-1",
+          "herbRoles": [
+            {
+              "herbId": "大熟地",
+              "roleText": "补阴",
+              "mechanism": "不特补血而纯于填精",
+              "sourceSentence": "此方之用，不特补血而纯于填精"
+            },
+            {
+              "herbId": "山茱萸",
+              "roleText": "益肾",
+              "mechanism": "纯于填精",
+              "sourceSentence": "此方之用，不特补血而纯于填精，精满则子宫易于摄精"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "补血使血足则子宫易于容物",
+              "sourceSentence": "血足则子宫易于容物，皆有子之道也"
+            },
+            {
+              "herbId": "白芍",
+              "roleText": "补血",
+              "mechanism": "补血",
+              "sourceSentence": "此方之用，不特补血而纯于填精，精满则子宫易于摄精，血足则子宫易于容物"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0030",
+      "contentHash": "b70239ebfd4c6d3a",
+      "symptomTags": [
+        "纳差",
+        "胸闷",
+        "不孕"
+      ],
+      "pathogenesisTags": [
+        "肾虚",
+        "脾虚",
+        "气虚",
+        "火不生土"
+      ],
+      "misjudgment": {
+        "commonView": "脾胃之气虚也",
+        "trueView": "是肾气不足"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0030-1",
+          "herbRoles": [
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "补气之药多于补精",
+              "sourceSentence": "此方补气之药多子补精，似乎以补脾胃为主矣"
+            },
+            {
+              "herbId": "黄芪",
+              "roleText": "补气",
+              "mechanism": "补气以补脾胃",
+              "sourceSentence": "此方补气之药多子补精，似乎以补脾胃为主矣"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "健脾",
+              "mechanism": "补脾胃，脾胃健而生精自易",
+              "sourceSentence": "孰知脾胃健而生精自易，是脾胃之气与血，正所以补肾之精也水也"
+            },
+            {
+              "herbId": "大熟地",
+              "roleText": "补阴",
+              "mechanism": "补精之味",
+              "sourceSentence": "又益以补精之味，则阴气自足，阳气易升"
+            },
+            {
+              "herbId": "山茱萸",
+              "roleText": "益肾",
+              "mechanism": "补精之味",
+              "sourceSentence": "又益以补精之味，则阴气自足，阳气易升"
+            },
+            {
+              "herbId": "枸杞子",
+              "roleText": "益肾",
+              "mechanism": "补精之味",
+              "sourceSentence": "又益以补精之味，则阴气自足，阳气易升，自尔腾越于上焦矣"
+            },
+            {
+              "herbId": "巴戟天",
+              "roleText": "补阳",
+              "mechanism": "专补肾气",
+              "sourceSentence": "但专补肾气，使脾胃之气不复下陷"
+            },
+            {
+              "herbId": "柴胡",
+              "roleText": "升提",
+              "mechanism": "阳气易升",
+              "sourceSentence": "又益以补精之味，则阴气自足，阳气易升，自尔腾越于上焦矣"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funvke-0031",
+      "contentHash": "49535e1d18877313",
+      "symptomTags": [
+        "不孕"
+      ],
+      "pathogenesisTags": [
+        "肾阳虚",
+        "命门火衰",
+        "阳虚"
+      ],
+      "misjudgment": {
+        "commonView": "天分之薄也",
+        "trueView": "是胞胎寒之极"
+      },
+      "formulas": [
+        {
+          "formulaId": "funvke-formula-funvke-0031-1",
+          "herbRoles": [
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "补心而即补肾",
+              "sourceSentence": "此方之妙，补心而即补肾，温肾而即温心"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "健脾",
+              "mechanism": "补心而即补肾",
+              "sourceSentence": "此方之妙，补心而即补肾，温肾而即温心"
+            },
+            {
+              "herbId": "巴戟天",
+              "roleText": "补阳",
+              "mechanism": "温肾而即温心",
+              "sourceSentence": "此方之妙，补心而即补肾，温肾而即温心"
+            },
+            {
+              "herbId": "肉桂",
+              "roleText": "补阳",
+              "mechanism": "温肾，心肾之火自生",
+              "sourceSentence": "心肾之气旺，则心肾之火自生。心肾之火生，则胞胎之寒自散"
+            },
+            {
+              "herbId": "附子",
+              "roleText": "补阳",
+              "mechanism": "温肾，心肾之火自生",
+              "sourceSentence": "心肾之气旺，则心肾之火自生。心肾之火生，则胞胎之寒自散"
+            },
+            {
+              "herbId": "补骨脂",
+              "roleText": "补阳",
+              "mechanism": "温肾",
+              "sourceSentence": "温肾而即温心。心肾之气旺，则心肾之火自生"
+            },
+            {
+              "herbId": "杜仲",
+              "roleText": "益肾",
+              "mechanism": "补肾",
+              "sourceSentence": "此方之妙，补心而即补肾，温肾而即温心"
+            },
+            {
+              "herbId": "菟丝子",
+              "roleText": "益肾",
+              "mechanism": "补肾",
+              "sourceSentence": "此方之妙，补心而即补肾，温肾而即温心"
+            },
+            {
+              "herbId": "山药",
+              "roleText": "健脾",
+              "mechanism": "补心肾",
+              "sourceSentence": "此方之妙，补心而即补肾，温肾而即温心"
+            },
+            {
+              "herbId": "芡实",
+              "roleText": "固涩",
+              "mechanism": "补肾摄精",
+              "sourceSentence": "若改汤为九，朝夕吞服，尤能摄精"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

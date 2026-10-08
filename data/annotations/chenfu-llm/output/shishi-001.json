@@ -1,0 +1,383 @@
+{
+  "book": "shishi",
+  "batch": 1,
+  "model": "grok-4.5",
+  "entries": [
+    {
+      "clauseId": "shishi-0028",
+      "contentHash": "8f5fcfbd001b6024",
+      "symptomTags": [
+        "吐血",
+        "头痛",
+        "眩晕",
+        "腰痛",
+        "身痛",
+        "遗精",
+        "咳嗽",
+        "气喘",
+        "目痛",
+        "痰多"
+      ],
+      "pathogenesisTags": [
+        "肾虚",
+        "肾阴虚",
+        "脾湿",
+        "肝郁",
+        "气虚",
+        "心肾不交",
+        "水饮",
+        "肺虚"
+      ],
+      "misjudgment": {
+        "commonView": "似乎胃经之病",
+        "trueView": "非胃，乃肾火之冲上也"
+      },
+      "formulas": [
+        {
+          "formulaId": "shishi-formula-shishi-0028-1",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "shishi-formula-shishi-0028-2",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0055",
+      "contentHash": "626b62148a69de7f",
+      "symptomTags": [
+        "出血",
+        "身痛"
+      ],
+      "pathogenesisTags": [
+        "血瘀"
+      ],
+      "formulas": [
+        {
+          "formulaId": "shishi-formula-shishi-0055-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0080",
+      "contentHash": "90d3bd739bdbc64e",
+      "symptomTags": [
+        "呕吐",
+        "泄泻",
+        "胸闷",
+        "痰多"
+      ],
+      "pathogenesisTags": [
+        "气滞",
+        "肝郁",
+        "痰湿",
+        "阴虚"
+      ],
+      "misjudgment": {
+        "commonView": "若言胃病、脾病",
+        "trueView": "气之郁塞，肝气冲于胃口之间"
+      },
+      "formulas": [
+        {
+          "formulaId": "shishi-formula-shishi-0080-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0129",
+      "contentHash": "bcdc33c97c9ba238",
+      "symptomTags": [
+        "纳差",
+        "气喘",
+        "水肿"
+      ],
+      "pathogenesisTags": [
+        "气虚",
+        "脾虚",
+        "肾虚",
+        "血虚",
+        "暑热",
+        "火不生土",
+        "土不生金",
+        "命门火衰"
+      ],
+      "formulas": [
+        {
+          "formulaId": "shishi-formula-shishi-0129-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0168",
+      "contentHash": "43cb7522c10529ef",
+      "symptomTags": [
+        "遗精",
+        "发热",
+        "纳差"
+      ],
+      "pathogenesisTags": [
+        "肾虚",
+        "肾阴虚",
+        "脾虚",
+        "胃虚",
+        "阴虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "shishi-formula-shishi-0168-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0176",
+      "contentHash": "04045465d89a06ec",
+      "symptomTags": [
+        "身痛"
+      ],
+      "pathogenesisTags": [
+        "寒湿",
+        "脾湿",
+        "气虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "shishi-formula-shishi-0176-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0183",
+      "contentHash": "e8c7d15431fd85c9",
+      "symptomTags": [
+        "出血",
+        "衄血",
+        "吐血",
+        "瘙痒",
+        "口疮",
+        "口渴",
+        "腹痛",
+        "目痛"
+      ],
+      "pathogenesisTags": [
+        "肾虚",
+        "心火",
+        "肺热",
+        "湿热",
+        "血瘀",
+        "痰湿",
+        "肝郁",
+        "胃热",
+        "风热"
+      ],
+      "formulas": [
+        {
+          "formulaId": "shishi-formula-shishi-0183-1",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "shishi-formula-shishi-0183-2",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "shishi-formula-shishi-0183-3",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0214",
+      "contentHash": "057a738d1abd2277",
+      "symptomTags": [
+        "发热",
+        "恶寒",
+        "头痛",
+        "鼻塞",
+        "咳嗽",
+        "痰多",
+        "心悸",
+        "泄泻",
+        "呕吐",
+        "腹痛",
+        "纳差",
+        "胁痛",
+        "目痛",
+        "咽痛",
+        "汗出",
+        "失眠"
+      ],
+      "pathogenesisTags": [
+        "脾虚",
+        "胃虚",
+        "心火",
+        "肝火",
+        "风寒",
+        "风热",
+        "痰湿",
+        "食积",
+        "肺热",
+        "肾虚",
+        "气虚",
+        "血虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "shishi-formula-shishi-0214-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "shishi-0215",
+      "contentHash": "f855a7b8620fb24f",
+      "symptomTags": [
+        "发热",
+        "泄泻",
+        "呕吐",
+        "腹痛",
+        "纳差",
+        "口渴",
+        "咳嗽",
+        "痰多",
+        "头痛",
+        "恶寒",
+        "汗出",
+        "吐血",
+        "出血",
+        "眩晕",
+        "气喘",
+        "水肿",
+        "黄疸",
+        "便秘",
+        "心悸",
+        "失眠",
+        "遗精",
+        "阳痿",
+        "疝气",
+        "咽痛",
+        "口疮",
+        "积聚",
+        "疮疡"
+      ],
+      "pathogenesisTags": [
+        "脾虚",
+        "胃虚",
+        "肝火",
+        "心火",
+        "湿热",
+        "寒湿",
+        "痰湿",
+        "食积",
+        "气虚",
+        "血虚",
+        "阴虚",
+        "阳虚",
+        "肾虚",
+        "肾阴虚",
+        "肾阳虚",
+        "命门火衰",
+        "肝郁",
+        "血瘀",
+        "风寒",
+        "风热",
+        "暑热",
+        "肺热",
+        "肺虚",
+        "胃热",
+        "心肾不交",
+        "肝克脾",
+        "水不涵木",
+        "火不生土",
+        "水饮",
+        "相火妄动"
+      ],
+      "misjudgment": {
+        "commonView": "世人动曰惊风",
+        "trueView": "小儿惊则有之，而风则无，乃内热生风，不可作风治"
+      },
+      "formulas": [
+        {
+          "formulaId": "shishi-formula-shishi-0215-1",
+          "herbRoles": [
+            {
+              "herbId": "茯苓",
+              "roleText": "利湿",
+              "mechanism": "止泻分水",
+              "sourceSentence": "车前、茯苓、泽泻，猪苓，皆止泻分水之圣药"
+            },
+            {
+              "herbId": "黄连",
+              "roleText": "泻火",
+              "mechanism": "清心火，不来助脾之热",
+              "sourceSentence": "黄连清心火，不来助脾之热"
+            },
+            {
+              "herbId": "甘草",
+              "roleText": "调和",
+              "mechanism": "调和寒热与诸药",
+              "sourceSentence": "砂仁、甘草、神曲以调和之"
+            }
+          ]
+        },
+        {
+          "formulaId": "shishi-formula-shishi-0215-2",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "shishi-formula-shishi-0215-3",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "shishi-formula-shishi-0215-4",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "shishi-formula-shishi-0215-5",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "shishi-formula-shishi-0215-6",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "shishi-formula-shishi-0215-7",
+          "herbRoles": [
+            {
+              "herbId": "白芍",
+              "roleText": "平肝",
+              "mechanism": "平肝又能舒气",
+              "sourceSentence": "方中芍药多用之妙，竟去平肝，又能舒气"
+            },
+            {
+              "herbId": "荆芥",
+              "roleText": "引经",
+              "mechanism": "引血归经，开郁宽胁",
+              "sourceSentence": "荆芥、柴胡皆引血归经之味，又适是开郁宽胁之剂"
+            },
+            {
+              "herbId": "柴胡",
+              "roleText": "解郁",
+              "mechanism": "引血归经，开郁宽胁",
+              "sourceSentence": "荆芥、柴胡皆引血归经之味，又适是开郁宽胁之剂"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "佐芍药以成功",
+              "sourceSentence": "当归不过佐芍药以成功耳"
+            }
+          ]
+        },
+        {
+          "formulaId": "shishi-formula-shishi-0215-8",
+          "herbRoles": []
+        }
+      ]
+    }
+  ]
+}

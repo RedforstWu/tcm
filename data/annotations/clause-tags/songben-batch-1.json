@@ -1,0 +1,739 @@
+[
+  {
+    "id": "songben-1",
+    "symptomTags": [
+      "恶寒",
+      "项强"
+    ],
+    "pulseTags": [
+      "脉浮"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-2",
+    "symptomTags": [
+      "恶风",
+      "发热",
+      "汗出"
+    ],
+    "pulseTags": [
+      "脉缓"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-3",
+    "symptomTags": [
+      "恶寒",
+      "发热",
+      "体痛",
+      "呕"
+    ],
+    "pulseTags": [
+      "脉阴阳俱紧"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-4",
+    "symptomTags": [
+      "吐",
+      "烦"
+    ],
+    "pulseTags": [
+      "脉数"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-5",
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-6",
+    "symptomTags": [
+      "恶寒",
+      "发热",
+      "汗出",
+      "渴",
+      "小便不利",
+      "发黄",
+      "自汗",
+      "身重",
+      "多眠睡"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [
+      "风温",
+      "温病"
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-7",
+    "symptomTags": [
+      "恶寒",
+      "发热"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-8",
+    "symptomTags": [
+      "头痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-9",
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-10",
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-11",
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-12",
+    "symptomTags": [
+      "恶寒",
+      "恶风",
+      "发热",
+      "干呕",
+      "呕"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-13",
+    "symptomTags": [
+      "恶风",
+      "发热",
+      "汗出",
+      "头痛"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-14",
+    "symptomTags": [
+      "恶风",
+      "汗出",
+      "项背强",
+      "项背强几几"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-15",
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-16",
+    "symptomTags": [
+      "发热",
+      "吐"
+    ],
+    "pulseTags": [
+      "脉浮",
+      "脉浮紧"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-17",
+    "symptomTags": [
+      "呕"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-18",
+    "symptomTags": [
+      "喘"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-19",
+    "symptomTags": [
+      "吐"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-20",
+    "symptomTags": [
+      "恶风"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-21",
+    "symptomTags": [
+      "胸满"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-22",
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-23",
+    "symptomTags": [
+      "恶寒",
+      "发热",
+      "汗出",
+      "呕",
+      "吐"
+    ],
+    "pulseTags": [
+      "脉微"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-24",
+    "symptomTags": [
+      "烦"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-25",
+    "symptomTags": [
+      "汗出"
+    ],
+    "pulseTags": [
+      "脉洪大"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-26",
+    "symptomTags": [
+      "汗出",
+      "烦",
+      "渴"
+    ],
+    "pulseTags": [
+      "脉洪大"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-27",
+    "symptomTags": [
+      "恶寒",
+      "发热"
+    ],
+    "pulseTags": [
+      "脉微"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-28",
+    "symptomTags": [
+      "发热",
+      "无汗",
+      "项强",
+      "心下满",
+      "小便不利"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-29",
+    "symptomTags": [
+      "恶寒",
+      "汗出",
+      "吐",
+      "烦躁",
+      "烦",
+      "厥",
+      "谵语",
+      "自汗"
+    ],
+    "pulseTags": [
+      "脉浮"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-30",
+    "symptomTags": [
+      "汗出",
+      "烦躁",
+      "烦",
+      "厥",
+      "谵语"
+    ],
+    "pulseTags": [
+      "脉浮"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [
+      "亡阳"
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-31",
+    "symptomTags": [
+      "恶风",
+      "无汗",
+      "项背强",
+      "项背强几几"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-32",
+    "symptomTags": [
+      "下利"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-33",
+    "symptomTags": [
+      "呕",
+      "下利"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-34",
+    "symptomTags": [
+      "汗出",
+      "喘"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [
+      "表未解"
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-35",
+    "symptomTags": [
+      "恶风",
+      "发热",
+      "无汗",
+      "头痛",
+      "骨节疼痛",
+      "腰痛",
+      "喘"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-36",
+    "symptomTags": [
+      "喘",
+      "胸满"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-37",
+    "symptomTags": [
+      "胸满",
+      "胁痛",
+      "嗜卧"
+    ],
+    "pulseTags": [
+      "脉浮"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-38",
+    "symptomTags": [
+      "恶寒",
+      "恶风",
+      "发热",
+      "汗出",
+      "烦躁",
+      "烦",
+      "厥",
+      "肉瞤",
+      "筋惕肉瞤"
+    ],
+    "pulseTags": [
+      "脉浮",
+      "脉微",
+      "脉浮紧"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-39",
+    "symptomTags": [],
+    "pulseTags": [
+      "脉浮",
+      "脉浮缓"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-40",
+    "symptomTags": [
+      "发热",
+      "咳",
+      "喘",
+      "干呕",
+      "呕",
+      "腹满",
+      "渴",
+      "小便不利"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [
+      "水气"
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-41",
+    "symptomTags": [
+      "发热",
+      "咳",
+      "喘",
+      "渴"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [
+      "水气"
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-42",
+    "symptomTags": [],
+    "pulseTags": [
+      "脉浮"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-43",
+    "symptomTags": [
+      "喘"
+    ],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [
+      "表未解"
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-44",
+    "symptomTags": [],
+    "pulseTags": [],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-45",
+    "symptomTags": [],
+    "pulseTags": [
+      "脉浮"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-46",
+    "symptomTags": [
+      "发热",
+      "无汗",
+      "烦",
+      "衄"
+    ],
+    "pulseTags": [
+      "脉浮",
+      "脉浮紧"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [
+      "表证"
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-47",
+    "symptomTags": [
+      "发热",
+      "无汗",
+      "衄"
+    ],
+    "pulseTags": [
+      "脉浮",
+      "脉浮紧"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-48",
+    "symptomTags": [
+      "恶寒",
+      "汗出",
+      "烦",
+      "短气"
+    ],
+    "pulseTags": [
+      "脉涩"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-49",
+    "symptomTags": [
+      "汗出",
+      "心悸",
+      "悸",
+      "自汗",
+      "身重"
+    ],
+    "pulseTags": [
+      "脉浮",
+      "脉微",
+      "脉浮数"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "songben-50",
+    "symptomTags": [],
+    "pulseTags": [
+      "脉浮",
+      "脉浮紧"
+    ],
+    "channelTags": [
+      "太阳"
+    ],
+    "pathogenesisTags": [],
+    "reviewStatus": "ai-draft"
+  }
+]

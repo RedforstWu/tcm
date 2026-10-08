@@ -1,0 +1,680 @@
+{
+  "book": "funanke",
+  "batch": 1,
+  "model": "grok-4.5",
+  "entries": [
+    {
+      "clauseId": "funanke-0002",
+      "contentHash": "755d7ff558b04360",
+      "symptomTags": ["头痛", "身痛", "咳嗽", "痰多", "鼻塞"],
+      "pathogenesisTags": ["风寒"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0002-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0003",
+      "contentHash": "9c2fd3ee747ca797",
+      "symptomTags": ["鼻塞", "目痛", "头痛"],
+      "pathogenesisTags": ["风寒"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0003-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0004",
+      "contentHash": "1fd9999b357a4dcf",
+      "symptomTags": ["发热"],
+      "pathogenesisTags": ["风寒"],
+      "misjudgment": {
+        "commonView": "内伤发热亦用此外感方",
+        "trueView": "内伤之发热则不可用此方"
+      },
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0004-1",
+          "herbRoles": [
+            {
+              "herbId": "柴胡",
+              "roleText": "解表",
+              "mechanism": "先散皮毛之邪",
+              "sourceSentence": "故用柴胡、荆芥,先散皮毛之邪"
+            },
+            {
+              "herbId": "荆芥",
+              "roleText": "解表",
+              "mechanism": "先散皮毛之邪",
+              "sourceSentence": "故用柴胡、荆芥,先散皮毛之邪"
+            },
+            {
+              "herbId": "半夏",
+              "roleText": "化痰",
+              "mechanism": "祛痰，使邪不得挟痰以作祟",
+              "sourceSentence": "又有半夏以祛痰，使邪不得挟痰以作祟"
+            },
+            {
+              "herbId": "黄芩",
+              "roleText": "清热",
+              "mechanism": "清火，使邪不得挟火以作殃",
+              "sourceSentence": "黄芩以清火，使邪不得挟火以作殃"
+            },
+            {
+              "herbId": "甘草各",
+              "roleText": "调和",
+              "mechanism": "调药以和中",
+              "sourceSentence": "甘草调药以和中"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0005",
+      "contentHash": "12c828d346c1bbcf",
+      "symptomTags": ["腹胀", "纳差", "腹痛"],
+      "pathogenesisTags": ["食积"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0005-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0006",
+      "contentHash": "d1daf32878e2a16b",
+      "symptomTags": ["眩晕", "口渴", "痰多", "发热", "气喘"],
+      "pathogenesisTags": ["暑热"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0006-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0007",
+      "contentHash": "07fdc4dd7e993fc1",
+      "symptomTags": ["胸闷", "痰多"],
+      "pathogenesisTags": ["痰湿", "食积"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0007-1",
+          "herbRoles": [
+            {
+              "herbId": "瓜蒌",
+              "roleText": "化痰",
+              "mechanism": "去胸膈之食，而消上焦之痰",
+              "sourceSentence": "全在用瓜蒌，能去胸膈之食，而消上焦之痰"
+            },
+            {
+              "herbId": "枳壳",
+              "roleText": "消食",
+              "mechanism": "消中圣药",
+              "sourceSentence": "佐以枳壳花粉,同是消中圣药"
+            },
+            {
+              "herbId": "天花粉",
+              "roleText": "消食",
+              "mechanism": "消中圣药",
+              "sourceSentence": "佐以枳壳花粉,同是消中圣药"
+            },
+            {
+              "herbId": "厚朴",
+              "roleText": "化痰",
+              "mechanism": "消胃口之痰",
+              "sourceSentence": "又有厚朴半夏，以消胃口之痰"
+            },
+            {
+              "herbId": "半夏",
+              "roleText": "化痰",
+              "mechanism": "消胃口之痰",
+              "sourceSentence": "又有厚朴半夏，以消胃口之痰"
+            },
+            {
+              "herbId": "甘草",
+              "roleText": "调和",
+              "mechanism": "使群药留中而不速下",
+              "sourceSentence": "尤妙在甘草，使群药留中而不速下"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0008",
+      "contentHash": "4f6856ad7f3acf4f",
+      "symptomTags": ["无汗"],
+      "pathogenesisTags": ["风寒", "脾湿"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0008-1",
+          "herbRoles": [
+            {
+              "herbId": "白术",
+              "roleText": "健脾",
+              "mechanism": "健脾去湿，而使皮毛腠理开合自如",
+              "sourceSentence": "白术健脾去湿，而邪已难存"
+            },
+            {
+              "herbId": "荆芥",
+              "roleText": "解表",
+              "mechanism": "表散腠理之邪",
+              "sourceSentence": "况有荆防苏梗以表散之乎"
+            },
+            {
+              "herbId": "防风",
+              "roleText": "解表",
+              "mechanism": "表散腠理之邪",
+              "sourceSentence": "况有荆防苏梗以表散之乎"
+            },
+            {
+              "herbId": "紫苏叶",
+              "roleText": "解表",
+              "mechanism": "表散腠理之邪",
+              "sourceSentence": "况有荆防苏梗以表散之乎"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0011",
+      "contentHash": "fee39cd89eeaeb94",
+      "symptomTags": ["发热"],
+      "pathogenesisTags": ["胃热"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0011-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0012",
+      "contentHash": "7dcc80aa80a0b5a9",
+      "symptomTags": ["恶寒"],
+      "pathogenesisTags": ["命门火衰", "肾阳虚", "阳虚"],
+      "misjudgment": {
+        "commonView": "真中寒邪仅用桂附干姜逐寒即可",
+        "trueView": "元阳飞越须多加参术以反正气"
+      },
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0012-1",
+          "herbRoles": [
+            {
+              "herbId": "肉桂",
+              "roleText": "散寒",
+              "mechanism": "逐其寒邪",
+              "sourceSentence": "用桂附干姜逐其寒邪足矣"
+            },
+            {
+              "herbId": "附子",
+              "roleText": "散寒",
+              "mechanism": "逐其寒邪",
+              "sourceSentence": "用桂附干姜逐其寒邪足矣"
+            },
+            {
+              "herbId": "干姜",
+              "roleText": "散寒",
+              "mechanism": "逐其寒邪",
+              "sourceSentence": "用桂附干姜逐其寒邪足矣"
+            },
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "反正气于若存若亡之际",
+              "sourceSentence": "若不多加参术，何以反正气于若存若亡之际哉"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "健脾",
+              "mechanism": "反正气于若存若亡之际",
+              "sourceSentence": "若不多加参术，何以反正气于若存若亡之际哉"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0013",
+      "contentHash": "7f08bf9b4397ff77",
+      "symptomTags": ["发热"],
+      "pathogenesisTags": ["心火", "肝火"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0013-1",
+          "herbRoles": [
+            {
+              "herbId": "黄连",
+              "roleText": "泻火",
+              "mechanism": "入心宫，提刀直入无邪不散",
+              "sourceSentence": "用黄连入心宫，佐以栀子，提刀直入，无邪不散"
+            },
+            {
+              "herbId": "栀子",
+              "roleText": "泻火",
+              "mechanism": "佐黄连入心宫散邪",
+              "sourceSentence": "用黄连入心宫，佐以栀子，提刀直入，无邪不散"
+            },
+            {
+              "herbId": "柴胡",
+              "roleText": "疏肝",
+              "mechanism": "塞敌运粮之道",
+              "sourceSentence": "柴胡白芍,又塞敌运粮之道"
+            },
+            {
+              "herbId": "白芍",
+              "roleText": "养肝",
+              "mechanism": "塞敌运粮之道",
+              "sourceSentence": "柴胡白芍,又塞敌运粮之道"
+            },
+            {
+              "herbId": "半夏",
+              "roleText": "化痰",
+              "mechanism": "斩杀党余",
+              "sourceSentence": "半夏枳壳，斩杀党余"
+            },
+            {
+              "herbId": "枳壳",
+              "roleText": "理气",
+              "mechanism": "斩杀党余",
+              "sourceSentence": "半夏枳壳，斩杀党余"
+            },
+            {
+              "herbId": "石菖蒲",
+              "roleText": "其他",
+              "mechanism": "辛热乘热饮之，使热喜热相济",
+              "sourceSentence": "又加菖蒲之辛热，乘热饮之，则热喜热,不致相反而更相济也"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0014",
+      "contentHash": "b1eb475ead468791",
+      "symptomTags": ["恶寒", "呕吐"],
+      "pathogenesisTags": ["阳虚", "命门火衰"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0014-1",
+          "herbRoles": [
+            {
+              "herbId": "肉桂",
+              "roleText": "温中",
+              "mechanism": "方中热药温散假寒",
+              "sourceSentence": "方中全是热药"
+            },
+            {
+              "herbId": "附子",
+              "roleText": "散寒",
+              "mechanism": "方中热药温散假寒",
+              "sourceSentence": "方中全是热药"
+            },
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "方中热药扶正",
+              "sourceSentence": "方中全是热药"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "健脾",
+              "mechanism": "方中热药扶正",
+              "sourceSentence": "方中全是热药"
+            },
+            {
+              "herbId": "猪胆汁",
+              "roleText": "其他",
+              "mechanism": "下行以苦汁骗其假道之防",
+              "sourceSentence": "况下行又有二汁之苦，以骗其假道之防也哉"
+            },
+            {
+              "herbId": "苦菜汁",
+              "roleText": "其他",
+              "mechanism": "下行以苦汁骗其假道之防",
+              "sourceSentence": "况下行又有二汁之苦，以骗其假道之防也哉"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0017",
+      "contentHash": "52388c1b7bd7402e",
+      "symptomTags": ["痰多", "咽痛"],
+      "pathogenesisTags": ["肾阳虚", "命门火衰", "心火"],
+      "misjudgment": {
+        "commonView": "上焦火盛当清上焦",
+        "trueView": "上假热而下真寒，宜上病下治"
+      },
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0017-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0018",
+      "contentHash": "0f0f0e892c6a8d3c",
+      "symptomTags": ["便秘", "咽痛"],
+      "pathogenesisTags": ["阴虚", "气虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0018-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0019",
+      "contentHash": "3db917ec65f2e589",
+      "symptomTags": ["胸闷"],
+      "pathogenesisTags": ["食积", "痰湿"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0019-1",
+          "herbRoles": [
+            {
+              "herbId": "瓜蒌",
+              "roleText": "消食",
+              "mechanism": "推荡辟脾，为结胸之圣药",
+              "sourceSentence": "必得瓜蒌,始得推荡辟脾"
+            },
+            {
+              "herbId": "甘草",
+              "roleText": "调和",
+              "mechanism": "和之使不致十分猛烈",
+              "sourceSentence": "少加甘草以和之，不致十分猛烈也"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0020",
+      "contentHash": "f4685b513ae021e9",
+      "symptomTags": ["头痛", "发热"],
+      "pathogenesisTags": ["气虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0020-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0021",
+      "contentHash": "f7078b980c617ddc",
+      "symptomTags": [],
+      "pathogenesisTags": ["肝火"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0021-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0022",
+      "contentHash": "93aec442493d2914",
+      "symptomTags": ["口渴", "发热"],
+      "pathogenesisTags": ["胃热", "心火"],
+      "misjudgment": {
+        "commonView": "身发斑点即属火症",
+        "trueView": "当看渴与不渴，发斑不渴者为大寒症不可与此"
+      },
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0022-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0023",
+      "contentHash": "5c9f94216e976bd1",
+      "symptomTags": ["疮疡"],
+      "pathogenesisTags": ["胃热", "肝火"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0023-1",
+          "herbRoles": [
+            {
+              "herbId": "青蒿",
+              "roleText": "泻火",
+              "mechanism": "平肝胃之火",
+              "sourceSentence": "此方妙在用青蒿，肝胃之火俱平"
+            },
+            {
+              "herbId": "玄参",
+              "roleText": "泻火",
+              "mechanism": "佐以群药重剂灭火",
+              "sourceSentence": "又佐以群药重剂,而火安有不灭者乎"
+            },
+            {
+              "herbId": "葛根",
+              "roleText": "泻火",
+              "mechanism": "佐以群药重剂灭火",
+              "sourceSentence": "又佐以群药重剂,而火安有不灭者乎"
+            },
+            {
+              "herbId": "升麻",
+              "roleText": "升提",
+              "mechanism": "佐以群药重剂灭火",
+              "sourceSentence": "又佐以群药重剂,而火安有不灭者乎"
+            },
+            {
+              "herbId": "黄芪",
+              "roleText": "补气",
+              "mechanism": "佐以群药重剂灭火",
+              "sourceSentence": "又佐以群药重剂,而火安有不灭者乎"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0024",
+      "contentHash": "d22af6346421a43d",
+      "symptomTags": ["口渴", "咳嗽", "咽痛"],
+      "pathogenesisTags": ["阴虚", "肺热"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0024-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0025",
+      "contentHash": "280b61977b735d7c",
+      "symptomTags": ["疮疡"],
+      "pathogenesisTags": ["肝火"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0025-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0026",
+      "contentHash": "3c47e994e09507ea",
+      "symptomTags": ["口渴"],
+      "pathogenesisTags": ["胃热", "心火"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0026-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0027",
+      "contentHash": "61a29aaceea1e8b7",
+      "symptomTags": [],
+      "pathogenesisTags": ["肾阴虚", "胃热", "阴虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0027-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0028",
+      "contentHash": "f72b018a5380bfaa",
+      "symptomTags": ["咳嗽", "发热"],
+      "pathogenesisTags": ["阴虚", "肾阴虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0028-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0029",
+      "contentHash": "a58f02e0be8b7bfb",
+      "symptomTags": ["头痛", "发热", "咳嗽", "胁痛", "心烦"],
+      "pathogenesisTags": ["肝郁", "气滞"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0029-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0030",
+      "contentHash": "4721e2a3db734bef",
+      "symptomTags": ["呕吐"],
+      "pathogenesisTags": ["肝郁", "气滞", "肝克脾"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0030-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0032",
+      "contentHash": "5495745969e77780",
+      "symptomTags": ["发热"],
+      "pathogenesisTags": ["肝郁"],
+      "misjudgment": {
+        "commonView": "外感内伤发热可用一方",
+        "trueView": "外感内伤不可用一方，必先散邪而后补正"
+      },
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0032-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0033",
+      "contentHash": "c7f21b0790914ea3",
+      "symptomTags": [],
+      "pathogenesisTags": ["气虚", "阴虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0033-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0034",
+      "contentHash": "06af84fd7dbc5c4d",
+      "symptomTags": ["纳差", "腹胀"],
+      "pathogenesisTags": ["气虚", "阳虚", "脾虚"],
+      "misjudgment": {
+        "commonView": "饮食不进为脾胃积滞，用砂仁枳壳消导或硝黄牵牛泻下",
+        "trueView": "乃气虚下陷，当先以升提之药治之"
+      },
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0034-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0035",
+      "contentHash": "5dc7dba7ed44c832",
+      "symptomTags": ["泄泻"],
+      "pathogenesisTags": ["阴虚", "脾虚", "命门火衰"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0035-1",
+          "herbRoles": [
+            {
+              "herbId": "熟地黄",
+              "roleText": "补阴",
+              "mechanism": "纯是补阴之药",
+              "sourceSentence": "此方纯是补阴之药"
+            },
+            {
+              "herbId": "山药",
+              "roleText": "补阴",
+              "mechanism": "纯是补阴之药",
+              "sourceSentence": "此方纯是补阴之药"
+            },
+            {
+              "herbId": "山萸",
+              "roleText": "补阴",
+              "mechanism": "纯是补阴之药",
+              "sourceSentence": "此方纯是补阴之药"
+            },
+            {
+              "herbId": "升麻",
+              "roleText": "升提",
+              "mechanism": "提阴中之气",
+              "sourceSentence": "且有升麻以提阴中之气"
+            },
+            {
+              "herbId": "肉桂",
+              "roleText": "温中",
+              "mechanism": "暖命门而健脾土",
+              "sourceSentence": "又有温湿之品以暖命门而健脾土"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "健脾",
+              "mechanism": "暖命门而健脾土",
+              "sourceSentence": "又有温湿之品以暖命门而健脾土"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0036",
+      "contentHash": "227cb53cbbdbc608",
+      "symptomTags": ["发热", "恶寒", "口渴", "痰多", "咳嗽"],
+      "pathogenesisTags": ["肾阴虚", "阴虚"],
+      "misjudgment": {
+        "commonView": "夜热昼寒认作阳症治之",
+        "trueView": "乃肾水亏竭，当峻补其阴"
+      },
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0036-1",
+          "herbRoles": []
+        }
+      ]
+    }
+  ]
+}

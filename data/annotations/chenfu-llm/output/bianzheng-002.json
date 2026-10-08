@@ -1,0 +1,1426 @@
+{
+  "book": "bianzheng",
+  "batch": 2,
+  "model": "grok-4.5",
+  "entries": [
+    {
+      "clauseId": "bianzheng-0031",
+      "contentHash": "7d09a9e5eb340ad0",
+      "symptomTags": [],
+      "pathogenesisTags": [
+        "气虚",
+        "脾湿",
+        "肝郁",
+        "肝火",
+        "心火"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0031-1",
+          "herbRoles": [
+            {
+              "herbId": "苍术",
+              "roleText": "燥湿",
+              "mechanism": "去湿而又健脾胃之气",
+              "sourceSentence": "二术去湿而又健脾胃之气"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "健脾",
+              "mechanism": "去湿而又健脾胃之气",
+              "sourceSentence": "二术去湿而又健脾胃之气"
+            },
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "补气以利湿",
+              "sourceSentence": "人参、茯苓补气以利湿"
+            },
+            {
+              "herbId": "茯苓",
+              "roleText": "利湿",
+              "mechanism": "补气以利湿",
+              "sourceSentence": "人参、茯苓补气以利湿"
+            },
+            {
+              "herbId": "川乌",
+              "roleText": "散寒",
+              "mechanism": "直入心包，以祛逐其寒邪",
+              "sourceSentence": "川乌得直入心包，以祛逐其寒邪"
+            },
+            {
+              "herbId": "半夏",
+              "roleText": "化痰",
+              "mechanism": "行于中脘，而消其败浊之痰",
+              "sourceSentence": "半夏得行于中脘，而消其败浊之痰"
+            },
+            {
+              "herbId": "甘草",
+              "roleText": "调和",
+              "mechanism": "和缓，调停于邪正之间",
+              "sourceSentence": "甘草和缓，调停于邪正之间"
+            }
+          ]
+        }
+      ],
+      "misjudgment": {
+        "commonView": "火邪作祟也",
+        "trueView": "肝气之郁而不舒，木遂生火以犯心矣"
+      }
+    },
+    {
+      "clauseId": "bianzheng-0032",
+      "contentHash": "426e8f5af45e46b3",
+      "symptomTags": [],
+      "pathogenesisTags": [
+        "肝郁",
+        "肝火",
+        "心火"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0032-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0033",
+      "contentHash": "f335cc37356c3d81",
+      "symptomTags": [],
+      "pathogenesisTags": [
+        "心火",
+        "肝克脾",
+        "心肾不交",
+        "肾虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0033-1",
+          "herbRoles": [
+            {
+              "herbId": "黄连",
+              "roleText": "泻火",
+              "mechanism": "清心火",
+              "sourceSentence": "用黄连以清心火"
+            },
+            {
+              "herbId": "附子",
+              "roleText": "散寒",
+              "mechanism": "祛胃寒",
+              "sourceSentence": "用附子以祛胃寒"
+            },
+            {
+              "herbId": "白芍",
+              "roleText": "平肝",
+              "mechanism": "入肝平木",
+              "sourceSentence": "芍药、甘草最能入肝平木"
+            },
+            {
+              "herbId": "甘草",
+              "roleText": "调和",
+              "mechanism": "入肝平木",
+              "sourceSentence": "芍药、甘草最能入肝平木"
+            }
+          ]
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0033-2",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0033-3",
+          "herbRoles": []
+        }
+      ],
+      "misjudgment": {
+        "commonView": "此寒痛也",
+        "trueView": "肾气不交于心，而寒邪中之"
+      }
+    },
+    {
+      "clauseId": "bianzheng-0034",
+      "contentHash": "7fcb5f05e85e3cc0",
+      "symptomTags": [
+        "胁痛",
+        "发热",
+        "恶寒",
+        "纳差",
+        "口渴",
+        "吐血"
+      ],
+      "pathogenesisTags": [
+        "肝郁",
+        "气滞",
+        "血瘀",
+        "肝火",
+        "肝克脾"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0034-1",
+          "herbRoles": [
+            {
+              "herbId": "白芍",
+              "roleText": "平肝",
+              "mechanism": "遍舒其肝气",
+              "sourceSentence": "自能遍舒其肝气"
+            },
+            {
+              "herbId": "柴胡",
+              "roleText": "疏肝",
+              "mechanism": "疏泄",
+              "sourceSentence": "助以柴胡之疏泄"
+            },
+            {
+              "herbId": "甘草",
+              "roleText": "调和",
+              "mechanism": "调剂",
+              "sourceSentence": "甘草之调剂"
+            },
+            {
+              "herbId": "桃仁",
+              "roleText": "化瘀",
+              "mechanism": "攻其败瘀",
+              "sourceSentence": "桃仁、白芥以攻其败瘀"
+            },
+            {
+              "herbId": "白芥子",
+              "roleText": "化痰",
+              "mechanism": "攻其败瘀",
+              "sourceSentence": "桃仁、白芥以攻其败瘀"
+            },
+            {
+              "herbId": "乳香末",
+              "roleText": "其他",
+              "mechanism": "止其痛疼",
+              "sourceSentence": "乳香、广木以止其痛疼"
+            },
+            {
+              "herbId": "广木香末",
+              "roleText": "理气",
+              "mechanism": "止其痛疼",
+              "sourceSentence": "乳香、广木以止其痛疼"
+            }
+          ]
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0034-2",
+          "herbRoles": [
+            {
+              "herbId": "三七根末",
+              "roleText": "止血",
+              "mechanism": "加三七根以止血",
+              "sourceSentence": "又加三七根以止血者何居"
+            }
+          ]
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0034-3",
+          "herbRoles": [
+            {
+              "herbId": "大黄",
+              "roleText": "化瘀",
+              "mechanism": "扫瘀去陈，开郁逐火",
+              "sourceSentence": "大黄、柴胡、黄连同用，能扫瘀去陈，开郁逐火"
+            },
+            {
+              "herbId": "柴胡",
+              "roleText": "解郁",
+              "mechanism": "扫瘀去陈，开郁逐火",
+              "sourceSentence": "大黄、柴胡、黄连同用，能扫瘀去陈，开郁逐火"
+            },
+            {
+              "herbId": "黄连",
+              "roleText": "泻火",
+              "mechanism": "扫瘀去陈，开郁逐火",
+              "sourceSentence": "大黄、柴胡、黄连同用，能扫瘀去陈，开郁逐火"
+            },
+            {
+              "herbId": "白芍",
+              "roleText": "平肝",
+              "mechanism": "平肝气",
+              "sourceSentence": "然非多用白芍，则肝气难平"
+            }
+          ]
+        }
+      ],
+      "misjudgment": {
+        "commonView": "肝经之火也",
+        "trueView": "脾火内伏、瘀血存注而不散"
+      }
+    },
+    {
+      "clauseId": "bianzheng-0035",
+      "contentHash": "1b50a44450a1942d",
+      "symptomTags": [
+        "胁痛"
+      ],
+      "pathogenesisTags": [
+        "肾虚",
+        "肝血虚",
+        "肝郁"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0035-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0036",
+      "contentHash": "717048af4b6257d4",
+      "symptomTags": [
+        "头痛",
+        "目痛",
+        "眩晕",
+        "恶寒",
+        "纳差"
+      ],
+      "pathogenesisTags": [
+        "风寒",
+        "肾虚",
+        "肾阴虚",
+        "肝郁",
+        "气虚",
+        "血虚",
+        "命门火衰"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0036-1",
+          "herbRoles": [
+            {
+              "herbId": "川芎",
+              "roleText": "其他",
+              "mechanism": "最止头痛",
+              "sourceSentence": "盖川芎最止头痛"
+            },
+            {
+              "herbId": "细辛",
+              "roleText": "引经",
+              "mechanism": "直上于巅顶",
+              "sourceSentence": "非用细辛则不能直上于巅顶"
+            },
+            {
+              "herbId": "白芷",
+              "roleText": "解表",
+              "mechanism": "尽解其邪气，而遍达于经络",
+              "sourceSentence": "非用白芷则不能尽解其邪气，而遍达于经络也"
+            }
+          ]
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0036-2",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0036-3",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0036-4",
+          "herbRoles": [
+            {
+              "herbId": "郁李仁",
+              "roleText": "其他",
+              "mechanism": "上助川芎，以散头风",
+              "sourceSentence": "郁李仁、白芷用之，自能上助川芎，以散头风矣"
+            },
+            {
+              "herbId": "川芎",
+              "roleText": "其他",
+              "mechanism": "散头风",
+              "sourceSentence": "自能上助川芎，以散头风矣"
+            },
+            {
+              "herbId": "柴胡",
+              "roleText": "解郁",
+              "mechanism": "开郁",
+              "sourceSentence": "益之柴胡、香附以开郁"
+            },
+            {
+              "herbId": "香附",
+              "roleText": "解郁",
+              "mechanism": "开郁",
+              "sourceSentence": "益之柴胡、香附以开郁"
+            },
+            {
+              "herbId": "白芥子",
+              "roleText": "化痰",
+              "mechanism": "消痰",
+              "sourceSentence": "白芥子以消痰"
+            },
+            {
+              "herbId": "甘草",
+              "roleText": "调和",
+              "mechanism": "调和其滞气",
+              "sourceSentence": "甘草以调和其滞气"
+            }
+          ]
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0036-5",
+          "herbRoles": [
+            {
+              "herbId": "柴胡",
+              "roleText": "升提",
+              "mechanism": "入肝，提其木气",
+              "sourceSentence": "以柴胡入肝，提其木气也"
+            },
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "补肝气之药",
+              "sourceSentence": "参、、归、芍无非补肝气之药"
+            },
+            {
+              "herbId": "黄",
+              "roleText": "补气",
+              "mechanism": "补肝气之药",
+              "sourceSentence": "参、、归、芍无非补肝气之药"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "补肝气之药",
+              "sourceSentence": "参、、归、芍无非补肝气之药"
+            },
+            {
+              "herbId": "白芍",
+              "roleText": "补血",
+              "mechanism": "补肝气之药",
+              "sourceSentence": "参、、归、芍无非补肝气之药"
+            }
+          ]
+        }
+      ],
+      "misjudgment": {
+        "commonView": "中伤寒风之故",
+        "trueView": "气弱之人，阳气不能随春气而上升于头"
+      }
+    },
+    {
+      "clauseId": "bianzheng-0037",
+      "contentHash": "7ba3980f33b600ed",
+      "symptomTags": [
+        "腹痛",
+        "口渴",
+        "便秘",
+        "小便不利",
+        "呕吐",
+        "胁痛",
+        "口苦"
+      ],
+      "pathogenesisTags": [
+        "胃热",
+        "命门火衰",
+        "肝郁",
+        "肝克脾",
+        "食积",
+        "气滞"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0037-1",
+          "herbRoles": [
+            {
+              "herbId": "白芍",
+              "roleText": "平肝",
+              "mechanism": "平肝木之气",
+              "sourceSentence": "加入白芍，则能平肝木之气矣"
+            },
+            {
+              "herbId": "肉桂",
+              "roleText": "补阳",
+              "mechanism": "温命门之火",
+              "sourceSentence": "又有肉桂以温命门之火"
+            },
+            {
+              "herbId": "肉豆蔻",
+              "roleText": "温中",
+              "mechanism": "自暖其脾胃",
+              "sourceSentence": "肉豆蔻复自暖其脾胃"
+            }
+          ]
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0037-2",
+          "herbRoles": [
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "为君，以升其阳气",
+              "sourceSentence": "方中用人参、白术为君，以升其阳气"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "健脾",
+              "mechanism": "为君，以升其阳气",
+              "sourceSentence": "方中用人参、白术为君，以升其阳气"
+            }
+          ]
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0037-3",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0038",
+      "contentHash": "de9df9f17046ee13",
+      "symptomTags": [
+        "腹痛"
+      ],
+      "pathogenesisTags": [
+        "气虚",
+        "血虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0038-1",
+          "herbRoles": [
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "血虚气弱，以人参补之",
+              "sourceSentence": "血虚气弱，以人参补之"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0039",
+      "contentHash": "3bfc9d69a45a61a5",
+      "symptomTags": [
+        "腰痛"
+      ],
+      "pathogenesisTags": [
+        "肾虚",
+        "寒湿",
+        "风寒",
+        "命门火衰"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0039-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0040",
+      "contentHash": "1e334872fb85ac56",
+      "symptomTags": [
+        "腰痛",
+        "小便不利"
+      ],
+      "pathogenesisTags": [
+        "肾虚",
+        "肾阳虚",
+        "脾湿",
+        "寒湿"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0040-1",
+          "herbRoles": [
+            {
+              "herbId": "熟地黄",
+              "roleText": "益肾",
+              "mechanism": "补肾水",
+              "sourceSentence": "熟地补肾水也"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "利腰脐",
+              "mechanism": "得白术则利腰脐",
+              "sourceSentence": "得白术则利腰脐"
+            },
+            {
+              "herbId": "杜仲",
+              "roleText": "补阳",
+              "mechanism": "补火以止腰痛",
+              "sourceSentence": "杜仲、破故补火以止腰痛者也"
+            },
+            {
+              "herbId": "补骨脂",
+              "roleText": "补阳",
+              "mechanism": "补火以止腰痛",
+              "sourceSentence": "杜仲、破故补火以止腰痛者也"
+            }
+          ]
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0040-2",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0040-3",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0040-4",
+          "herbRoles": [
+            {
+              "herbId": "薏苡仁",
+              "roleText": "利湿",
+              "mechanism": "利湿而又不耗气",
+              "sourceSentence": "此方利湿而又不耗气"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "健脾",
+              "mechanism": "利湿而又不耗气",
+              "sourceSentence": "此方利湿而又不耗气"
+            },
+            {
+              "herbId": "防风",
+              "roleText": "解表",
+              "mechanism": "加入防风、附子于、术之中",
+              "sourceSentence": "加入防风、附子于、术之中"
+            },
+            {
+              "herbId": "附子",
+              "roleText": "散寒",
+              "mechanism": "加入防风、附子于、术之中",
+              "sourceSentence": "加入防风、附子于、术之中"
+            }
+          ]
+        }
+      ],
+      "misjudgment": {
+        "commonView": "肾经之虚",
+        "trueView": "膀胱之水闭乎"
+      }
+    },
+    {
+      "clauseId": "bianzheng-0041",
+      "contentHash": "db45dec0e8330e16",
+      "symptomTags": [
+        "腰痛"
+      ],
+      "pathogenesisTags": [
+        "寒湿",
+        "血瘀",
+        "肾虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0041-1",
+          "herbRoles": [
+            {
+              "herbId": "白术",
+              "roleText": "利湿",
+              "mechanism": "利湿而又通其腰脐之气",
+              "sourceSentence": "利湿而又通其腰脐之气"
+            },
+            {
+              "herbId": "杜仲",
+              "roleText": "益肾",
+              "mechanism": "攻中有补，而肾气无亏",
+              "sourceSentence": "得杜仲之相佐，则攻中有补，而肾气无亏"
+            },
+            {
+              "herbId": "巴戟天",
+              "roleText": "散寒",
+              "mechanism": "祛其寒",
+              "sourceSentence": "益之巴戟、肉桂以祛其寒"
+            },
+            {
+              "herbId": "肉桂",
+              "roleText": "散寒",
+              "mechanism": "祛其寒",
+              "sourceSentence": "益之巴戟、肉桂以祛其寒"
+            },
+            {
+              "herbId": "苍术",
+              "roleText": "利湿",
+              "mechanism": "消其水",
+              "sourceSentence": "苍术、防己以消其水"
+            },
+            {
+              "herbId": "防己",
+              "roleText": "利湿",
+              "mechanism": "消其水",
+              "sourceSentence": "苍术、防己以消其水"
+            },
+            {
+              "herbId": "羌活",
+              "roleText": "活血",
+              "mechanism": "逐其瘀而行其滞",
+              "sourceSentence": "更得羌活、桃仁逐其瘀而行其滞"
+            },
+            {
+              "herbId": "桃仁",
+              "roleText": "化瘀",
+              "mechanism": "逐其瘀而行其滞",
+              "sourceSentence": "更得羌活、桃仁逐其瘀而行其滞"
+            }
+          ]
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0041-2",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0042",
+      "contentHash": "289dcdeee7d9743b",
+      "symptomTags": [
+        "咽痛",
+        "口渴",
+        "痰多"
+      ],
+      "pathogenesisTags": [
+        "风寒",
+        "肺热"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0042-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0043",
+      "contentHash": "1840540ddb08da33",
+      "symptomTags": [
+        "咽痛"
+      ],
+      "pathogenesisTags": [
+        "肾阴虚",
+        "命门火衰",
+        "相火妄动"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0043-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0044",
+      "contentHash": "d49d870d7871ecb6",
+      "symptomTags": [
+        "咽痛",
+        "瘙痒"
+      ],
+      "pathogenesisTags": [
+        "肾阴虚",
+        "肺虚",
+        "金不生水"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0044-1",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0044-2",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0044-3",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0044-4",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0045",
+      "contentHash": "f38dacc463eb8ca2",
+      "symptomTags": [
+        "咽痛"
+      ],
+      "pathogenesisTags": [
+        "肺热",
+        "心火",
+        "胃热",
+        "气虚",
+        "血虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0045-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0046",
+      "contentHash": "405ed36a17835d66",
+      "symptomTags": [
+        "齿痛"
+      ],
+      "pathogenesisTags": [
+        "阴虚",
+        "胃热",
+        "湿热",
+        "风热",
+        "肾虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0046-1",
+          "herbRoles": [
+            {
+              "herbId": "玄参",
+              "roleText": "泻火",
+              "mechanism": "尤能泻浮游之火",
+              "sourceSentence": "况玄参尤能泻浮游之火"
+            },
+            {
+              "herbId": "生地黄",
+              "roleText": "清热",
+              "mechanism": "亦能止无根之焰",
+              "sourceSentence": "生地亦能止无根之焰"
+            }
+          ]
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0046-2",
+          "herbRoles": [
+            {
+              "herbId": "五灵脂",
+              "roleText": "其他",
+              "mechanism": "最杀虫于无形",
+              "sourceSentence": "五灵脂、白薇最杀虫于无形"
+            },
+            {
+              "herbId": "白薇",
+              "roleText": "其他",
+              "mechanism": "最杀虫于无形",
+              "sourceSentence": "五灵脂、白薇最杀虫于无形"
+            },
+            {
+              "herbId": "细辛",
+              "roleText": "泻火",
+              "mechanism": "散火",
+              "sourceSentence": "加入细辛以散火"
+            },
+            {
+              "herbId": "骨碎补",
+              "roleText": "引经",
+              "mechanism": "透骨",
+              "sourceSentence": "骨碎补以透骨"
+            }
+          ]
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0046-3",
+          "herbRoles": [
+            {
+              "herbId": "石膏",
+              "roleText": "清热",
+              "mechanism": "泻胃火",
+              "sourceSentence": "石膏汤以泻胃火"
+            },
+            {
+              "herbId": "葛根",
+              "roleText": "升提",
+              "mechanism": "引石膏至于齿牙以逐其火",
+              "sourceSentence": "增入二味，则能引石膏至于齿牙以逐其火"
+            },
+            {
+              "herbId": "青蒿",
+              "roleText": "清热",
+              "mechanism": "退胃中之阴火",
+              "sourceSentence": "葛根、青蒿尤能退胃中之阴火"
+            }
+          ]
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0046-4",
+          "herbRoles": [
+            {
+              "herbId": "碎补",
+              "roleText": "引经",
+              "mechanism": "透入齿骨之中",
+              "sourceSentence": "必用骨碎补以透入齿骨之中"
+            }
+          ]
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0046-5",
+          "herbRoles": [
+            {
+              "herbId": "茯苓",
+              "roleText": "利湿",
+              "mechanism": "上下分水之神药",
+              "sourceSentence": "茯苓、白术、泽泻、薏仁原是上下分水之神药"
+            },
+            {
+              "herbId": "白术",
+              "roleText": "利湿",
+              "mechanism": "上下分水之神药",
+              "sourceSentence": "茯苓、白术、泽泻、薏仁原是上下分水之神药"
+            },
+            {
+              "herbId": "泽泻",
+              "roleText": "利湿",
+              "mechanism": "上下分水之神药",
+              "sourceSentence": "茯苓、白术、泽泻、薏仁原是上下分水之神药"
+            },
+            {
+              "herbId": "薏苡仁",
+              "roleText": "利湿",
+              "mechanism": "上下分水之神药",
+              "sourceSentence": "茯苓、白术、泽泻、薏仁原是上下分水之神药"
+            },
+            {
+              "herbId": "防风",
+              "roleText": "解表",
+              "mechanism": "风药以祛风",
+              "sourceSentence": "又得防风、白芷、升麻、荆芥风药以祛风"
+            },
+            {
+              "herbId": "白芷",
+              "roleText": "解表",
+              "mechanism": "风药以祛风",
+              "sourceSentence": "又得防风、白芷、升麻、荆芥风药以祛风"
+            },
+            {
+              "herbId": "升麻",
+              "roleText": "升提",
+              "mechanism": "风药以祛风",
+              "sourceSentence": "又得防风、白芷、升麻、荆芥风药以祛风"
+            },
+            {
+              "herbId": "荆芥",
+              "roleText": "解表",
+              "mechanism": "风药以祛风",
+              "sourceSentence": "又得防风、白芷、升麻、荆芥风药以祛风"
+            },
+            {
+              "herbId": "甘草",
+              "roleText": "调和",
+              "mechanism": "缓以和之",
+              "sourceSentence": "况甘草缓以和之"
+            },
+            {
+              "herbId": "胡桐泪",
+              "roleText": "引经",
+              "mechanism": "引入齿缝之中",
+              "sourceSentence": "加入甘草、胡桐泪引入齿缝之中"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0047",
+      "contentHash": "ce97603d8259d514",
+      "symptomTags": [],
+      "pathogenesisTags": [
+        "心火",
+        "气虚",
+        "肝郁"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0047-1",
+          "herbRoles": [
+            {
+              "herbId": "朱砂",
+              "roleText": "安神",
+              "mechanism": "镇心",
+              "sourceSentence": "用朱砂以镇心"
+            },
+            {
+              "herbId": "人参",
+              "roleText": "补气",
+              "mechanism": "生气",
+              "sourceSentence": "又得人参以生气"
+            }
+          ]
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0047-2",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0048",
+      "contentHash": "e847c6443ff7386b",
+      "symptomTags": [],
+      "pathogenesisTags": [
+        "血虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0048-1",
+          "herbRoles": [
+            {
+              "herbId": "辛夷",
+              "roleText": "引经",
+              "mechanism": "减去辛夷则当归无益",
+              "sourceSentence": "倘后日减去辛夷，即重用当归无益矣"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "补血",
+              "mechanism": "用当归以润之",
+              "sourceSentence": "用当归以润之"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0049",
+      "contentHash": "245a1eddc72c0b8c",
+      "symptomTags": [
+        "鼻塞"
+      ],
+      "pathogenesisTags": [
+        "肺虚",
+        "风寒",
+        "肝郁",
+        "肺热"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0049-1",
+          "herbRoles": [
+            {
+              "herbId": "石首鱼脑骨",
+              "roleText": "其他",
+              "mechanism": "截脑中之路",
+              "sourceSentence": "复得石首脑骨佐之，以截脑中之路"
+            }
+          ]
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0049-2",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0049-3",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0050",
+      "contentHash": "9ab2bc31e13fb071",
+      "symptomTags": [
+        "耳鸣"
+      ],
+      "pathogenesisTags": [
+        "肝郁",
+        "肝火",
+        "痰湿"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0050-1",
+          "herbRoles": [
+            {
+              "herbId": "白芍",
+              "roleText": "平肝",
+              "mechanism": "平肝则胆亦平",
+              "sourceSentence": "平肝则胆亦平也"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "养肝",
+              "mechanism": "入胆，而且入肝",
+              "sourceSentence": "归、芍不特入胆，而且入肝也"
+            },
+            {
+              "herbId": "柴胡",
+              "roleText": "疏肝",
+              "mechanism": "舒肝正所以舒胆",
+              "sourceSentence": "舒肝正所以舒胆"
+            },
+            {
+              "herbId": "炒栀子",
+              "roleText": "疏肝",
+              "mechanism": "舒肝之药",
+              "sourceSentence": "柴胡、栀子亦是舒肝之药"
+            },
+            {
+              "herbId": "天花粉",
+              "roleText": "化痰",
+              "mechanism": "逐痰",
+              "sourceSentence": "加天花粉之逐痰"
+            },
+            {
+              "herbId": "石菖蒲",
+              "roleText": "其他",
+              "mechanism": "通耳中之窍",
+              "sourceSentence": "用菖蒲通耳中之窍"
+            },
+            {
+              "herbId": "玄参",
+              "roleText": "泻火",
+              "mechanism": "退浮游之焰",
+              "sourceSentence": "引玄参以退浮游之焰"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0051",
+      "contentHash": "affc5a62ccf5833c",
+      "symptomTags": [
+        "耳鸣"
+      ],
+      "pathogenesisTags": [
+        "肾阴虚",
+        "阳虚",
+        "阴虚",
+        "气虚",
+        "血虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0051-1",
+          "herbRoles": [
+            {
+              "herbId": "熟地黄",
+              "roleText": "补阴",
+              "mechanism": "补水之药，又能于水中泻火",
+              "sourceSentence": "四味乃补水之药，又能于水中泻火"
+            },
+            {
+              "herbId": "生地黄",
+              "roleText": "补阴",
+              "mechanism": "补水之药，又能于水中泻火",
+              "sourceSentence": "四味乃补水之药，又能于水中泻火"
+            },
+            {
+              "herbId": "麦冬",
+              "roleText": "补阴",
+              "mechanism": "补水之药，又能于水中泻火",
+              "sourceSentence": "四味乃补水之药，又能于水中泻火"
+            },
+            {
+              "herbId": "玄参",
+              "roleText": "泻火",
+              "mechanism": "补水之药，又能于水中泻火",
+              "sourceSentence": "四味乃补水之药，又能于水中泻火"
+            },
+            {
+              "herbId": "石菖蒲",
+              "roleText": "引经",
+              "mechanism": "引肾气而上通",
+              "sourceSentence": "菖蒲引肾气而上通"
+            }
+          ]
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0051-2",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0051-3",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0052",
+      "contentHash": "2e51e7df941759ca",
+      "symptomTags": [
+        "耳鸣"
+      ],
+      "pathogenesisTags": [
+        "心火",
+        "心肾不交",
+        "肾阴虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0052-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0053",
+      "contentHash": "d91ca6cf1d1805b9",
+      "symptomTags": [
+        "耳鸣"
+      ],
+      "pathogenesisTags": [
+        "肾阳虚",
+        "肾阴虚",
+        "命门火衰"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0053-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0054",
+      "contentHash": "3d3a3a6e46765f14",
+      "symptomTags": [
+        "耳鸣"
+      ],
+      "pathogenesisTags": [
+        "肝郁",
+        "血虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0054-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0055",
+      "contentHash": "19a22d74ee23edaa",
+      "symptomTags": [
+        "目痛",
+        "目昏"
+      ],
+      "pathogenesisTags": [
+        "肝郁",
+        "肝火",
+        "风热",
+        "肾虚",
+        "血虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0055-1",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0055-2",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0055-3",
+          "herbRoles": [
+            {
+              "herbId": "葳蕤",
+              "roleText": "其他",
+              "mechanism": "最善止泪",
+              "sourceSentence": "盖葳蕤最善止泪"
+            },
+            {
+              "herbId": "当归",
+              "roleText": "养肝",
+              "mechanism": "补肝",
+              "sourceSentence": "加之当归、白芍以补肝"
+            },
+            {
+              "herbId": "白芍",
+              "roleText": "养肝",
+              "mechanism": "补肝",
+              "sourceSentence": "加之当归、白芍以补肝"
+            },
+            {
+              "herbId": "熟地黄",
+              "roleText": "益肾",
+              "mechanism": "滋肾",
+              "sourceSentence": "熟地以滋肾"
+            },
+            {
+              "herbId": "麦冬",
+              "roleText": "补阴",
+              "mechanism": "补心",
+              "sourceSentence": "益之麦冬以补心"
+            },
+            {
+              "herbId": "甘菊",
+              "roleText": "平肝",
+              "mechanism": "舒其风火",
+              "sourceSentence": "佐之甘菊、菖蒲、柴胡以舒其风火"
+            },
+            {
+              "herbId": "石菖蒲",
+              "roleText": "其他",
+              "mechanism": "舒其风火",
+              "sourceSentence": "佐之甘菊、菖蒲、柴胡以舒其风火"
+            },
+            {
+              "herbId": "柴胡",
+              "roleText": "疏肝",
+              "mechanism": "舒其风火",
+              "sourceSentence": "佐之甘菊、菖蒲、柴胡以舒其风火"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0056",
+      "contentHash": "c1f1ddf8985a45c3",
+      "symptomTags": [
+        "目痛"
+      ],
+      "pathogenesisTags": [
+        "肾虚",
+        "肝血虚",
+        "阴虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0056-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0057",
+      "contentHash": "6b5ae6d1e6523da4",
+      "symptomTags": [
+        "目痛"
+      ],
+      "pathogenesisTags": [
+        "肾阴虚",
+        "命门火衰",
+        "相火妄动"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0057-1",
+          "herbRoles": [
+            {
+              "herbId": "肉桂",
+              "roleText": "补阳",
+              "mechanism": "温其命门之火",
+              "sourceSentence": "加肉桂以温其命门之火"
+            },
+            {
+              "herbId": "柴胡",
+              "roleText": "平肝",
+              "mechanism": "风以吹之",
+              "sourceSentence": "佐之柴、芍、甘菊，风以吹之"
+            },
+            {
+              "herbId": "白芍",
+              "roleText": "平肝",
+              "mechanism": "风以吹之",
+              "sourceSentence": "佐之柴、芍、甘菊，风以吹之"
+            },
+            {
+              "herbId": "甘菊花",
+              "roleText": "平肝",
+              "mechanism": "风以吹之",
+              "sourceSentence": "佐之柴、芍、甘菊，风以吹之"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0058",
+      "contentHash": "0f0144de8bea3d11",
+      "symptomTags": [
+        "目昏"
+      ],
+      "pathogenesisTags": [
+        "命门火衰",
+        "肾阳虚",
+        "肾阴虚",
+        "血虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0058-1",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0058-2",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0058-3",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0059",
+      "contentHash": "6b213760b68890c7",
+      "symptomTags": [
+        "目昏"
+      ],
+      "pathogenesisTags": [
+        "肺虚",
+        "肺热",
+        "肾虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0059-1",
+          "herbRoles": [
+            {
+              "herbId": "麦冬天冬",
+              "roleText": "补阴",
+              "mechanism": "用二冬以补肺",
+              "sourceSentence": "此方用二冬以补肺"
+            },
+            {
+              "herbId": "生甘草黄芩",
+              "roleText": "清热",
+              "mechanism": "用黄芩以退肺之火",
+              "sourceSentence": "用黄芩以退肺之火"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "bianzheng-0060",
+      "contentHash": "cee768158cc7a483",
+      "symptomTags": [
+        "目痛"
+      ],
+      "pathogenesisTags": [
+        "气虚"
+      ],
+      "formulas": [
+        {
+          "formulaId": "bianzheng-formula-bianzheng-0060-1",
+          "herbRoles": [
+            {
+              "herbId": "瓜蒂",
+              "roleText": "其他",
+              "mechanism": "瓜蒂散原是吐药",
+              "sourceSentence": "瓜蒂散原是吐药"
+            },
+            {
+              "herbId": "参芦鞭",
+              "roleText": "补气",
+              "mechanism": "于补中以行其吐",
+              "sourceSentence": "余加参芦鞭、甘草、荆芥者，于补中以行其吐"
+            },
+            {
+              "herbId": "甘草",
+              "roleText": "调和",
+              "mechanism": "于补中以行其吐",
+              "sourceSentence": "余加参芦鞭、甘草、荆芥者，于补中以行其吐"
+            },
+            {
+              "herbId": "荆芥",
+              "roleText": "解表",
+              "mechanism": "于吐中以安其经络",
+              "sourceSentence": "即于吐中以安其经络"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+[
+  {
+    "formulaName": "桂枝汤",
+    "function": "解肌发表，调和营卫",
+    "sourcePage": 12,
+    "herbs": [
+      { "name": "桂枝", "weight": 3, "natures": ["热", "补", "散", "燥"], "action": "发汗解肌，温经通脉，通阳化气" },
+      { "name": "芍药", "weight": 3, "natures": ["寒", "补", "收", "润"], "action": "养血调经，平肝止痛，敛阴止汗" },
+      { "name": "炙甘草", "weight": 2, "natures": ["补", "收", "润"], "action": "补脾和胃，益气复脉" },
+      { "name": "生姜", "weight": 3, "natures": ["热", "补", "升", "散", "燥"], "action": "发汗解表、温中止呕，温肺止咳" },
+      { "name": "大枣", "weight": 6, "natures": ["热", "补", "降", "收", "润"], "action": "补中益气，养血安神，缓和药性" }
+    ],
+    "indications": [
+      { "symptom": "发热", "herbNames": ["桂枝", "生姜"], "rationale": "解肌发表以退热" },
+      { "symptom": "汗出恶风", "herbNames": ["桂枝", "芍药"], "rationale": "调和营卫" },
+      { "symptom": "头痛", "herbNames": ["桂枝"], "rationale": "温经通脉" },
+      { "symptom": "鼻鸣干呕", "herbNames": ["生姜", "大枣"], "rationale": "温中止呕，调和脾胃" }
+    ],
+    "clauseRefs": [
+      { "book": "songben", "number": 12, "excerpt": "太阳中风，阳浮而阴弱……啬啬恶寒，淅淅恶风，翕翕发热，鼻鸣干呕者，桂枝汤主之。" },
+      { "book": "songben", "number": 13, "excerpt": "太阳病，头痛发热，汗出恶风，桂枝汤主之。" },
+      { "book": "songben", "number": 54, "excerpt": "病人脏无他病，时发热自汗出而不愈者，此卫气不和也，先其时发汗则愈，宜桂枝汤。" }
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "formulaName": "葛根汤",
+    "function": "祛风解肌，和血通脉",
+    "sourcePage": 25,
+    "herbs": [
+      { "name": "葛根", "weight": 4, "natures": ["补", "升", "散"], "action": "解肌退热，透发麻疹，生津止渴，升阳举陷" },
+      { "name": "麻黄", "weight": 3, "natures": ["热", "泻", "散", "燥"], "action": "发汗解表，宣肺平喘，利水消肿" },
+      { "name": "大枣", "weight": 6, "natures": ["热", "补", "降", "收", "润"], "action": "补中益气，养血安神，缓和药性" },
+      { "name": "桂枝", "weight": 2, "natures": ["热", "补", "散", "燥"], "action": "发汗解肌，温经通脉，通阳化气" },
+      { "name": "芍药", "weight": 2, "natures": ["寒", "补", "收", "润"], "action": "养血调经，平肝止痛，敛阴止汗" },
+      { "name": "炙甘草", "weight": 2, "natures": ["补", "收", "润"], "action": "补脾和胃，益气复脉" },
+      { "name": "生姜", "weight": 3, "natures": ["热", "补", "升", "散", "燥"], "action": "发汗解表、温中止呕，温肺止咳" }
+    ],
+    "indications": [
+      { "symptom": "项背强几几", "herbNames": ["葛根"], "rationale": "升津舒筋" },
+      { "symptom": "无汗恶风", "herbNames": ["麻黄", "桂枝"], "rationale": "发汗解表" },
+      { "symptom": "下利", "herbNames": ["葛根"], "rationale": "升阳止利" }
+    ],
+    "clauseRefs": [
+      { "book": "songben", "number": 31, "excerpt": "太阳病，项背强几几，无汗，恶风，葛根汤主之。" },
+      { "book": "songben", "number": 32, "excerpt": "太阳与阳明合病者，必自下利，葛根汤主之。" }
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "formulaName": "小青龙汤",
+    "function": "解表散寒，温肺化饮",
+    "sourcePage": 30,
+    "herbs": [
+      { "name": "麻黄", "weight": 3, "natures": ["热", "泻", "散", "燥"], "action": "发汗解表，宣肺平喘，利水消肿" },
+      { "name": "芍药", "weight": 3, "natures": ["寒", "补", "收", "润"], "action": "养血调经，平肝止痛，敛阴止汗" },
+      { "name": "细辛", "weight": 3, "natures": ["热", "泻", "降", "散", "燥"], "action": "祛风解表，散寒止痛，温肺化饮，通窍" },
+      { "name": "干姜", "weight": 3, "natures": ["热", "补", "升", "散", "燥"], "action": "温中散寒，回阳通脉，温肺化饮" },
+      { "name": "炙甘草", "weight": 3, "natures": ["补", "收", "润"], "action": "补脾和胃，益气复脉" },
+      { "name": "桂枝", "weight": 3, "natures": ["热", "补", "散", "燥"], "action": "发汗解肌，温经通脉，通阳化气" },
+      { "name": "五味子", "weight": 2, "natures": ["热", "补", "降", "收", "润"], "action": "敛肺滋肾，生津敛汗，涩精止泻，宁心安神" },
+      { "name": "半夏", "weight": 3, "natures": ["热", "补", "降", "散", "燥"], "action": "燥湿化痰，降逆止呕，消痞散结" }
+    ],
+    "indications": [
+      { "symptom": "发热而咳", "herbNames": ["麻黄", "细辛", "干姜"], "rationale": "解表散寒，温肺化饮" },
+      { "symptom": "清鼻涕、稀痰", "herbNames": ["细辛", "干姜", "半夏"], "rationale": "温化寒饮" },
+      { "symptom": "喘", "herbNames": ["麻黄", "五味子"], "rationale": "宣肺敛肺并进" },
+      { "symptom": "干呕", "herbNames": ["半夏", "干姜"], "rationale": "降逆止呕" }
+    ],
+    "clauseRefs": [
+      { "book": "songben", "number": 40, "excerpt": "伤寒表不解，心下有水气，干呕，发热而咳……或喘者，小青龙汤主之。" },
+      { "book": "songben", "number": 41, "excerpt": "伤寒，心下有水气，咳而微喘，发热不渴。服汤已渴者，此寒去欲解也。小青龙汤主之。" }
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "formulaName": "小柴胡汤",
+    "function": "和解少阳",
+    "sourcePage": 34,
+    "herbs": [
+      { "name": "柴胡", "weight": 3, "natures": ["寒", "泻", "升", "散", "燥"], "action": "疏散退热，疏肝解郁，升举阳气" },
+      { "name": "黄芩", "weight": 2, "natures": ["寒", "泻", "降", "收", "燥"], "action": "清热燥湿，泻火解毒，止血，安胎" },
+      { "name": "人参", "weight": 2, "natures": ["热", "补", "升", "收", "润"], "action": "大补元气，补脾益肺，生津止渴，安神益智" },
+      { "name": "炙甘草", "weight": 2, "natures": ["补", "收", "润"], "action": "补脾和胃，益气复脉" },
+      { "name": "半夏", "weight": 2, "natures": ["热", "补", "降", "散", "燥"], "action": "燥湿化痰，降逆止呕，消痞散结" },
+      { "name": "生姜", "weight": 2, "natures": ["热", "补", "升", "散", "燥"], "action": "发汗解表、温中止呕，温肺止咳" },
+      { "name": "大枣", "weight": 4, "natures": ["热", "补", "降", "收", "润"], "action": "补中益气，养血安神，缓和药性" }
+    ],
+    "indications": [
+      { "symptom": "往来寒热", "herbNames": ["柴胡", "黄芩"], "rationale": "和解少阳" },
+      { "symptom": "胸胁苦满", "herbNames": ["柴胡"], "rationale": "疏肝解郁" },
+      { "symptom": "心烦喜呕", "herbNames": ["黄芩", "半夏", "生姜"], "rationale": "清胆和胃降逆" },
+      { "symptom": "默默不欲饮食", "herbNames": ["人参", "大枣", "炙甘草"], "rationale": "扶正健脾" }
+    ],
+    "clauseRefs": [
+      { "book": "songben", "number": 96, "excerpt": "伤寒五六日中风，往来寒热，胸胁苦满，默默不欲饮食，心烦喜呕……小柴胡汤主之。" },
+      { "book": "songben", "number": 97, "excerpt": "血弱气尽，腠理开，邪气因入，与正气相搏，结于胁下。正邪分争，往来寒热，休作有时，默默不欲饮食。" }
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "formulaName": "五苓散",
+    "function": "利水渗湿，温阳化气",
+    "sourcePage": 42,
+    "herbs": [
+      { "name": "猪苓", "weight": 3, "natures": ["散", "燥"], "action": "利水渗湿" },
+      { "name": "泽泻", "weight": 5, "natures": ["寒", "泻", "降", "散", "燥"], "action": "利水渗湿，泻热" },
+      { "name": "白朮", "weight": 3, "natures": ["热", "补", "收", "燥"], "action": "补气健脾，燥湿利水，固表止汗" },
+      { "name": "茯苓", "weight": 3, "natures": ["泻", "降", "收", "燥"], "action": "利水渗湿，健脾安神" },
+      { "name": "桂枝", "weight": 2, "natures": ["热", "补", "散", "燥"], "action": "发汗解肌，温经通脉，通阳化气" }
+    ],
+    "indications": [
+      { "symptom": "小便不利", "herbNames": ["猪苓", "泽泻", "茯苓"], "rationale": "利水渗湿" },
+      { "symptom": "渴欲饮水、水入则吐", "herbNames": ["桂枝", "白朮"], "rationale": "温阳化气，健脾制水" },
+      { "symptom": "微热消渴", "herbNames": ["桂枝", "泽泻"], "rationale": "化气行水" }
+    ],
+    "clauseRefs": [
+      { "book": "songben", "number": 71, "excerpt": "太阳病，发汗后，大汗出，胃中干，烦躁不得眠，欲得饮水者，少少与饮之，令胃气和则愈。若脉浮，小便不利，微热消渴者，五苓散主之。" },
+      { "book": "songben", "number": 74, "excerpt": "中风发热，六七日不解而烦，有表里证，渴欲饮水，水入则吐者，名曰水逆，五苓散主之。" }
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "formulaName": "苓桂术甘汤",
+    "function": "温阳化饮，健脾利湿",
+    "sourcePage": 48,
+    "herbs": [
+      { "name": "茯苓", "weight": 4, "natures": ["泻", "降", "收", "燥"], "action": "利水渗湿，健脾安神" },
+      { "name": "桂枝", "weight": 3, "natures": ["热", "补", "散", "燥"], "action": "发汗解肌，温经通脉，通阳化气" },
+      { "name": "白朮", "weight": 2, "natures": ["热", "补", "收", "燥"], "action": "补气健脾，燥湿利水" },
+      { "name": "炙甘草", "weight": 2, "natures": ["补", "收", "润"], "action": "补脾和胃，益气复脉" }
+    ],
+    "indications": [
+      { "symptom": "心下逆满、气上冲胸", "herbNames": ["桂枝", "茯苓"], "rationale": "温阳降冲，利水" },
+      { "symptom": "起则头眩", "herbNames": ["茯苓", "白朮"], "rationale": "健脾利湿止眩" },
+      { "symptom": "胸胁支满、目眩", "herbNames": ["茯苓", "桂枝"], "rationale": "温化痰饮" }
+    ],
+    "clauseRefs": [
+      { "book": "songben", "number": 67, "excerpt": "伤寒若吐、若下后，心下逆满，气上冲胸，起则头眩，脉沉紧，发汗则动经，身为振振摇者，茯苓桂枝白术甘草汤主之。" }
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "formulaName": "平胃散",
+    "function": "燥湿运脾，行气和胃",
+    "sourcePage": 55,
+    "herbs": [
+      { "name": "苍朮", "weight": 20, "natures": ["热", "泻", "升", "散", "燥"], "action": "燥湿健脾，祛风湿，发表" },
+      { "name": "厚朴", "weight": 15, "natures": ["热", "泻", "降", "散", "燥"], "action": "燥湿，行气，消积，平喘" },
+      { "name": "陈皮", "weight": 10, "natures": ["热", "散", "燥"], "action": "理气健脾，燥湿化痰" },
+      { "name": "炙甘草", "weight": 6, "natures": ["补", "收", "润"], "action": "补脾和胃，益气复脉" },
+      { "name": "生姜", "weight": 5, "natures": ["热", "补", "升", "散", "燥"], "action": "发汗解表、温中止呕，温肺止咳" },
+      { "name": "大枣", "weight": 10, "natures": ["热", "补", "降", "收", "润"], "action": "补中益气，养血安神，缓和药性" }
+    ],
+    "indications": [
+      { "symptom": "不思饮食", "herbNames": ["苍朮", "陈皮"], "rationale": "燥湿运脾" },
+      { "symptom": "心腹胁肋胀满", "herbNames": ["厚朴", "陈皮"], "rationale": "行气消胀" },
+      { "symptom": "消化不良、胀气", "herbNames": ["苍朮", "厚朴", "陈皮"], "rationale": "燥湿行气和胃" }
+    ],
+    "clauseRefs": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "formulaName": "八味地黄丸",
+    "function": "温养下焦，补益肾阳",
+    "sourcePage": 61,
+    "herbs": [
+      { "name": "熟地黄", "weight": 8, "natures": ["热", "补", "升", "收", "润"], "action": "补血滋阴，益精填髓" },
+      { "name": "山药", "weight": 4, "natures": ["补", "升", "收", "润"], "action": "益气养阴，补脾肺肾，固精止遗" },
+      { "name": "山茱萸", "weight": 4, "natures": ["热", "补", "降", "收", "润"], "action": "补益肝肾，收敛固涩" },
+      { "name": "茯苓", "weight": 3, "natures": ["泻", "降", "收", "燥"], "action": "利水渗湿，健脾安神" },
+      { "name": "牡丹皮", "weight": 3, "natures": ["寒", "泻", "散"], "action": "清热凉血，活血散瘀" },
+      { "name": "泽泻", "weight": 3, "natures": ["寒", "泻", "降", "散", "燥"], "action": "利水渗湿，泻热" },
+      { "name": "肉桂", "weight": 1, "natures": ["热", "补", "散", "燥"], "action": "补火助阳，散寒止痛，温经通脉" },
+      { "name": "炮附子", "weight": 1, "natures": ["热", "补", "升", "散", "燥"], "action": "回阳救逆，助阳补火，散寒止痛" }
+    ],
+    "indications": [
+      { "symptom": "虚劳腰痛、少腹拘急", "herbNames": ["熟地黄", "山茱萸", "炮附子"], "rationale": "温养下焦" },
+      { "symptom": "小便不利或反多", "herbNames": ["茯苓", "泽泻", "肉桂"], "rationale": "化气利水" },
+      { "symptom": "消渴", "herbNames": ["熟地黄", "山药", "炮附子"], "rationale": "补肾制水" }
+    ],
+    "clauseRefs": [
+      { "book": "jingui", "number": 6, "excerpt": "虚劳腰痛，少腹拘急，小便不利者，八味肾气丸主之。" }
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "formulaName": "麻杏甘石汤",
+    "function": "辛凉疏表，清肺平喘",
+    "sourcePage": 69,
+    "herbs": [
+      { "name": "麻黄", "weight": 4, "natures": ["热", "泻", "散", "燥"], "action": "发汗解表，宣肺平喘，利水消肿" },
+      { "name": "杏仁", "weight": 6, "natures": ["热", "泻", "降", "散", "润"], "action": "止咳平喘，润肠通便" },
+      { "name": "炙甘草", "weight": 3, "natures": ["补", "收", "润"], "action": "补脾和胃，益气复脉" },
+      { "name": "石膏", "weight": 10, "natures": ["寒", "泻", "降", "散", "润"], "action": "清热泻火，除烦止渴" }
+    ],
+    "indications": [
+      { "symptom": "汗出而喘", "herbNames": ["麻黄", "石膏"], "rationale": "宣肺清热" },
+      { "symptom": "少痰或黏稠痰之咳", "herbNames": ["杏仁", "石膏"], "rationale": "清肺降气" }
+    ],
+    "clauseRefs": [
+      { "book": "songben", "number": 63, "excerpt": "发汗后，不可更行桂枝汤，汗出而喘，无大热者，可与麻黄杏仁甘草石膏汤。" }
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "formulaName": "半夏厚朴汤",
+    "function": "行气散结，降逆化痰",
+    "sourcePage": 75,
+    "herbs": [
+      { "name": "半夏", "weight": 4, "natures": ["热", "补", "降", "散", "燥"], "action": "燥湿化痰，降逆止呕，消痞散结" },
+      { "name": "厚朴", "weight": 3, "natures": ["热", "泻", "降", "散", "燥"], "action": "燥湿，行气，消积，平喘" },
+      { "name": "茯苓", "weight": 4, "natures": ["泻", "降", "收", "燥"], "action": "利水渗湿，健脾安神" },
+      { "name": "生姜", "weight": 5, "natures": ["热", "补", "升", "散", "燥"], "action": "发汗解表、温中止呕，温肺止咳" },
+      { "name": "紫苏叶", "weight": 1, "natures": ["热", "泻", "降", "散", "燥"], "action": "发汗解表，行气宽中" }
+    ],
+    "indications": [
+      { "symptom": "咽中如有炙脔", "herbNames": ["半夏", "厚朴", "紫苏叶"], "rationale": "行气散结化痰" },
+      { "symptom": "咳且胸闷", "herbNames": ["厚朴", "半夏"], "rationale": "降气宽胸" }
+    ],
+    "clauseRefs": [
+      { "book": "jingui", "number": 22, "excerpt": "妇人咽中如有炙脔，半夏厚朴汤主之。" }
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "formulaName": "芍药甘草汤",
+    "function": "调气养血，缓急止痛",
+    "sourcePage": 82,
+    "herbs": [
+      { "name": "芍药", "weight": 4, "natures": ["寒", "补", "收", "润"], "action": "养血调经，平肝止痛，敛阴止汗" },
+      { "name": "炙甘草", "weight": 4, "natures": ["补", "收", "润"], "action": "补脾和胃，益气复脉" }
+    ],
+    "indications": [
+      { "symptom": "脚挛急", "herbNames": ["芍药", "炙甘草"], "rationale": "酸甘化阴，缓急止痛" },
+      { "symptom": "腹痛、经痛", "herbNames": ["芍药", "炙甘草"], "rationale": "柔肝缓急" },
+      { "symptom": "小腿抽筋", "herbNames": ["芍药", "炙甘草"], "rationale": "舒筋缓急" }
+    ],
+    "clauseRefs": [
+      { "book": "songben", "number": 29, "excerpt": "伤寒脉浮，自汗出，小便数，心烦，微恶寒，脚挛急……若厥愈足温者，更作芍药甘草汤与之，其脚即伸。" }
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "formulaName": "四逆汤",
+    "function": "回阳救逆",
+    "sourcePage": 87,
+    "herbs": [
+      { "name": "炙甘草", "weight": 2, "natures": ["补", "收", "润"], "action": "补脾和胃，益气复脉" },
+      { "name": "干姜", "weight": 2, "natures": ["热", "补", "升", "散", "燥"], "action": "温中散寒，回阳通脉，温肺化饮" },
+      { "name": "炮附子", "weight": 2, "natures": ["热", "补", "升", "散", "燥"], "action": "回阳救逆，助阳补火，散寒止痛" }
+    ],
+    "indications": [
+      { "symptom": "四肢厥冷", "herbNames": ["炮附子", "干姜"], "rationale": "回阳救逆" },
+      { "symptom": "下利清谷", "herbNames": ["干姜", "炙甘草"], "rationale": "温中固里" },
+      { "symptom": "脉微欲绝", "herbNames": ["炮附子", "炙甘草"], "rationale": "回阳复脉" }
+    ],
+    "clauseRefs": [
+      { "book": "songben", "number": 323, "excerpt": "少阴病，脉沉者，急温之，宜四逆汤。" },
+      { "book": "songben", "number": 388, "excerpt": "吐利汗出，发热恶寒，四肢拘急，手足厥冷者，四逆汤主之。" }
+    ],
+    "reviewStatus": "ai-draft"
+  }
+]

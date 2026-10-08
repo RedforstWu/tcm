@@ -1,0 +1,405 @@
+{
+  "book": "funanke",
+  "batch": 6,
+  "model": "grok-4.5",
+  "entries": [
+    {
+      "clauseId": "funanke-0167",
+      "contentHash": "eeeff720d4689cc0",
+      "symptomTags": ["身痛"],
+      "pathogenesisTags": ["血虚", "气滞", "肝郁"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0167-1",
+          "herbRoles": [
+            {
+              "herbId": "柴胡",
+              "roleText": "疏肝",
+              "mechanism": "舒散郁气，使筋不缩急",
+              "sourceSentence": "今用柴胡以舒散之，郁气既除"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0169",
+      "contentHash": "2c2b4a7529ff97e3",
+      "symptomTags": ["胁痛"],
+      "pathogenesisTags": ["肝郁"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0169-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0170",
+      "contentHash": "40557501cf2c813d",
+      "symptomTags": ["胁痛"],
+      "pathogenesisTags": ["肺热"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0170-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0171",
+      "contentHash": "5026d930e1dded61",
+      "symptomTags": ["胁痛"],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0171-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0172",
+      "contentHash": "f6064673de39c0ab",
+      "symptomTags": ["胁痛"],
+      "pathogenesisTags": ["痰湿"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0172-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0174",
+      "contentHash": "e571920b106b4b82",
+      "symptomTags": ["胁痛"],
+      "pathogenesisTags": ["肾阴虚", "水不涵木"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0174-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0177",
+      "contentHash": "fa5d3c590a7110d4",
+      "symptomTags": ["小便不利"],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0177-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0178",
+      "contentHash": "7b2d17591aa15458",
+      "symptomTags": [],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0178-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0179",
+      "contentHash": "cbd7b4c22e8228c7",
+      "symptomTags": [],
+      "pathogenesisTags": ["相火妄动", "肾阴虚", "金不生水"],
+      "misjudgment": {
+        "commonView": "用黄柏知母煎汤饮之，立时消散",
+        "trueView": "自倒之后终年不能振起，亦非善治之法"
+      },
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0179-1",
+          "herbRoles": [
+            {
+              "herbId": "玄参",
+              "roleText": "泻火",
+              "mechanism": "泻肾中之火",
+              "sourceSentence": "用元参以泻肾中之火"
+            },
+            {
+              "herbId": "肉桂",
+              "roleText": "引经",
+              "mechanism": "入肾宅以引药归经",
+              "sourceSentence": "肉桂入其宅"
+            },
+            {
+              "herbId": "麦冬",
+              "roleText": "润燥",
+              "mechanism": "助肺金之气，清肃下行以生肾水",
+              "sourceSentence": "麦冬助肺金之气,清肃下行，以生肾水"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0180",
+      "contentHash": "4efa3a9803fdfccc",
+      "symptomTags": ["阳痿"],
+      "pathogenesisTags": ["肾虚", "肾阳虚", "肾阴虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0180-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0181",
+      "contentHash": "6e1bc92add093121",
+      "symptomTags": ["便血", "出血"],
+      "pathogenesisTags": ["湿热"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0181-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0182",
+      "contentHash": "4638c67d1c0c392d",
+      "symptomTags": ["疝气"],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0182-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0183",
+      "contentHash": "dc0dfbdbf28f811e",
+      "symptomTags": ["疝气"],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0183-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0184",
+      "contentHash": "582e866ef31b4c14",
+      "symptomTags": ["疝气"],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0184-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0187",
+      "contentHash": "af33bb2528a15e7d",
+      "symptomTags": ["疮疡"],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0187-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0188",
+      "contentHash": "abe9366607ecdd39",
+      "symptomTags": ["疮疡"],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0188-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0189",
+      "contentHash": "7016da26fcde3d99",
+      "symptomTags": ["疮疡"],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0189-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0190",
+      "contentHash": "f18344f54c5ef532",
+      "symptomTags": ["疮疡"],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0190-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0191",
+      "contentHash": "ee01b0acf59f9667",
+      "symptomTags": ["疮疡"],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0191-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0192",
+      "contentHash": "2b691dadbd68f961",
+      "symptomTags": ["汗出"],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0192-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0194",
+      "contentHash": "d4a18de501ce581d",
+      "symptomTags": [],
+      "pathogenesisTags": ["肾虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0194-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0195",
+      "contentHash": "700a250c060bf7dd",
+      "symptomTags": ["鼻塞"],
+      "pathogenesisTags": [],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0195-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0196",
+      "contentHash": "1275356155ac8efe",
+      "symptomTags": [],
+      "pathogenesisTags": ["风寒"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0196-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0203",
+      "contentHash": "44b37b9d374da64b",
+      "symptomTags": ["呕吐", "泄泻", "腹痛", "纳差", "口渴", "发热"],
+      "pathogenesisTags": ["肝火", "心火", "脾虚", "食积"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0203-1",
+          "herbRoles": []
+        },
+        {
+          "formulaId": "funanke-formula-funanke-0203-2",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0204",
+      "contentHash": "640c9a1f234b0c1e",
+      "symptomTags": ["发热"],
+      "pathogenesisTags": ["风寒", "食积", "痰湿"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0204-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0205",
+      "contentHash": "ed543bf112ff9a98",
+      "symptomTags": [],
+      "pathogenesisTags": ["风寒"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0205-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0206",
+      "contentHash": "d64398c090fa3998",
+      "symptomTags": [],
+      "pathogenesisTags": ["肝火", "脾虚"],
+      "misjudgment": {
+        "commonView": "内风作外风治，用风药表散",
+        "trueView": "内热生风非外来之风，不可以风药表散"
+      },
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0206-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0207",
+      "contentHash": "85d6a12cccb90a8f",
+      "symptomTags": [],
+      "pathogenesisTags": ["气虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0207-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0208",
+      "contentHash": "958912714f4612ef",
+      "symptomTags": ["腹痛", "小便不利"],
+      "pathogenesisTags": ["湿热", "食积", "气虚"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0208-1",
+          "herbRoles": []
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0209",
+      "contentHash": "ce0031c25502880f",
+      "symptomTags": ["泄泻", "发热", "口渴"],
+      "pathogenesisTags": ["胃热"],
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0209-1",
+          "herbRoles": []
+        }
+      ]
+    }
+  ]
+}

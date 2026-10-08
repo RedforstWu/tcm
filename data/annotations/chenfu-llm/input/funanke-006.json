@@ -1,0 +1,2268 @@
+{
+  "book": "funanke",
+  "batch": 6,
+  "promptFile": "data/annotations/chenfu-llm/prompt.md",
+  "vocab": {
+    "symptomTags": [
+      "发热",
+      "恶寒",
+      "头痛",
+      "身痛",
+      "汗出",
+      "无汗",
+      "口渴",
+      "口苦",
+      "心烦",
+      "失眠",
+      "咳嗽",
+      "气喘",
+      "胸闷",
+      "胁痛",
+      "腹痛",
+      "腹胀",
+      "泄泻",
+      "便秘",
+      "呕吐",
+      "纳差",
+      "水肿",
+      "小便不利",
+      "尿频",
+      "带下",
+      "白带",
+      "黄带",
+      "赤带",
+      "黑带",
+      "青带",
+      "月经不调",
+      "痛经",
+      "崩漏",
+      "闭经",
+      "不孕",
+      "胎动不安",
+      "产后腹痛",
+      "恶露不尽",
+      "乳汁不通",
+      "阴痒",
+      "腰痛",
+      "眩晕",
+      "耳鸣",
+      "心悸",
+      "健忘",
+      "遗精",
+      "阳痿",
+      "疝气",
+      "黄疸",
+      "积聚",
+      "痰多",
+      "鼻塞",
+      "咽痛",
+      "目痛",
+      "目昏",
+      "齿痛",
+      "口疮",
+      "疮疡",
+      "瘙痒",
+      "出血",
+      "便血",
+      "衄血",
+      "吐血"
+    ],
+    "pathogenesisTags": [
+      "肝郁",
+      "肝火",
+      "肝血虚",
+      "脾虚",
+      "脾湿",
+      "胃热",
+      "胃虚",
+      "肾虚",
+      "肾阳虚",
+      "肾阴虚",
+      "命门火衰",
+      "心火",
+      "心血虚",
+      "肺热",
+      "肺虚",
+      "湿热",
+      "寒湿",
+      "痰湿",
+      "血瘀",
+      "气滞",
+      "气虚",
+      "血虚",
+      "阴虚",
+      "阳虚",
+      "风寒",
+      "风热",
+      "暑热",
+      "食积",
+      "水饮",
+      "相火妄动",
+      "心肾不交",
+      "肝脾不和",
+      "肝克脾",
+      "水不涵木",
+      "土不生金",
+      "金不生水",
+      "火不生土",
+      "任脉湿热",
+      "带脉不固",
+      "冲任虚损"
+    ],
+    "roleCategories": [
+      "补气",
+      "补血",
+      "补阴",
+      "补阳",
+      "健脾",
+      "利湿",
+      "燥湿",
+      "清热",
+      "泻火",
+      "解毒",
+      "疏肝",
+      "解郁",
+      "理气",
+      "活血",
+      "化瘀",
+      "止血",
+      "温中",
+      "散寒",
+      "解表",
+      "升提",
+      "降逆",
+      "化痰",
+      "止咳",
+      "安神",
+      "固涩",
+      "消食",
+      "润燥",
+      "养肝",
+      "平肝",
+      "益肾",
+      "利腰脐",
+      "调和",
+      "引经",
+      "其他"
+    ]
+  },
+  "entries": [
+    {
+      "clauseId": "funanke-0167",
+      "contentHash": "eeeff720d4689cc0",
+      "book": "funanke",
+      "heading": "筋缩",
+      "text": "凡人一身筋脉，不可有病，病则筋缩而身痛，脉濇而体重矣，然筋之舒,在于血和，而脉之平，在于气足，故治筋必须先治血，而治脉必须补气,人若筋急拳缩伛偻，而不能直立者，皆筋病也。\n方用\n\n\n当归（ 壹两） 白芍 薏仁 生地 元参（ 各伍钱） 柴胡（ 壹钱）\n\n水煎服。\n\n此方妙在用柴胡一味，入于补药中，盖血亏则筋病,用补药以治筋宜矣，何又用柴胡，夫肝为筋之主，筋乃肝之余，气不顺，筋自缩急,今用柴胡以舒散之，郁气既除，而又济之以大剂补血，则筋得其养矣。\n\n=== 胁痛门 ===\n\n==== 两胁有块 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0167-1",
+          "name": "筋缩·方1",
+          "fangjie": "此方妙在用柴胡一味，入于补药中，盖血亏则筋病,用补药以治筋宜矣，何又用柴胡，夫肝为筋之主，筋乃肝之余，气不顺，筋自缩急,今用柴胡以舒散之，郁气既除，而又济之以大剂补血，则筋得其养矣。=== 胁痛门 ======= 两胁有块 ====",
+          "herbs": [
+            {
+              "herbId": "当归",
+              "name": "当归",
+              "doseRaw": "壹两"
+            },
+            {
+              "herbId": "白芍",
+              "name": "白芍",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "薏苡仁",
+              "name": "薏苡仁",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "生地黄",
+              "name": "生地黄",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "玄参",
+              "name": "玄参",
+              "doseRaw": "伍钱"
+            },
+            {
+              "herbId": "柴胡",
+              "name": "柴胡",
+              "doseRaw": "壹钱"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0169",
+      "contentHash": "2c2b4a7529ff97e3",
+      "book": "funanke",
+      "heading": "左胁痛",
+      "text": "左胁痛，肝经受邪也。\n方用\n\n\n黄连（ 吴萸炒贰钱） 柴胡 当归 青皮 桃仁（ 研各壹钱） 川芎（ 捌分） 红花（ 伍分）\n\n水煎食（ 远服） 。\n\n有痰。 加陈皮半夏。\n\n==== 右胁痛 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0169-1",
+          "name": "左胁痛·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "黄连",
+              "name": "黄连",
+              "doseRaw": "贰钱"
+            },
+            {
+              "herbId": "柴胡",
+              "name": "柴胡",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "当归",
+              "name": "当归",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "青皮",
+              "name": "青皮",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "桃仁",
+              "name": "桃仁",
+              "doseRaw": "壹钱"
+            },
+            {
+              "herbId": "川芎",
+              "name": "川芎",
+              "doseRaw": "捌分"
+            },
+            {
+              "herbId": "红花",
+              "name": "红花",
+              "doseRaw": "伍分"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0170",
+      "contentHash": "40557501cf2c813d",
+      "book": "funanke",
+      "heading": "右胁痛",
+      "text": "此是邪入肺经也。 方用\n\n片姜黄　枳壳（ 各贰钱） 桂心（ 贰分） 炙草　陈皮　半夏（ 各伍分）\n\n水煎服。\n\n==== 左右胁俱痛 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0170-1",
+          "name": "右胁痛·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "片姜",
+              "name": "片姜",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "黄",
+              "name": "黄",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "枳壳",
+              "name": "枳壳",
+              "doseRaw": "贰钱"
+            },
+            {
+              "herbId": "肉桂",
+              "name": "肉桂",
+              "doseRaw": "贰分"
+            },
+            {
+              "herbId": "炙草",
+              "name": "炙草",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "陈皮",
+              "name": "陈皮",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "半夏",
+              "name": "半夏",
+              "doseRaw": "伍分"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0171",
+      "contentHash": "5026d930e1dded61",
+      "book": "funanke",
+      "heading": "左右胁俱痛",
+      "text": "方用\n\n柴胡 青皮　龙胆草　当归（ 各一钱） 川芎 枳壳（ 各捌分） 甘草（ 参分） 砂仁 木香（ 各伍分）\n\n姜水煎服。\n\n==== 两胁走注 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0171-1",
+          "name": "左右胁俱痛·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "柴胡",
+              "name": "柴胡",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "青皮",
+              "name": "青皮",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "龙胆草",
+              "name": "龙胆草",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "当归",
+              "name": "当归",
+              "doseRaw": "一钱"
+            },
+            {
+              "herbId": "川芎",
+              "name": "川芎",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "枳壳",
+              "name": "枳壳",
+              "doseRaw": "捌分"
+            },
+            {
+              "herbId": "甘草",
+              "name": "甘草",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "砂仁",
+              "name": "砂仁",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "木香",
+              "name": "木香",
+              "doseRaw": "伍分"
+            },
+            {
+              "herbId": "==",
+              "name": "==",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "两胁走注",
+              "name": "两胁走注",
+              "doseRaw": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0172",
+      "contentHash": "f6064673de39c0ab",
+      "book": "funanke",
+      "heading": "两胁走注",
+      "text": "两胁走注，痛而有声者，痰也。\n方用\n\n\n二陈汤，去甘草加枳壳、砂仁、广木香、川芎、青皮、苍术、香附、茴香\n\n水煎服。\n\n==== 胁痛身热 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0172-1",
+          "name": "两胁走注·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "二陈汤",
+              "name": "二陈汤",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "去甘",
+              "name": "去甘",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "草加",
+              "name": "草加",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "枳壳",
+              "name": "枳壳",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "砂仁",
+              "name": "砂仁",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "广木香",
+              "name": "广木香",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "川芎",
+              "name": "川芎",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "青皮",
+              "name": "青皮",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "苍术",
+              "name": "苍术",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "香附",
+              "name": "香附",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "茴香",
+              "name": "茴香",
+              "doseRaw": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0174",
+      "contentHash": "e571920b106b4b82",
+      "book": "funanke",
+      "heading": "胁痛",
+      "text": "此乃肝病也，故治胁痛，必须平肝，平肝必须补肾，肾水足而后肝气有养,不治胁痛，而胁痛自平也。\n方用\n肝肾兼资汤。\n\n熟地 当归（ 各壹两） 白芍（ 贰两） 黑栀（ 壹钱） 山萸（ 伍钱） 白芥子 甘草（ 各叁钱）\n\n水煎服。\n\n[ 每咯血之人，胁涨痛而咯,是经血瘀滞胁下也，两方用\n时加桃仁柒枚，黑荆芥穗捌分尤效。 ]\n\n==== 胁痛咳嗽 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0174-1",
+          "name": "胁痛·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "肝肾",
+              "name": "肝肾",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "兼资",
+              "name": "兼资",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "汤",
+              "name": "汤",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "熟地黄",
+              "name": "熟地黄",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "当归",
+              "name": "当归",
+              "doseRaw": "壹两"
+            },
+            {
+              "herbId": "白芍",
+              "name": "白芍",
+              "doseRaw": "贰两"
+            },
+            {
+              "herbId": "黑栀",
+              "name": "黑栀",
+              "doseRaw": "壹钱"
+            },
+            {
+              "herbId": "山萸",
+              "name": "山萸",
+              "doseRaw": "伍钱"
+            },
+            {
+              "herbId": "白芥子",
+              "name": "白芥子",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "甘草",
+              "name": "甘草",
+              "doseRaw": "叁钱"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0177",
+      "contentHash": "fa5d3c590a7110d4",
+      "book": "funanke",
+      "heading": "淋症",
+      "text": "方用\n\n五淋散\n\n淡竹叶 赤茯苓 芥穗 灯心（ 各壹钱） 车前子（ 伍钱）\n\n水煎服。\n\n==== 浊症 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0177-1",
+          "name": "淋症·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "五淋散",
+              "name": "五淋散",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "淡竹叶",
+              "name": "淡竹叶",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "赤茯",
+              "name": "赤茯",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "苓芥",
+              "name": "苓芥",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "灯心草",
+              "name": "灯心草",
+              "doseRaw": "壹钱"
+            },
+            {
+              "herbId": "车前子",
+              "name": "车前子",
+              "doseRaw": "伍钱"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0178",
+      "contentHash": "7b2d17591aa15458",
+      "book": "funanke",
+      "heading": "浊症",
+      "text": "方用\n\n清心莲子饮\n\n石莲子 人参（ 各贰钱伍分） 灸草 赤茯苓（ 各贰钱） 麦冬 黄耆 地骨皮 车前子（ 各壹钱伍分） 甘草（ 伍分）\n\n水煎服。\n\n=== 肾病门 ===\n\n==== 阳强不倒 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0178-1",
+          "name": "浊症·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "清心",
+              "name": "清心",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "莲子",
+              "name": "莲子",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "石莲",
+              "name": "石莲",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "人参",
+              "name": "人参",
+              "doseRaw": "贰钱伍分"
+            },
+            {
+              "herbId": "灸草",
+              "name": "灸草",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "赤茯苓",
+              "name": "赤茯苓",
+              "doseRaw": "贰钱"
+            },
+            {
+              "herbId": "麦冬",
+              "name": "麦冬",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "黄",
+              "name": "黄",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "耆地",
+              "name": "耆地",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "骨皮",
+              "name": "骨皮",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "车前子",
+              "name": "车前子",
+              "doseRaw": "壹钱伍分"
+            },
+            {
+              "herbId": "甘草",
+              "name": "甘草",
+              "doseRaw": "伍分"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0179",
+      "contentHash": "cbd7b4c22e8228c7",
+      "book": "funanke",
+      "heading": "阳强不倒",
+      "text": "此虚火炎上，而肺气不能下行故耳，若用黄柏知母煎汤饮之，立时消散,然自倒之后，终年不能振起，亦非善治之法也, 方用\n\n元参 麦冬（ 各参两） 肉桂（ 参分）\n\n水煎服。\n\n此方妙在用元参以泻肾中之火，肉桂入其宅，麦冬助肺金之气,清肃下行，以生肾水，水足则火自息矣，不求倒而自倒矣。\n\n==== 阳痿不举 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0179-1",
+          "name": "阳强不倒·方1",
+          "fangjie": "此方妙在用元参以泻肾中之火，肉桂入其宅，麦冬助肺金之气,清肃下行，以生肾水，水足则火自息矣，不求倒而自倒矣。==== 阳痿不举 ====",
+          "herbs": [
+            {
+              "herbId": "玄参",
+              "name": "玄参",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "麦冬",
+              "name": "麦冬",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "肉桂",
+              "name": "肉桂",
+              "doseRaw": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0180",
+      "contentHash": "4efa3a9803fdfccc",
+      "book": "funanke",
+      "heading": "阳痿不举",
+      "text": "此症乃平日过于削，日泄其肾中之水，而肾中之火，亦因而消亡,盖水去而火亦去，必然之理，有如一家人口，厨下无水，何以为炊, 必有水而后取柴炭以煮饭，不则空铛也。\n方用\n\n\n熟地（ 壹两） 山萸（ 肆钱） 远志 巴戟　肉苁蓉 杜仲（ 各壹钱） 肉桂 茯神（ 各贰钱） 白术（ 伍钱） 人参（ 叁钱）\n\n水煎服。\n\n==== 尿血又便血 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0180-1",
+          "name": "阳痿不举·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "熟地黄",
+              "name": "熟地黄",
+              "doseRaw": "壹两"
+            },
+            {
+              "herbId": "山萸",
+              "name": "山萸",
+              "doseRaw": "肆钱"
+            },
+            {
+              "herbId": "远志",
+              "name": "远志",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "巴戟天",
+              "name": "巴戟天",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "肉苁蓉",
+              "name": "肉苁蓉",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "杜仲",
+              "name": "杜仲",
+              "doseRaw": "壹钱"
+            },
+            {
+              "herbId": "肉桂",
+              "name": "肉桂",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "茯神",
+              "name": "茯神",
+              "doseRaw": "贰钱"
+            },
+            {
+              "herbId": "白术",
+              "name": "白术",
+              "doseRaw": "伍钱"
+            },
+            {
+              "herbId": "人参",
+              "name": "人参",
+              "doseRaw": "叁钱"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0181",
+      "contentHash": "6e1bc92add093121",
+      "book": "funanke",
+      "heading": "尿血又便血",
+      "text": "便血出于后阴，尿血出于前阴，最难调治，然总之出血于下也,方用\n\n生地（ 壹两） 地榆（ 叁钱） 水煎服，二症俱愈,盖大小便各有经络，而其症皆因膀胱之热也，生地地榆，俱能清膀胱之热,一方而两用之也，盖分之中有合。\n\n==== 疝气 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0181-1",
+          "name": "尿血又便血·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "生地黄",
+              "name": "生地黄",
+              "doseRaw": "壹两"
+            },
+            {
+              "herbId": "地榆",
+              "name": "地榆",
+              "doseRaw": "叁钱"
+            },
+            {
+              "herbId": "水",
+              "name": "水",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "二症俱愈",
+              "name": "二症俱愈",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "盖大",
+              "name": "盖大",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "小便",
+              "name": "小便",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "有经",
+              "name": "有经",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "而其",
+              "name": "而其",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "症皆",
+              "name": "症皆",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "因膀",
+              "name": "因膀",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "胱之",
+              "name": "胱之",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "热也",
+              "name": "热也",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "俱能",
+              "name": "俱能",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "清膀",
+              "name": "清膀",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "方而",
+              "name": "方而",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "用之",
+              "name": "用之",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "之中",
+              "name": "之中",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "有合",
+              "name": "有合",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "==",
+              "name": "==",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "疝气",
+              "name": "疝气",
+              "doseRaw": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0182",
+      "contentHash": "4638c67d1c0c392d",
+      "book": "funanke",
+      "heading": "疝气",
+      "text": "方用\n去铃丸\n\n大茴香 姜汁（ 各壹斛）\n\n将姜汁入茴香内，侵一宿，入青盐贰两,同炒红为末，酒丸桐子大，每服三十丸，温酒或米汤送下。\n\n==== 肾子痛 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0182-1",
+          "name": "疝气·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "去铃丸",
+              "name": "去铃丸",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "大茴",
+              "name": "大茴",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "姜汁",
+              "name": "姜汁",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "将姜",
+              "name": "将姜",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "汁入",
+              "name": "汁入",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "茴香",
+              "name": "茴香",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "侵一宿",
+              "name": "侵一宿",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "入青",
+              "name": "入青",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "盐",
+              "name": "盐",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "同炒",
+              "name": "同炒",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "红为",
+              "name": "红为",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "酒",
+              "name": "酒",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "丸桐",
+              "name": "丸桐",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "子大",
+              "name": "子大",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "每服三十丸",
+              "name": "每服三十丸",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "温酒",
+              "name": "温酒",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "或米",
+              "name": "或米",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "汤送",
+              "name": "汤送",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "下",
+              "name": "下",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "==",
+              "name": "==",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "肾子痛",
+              "name": "肾子痛",
+              "doseRaw": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0183",
+      "contentHash": "dc0dfbdbf28f811e",
+      "book": "funanke",
+      "heading": "肾子痛",
+      "text": "方用\n\n泽泻 陈皮 赤苓（ 各壹钱） 丹皮 小茴香 枳实（ 各叁钱） 吴萸 苍术（ 各伍分） 山查（ 肆分） 苏梗（ 肆分）\n\n姜水煎服。\n\n又方\n\n酒炒大茴香、酒炒小茴香、赤石脂（ 煅） 、广木香各等分,乌梅肉捣烂为丸，如桐子大，空心每服十五丸，葱酒送下立效。\n\n==== 偏坠 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0183-1",
+          "name": "肾子痛·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "泽泻",
+              "name": "泽泻",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "陈皮",
+              "name": "陈皮",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "赤苓",
+              "name": "赤苓",
+              "doseRaw": "壹钱"
+            },
+            {
+              "herbId": "牡丹皮",
+              "name": "牡丹皮",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "小茴香",
+              "name": "小茴香",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "枳实",
+              "name": "枳实",
+              "doseRaw": "叁钱"
+            },
+            {
+              "herbId": "吴茱萸",
+              "name": "吴茱萸",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "苍术",
+              "name": "苍术",
+              "doseRaw": "伍分"
+            },
+            {
+              "herbId": "山楂",
+              "name": "山楂",
+              "doseRaw": "肆分"
+            },
+            {
+              "herbId": "苏梗",
+              "name": "苏梗",
+              "doseRaw": "肆分"
+            },
+            {
+              "herbId": "又方",
+              "name": "又方",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "酒",
+              "name": "酒",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "炒大",
+              "name": "炒大",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "茴香",
+              "name": "茴香",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "炒小",
+              "name": "炒小",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "赤石脂",
+              "name": "赤石脂",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "广木香各",
+              "name": "广木香各",
+              "doseRaw": "等分"
+            },
+            {
+              "herbId": "乌梅",
+              "name": "乌梅",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "肉捣",
+              "name": "肉捣",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "烂为",
+              "name": "烂为",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "如桐",
+              "name": "如桐",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "子大",
+              "name": "子大",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "空心",
+              "name": "空心",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "每服",
+              "name": "每服",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "葱酒",
+              "name": "葱酒",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "送下",
+              "name": "送下",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "立效",
+              "name": "立效",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "==",
+              "name": "==",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "偏坠",
+              "name": "偏坠",
+              "doseRaw": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0184",
+      "contentHash": "582e866ef31b4c14",
+      "book": "funanke",
+      "heading": "偏坠",
+      "text": "方用\n\n小茴香、猪苓等分，微炒为末，空心盐水冲服,热盐熨亦甚效。\n\n=== 杂方 ===\n\n==== 病在上而求诸下 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0184-1",
+          "name": "偏坠·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "小茴香",
+              "name": "小茴香",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "猪苓",
+              "name": "猪苓",
+              "doseRaw": "等分"
+            },
+            {
+              "herbId": "微炒",
+              "name": "微炒",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "为末",
+              "name": "为末",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "空心",
+              "name": "空心",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "盐",
+              "name": "盐",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "水",
+              "name": "水",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "冲服",
+              "name": "冲服",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "热盐",
+              "name": "热盐",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "熨亦",
+              "name": "熨亦",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "甚效",
+              "name": "甚效",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "===",
+              "name": "===",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "杂方",
+              "name": "杂方",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "==",
+              "name": "==",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "病在",
+              "name": "病在",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "上而",
+              "name": "上而",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "求诸",
+              "name": "求诸",
+              "doseRaw": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0187",
+      "contentHash": "af33bb2528a15e7d",
+      "book": "funanke",
+      "heading": "疮毒",
+      "text": "方用\n如神汤\n\n银花 当归 蒲公英（ 各壹两） 荆芥 连翘（ 各壹钱） 甘草（ 叁钱）\n\n水煎服。\n\n==== 头面上疮 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0187-1",
+          "name": "疮毒·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "如神汤",
+              "name": "如神汤",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "金银花",
+              "name": "金银花",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "当归",
+              "name": "当归",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "蒲公英",
+              "name": "蒲公英",
+              "doseRaw": "壹两"
+            },
+            {
+              "herbId": "荆芥",
+              "name": "荆芥",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "连翘",
+              "name": "连翘",
+              "doseRaw": "壹钱"
+            },
+            {
+              "herbId": "甘草",
+              "name": "甘草",
+              "doseRaw": "叁钱"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0188",
+      "contentHash": "abe9366607ecdd39",
+      "book": "funanke",
+      "heading": "头面上疮",
+      "text": "方用\n\n银花（ 贰两） 当归（ 壹两） 川芎 甘草（ 各伍钱） 桔梗 蒲公英（ 各叁钱） 黄芩（ 壹钱）\n\n水煎服。 二剂全消。\n\n头疮不可用升提之药，最宜用降火之品，切记之。\n\n==== 身上手足之疮疽 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0188-1",
+          "name": "头面上疮·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "金银花",
+              "name": "金银花",
+              "doseRaw": "贰两"
+            },
+            {
+              "herbId": "当归",
+              "name": "当归",
+              "doseRaw": "壹两"
+            },
+            {
+              "herbId": "川芎",
+              "name": "川芎",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "甘草",
+              "name": "甘草",
+              "doseRaw": "伍钱"
+            },
+            {
+              "herbId": "桔梗",
+              "name": "桔梗",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "蒲公英",
+              "name": "蒲公英",
+              "doseRaw": "叁钱"
+            },
+            {
+              "herbId": "黄芩",
+              "name": "黄芩",
+              "doseRaw": "壹钱"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0189",
+      "contentHash": "7016da26fcde3d99",
+      "book": "funanke",
+      "heading": "身上手足之疮疽",
+      "text": "方用\n\n银花 甘草 蒲公英（ 各叁钱） 当归（ 壹两） 牛蒡子（ 贰钱） 花粉（ 伍钱） 芙蓉叶（ 七片无叶用根）\n\n水煎服。\n\n==== 统治诸疮 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0189-1",
+          "name": "身上手足之疮疽·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "金银花",
+              "name": "金银花",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "甘草",
+              "name": "甘草",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "蒲公英",
+              "name": "蒲公英",
+              "doseRaw": "叁钱"
+            },
+            {
+              "herbId": "当归",
+              "name": "当归",
+              "doseRaw": "壹两"
+            },
+            {
+              "herbId": "牛蒡子",
+              "name": "牛蒡子",
+              "doseRaw": "贰钱"
+            },
+            {
+              "herbId": "天花粉",
+              "name": "天花粉",
+              "doseRaw": "伍钱"
+            },
+            {
+              "herbId": "芙蓉叶",
+              "name": "芙蓉叶",
+              "doseRaw": "七片"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0190",
+      "contentHash": "f18344f54c5ef532",
+      "book": "funanke",
+      "heading": "统治诸疮",
+      "text": "方用\n\n花粉 甘草 银花 蒲公英\n\n水煎服，二剂全愈。\n\n此方消毒大有其功,诸痈诸疽，不论部位，皆治之。\n\n==== 黄水疮 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0190-1",
+          "name": "统治诸疮·方1",
+          "fangjie": "此方消毒大有其功,诸痈诸疽，不论部位，皆治之。==== 黄水疮 ====",
+          "herbs": [
+            {
+              "herbId": "天花粉",
+              "name": "天花粉",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "甘草",
+              "name": "甘草",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "金银花",
+              "name": "金银花",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "蒲公英",
+              "name": "蒲公英",
+              "doseRaw": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0191",
+      "contentHash": "ee01b0acf59f9667",
+      "book": "funanke",
+      "heading": "黄水疮",
+      "text": "方用\n\n雄黄、防风煎汤，洗之即愈。\n\n==== 手汗 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0191-1",
+          "name": "黄水疮·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "雄黄",
+              "name": "雄黄",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "防风",
+              "name": "防风",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "煎汤",
+              "name": "煎汤",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "洗之",
+              "name": "洗之",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "即愈",
+              "name": "即愈",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "==",
+              "name": "==",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "手汗",
+              "name": "手汗",
+              "doseRaw": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0192",
+      "contentHash": "2b691dadbd68f961",
+      "book": "funanke",
+      "heading": "手汗",
+      "text": "方用\n\n黄耆 干葛（ 各壹两） 荆芥 防风（ 各叁钱）\n\n水煎壹盆,热熏温洗三次愈。\n\n==== 饮砒毒 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0192-1",
+          "name": "手汗·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "黄",
+              "name": "黄",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "葛根",
+              "name": "葛根",
+              "doseRaw": "壹两"
+            },
+            {
+              "herbId": "荆芥",
+              "name": "荆芥",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "防风",
+              "name": "防风",
+              "doseRaw": "叁钱"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0194",
+      "contentHash": "d4a18de501ce581d",
+      "book": "funanke",
+      "heading": "补肾",
+      "text": "方用\n\n大盐青菽苇七寸，煮核桃。\n\n==== 嚏喷 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0194-1",
+          "name": "补肾·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "大盐",
+              "name": "大盐",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "青菽",
+              "name": "青菽",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "煮核",
+              "name": "煮核",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "桃",
+              "name": "桃",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "==",
+              "name": "==",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "嚏喷",
+              "name": "嚏喷",
+              "doseRaw": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0195",
+      "contentHash": "700a250c060bf7dd",
+      "book": "funanke",
+      "heading": "嚏喷",
+      "text": "方用\n\n生半夏为末，水丸绿豆大，入鼻孔，必嚏喷不已,用水饮之立止，通治中风不语，及中恶中鬼俱妙。\n\n==== 破伤风 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0195-1",
+          "name": "嚏喷·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "半夏",
+              "name": "半夏",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "为末",
+              "name": "为末",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "水",
+              "name": "水",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "丸绿",
+              "name": "丸绿",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "豆大",
+              "name": "豆大",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "入鼻孔",
+              "name": "入鼻孔",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "必嚏",
+              "name": "必嚏",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "喷不",
+              "name": "喷不",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "用水",
+              "name": "用水",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "饮之",
+              "name": "饮之",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "立止",
+              "name": "立止",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "通治",
+              "name": "通治",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "中风",
+              "name": "中风",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "不语",
+              "name": "不语",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "及中",
+              "name": "及中",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "恶中",
+              "name": "恶中",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "鬼俱",
+              "name": "鬼俱",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "妙",
+              "name": "妙",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "==",
+              "name": "==",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "破伤风",
+              "name": "破伤风",
+              "doseRaw": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0196",
+      "contentHash": "1275356155ac8efe",
+      "book": "funanke",
+      "heading": "破伤风",
+      "text": "方用\n\n蝉退去净，头足为末伍钱，用好酒壹碗，煎滚入末，调匀服之,立生。\n\n==== 疯狗咬伤 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0196-1",
+          "name": "破伤风·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "蝉退",
+              "name": "蝉退",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "去净",
+              "name": "去净",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "头足",
+              "name": "头足",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "为末",
+              "name": "为末",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "用好",
+              "name": "用好",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "酒",
+              "name": "酒",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "壹碗",
+              "name": "壹碗",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "煎滚",
+              "name": "煎滚",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "入末",
+              "name": "入末",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "调匀",
+              "name": "调匀",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "服之",
+              "name": "服之",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "立生",
+              "name": "立生",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "==",
+              "name": "==",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "疯狗",
+              "name": "疯狗",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "咬伤",
+              "name": "咬伤",
+              "doseRaw": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0203",
+      "contentHash": "44b37b9d374da64b",
+      "book": "funanke",
+      "heading": "山根",
+      "text": "山根之上，有青筋直视者，乃肝热也。\n方用\n\n\n柴胡 半夏（ 各参分） 白芍 茯苓（ 各壹钱） 当归 白术（ 各伍分） 山查（ 参个） 甘草（ 壹分）\n\n水煎服。\n\n有青筋横现者。 亦肝热也。 直者风上行。 横者风下行。 用前方加柴胡（ 伍分） 麦芽（ 壹钱） 干姜（ 壹分）\n\n水煎服。\n\n有红筋直现者，心热也，亦用前方加黄连（ 壹分） 麦冬（ 伍分）去半夏，加桑白皮、天花粉（ 各贰分）\n\n水煎服。\n\n有红筋斜现者,亦心热也，亦用前方加黄连（ 贰分） ，热积于胸中，不可用半夏,用桑白皮、花粉可也。\n\n有黄筋现于山根者，不论横直，总是脾胃之症,或吐或泻，腹痛或不思食。\n方用\n\n\n白术 茯苓（ 各伍分） 陈皮 人参 麦芽（ 各贰分） 神曲　甘草（ 各壹分） 淡竹叶（ 柒分）\n\n水煎服。\n\n有痰加半夏壹分，白芥子贰分，如口渴有热者,加麦冬参分，黄芩壹分，有寒加干姜壹分，吐加白蔻壹粒,泻加猪苓伍分，腹痛按之大叫者食也，加大黄参分，枳实壹分，按之不呼号者寒也,加干姜参分，如身发热者，不可用此方。\n\n==== 发热 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0203-1",
+          "name": "山根·方1",
+          "fangjie": "有青筋横现者。 亦肝热也。 直者风上行。 横者风下行。 用前方加柴胡（ 伍分） 麦芽（ 壹钱） 干姜（ 壹分）水煎服。有红筋直现者，心热也，亦用前方加黄连（ 壹分） 麦冬（ 伍分）去半夏，加桑白皮、天花粉（ 各贰分）水煎服。有红筋斜现者,亦心热也，亦用前方加黄连（ 贰分） ，热积于胸中，不可用半夏,用桑白皮、花粉可也。有黄筋现于山根者，不论横直，总是脾胃之症,或吐或泻，腹痛或不思食。",
+          "herbs": [
+            {
+              "herbId": "柴胡",
+              "name": "柴胡",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "半夏",
+              "name": "半夏",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "白芍",
+              "name": "白芍",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "茯苓",
+              "name": "茯苓",
+              "doseRaw": "壹钱"
+            },
+            {
+              "herbId": "当归",
+              "name": "当归",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "白术",
+              "name": "白术",
+              "doseRaw": "伍分"
+            },
+            {
+              "herbId": "山楂",
+              "name": "山楂",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "甘草",
+              "name": "甘草",
+              "doseRaw": "壹分"
+            }
+          ]
+        },
+        {
+          "formulaId": "funanke-formula-funanke-0203-2",
+          "name": "山根·方2",
+          "fangjie": "有痰加半夏壹分，白芥子贰分，如口渴有热者,加麦冬参分，黄芩壹分，有寒加干姜壹分，吐加白蔻壹粒,泻加猪苓伍分，腹痛按之大叫者食也，加大黄参分，枳实壹分，按之不呼号者寒也,加干姜参分，如身发热者，不可用此方。==== 发热 ====",
+          "herbs": [
+            {
+              "herbId": "白术",
+              "name": "白术",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "茯苓",
+              "name": "茯苓",
+              "doseRaw": "伍分"
+            },
+            {
+              "herbId": "陈皮",
+              "name": "陈皮",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "人参",
+              "name": "人参",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "麦芽",
+              "name": "麦芽",
+              "doseRaw": "贰分"
+            },
+            {
+              "herbId": "神曲",
+              "name": "神曲",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "甘草",
+              "name": "甘草",
+              "doseRaw": "壹分"
+            },
+            {
+              "herbId": "淡竹叶",
+              "name": "淡竹叶",
+              "doseRaw": "柒分"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0204",
+      "contentHash": "640c9a1f234b0c1e",
+      "book": "funanke",
+      "heading": "发热",
+      "text": "不拘早晚发热，俱用万全汤神效。\n\n柴胡 白术 黄芩 神曲（ 各参分） 白芍 麦冬（ 各壹钱） 当归（ 伍分） 茯苓（ 贰分） 甘草 苏叶（ 各壹分） 山查（ 参个）\n\n水煎服。\n\n冬加麻黄壹分，夏加石膏参分，春加青蒿参分，秋加桔梗参分,有食加枳壳参分，有痰加白芥子参分，吐加白蔻壹粒，泻加猪苓壹钱，小儿诸症,不过如此，不可作惊风治之，如果有惊风，加人参伍分，其效如神。\n\n凡潮热、积热、疟热，乃脾积寒热，俱用姜梨引。\n\n柴胡、人参、黄芩、前胡、秦艽、甘草、青蒿各壹分，童便浸晒干，生地一寸,薄荷二叶，或生梨生藕一片，水煎服，甚效。\n\n==== 感冒风寒 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0204-1",
+          "name": "发热·方1",
+          "fangjie": "冬加麻黄壹分，夏加石膏参分，春加青蒿参分，秋加桔梗参分,有食加枳壳参分，有痰加白芥子参分，吐加白蔻壹粒，泻加猪苓壹钱，小儿诸症,不过如此，不可作惊风治之，如果有惊风，加人参伍分，其效如神。凡潮热、积热、疟热，乃脾积寒热，俱用姜梨引。柴胡、人参、黄芩、前胡、秦艽、甘草、青蒿各壹分，童便浸晒干，生地一寸,薄荷二叶，或生梨生藕一片，水煎服，甚效。==== 感冒风寒 ====",
+          "herbs": [
+            {
+              "herbId": "不拘",
+              "name": "不拘",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "早晚",
+              "name": "早晚",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "发热",
+              "name": "发热",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "俱用",
+              "name": "俱用",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "万全",
+              "name": "万全",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "汤神",
+              "name": "汤神",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "效",
+              "name": "效",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "柴胡",
+              "name": "柴胡",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "白术",
+              "name": "白术",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "黄芩",
+              "name": "黄芩",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "神曲",
+              "name": "神曲",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "白芍",
+              "name": "白芍",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "麦冬",
+              "name": "麦冬",
+              "doseRaw": "壹钱"
+            },
+            {
+              "herbId": "当归",
+              "name": "当归",
+              "doseRaw": "伍分"
+            },
+            {
+              "herbId": "茯苓",
+              "name": "茯苓",
+              "doseRaw": "贰分"
+            },
+            {
+              "herbId": "甘草",
+              "name": "甘草",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "紫苏叶",
+              "name": "紫苏叶",
+              "doseRaw": "壹分"
+            },
+            {
+              "herbId": "山楂",
+              "name": "山楂",
+              "doseRaw": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0205",
+      "contentHash": "ed543bf112ff9a98",
+      "book": "funanke",
+      "heading": "感冒风寒",
+      "text": "方用\n\n柴胡（ 伍分） 白术 白芍（ 各壹钱） 茯苓 炙草 半夏（ 各参分） 陈皮（ 贰分） 当归（ 捌分）\n\n水煎热服。\n\n==== 惊风 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0205-1",
+          "name": "感冒风寒·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "柴胡",
+              "name": "柴胡",
+              "doseRaw": "伍分"
+            },
+            {
+              "herbId": "白术",
+              "name": "白术",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "白芍",
+              "name": "白芍",
+              "doseRaw": "壹钱"
+            },
+            {
+              "herbId": "茯苓",
+              "name": "茯苓",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "炙草",
+              "name": "炙草",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "半夏",
+              "name": "半夏",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "陈皮",
+              "name": "陈皮",
+              "doseRaw": "贰分"
+            },
+            {
+              "herbId": "当归",
+              "name": "当归",
+              "doseRaw": "捌分"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0206",
+      "contentHash": "d64398c090fa3998",
+      "book": "funanke",
+      "heading": "惊风",
+      "text": "世人动曰惊风，谁知小儿惊则有之，而风则无，小儿纯阳之体，不当有风,而状有风者，盖小儿阳旺内热，内热则生风，是非外来之风，乃内出之风也,内风作外风治，是速之死也。\n方用\n清火散风汤。\n\n白术 栀子（ 各参分） 茯苓（ 贰钱） 陈皮 甘草 半夏（ 各壹分） 白芍（ 壹钱） 柴胡（ 伍分）\n\n水煎服。\n\n此方健脾平肝之圣药,肝平则火散，脾健则风止，断不可以风药表散之也。\n\n==== 惊风 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0206-1",
+          "name": "惊风·方1",
+          "fangjie": "此方健脾平肝之圣药,肝平则火散，脾健则风止，断不可以风药表散之也。==== 惊风 ====",
+          "herbs": [
+            {
+              "herbId": "清火",
+              "name": "清火",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "散风",
+              "name": "散风",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "汤",
+              "name": "汤",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "白术",
+              "name": "白术",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "栀子",
+              "name": "栀子",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "茯苓",
+              "name": "茯苓",
+              "doseRaw": "贰钱"
+            },
+            {
+              "herbId": "陈皮",
+              "name": "陈皮",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "甘草",
+              "name": "甘草",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "半夏",
+              "name": "半夏",
+              "doseRaw": "壹分"
+            },
+            {
+              "herbId": "白芍",
+              "name": "白芍",
+              "doseRaw": "壹钱"
+            },
+            {
+              "herbId": "柴胡",
+              "name": "柴胡",
+              "doseRaw": "伍分"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0207",
+      "contentHash": "85d6a12cccb90a8f",
+      "book": "funanke",
+      "heading": "惊风",
+      "text": "凡惊风皆由于气虚。\n方用\n压风汤,\n\n人参 白术 神曲（ 各伍分） 甘草 半夏 丹砂（ 各参分） 茯神（ 壹钱） 砂仁（ 壹粒） 陈皮（ 壹分）\n\n水煎服，此方治慢惊风,加黄耆。\n\n==== 痢疾 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0207-1",
+          "name": "惊风·方1",
+          "fangjie": "此方治慢惊风,加黄耆。==== 痢疾 ====",
+          "herbs": [
+            {
+              "herbId": "压风汤",
+              "name": "压风汤",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "人参",
+              "name": "人参",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "白术",
+              "name": "白术",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "神曲",
+              "name": "神曲",
+              "doseRaw": "伍分"
+            },
+            {
+              "herbId": "甘草",
+              "name": "甘草",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "半夏",
+              "name": "半夏",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "丹砂",
+              "name": "丹砂",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "茯神",
+              "name": "茯神",
+              "doseRaw": "壹钱"
+            },
+            {
+              "herbId": "砂仁",
+              "name": "砂仁",
+              "doseRaw": "壹粒"
+            },
+            {
+              "herbId": "陈皮",
+              "name": "陈皮",
+              "doseRaw": "壹分"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0208",
+      "contentHash": "958912714f4612ef",
+      "book": "funanke",
+      "heading": "痢疾",
+      "text": "方用\n\n当归 白芍（ 各壹钱） 黄连（ 贰分） 枳壳 槟榔（ 各伍分） 甘草（ 参分）\n\n水煎温服。\n\n红痢倍黄连，白痢加泽泻参分，腹痛倍甘草，加白芍,小便赤加木通参分，下如豆汁，加白术壹钱，伤食加山查麦芽各参分,气虚加人参参分。\n\n==== 泄泻 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0208-1",
+          "name": "痢疾·方1",
+          "fangjie": "红痢倍黄连，白痢加泽泻参分，腹痛倍甘草，加白芍,小便赤加木通参分，下如豆汁，加白术壹钱，伤食加山查麦芽各参分,气虚加人参参分。==== 泄泻 ====",
+          "herbs": [
+            {
+              "herbId": "当归",
+              "name": "当归",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "白芍",
+              "name": "白芍",
+              "doseRaw": "壹钱"
+            },
+            {
+              "herbId": "黄连",
+              "name": "黄连",
+              "doseRaw": "贰分"
+            },
+            {
+              "herbId": "枳壳",
+              "name": "枳壳",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "槟榔",
+              "name": "槟榔",
+              "doseRaw": "伍分"
+            },
+            {
+              "herbId": "甘草",
+              "name": "甘草",
+              "doseRaw": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clauseId": "funanke-0209",
+      "contentHash": "ce0031c25502880f",
+      "book": "funanke",
+      "heading": "泄泻",
+      "text": "身热如火，口渴舌燥，喜冷饮而不喜热汤。\n方用\n泻火止泻汤\n\n车前子（ 贰钱） 茯苓 白芍 麦芽（ 各壹钱） 黄连 猪苓（ 各参分） 泽泻（ 伍分） 枳壳（ 贰分）\n\n水煎服。\n\n==== 寒泻 ====",
+      "formulas": [
+        {
+          "formulaId": "funanke-formula-funanke-0209-1",
+          "name": "泄泻·方1",
+          "fangjie": "",
+          "herbs": [
+            {
+              "herbId": "泻火",
+              "name": "泻火",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "止泻",
+              "name": "止泻",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "车前子",
+              "name": "车前子",
+              "doseRaw": "贰钱"
+            },
+            {
+              "herbId": "茯苓",
+              "name": "茯苓",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "白芍",
+              "name": "白芍",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "麦芽",
+              "name": "麦芽",
+              "doseRaw": "壹钱"
+            },
+            {
+              "herbId": "黄连",
+              "name": "黄连",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "猪苓",
+              "name": "猪苓",
+              "doseRaw": ""
+            },
+            {
+              "herbId": "泽泻",
+              "name": "泽泻",
+              "doseRaw": "伍分"
+            },
+            {
+              "herbId": "枳壳",
+              "name": "枳壳",
+              "doseRaw": "贰分"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
