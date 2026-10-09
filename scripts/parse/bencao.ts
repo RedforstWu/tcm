@@ -75,8 +75,15 @@ export async function runBencaoParse(): Promise<{
     // 跳过序跋与非药名篇
     if (/^序|^凡例|^目录|^跋|^附|^劝|^论|^辨|^总|^卷/.test(rawName)) continue
     if (/则$|论$|说$|辨$/.test(rawName) && rawName.length > 3) continue
-    const name = canonicalizeChenfuHerb(rawName)
+    // 源篇名截断补全（ctext 缺字：黄←黄芪、萆←萆薢、皮←刺猬皮）
+    const BENCAO_TRUNCATION_FIX: Record<string, string> = {
+      黄: '黄芪',
+      萆: '萆薢',
+      皮: '刺猬皮',
+    }
+    const name = BENCAO_TRUNCATION_FIX[canonicalizeChenfuHerb(rawName)] ?? canonicalizeChenfuHerb(rawName)
     if (!name || name.length > 6 || name.length < 1) continue
+    if (name.length === 1 && !['术', '蟹', '韭', '葱', '蒜', '姜', '桂'].includes(name)) continue
 
     const joined = joinBencaoHardBreaks(match[2] ?? '')
     const simplified = toSimplifiedChinese(joined)

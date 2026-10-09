@@ -1,4 +1,5 @@
-import { canonicalizeHerbName, listKnownHerbs } from './herbs.ts'
+import assert from 'node:assert/strict'
+import { CLASSICAL_HERB_VARIANTS, canonicalizeHerbName, listKnownHerbs } from './herbs.ts'
 import { toSimplifiedChinese } from './wiki.ts'
 
 /** 陈傅方中常见别名 → 标准名 */
@@ -128,6 +129,23 @@ const CHENFU_ALIASES: Record<string, string> = {
   天冬: '天冬',
   五味: '五味子',
   五味子: '五味子',
+  北五味: '五味子',
+  北五味子: '五味子',
+  广木香: '木香',
+  广皮: '陈皮',
+  山萸: '山茱萸',
+  甘菊花: '菊花',
+  甘菊: '菊花',
+  南星: '天南星',
+  玄胡: '延胡索',
+  良姜: '高良姜',
+  高良姜: '高良姜',
+  茯神: '茯神',
+  何首乌: '何首乌',
+  肉苁蓉: '肉苁蓉',
+  龙胆草: '龙胆草',
+  芦荟: '芦荟',
+  白矾: '白矾',
   肉桂: '肉桂',
   桂心: '肉桂',
   附子: '附子',
@@ -455,7 +473,6 @@ const CHENFU_ALIASES: Record<string, string> = {
   干漆: '干漆',
   乾漆: '干漆',
   斑蝥: '斑蝥',
-  斑蝥: '斑蝥',
   蜈蚣: '蜈蚣',
   蟾酥: '蟾酥',
   蜂房: '蜂房',
@@ -469,6 +486,126 @@ const CHENFU_ALIASES: Record<string, string> = {
   土鳖虫: '䗪虫',
 }
 
+/**
+ * 经方 / 本经古籍药名补录（规范名，即 canonicalizeHerbName 之后的写法）。
+ * 只用于「药名是否可解析」校验，不参与 segmentHerbNames 的正向最大匹配，
+ * 以免改变陈傅等书的切分结果。
+ */
+const CLASSICAL_HERB_NAMES: readonly string[] = [
+  // 乌附类
+  '乌头',
+  '川乌',
+  '草乌',
+  '天雄',
+  // 解表 / 清热
+  '葛根',
+  '生葛',
+  '射干',
+  '乌扇',
+  '秦皮',
+  '白头翁',
+  '白薇',
+  '紫参',
+  '连轺',
+  '生梓白皮',
+  // 涌吐 / 逐水
+  '瓜蒂',
+  '蜀漆',
+  '甘遂',
+  '大戟',
+  '芫花',
+  '泽漆',
+  '商陆',
+  '商陆根',
+  '海藻',
+  '椒目',
+  '木防己',
+  '汉防己',
+  // 金石
+  '云母',
+  '矾石',
+  '寒水石',
+  '白石脂',
+  '紫石英',
+  '白石英',
+  '钟乳',
+  '钟乳石',
+  '太乙余粮',
+  '赤硝',
+  '戎盐',
+  '盐',
+  '粉',
+  '白粉',
+  '灶中黄土',
+  '黄土',
+  // 虫兽
+  '鼠妇',
+  '蜣螂',
+  '蛴螬',
+  '蜘蛛',
+  '蜂窠',
+  '鳖甲',
+  '獭肝',
+  '鸡屎白',
+  '鸡子白',
+  '鸡子',
+  '白鱼',
+  '猪膏',
+  '猪肤',
+  '羊肉',
+  '乱发',
+  '发',
+  '大猪胆',
+  // 宋本烧裈散，按原文写法
+  '妇人中裈',
+  // 草木
+  '石韦',
+  '瞿麦',
+  '紫葳',
+  '豆黄卷',
+  '曲',
+  '白敛',
+  '白蔹',
+  '甘李根白皮',
+  '李根白皮',
+  '诃梨勒',
+  '诃黎勒',
+  '败酱',
+  '瓜子',
+  '瓜瓣',
+  '蒴藋',
+  '蒴藋细叶',
+  '桑东南根白皮',
+  '桑根白皮',
+  '乌梅',
+  '葵子',
+  '冬葵子',
+  '狼牙',
+  '生狼牙',
+  '土瓜根',
+  '王瓜根',
+  '红蓝花',
+  '新绛',
+  '柏叶',
+  '生竹茹',
+  '枣肉',
+  '枣膏',
+  '薤',
+  '韭根',
+  '鬼臼',
+  '大麦',
+  '蒲灰',
+  '马通汁',
+  '大腹槟榔',
+  // 酒醋蜜等辅料性药味（古方组成中常单列）
+  '蜜',
+  '白蜜',
+  '食蜜',
+  '白酒',
+  '清酒',
+  '苦酒',
+]
+
 /** 原文缺字修复：上下文关键词 → 完整药名 */
 const MISSING_CHAR_FIXES: Array<{ broken: RegExp; fixed: string }> = [
   { broken: /黄\s*(?=同功|一两|二两|三两|五钱|一两|黄芪)/, fixed: '黄芪' },
@@ -476,8 +613,12 @@ const MISSING_CHAR_FIXES: Array<{ broken: RegExp; fixed: string }> = [
   { broken: /白\s*(?=一两土炒|一两，土炒)/, fixed: '白术' },
 ]
 
+/** 单字别名会把叙述文字误切成药名，只收二字及以上的别名原形 */
+const MIN_ALIAS_SPELLING_LENGTH = 2
+
 let lexiconCache: string[] | null = null
 let lexiconSetCache: Set<string> | null = null
+let knownHerbSetCache: Set<string> | null = null
 
 export function applyMissingCharFixes(text: string): string {
   let result = text
@@ -519,6 +660,9 @@ export function buildHerbLexicon(extraNames: string[] = []): string[] {
   for (const name of Object.keys(CHENFU_ALIASES)) {
     const canon = canonicalizeChenfuHerb(name)
     if (canon) names.add(canon)
+    // 别名原形也要入词典，否则「破故纸远志」「黄耆白术」无法正向最大匹配
+    const aliasSpelling = toSimplifiedChinese(name)
+    if (aliasSpelling.length >= MIN_ALIAS_SPELLING_LENGTH) names.add(aliasSpelling)
   }
   for (const name of extraNames) {
     const canon = canonicalizeChenfuHerb(name)
@@ -576,4 +720,51 @@ export function segmentHerbNames(glued: string, lexicon?: string[]): string[] {
 export function resetLexiconCache(): void {
   lexiconCache = null
   lexiconSetCache = null
+  knownHerbSetCache = null
+}
+
+/** 已知药物集合：herbs 规范名 + 陈傅别名（原形与规范名）+ 古籍药名补录 */
+function getKnownHerbSet(): Set<string> {
+  if (knownHerbSetCache) return knownHerbSetCache
+  const known = new Set<string>(getLexiconSet())
+  for (const name of CLASSICAL_HERB_NAMES) known.add(name)
+  for (const [variant, target] of Object.entries(CLASSICAL_HERB_VARIANTS)) {
+    assert.ok(known.has(canonicalizeHerbName(target)), `药名异写「${variant}」的归并目标「${target}」须为已知药名`)
+  }
+  knownHerbSetCache = known
+  return known
+}
+
+function stripHerbNameDecorations(rawName: string): string {
+  return toSimplifiedChinese(rawName)
+    .replace(/[（(].*?[）)]/g, '')
+    .replace(/\s+/g, '')
+    .trim()
+}
+
+/**
+ * 把药名解析为已知药物的规范名（与 formula-parse 产出的 herb.name 同一套写法）。
+ * 无法解析（注语、加减语、煎服法残片或未收录药名）时返回 null。
+ */
+export function resolveKnownHerbName(rawName: string): string | null {
+  const stripped = stripHerbNameDecorations(rawName)
+  if (!stripped) return null
+  const canonical = canonicalizeHerbName(stripped)
+  if (!canonical) return null
+  return getKnownHerbSet().has(canonical) ? canonical : null
+}
+
+export function isKnownHerbName(rawName: string): boolean {
+  return resolveKnownHerbName(rawName) !== null
+}
+
+/**
+ * 跨来源比对用：能解析则取规范名，否则退回 canonicalizeHerbName 的结果
+ * （仍做繁简、括号与别名归一，便于报告中展示差异）。
+ */
+export function normalizeHerbNameForCompare(rawName: string): string {
+  const resolved = resolveKnownHerbName(rawName)
+  if (resolved) return resolved
+  const stripped = stripHerbNameDecorations(rawName)
+  return canonicalizeHerbName(stripped) || stripped
 }

@@ -120,6 +120,12 @@ export function extractDoseRaw(token: string): string {
   )
   if (parenMatch?.[1]) return normalizeDoseFragment(parenMatch[1])
 
+  // 「麻黄（去节，三钱）」：括号内炮制后的尾部剂量
+  const parenTailDose = trimmed.match(
+    new RegExp(`^${name}[（(][^）)]*?(${DOSE_BODY})[^）)]*[）)]`),
+  )
+  if (parenTailDose?.[1]) return normalizeDoseFragment(parenTailDose[1])
+
   // 括号内「熬令黄色捣丸如弹子大」类描述剂量
   const parenDesc = trimmed.match(
     /[（(][^）)]*(如?(?:弹丸|弹子|鸡子)大)[^）)]*[）)]/,

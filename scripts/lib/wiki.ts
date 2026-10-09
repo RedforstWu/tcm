@@ -5,6 +5,10 @@ const toSimplified = Converter({ from: 'tw', to: 'cn' })
 /** 清洗维基文库 wikitext / 导出正文 */
 export function cleanWikiMarkup(raw: string): string {
   let text = raw
+  // 先保留方见/派生注，避免 {{*|…}} 被整段删光
+  text = text.replace(/\{\{\*\|\s*方[見见]([^}]*)\}\}/g, '（方见$1）')
+  text = text.replace(/\{\{\*\|\s*於([^}]*)\}\}/g, '（注：于$1）')
+  text = text.replace(/\{\{\*\|\s*即([^}]*)\}\}/g, '（注：即$1）')
   text = text.replace(/\{\{[^{}]*\}\}/g, '')
   text = text.replace(/\{\{[^{}]*\}\}/g, '')
   text = text.replace(/-\{([^}]*)\}-/g, '$1')

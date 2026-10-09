@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import {
   extractQingDoseRaw,
+  LIANG_PER_JIN,
   parseChineseNumber,
   parseQingDose,
   QIAN_PER_LIANG,
@@ -49,5 +50,12 @@ describe('parseQingDose', () => {
     const dose = parseQingDose('黄芪一两半')
     expect(dose.doseLiang).toBe(1.5)
     expect(dose.doseQian).toBe(15)
+  })
+
+  it('converts 斤 to 两 with the sixteen-liang system', () => {
+    expect(extractQingDoseRaw('熟地半斤')).toBe('半斤')
+    expect(parseQingDose('熟地半斤').doseLiang).toBe(LIANG_PER_JIN / 2)
+    expect(parseQingDose('元参一斤').doseLiang).toBe(LIANG_PER_JIN)
+    expect(parseQingDose('山药二斤').doseQian).toBe(2 * LIANG_PER_JIN * QIAN_PER_LIANG)
   })
 })

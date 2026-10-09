@@ -1,0 +1,16 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 新編金匱要畧方論
+#+DATE: 2015-09-11 03:53:33.028697
+#+PROPERTY: ID KR3e0007
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB03n0126-001金匱要略-卷上.
+<pb:KR3e0007_SBCK_001-1a>¶
+新編金匱要畧方論卷之上¶
+　　　臟腑經絡先後病脉證第一¶
+　問曰上工治未病何也○師曰夫治未病者見肝之病¶
+　　知肝傳脾當先實脾¶
+<pb:KR3e0007_SBCK_001-1b>¶
+　　苦入心甘入脾脾能傷腎¶
+　腹中痛苦冷者死(一云腹中冷/苦痛者死)鼻頭色㣲黒者有水¶

@@ -1,13 +1,14 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import type { Formula, Herb } from '@/types/data'
-import { BOOK_CORPUS } from '@/types/data'
+import { BOOKS } from '@/types/data'
 import { loadFormulas, loadHerbs, bookTitle } from '@/lib/data'
 import { convertScript } from '@/lib/text'
 import { useAppContext } from '@/context/AppContext'
+import { EvidenceDisclosure } from '@/components/integration/EvidenceDisclosure'
 
 export function FormulasPage() {
-  const { scriptMode, corpusFilter } = useAppContext()
+  const { scriptMode } = useAppContext()
   const [formulas, setFormulas] = useState<Formula[]>([])
   const [herbs, setHerbs] = useState<Herb[]>([])
   const [query, setQuery] = useState('')
@@ -23,14 +24,13 @@ export function FormulasPage() {
 
   const filtered = useMemo(() => {
     return formulas.filter((formula) => {
-      if (corpusFilter !== 'all' && BOOK_CORPUS[formula.book] !== corpusFilter) return false
       if (bookFilter !== 'all' && formula.book !== bookFilter) return false
       if (herbFilter && !formula.herbs.some((herb) => herb.herbId === herbFilter)) return false
       if (!query) return true
       const hay = `${formula.name} ${formula.herbs.map((herb) => herb.name).join(' ')}`
       return hay.includes(query)
     })
-  }, [formulas, query, herbFilter, bookFilter, corpusFilter])
+  }, [formulas, query, herbFilter, bookFilter])
 
   return (
     <div className="space-y-4">
@@ -57,13 +57,11 @@ export function FormulasPage() {
           className="rounded-xl border border-stone-200 px-3 py-2 text-sm"
         >
           <option value="all">全部书籍</option>
-          <option value="songben">宋本伤寒论</option>
-          <option value="jingui">金匮要略</option>
-          <option value="guilin">桂林古本</option>
-          <option value="funvke">傅青主女科</option>
-          <option value="funanke">傅青主男科</option>
-          <option value="bianzheng">辨证录</option>
-          <option value="shishi">石室秘录</option>
+          {BOOKS.filter((book) => book.hasClauses).map((book) => (
+            <option key={book.id} value={book.id}>
+              {book.title}
+            </option>
+          ))}
         </select>
         <select
           value={herbFilter}
@@ -81,23 +79,30 @@ export function FormulasPage() {
 
       <div className="grid gap-3 md:grid-cols-2">
         {filtered.slice(0, 200).map((formula) => (
-          <Link
+          <div
             key={formula.id}
-            to={`/formulas/${encodeURIComponent(formula.id)}`}
             className="rounded-2xl border border-stone-200 bg-white/80 p-4 transition hover:border-cinnabar/40"
           >
-            <div className="mb-1 flex items-start justify-between gap-2">
-              <h2 className="min-w-0 font-serif text-lg font-semibold">
-                {convertScript(formula.name, scriptMode)}
-              </h2>
-              <span className="mt-1 shrink-0 text-xs text-stone-400">{bookTitle(formula.book)}</span>
-            </div>
-            <p className="text-sm text-stone-600">
-              {formula.herbs.length > 0
-                ? convertScript(formula.herbs.map((herb) => herb.name).join('、'), scriptMode)
-                : '组成待补'}
-            </p>
-          </Link>
+            <Link to={`/formulas/${encodeURIComponent(formula.id)}`} className="block">
+              <div className="mb-1 flex items-start justify-between gap-2">
+                <h2 className="min-w-0 font-serif text-lg font-semibold">
+                  {convertScript(formula.name, scriptMode)}
+                </h2>
+                <span className="mt-1 shrink-0 text-xs text-stone-400">{bookTitle(formula.book)}</span>
+              </div>
+              <p className="text-sm text-stone-600">
+                {formula.herbs.length > 0
+                  ? convertScript(formula.herbs.map((herb) => herb.name).join('、'), scriptMode)
+                  : '组成待补'}
+              </p>
+            </Link>
+            <EvidenceDisclosure
+              level={formula.evidenceLevel}
+              evidence={formula.evidence}
+              scriptMode={scriptMode}
+              className="mt-2"
+            />
+          </div>
         ))}
       </div>
     </div>

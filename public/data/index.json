@@ -4,56 +4,56 @@
       "id": "songben",
       "title": "宋本伤寒论",
       "corpus": "jingfang",
-      "clauseCount": 400,
-      "formulaCount": 118,
+      "clauseCount": 398,
+      "formulaCount": 119,
       "chapterCount": 10
     },
     {
       "id": "jingui",
       "title": "金匮要略",
       "corpus": "jingfang",
-      "clauseCount": 189,
-      "formulaCount": 166,
+      "clauseCount": 198,
+      "formulaCount": 179,
       "chapterCount": 25
     },
     {
       "id": "guilin",
-      "title": "桂林古本伤寒杂病论",
+      "title": "桂林古本",
       "corpus": "jingfang",
       "clauseCount": 531,
-      "formulaCount": 342,
+      "formulaCount": 330,
       "chapterCount": 31
     },
     {
       "id": "funvke",
       "title": "傅青主女科",
       "corpus": "chenfu",
-      "clauseCount": 139,
-      "formulaCount": 70,
-      "chapterCount": 13
+      "clauseCount": 145,
+      "formulaCount": 165,
+      "chapterCount": 19
     },
     {
       "id": "funanke",
       "title": "傅青主男科",
       "corpus": "chenfu",
       "clauseCount": 222,
-      "formulaCount": 201,
+      "formulaCount": 220,
       "chapterCount": 25
     },
     {
       "id": "bianzheng",
       "title": "辨证录",
       "corpus": "chenfu",
-      "clauseCount": 505,
-      "formulaCount": 792,
-      "chapterCount": 126
+      "clauseCount": 506,
+      "formulaCount": 1381,
+      "chapterCount": 127
     },
     {
       "id": "shishi",
       "title": "石室秘录",
       "corpus": "chenfu",
       "clauseCount": 215,
-      "formulaCount": 26,
+      "formulaCount": 441,
       "chapterCount": 128
     },
     {
@@ -63,15 +63,151 @@
       "clauseCount": 0,
       "formulaCount": 0,
       "chapterCount": 0
+    },
+    {
+      "id": "shennong",
+      "title": "神农本草经",
+      "corpus": "bencao",
+      "clauseCount": 0,
+      "formulaCount": 0,
+      "chapterCount": 0
+    },
+    {
+      "id": "xinxiu",
+      "title": "新修本草",
+      "corpus": "bencao",
+      "clauseCount": 0,
+      "formulaCount": 0,
+      "chapterCount": 0
+    },
+    {
+      "id": "zhenglei",
+      "title": "证类本草",
+      "corpus": "bencao",
+      "clauseCount": 0,
+      "formulaCount": 0,
+      "chapterCount": 0
+    },
+    {
+      "id": "wenbing",
+      "title": "温病条辨",
+      "corpus": "wenbing",
+      "clauseCount": 958,
+      "formulaCount": 235,
+      "chapterCount": 79
+    },
+    {
+      "id": "wenre",
+      "title": "温热经纬",
+      "corpus": "wenbing",
+      "clauseCount": 186,
+      "formulaCount": 142,
+      "chapterCount": 151
+    },
+    {
+      "id": "piwei",
+      "title": "脾胃论",
+      "corpus": "jinyuan",
+      "clauseCount": 273,
+      "formulaCount": 11,
+      "chapterCount": 42
+    },
+    {
+      "id": "danxi",
+      "title": "丹溪心法",
+      "corpus": "jinyuan",
+      "clauseCount": 1541,
+      "formulaCount": 122,
+      "chapterCount": 110
+    },
+    {
+      "id": "rumen",
+      "title": "儒门事亲",
+      "corpus": "jinyuan",
+      "clauseCount": 666,
+      "formulaCount": 21,
+      "chapterCount": 15
+    },
+    {
+      "id": "xiaoer",
+      "title": "小儿药证直诀",
+      "corpus": "mingqing",
+      "clauseCount": 374,
+      "formulaCount": 47,
+      "chapterCount": 189
+    },
+    {
+      "id": "jingyue",
+      "title": "景岳全书",
+      "corpus": "mingqing",
+      "clauseCount": 4746,
+      "formulaCount": 1822,
+      "chapterCount": 64
+    },
+    {
+      "id": "zhongxi",
+      "title": "医学衷中参西录",
+      "corpus": "modern",
+      "clauseCount": 4211,
+      "formulaCount": 255,
+      "chapterCount": 535
+    },
+    {
+      "id": "linzheng",
+      "title": "临证指南医案",
+      "corpus": "yian",
+      "clauseCount": 266,
+      "formulaCount": 215,
+      "chapterCount": 60
+    },
+    {
+      "id": "mingyi",
+      "title": "名医类案",
+      "corpus": "yian",
+      "clauseCount": 1142,
+      "formulaCount": 78,
+      "chapterCount": 12
+    },
+    {
+      "id": "xumingyi",
+      "title": "续名医类案",
+      "corpus": "yian",
+      "clauseCount": 1998,
+      "formulaCount": 203,
+      "chapterCount": 58
+    },
+    {
+      "id": "yizong",
+      "title": "医宗金鉴",
+      "corpus": "fangshu",
+      "clauseCount": 186,
+      "formulaCount": 186,
+      "chapterCount": 1
+    },
+    {
+      "id": "qianjin",
+      "title": "千金要方",
+      "corpus": "fangshu",
+      "clauseCount": 1254,
+      "formulaCount": 999,
+      "chapterCount": 1
+    },
+    {
+      "id": "waitai",
+      "title": "外台秘要",
+      "corpus": "fangshu",
+      "clauseCount": 726,
+      "formulaCount": 726,
+      "chapterCount": 1
     }
   ],
-  "herbCount": 1861,
-  "formulaCount": 1715,
-  "clauseCount": 2201,
-  "diffPairCount": 15310,
-  "herbRoleCount": 1970,
-  "monographCount": 258,
-  "generatedAt": "2026-10-08T08:19:05.087Z",
+  "herbCount": 5654,
+  "formulaCount": 7897,
+  "clauseCount": 20742,
+  "diffPairCount": 43316,
+  "herbRoleCount": 2149,
+  "monographCount": 2614,
+  "generatedAt": "2026-10-09T13:58:26.716Z",
   "sources": [
     {
       "id": "songben",
@@ -112,6 +248,91 @@
       "id": "bencao",
       "title": "本草新编",
       "url": "https://zh.wikisource.org/zh-hans/本草新編"
+    },
+    {
+      "id": "shennong",
+      "title": "神农本草经",
+      "url": "https://zh.wikisource.org/zh-hans/神農本草經"
+    },
+    {
+      "id": "xinxiu",
+      "title": "新修本草",
+      "url": "https://zh.wikisource.org/zh-hans/新修本草"
+    },
+    {
+      "id": "zhenglei",
+      "title": "经史证类备急本草",
+      "url": "https://zh.wikisource.org/zh-hans/證類本草"
+    },
+    {
+      "id": "wenbing",
+      "title": "温病条辨",
+      "url": "https://zh.wikisource.org/zh-hans/溫病條辨"
+    },
+    {
+      "id": "wenre",
+      "title": "温热经纬",
+      "url": "https://zh.wikisource.org/zh-hans/溫熱經緯"
+    },
+    {
+      "id": "piwei",
+      "title": "脾胃论",
+      "url": "https://zh.wikisource.org/zh-hans/脾胃論"
+    },
+    {
+      "id": "danxi",
+      "title": "丹溪心法",
+      "url": "https://zh.wikisource.org/zh-hans/丹溪心法"
+    },
+    {
+      "id": "rumen",
+      "title": "儒门事亲",
+      "url": "https://zh.wikisource.org/zh-hans/儒門事親_(四庫全書本)"
+    },
+    {
+      "id": "xiaoer",
+      "title": "小儿药证直诀",
+      "url": "https://zh.wikisource.org/zh-hans/小兒藥證真訣"
+    },
+    {
+      "id": "jingyue",
+      "title": "景岳全书",
+      "url": "https://zh.wikisource.org/zh-hans/景岳全書_(四庫全書本)"
+    },
+    {
+      "id": "zhongxi",
+      "title": "医学衷中参西录",
+      "url": "https://zh.wikisource.org/zh-hans/醫學衷中參西錄"
+    },
+    {
+      "id": "linzheng",
+      "title": "临证指南医案",
+      "url": "https://zh.wikisource.org/zh-hans/臨證指南醫案"
+    },
+    {
+      "id": "mingyi",
+      "title": "名医类案",
+      "url": "https://zh.wikisource.org/zh-hans/名醫類案_(四庫全書本)"
+    },
+    {
+      "id": "xumingyi",
+      "title": "续名医类案",
+      "url": "https://zh.wikisource.org/zh-hans/續名醫類案_(四庫全書本)"
+    },
+    {
+      "id": "yizong",
+      "title": "医宗金鉴·删补名医方论（组方基准）",
+      "url": "https://zh.wikisource.org/zh-hans/刪補名醫方論"
+    },
+    {
+      "id": "qianjin",
+      "title": "备急千金要方",
+      "url": "https://zh.wikisource.org/zh-hans/備急千金要方"
+    },
+    {
+      "id": "waitai",
+      "title": "外台秘要方",
+      "url": "https://zh.wikisource.org/zh-hans/外臺秘要方_(四庫全書本)"
     }
   ]
 }

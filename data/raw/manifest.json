@@ -5,57 +5,250 @@
       "title": "宋本伤寒论（赵开美本）",
       "page": "傷寒論",
       "filename": "songben-shanghan.wiki",
-      "url": "https://zh.wikisource.org/zh-hans/傷寒論"
+      "bytes": 131800,
+      "fetchedAt": "2026-10-08T03:48:46.827Z",
+      "url": "https://zh.wikisource.org/zh-hans/傷寒論",
+      "fetchedAtEstimated": true
     },
     {
       "id": "jingui",
       "title": "金匮要略",
       "page": "金匱要略",
       "filename": "jingui-yaolue.wiki",
-      "url": "https://zh.wikisource.org/zh-hans/金匱要略"
+      "bytes": 91010,
+      "fetchedAt": "2026-10-08T03:48:48.543Z",
+      "url": "https://zh.wikisource.org/zh-hans/金匱要略",
+      "fetchedAtEstimated": true
     },
     {
       "id": "guilin",
       "title": "桂林古本伤寒杂病论（白云阁藏本）",
       "page": "傷寒雜病論_(桂林古本)",
       "filename": "guilin-guben.wiki",
-      "url": "https://zh.wikisource.org/zh-hans/傷寒雜病論_(桂林古本)"
+      "bytes": 260214,
+      "fetchedAt": "2026-10-08T03:49:59.083Z",
+      "url": "https://zh.wikisource.org/zh-hans/傷寒雜病論_(桂林古本)",
+      "fetchedAtEstimated": true
     },
     {
       "id": "bianzheng",
       "title": "辨证录",
       "page": "辨證錄",
       "filename": "bianzheng-lu.wiki",
-      "url": "https://zh.wikisource.org/zh-hans/辨證錄"
+      "bytes": 1086802,
+      "fetchedAt": "2026-10-08T06:29:04.659Z",
+      "url": "https://zh.wikisource.org/zh-hans/辨證錄",
+      "fetchedAtEstimated": true
     },
     {
       "id": "shishi",
       "title": "石室秘录",
       "page": "石室秘錄",
       "filename": "shishi-milu.wiki",
-      "url": "https://zh.wikisource.org/zh-hans/石室秘錄"
+      "bytes": 548515,
+      "fetchedAt": "2026-10-08T06:29:35.069Z",
+      "url": "https://zh.wikisource.org/zh-hans/石室秘錄",
+      "fetchedAtEstimated": true
     },
     {
       "id": "bencao",
       "title": "本草新编",
       "page": "本草新編",
       "filename": "bencao-xinbian.wiki",
-      "url": "https://zh.wikisource.org/zh-hans/本草新編"
+      "bytes": 615146,
+      "fetchedAt": "2026-10-08T06:29:01.106Z",
+      "url": "https://zh.wikisource.org/zh-hans/本草新編",
+      "fetchedAtEstimated": true
     },
     {
       "id": "funvke",
       "title": "傅青主女科",
       "page": "傅青主女科",
       "filename": "funvke.wiki",
-      "url": "https://zh.wikisource.org/zh-hans/傅青主女科"
+      "bytes": 192689,
+      "fetchedAt": "2026-10-08T06:28:45.549Z",
+      "url": "https://zh.wikisource.org/zh-hans/傅青主女科",
+      "fetchedAtEstimated": true
     },
     {
       "id": "funanke",
       "title": "傅青主男科",
       "page": "傅青主男科",
       "filename": "funanke.wiki",
-      "url": "https://zh.wikisource.org/zh-hans/傅青主男科"
+      "bytes": 92722,
+      "fetchedAt": "2026-10-08T06:29:32.808Z",
+      "url": "https://zh.wikisource.org/zh-hans/傅青主男科",
+      "fetchedAtEstimated": true
+    },
+    {
+      "id": "shennong",
+      "title": "神农本草经",
+      "page": "神農本草經",
+      "filename": "shennong-bencao.wiki",
+      "bytes": 56561,
+      "fetchedAt": "2026-10-08T15:36:38.947Z",
+      "url": "https://zh.wikisource.org/zh-hans/神農本草經",
+      "fetchedAtEstimated": true
+    },
+    {
+      "id": "xinxiu",
+      "title": "新修本草",
+      "page": "新修本草",
+      "filename": "xinxiu-bencao.wiki",
+      "bytes": 505831,
+      "fetchedAt": "2026-10-08T15:36:41.284Z",
+      "url": "https://zh.wikisource.org/zh-hans/新修本草",
+      "fetchedAtEstimated": true
+    },
+    {
+      "id": "zhenglei",
+      "title": "证类本草",
+      "page": "證類本草",
+      "filename": "zhenglei-bencao.wiki",
+      "bytes": 2396119,
+      "fetchedAt": "2026-10-08T15:37:32.595Z",
+      "url": "https://zh.wikisource.org/zh-hans/證類本草",
+      "fetchedAtEstimated": true
+    },
+    {
+      "id": "wenbing",
+      "title": "温病条辨",
+      "page": "溫病條辨",
+      "filename": "wenbing-tiaobian.wiki",
+      "bytes": 362017,
+      "fetchedAt": "2026-10-08T15:37:45.691Z",
+      "url": "https://zh.wikisource.org/zh-hans/溫病條辨",
+      "fetchedAtEstimated": true
+    },
+    {
+      "id": "wenre",
+      "title": "温热经纬",
+      "page": "溫熱經緯",
+      "filename": "wenre-jingwei.wiki",
+      "bytes": 402058,
+      "fetchedAt": "2026-10-08T15:37:57.944Z",
+      "url": "https://zh.wikisource.org/zh-hans/溫熱經緯",
+      "fetchedAtEstimated": true
+    },
+    {
+      "id": "piwei",
+      "title": "脾胃论",
+      "page": "脾胃論",
+      "filename": "piwei-lun.wiki",
+      "bytes": 132774,
+      "fetchedAt": "2026-10-08T15:38:05.447Z",
+      "url": "https://zh.wikisource.org/zh-hans/脾胃論",
+      "fetchedAtEstimated": true
+    },
+    {
+      "id": "danxi",
+      "title": "丹溪心法",
+      "page": "丹溪心法",
+      "filename": "danxi-xinfa.wiki",
+      "bytes": 451435,
+      "fetchedAt": "2026-10-08T15:38:07.739Z",
+      "url": "https://zh.wikisource.org/zh-hans/丹溪心法",
+      "fetchedAtEstimated": true
+    },
+    {
+      "id": "rumen",
+      "title": "儒门事亲",
+      "page": "儒門事親 (四庫全書本)",
+      "filename": "rumen-shiqin.wiki",
+      "bytes": 469923,
+      "fetchedAt": "2026-10-08T15:38:29.904Z",
+      "url": "https://zh.wikisource.org/zh-hans/儒門事親_(四庫全書本)",
+      "fetchedAtEstimated": true
+    },
+    {
+      "id": "xiaoer",
+      "title": "小儿药证直诀",
+      "page": "小兒藥證真訣",
+      "filename": "xiaoer-yaozheng.wiki",
+      "bytes": 100916,
+      "fetchedAt": "2026-10-08T15:38:34.269Z",
+      "url": "https://zh.wikisource.org/zh-hans/小兒藥證真訣",
+      "fetchedAtEstimated": true
+    },
+    {
+      "id": "jingyue",
+      "title": "景岳全书",
+      "page": "景岳全書 (四庫全書本)",
+      "filename": "jingyue-quanshu.wiki",
+      "bytes": 3177896,
+      "fetchedAt": "2026-10-08T15:40:16.400Z",
+      "url": "https://zh.wikisource.org/zh-hans/景岳全書_(四庫全書本)",
+      "fetchedAtEstimated": true
+    },
+    {
+      "id": "zhongxi",
+      "title": "医学衷中参西录",
+      "page": "醫學衷中參西錄",
+      "filename": "zhongxi-canxi.wiki",
+      "bytes": 1656985,
+      "fetchedAt": "2026-10-08T15:40:19.428Z",
+      "url": "https://zh.wikisource.org/zh-hans/醫學衷中參西錄",
+      "fetchedAtEstimated": true
+    },
+    {
+      "id": "linzheng",
+      "title": "临证指南医案",
+      "page": "臨證指南醫案",
+      "filename": "linzheng-yian.wiki",
+      "bytes": 937085,
+      "fetchedAt": "2026-10-08T15:42:28.522Z",
+      "url": "https://zh.wikisource.org/zh-hans/臨證指南醫案",
+      "fetchedAtEstimated": true
+    },
+    {
+      "id": "mingyi",
+      "title": "名医类案",
+      "page": "名醫類案 (四庫全書本)",
+      "filename": "mingyi-leian.wiki",
+      "bytes": 960142,
+      "fetchedAt": "2026-10-08T15:42:50.656Z",
+      "url": "https://zh.wikisource.org/zh-hans/名醫類案_(四庫全書本)",
+      "fetchedAtEstimated": true
+    },
+    {
+      "id": "xumingyi",
+      "title": "续名医类案",
+      "page": "續名醫類案 (四庫全書本)",
+      "filename": "xumingyi-leian.wiki",
+      "bytes": 2071737,
+      "fetchedAt": "2026-10-08T15:44:20.033Z",
+      "url": "https://zh.wikisource.org/zh-hans/續名醫類案_(四庫全書本)",
+      "fetchedAtEstimated": true
+    },
+    {
+      "id": "yizong",
+      "title": "医宗金鉴·删补名医方论（组方基准）",
+      "page": "刪補名醫方論",
+      "filename": "yizong-fanglun.wiki",
+      "bytes": 230678,
+      "fetchedAt": "2026-10-08T16:52:59.919Z",
+      "url": "https://zh.wikisource.org/zh-hans/刪補名醫方論",
+      "fetchedAtEstimated": true
+    },
+    {
+      "id": "qianjin",
+      "title": "备急千金要方",
+      "page": "備急千金要方",
+      "filename": "qianjin-yaofang.wiki",
+      "bytes": 1565921,
+      "fetchedAt": "2026-10-08T16:53:58.393Z",
+      "url": "https://zh.wikisource.org/zh-hans/備急千金要方",
+      "fetchedAtEstimated": true
+    },
+    {
+      "id": "waitai",
+      "title": "外台秘要方",
+      "page": "外臺秘要方 (四庫全書本)",
+      "filename": "waitai-miyao.wiki",
+      "bytes": 2697709,
+      "fetchedAt": "2026-10-08T16:56:36.937Z",
+      "url": "https://zh.wikisource.org/zh-hans/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81%E6%96%B9%20(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)"
     }
   ],
-  "note": "公有领域古籍文本，来自维基文库"
+  "note": "公有领域古籍文本，来自维基文库 MediaWiki API / action=raw"
 }

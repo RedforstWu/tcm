@@ -1,0 +1,17 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 新編金匱要畧方論
+#+DATE: 2015-09-11 03:53:32.891653
+#+PROPERTY: ID KR3e0007
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB03n0126-000金匱要略-序.
+<pb:KR3e0007_SBCK_000-1a>¶
+新編金匱要畧方論序¶
+張仲景為傷寒雜病論合十六卷今世但傳傷寒論十卷¶
+之士流&KR0138;數家耳¶
+#+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB03n0126-000金匱要略-目録.
+<pb:KR3e0007_SBCK_000-3a>¶
+新編金匱要畧方論目録¶
+　卷之上¶

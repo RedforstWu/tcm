@@ -1,3 +1,4 @@
+import assert from 'node:assert/strict'
 import path from 'node:path'
 import type { Clause, Formula } from '../../src/types/data.ts'
 import { extractChenfuFormulaBlocks } from '../lib/chenfu-formula.ts'
@@ -6,7 +7,13 @@ import {
   extractBencaoHerbNames,
 } from '../lib/herb-lexicon.ts'
 import { ensureDir, projectRoot, readText, writeJson } from '../lib/fs-utils.ts'
+import { listWikiHeadings, splitHeadingUnits } from '../lib/generic-wiki-parse.ts'
 import { toSimplifiedChinese } from '../lib/wiki.ts'
+
+const CLAUSE_HEADING_LEVEL = 4
+const CHAPTER_HEADING_LEVEL = 3
+/** 非四级标题下直接正文的检出阈值（与女科一致） */
+const MIN_UNIT_BODY_LENGTH = 20
 
 function extractMisjudgment(text: string): Clause['misjudgment'] | undefined {
   const simplified = toSimplifiedChinese(text)
@@ -40,18 +47,14 @@ export async function runFunankeParse(): Promise<{
   const clauses: Clause[] = []
   const formulas: Formula[] = []
 
-  const sectionRe = /^====\s*(.+?)\s*====\s*$/gm
-  const headers: Array<{ title: string; index: number }> = []
-  let m: RegExpExecArray | null
-  while ((m = sectionRe.exec(simplified)) !== null) {
-    headers.push({ title: m[1]!.trim(), index: m.index + m[0].length })
-  }
-
-  const chapterRe = /^===(?!=)\s*(.+?)\s*===(?!=)\s*$/gm
-  const chapters: Array<{ title: string; index: number }> = []
-  while ((m = chapterRe.exec(simplified)) !== null) {
-    chapters.push({ title: m[1]!.trim(), index: m.index })
-  }
+  // ==== 伤风 ==== 为条文，正文止于下一个任意级标题；=== 章 === 只作 chapter
+  const units = splitHeadingUnits(simplified, CLAUSE_HEADING_LEVEL, MIN_UNIT_BODY_LENGTH)
+  const headers = units.filter((unit) => !unit.orphan)
+  // 男科无「三级标题自带正文」的小节；若原文变动出现，须像女科那样另编号，不可静默丢弃
+  assert.equal(units.length, headers.length, 'funanke: 出现未归属四级小节的正文')
+  const chapters = listWikiHeadings(simplified)
+    .filter((heading) => heading.level === CHAPTER_HEADING_LEVEL)
+    .map((heading) => ({ title: heading.title, index: heading.start }))
 
   function chapterAt(pos: number): { title: string; order: number } {
     let title = '男科'
@@ -67,10 +70,8 @@ export async function runFunankeParse(): Promise<{
 
   for (let i = 0; i < headers.length; i += 1) {
     const header = headers[i]!
-    const end = i + 1 < headers.length ? headers[i + 1]!.index : simplified.length
-    const titleLineStart = simplified.lastIndexOf('====', header.index)
-    const chap = chapterAt(titleLineStart >= 0 ? titleLineStart : header.index)
-    let body = simplified.slice(header.index, end).trim()
+    const chap = chapterAt(header.start)
+    let body = header.body
     // 男科常把「方用」写在叙述末尾同一句，补换行便于块解析
     body = body.replace(/方用\s*(?=\n)/g, '方用\n')
     body = body.replace(/，方用/g, '。\n方用\n')

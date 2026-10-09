@@ -13,6 +13,8 @@ import { LabPage } from '@/pages/LabPage'
 import { QuizPage } from '@/pages/QuizPage'
 import { ReasoningPage } from '@/pages/ReasoningPage'
 import { SearchPage } from '@/pages/SearchPage'
+import { ConceptPage } from '@/pages/ConceptPage'
+import { OntologyGraphPage } from '@/pages/OntologyGraphPage'
 
 export default function App() {
   return (
@@ -27,6 +29,8 @@ export default function App() {
             <Route path="formulas/:formulaId" element={<FormulaDetailPage />} />
             <Route path="herbs" element={<HerbsPage />} />
             <Route path="herbs/:herbId" element={<HerbDetailPage />} />
+            <Route path="concept/:conceptId" element={<ConceptPage />} />
+            <Route path="graph" element={<OntologyGraphPage />} />
             <Route path="viz" element={<VizPage />} />
             <Route path="lab" element={<LabPage />} />
             <Route path="reasoning" element={<ReasoningPage />} />

@@ -1,0 +1,4539 @@
+[
+  {
+    "name": "阿胶",
+    "pharmacopoeiaName": "阿胶",
+    "aliases": [],
+    "pinyin": "Ejiao",
+    "latin": "ASINI CORII COLLA",
+    "natureFlavor": [
+      "甘",
+      "平"
+    ],
+    "channels": [
+      "肺",
+      "肝",
+      "肾"
+    ],
+    "toxic": false,
+    "modernDose": "3~9g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·阿胶·PDF第246页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/阿胶.md"
+  },
+  {
+    "name": "艾叶",
+    "pharmacopoeiaName": "艾叶",
+    "aliases": [],
+    "pinyin": "Aiye",
+    "latin": "ARTEMISIAE ARGYI FOLIUM",
+    "natureFlavor": [
+      "辛",
+      "苦",
+      "温"
+    ],
+    "channels": [
+      "肝",
+      "脾",
+      "肾"
+    ],
+    "toxic": true,
+    "modernDose": "3~9g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·艾叶·PDF第140页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/艾叶.md"
+  },
+  {
+    "name": "巴豆",
+    "pharmacopoeiaName": "巴豆",
+    "aliases": [],
+    "pinyin": "Badou",
+    "latin": "CROTONIS FRUCTUS",
+    "natureFlavor": [
+      "辛",
+      "热"
+    ],
+    "channels": [
+      "胃",
+      "大肠"
+    ],
+    "toxic": true,
+    "modernDose": "0.1~0.3g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·巴豆·PDF第131页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/巴豆.md"
+  },
+  {
+    "name": "白矾",
+    "pharmacopoeiaName": "白矾",
+    "aliases": [
+      "矾石"
+    ],
+    "pinyin": "Baifan",
+    "latin": "ALUMEN",
+    "natureFlavor": [
+      "酸",
+      "涩",
+      "寒"
+    ],
+    "channels": [
+      "肺",
+      "脾",
+      "肝",
+      "大肠"
+    ],
+    "toxic": true,
+    "modernDose": "0.6~1.5g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·白矾·PDF第160页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/白矾.md"
+  },
+  {
+    "name": "白粉",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": null,
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部未收载“白粉”独立条目"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/白粉.md"
+  },
+  {
+    "name": "白蔹",
+    "pharmacopoeiaName": "白蔹",
+    "aliases": [
+      "白敛"
+    ],
+    "pinyin": "Bailian",
+    "latin": "AMPHELOPSIS RADIX",
+    "natureFlavor": [
+      "苦",
+      "微寒"
+    ],
+    "channels": [
+      "心",
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "5~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·白蔹·PDF第163页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/白蔹.md"
+  },
+  {
+    "name": "白前",
+    "pharmacopoeiaName": "白前",
+    "aliases": [],
+    "pinyin": "Baiqian",
+    "latin": "CYNANCHI STAUNTONII RHIZOMA ET RADIX",
+    "natureFlavor": [
+      "辛",
+      "苦",
+      "微温"
+    ],
+    "channels": [
+      "肺"
+    ],
+    "toxic": false,
+    "modernDose": "3~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·白前·PDF第162页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/白前.md"
+  },
+  {
+    "name": "白石脂",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Baishizhi",
+    "latin": null,
+    "natureFlavor": [
+      "平"
+    ],
+    "channels": [
+      "肺",
+      "胃",
+      "大肠"
+    ],
+    "toxic": false,
+    "modernDose": "6～12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": null,
+    "locator": "03_药物/白石脂.md"
+  },
+  {
+    "name": "白术",
+    "pharmacopoeiaName": "白术",
+    "aliases": [],
+    "pinyin": "Baizhu",
+    "latin": "ATRACTYLODIS MACROCEPHALAE RHIZOMA",
+    "natureFlavor": [
+      "苦",
+      "甘",
+      "温"
+    ],
+    "channels": [
+      "脾",
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "6~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·白术·PDF第156页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/白术.md"
+  },
+  {
+    "name": "白头翁",
+    "pharmacopoeiaName": "白头翁",
+    "aliases": [],
+    "pinyin": "Baitouweng",
+    "latin": "PULSATILLAE RADIX",
+    "natureFlavor": [
+      "苦",
+      "寒"
+    ],
+    "channels": [
+      "胃",
+      "大肠"
+    ],
+    "toxic": false,
+    "modernDose": "9~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·白头翁·PDF第157页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/白头翁.md"
+  },
+  {
+    "name": "白薇",
+    "pharmacopoeiaName": "白薇",
+    "aliases": [],
+    "pinyin": "Baiwei",
+    "latin": "CYNANCHI ATRATI RADIX ET RHIZOMA",
+    "natureFlavor": [
+      "苦",
+      "咸",
+      "寒"
+    ],
+    "channels": [
+      "胃",
+      "肝",
+      "肾"
+    ],
+    "toxic": false,
+    "modernDose": "5~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·白薇·PDF第164页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/白薇.md"
+  },
+  {
+    "name": "白鱼",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Baiyu",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/白鱼.md"
+  },
+  {
+    "name": "百合",
+    "pharmacopoeiaName": "百合",
+    "aliases": [],
+    "pinyin": "Baihe",
+    "latin": "LILII BULBUS",
+    "natureFlavor": [
+      "甘",
+      "寒"
+    ],
+    "channels": [
+      "心",
+      "肺"
+    ],
+    "toxic": false,
+    "modernDose": "6~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·百合·PDF第186页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/百合.md"
+  },
+  {
+    "name": "败酱",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Baijiang",
+    "latin": null,
+    "natureFlavor": [
+      "苦",
+      "辛",
+      "微寒"
+    ],
+    "channels": [
+      "胃",
+      "大肠",
+      "肝"
+    ],
+    "toxic": false,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/败酱.md"
+  },
+  {
+    "name": "半夏",
+    "pharmacopoeiaName": "半夏",
+    "aliases": [],
+    "pinyin": "Banxia",
+    "latin": "PINELLIAE RHIZOMA",
+    "natureFlavor": [
+      "辛",
+      "温"
+    ],
+    "channels": [
+      "脾",
+      "胃",
+      "肺"
+    ],
+    "toxic": true,
+    "modernDose": "3~9g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·半夏·PDF第172页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/半夏.md"
+  },
+  {
+    "name": "鳖甲",
+    "pharmacopoeiaName": "鳖甲",
+    "aliases": [],
+    "pinyin": "Biejia",
+    "latin": "TRIONYCIS CARAPAX",
+    "natureFlavor": [
+      "咸",
+      "微寒"
+    ],
+    "channels": [
+      "肝",
+      "肾"
+    ],
+    "toxic": false,
+    "modernDose": "9~24g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·鳖甲·PDF第451页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/鳖甲.md"
+  },
+  {
+    "name": "侧柏叶",
+    "pharmacopoeiaName": "侧柏叶",
+    "aliases": [
+      "柏叶"
+    ],
+    "pinyin": "Cebaiye",
+    "latin": "PLATYCLADI CACUMEN",
+    "natureFlavor": [
+      "苦",
+      "涩",
+      "寒"
+    ],
+    "channels": [
+      "肺",
+      "肝",
+      "脾"
+    ],
+    "toxic": false,
+    "modernDose": "6~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·侧柏叶·PDF第274页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/侧柏叶.md"
+  },
+  {
+    "name": "柴胡",
+    "pharmacopoeiaName": "柴胡",
+    "aliases": [],
+    "pinyin": "Chaihu",
+    "latin": "BUPLEURI RADIX",
+    "natureFlavor": [
+      "辛",
+      "苦",
+      "微寒"
+    ],
+    "channels": [
+      "肝",
+      "胆",
+      "肺"
+    ],
+    "toxic": false,
+    "modernDose": "3~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·柴胡·PDF第342页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/柴胡.md"
+  },
+  {
+    "name": "常山",
+    "pharmacopoeiaName": "常山",
+    "aliases": [
+      "蜀漆"
+    ],
+    "pinyin": "Changshan",
+    "latin": "DICHROAE RADIX",
+    "natureFlavor": [
+      "苦",
+      "辛",
+      "寒"
+    ],
+    "channels": [
+      "肺",
+      "肝",
+      "心"
+    ],
+    "toxic": true,
+    "modernDose": "5~9g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·常山·PDF第375页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/常山.md"
+  },
+  {
+    "name": "陈皮",
+    "pharmacopoeiaName": "陈皮",
+    "aliases": [
+      "橘皮"
+    ],
+    "pinyin": "Chenpi",
+    "latin": "CITRI RETICULATAE PERICARPIUM",
+    "natureFlavor": [
+      "苦",
+      "辛",
+      "温"
+    ],
+    "channels": [
+      "肺",
+      "脾"
+    ],
+    "toxic": false,
+    "modernDose": "3~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·陈皮·PDF第248页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/陈皮.md"
+  },
+  {
+    "name": "赤石脂",
+    "pharmacopoeiaName": "赤石脂",
+    "aliases": [],
+    "pinyin": "Chishizhi",
+    "latin": "HALLOYSITUM RUBRUM",
+    "natureFlavor": [
+      "甘",
+      "酸",
+      "涩",
+      "温"
+    ],
+    "channels": [
+      "大肠",
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "9~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·赤石脂·PDF第214页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/赤石脂.md"
+  },
+  {
+    "name": "赤硝",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Chixiao",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/赤硝.md"
+  },
+  {
+    "name": "赤小豆",
+    "pharmacopoeiaName": "赤小豆",
+    "aliases": [],
+    "pinyin": "Chixiaodou",
+    "latin": "VIGNAE SEMEN",
+    "natureFlavor": [
+      "甘",
+      "酸",
+      "平"
+    ],
+    "channels": [
+      "心",
+      "小肠"
+    ],
+    "toxic": false,
+    "modernDose": "9~30g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·赤小豆·PDF第214页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/赤小豆.md"
+  },
+  {
+    "name": "川贝母",
+    "pharmacopoeiaName": "川贝母",
+    "aliases": [
+      "贝母"
+    ],
+    "pinyin": null,
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": false,
+    "modernDose": "3~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·川贝母·PDF第87页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/川贝母.md"
+  },
+  {
+    "name": "川乌",
+    "pharmacopoeiaName": "川乌",
+    "aliases": [
+      "乌头"
+    ],
+    "pinyin": "Chuanwu",
+    "latin": "ACONITI RADIX",
+    "natureFlavor": [
+      "辛",
+      "苦",
+      "热"
+    ],
+    "channels": [
+      "心",
+      "肝",
+      "肾",
+      "脾"
+    ],
+    "toxic": true,
+    "modernDose": "1.5~3g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·川乌·PDF第89页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/川乌.md"
+  },
+  {
+    "name": "川芎",
+    "pharmacopoeiaName": "川芎",
+    "aliases": [
+      "芎藭"
+    ],
+    "pinyin": "Chuanxiong",
+    "latin": "CHUANXIONG RHIZOMA",
+    "natureFlavor": [
+      "辛",
+      "温"
+    ],
+    "channels": [
+      "肝",
+      "胆",
+      "心包"
+    ],
+    "toxic": false,
+    "modernDose": "3~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·川芎·PDF第91页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/川芎.md"
+  },
+  {
+    "name": "大豆黄卷",
+    "pharmacopoeiaName": "大豆黄卷",
+    "aliases": [
+      "豆黄卷"
+    ],
+    "pinyin": "Dadouhuangjuan",
+    "latin": "SOJAE SEMEN GERMINATUM",
+    "natureFlavor": [
+      "甘",
+      "平"
+    ],
+    "channels": [
+      "脾",
+      "胃",
+      "肺"
+    ],
+    "toxic": false,
+    "modernDose": "9~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·大豆黄卷·PDF第70页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/大豆黄卷.md"
+  },
+  {
+    "name": "大黄",
+    "pharmacopoeiaName": "大黄",
+    "aliases": [],
+    "pinyin": "Dahuang",
+    "latin": "RHEI RADIX ET RHIZOMA",
+    "natureFlavor": [
+      "苦",
+      "寒"
+    ],
+    "channels": [
+      "脾",
+      "胃",
+      "大肠",
+      "肝",
+      "心包"
+    ],
+    "toxic": false,
+    "modernDose": "3~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·大黄·PDF第73页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/大黄.md"
+  },
+  {
+    "name": "大枣",
+    "pharmacopoeiaName": "大枣",
+    "aliases": [],
+    "pinyin": "Dazao",
+    "latin": "JUJUBAE FRUCTUS",
+    "natureFlavor": [
+      "甘",
+      "温"
+    ],
+    "channels": [
+      "脾",
+      "胃",
+      "心"
+    ],
+    "toxic": false,
+    "modernDose": "6~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·大枣·PDF第72页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/大枣.md"
+  },
+  {
+    "name": "大皂角",
+    "pharmacopoeiaName": "大皂角",
+    "aliases": [
+      "皂荚"
+    ],
+    "pinyin": "Dazaojiao",
+    "latin": "GLEDITSIAE SINENSIS FRUCTUS",
+    "natureFlavor": [
+      "辛",
+      "咸",
+      "温"
+    ],
+    "channels": [
+      "肺",
+      "大肠"
+    ],
+    "toxic": true,
+    "modernDose": "1~1.5g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·大皂角·PDF第71页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/大皂角.md"
+  },
+  {
+    "name": "淡豆豉",
+    "pharmacopoeiaName": "淡豆豉",
+    "aliases": [
+      "香豉"
+    ],
+    "pinyin": "Dandouchi",
+    "latin": "SOJAE SEMEN PRAEPARATUM",
+    "natureFlavor": [
+      "苦",
+      "辛",
+      "凉"
+    ],
+    "channels": [
+      "肺",
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "6~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·淡豆豉·PDF第391页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/淡豆豉.md"
+  },
+  {
+    "name": "淡竹叶",
+    "pharmacopoeiaName": "淡竹叶",
+    "aliases": [
+      "竹叶"
+    ],
+    "pinyin": "Danzhuye",
+    "latin": "LOPHATHERI HERBA",
+    "natureFlavor": [
+      "甘",
+      "淡",
+      "寒"
+    ],
+    "channels": [
+      "心",
+      "胃",
+      "小肠"
+    ],
+    "toxic": false,
+    "modernDose": "6~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·淡竹叶·PDF第391页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/淡竹叶.md"
+  },
+  {
+    "name": "当归",
+    "pharmacopoeiaName": "当归",
+    "aliases": [],
+    "pinyin": "Danggui",
+    "latin": "ANGELICAE SINENSIS RADIX",
+    "natureFlavor": [
+      "甘",
+      "辛",
+      "温"
+    ],
+    "channels": [
+      "肝",
+      "心",
+      "脾"
+    ],
+    "toxic": false,
+    "modernDose": "6~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·当归·PDF第188页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/当归.md"
+  },
+  {
+    "name": "地黄",
+    "pharmacopoeiaName": "地黄（生地黄）",
+    "aliases": [
+      "干地黄"
+    ],
+    "pinyin": "Dihuang",
+    "latin": "REHMANNIAE RADIX",
+    "natureFlavor": [
+      "甘",
+      "寒"
+    ],
+    "channels": [
+      "心",
+      "肝",
+      "肾"
+    ],
+    "toxic": false,
+    "modernDose": "10~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·地黄（生地黄）·PDF第178-179页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/地黄.md"
+  },
+  {
+    "name": "冬瓜子",
+    "pharmacopoeiaName": null,
+    "aliases": [
+      "瓜子"
+    ],
+    "pinyin": "Dongguazi",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/冬瓜子.md"
+  },
+  {
+    "name": "防风",
+    "pharmacopoeiaName": "防风",
+    "aliases": [],
+    "pinyin": "Fangfeng",
+    "latin": "SAPOSHNIKOVIAE RADIX",
+    "natureFlavor": [
+      "辛",
+      "甘",
+      "微温"
+    ],
+    "channels": [
+      "膀胱",
+      "肝",
+      "脾"
+    ],
+    "toxic": false,
+    "modernDose": "5~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·防风·PDF第205页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/防风.md"
+  },
+  {
+    "name": "防己",
+    "pharmacopoeiaName": "防己",
+    "aliases": [
+      "防已"
+    ],
+    "pinyin": "Fangji",
+    "latin": "STEPHANIAE TETRANDRAE RADIX",
+    "natureFlavor": [
+      "苦",
+      "寒"
+    ],
+    "channels": [
+      "膀胱",
+      "肺"
+    ],
+    "toxic": false,
+    "modernDose": "5~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·防己·PDF第204页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/防己.md"
+  },
+  {
+    "name": "蜂巢",
+    "pharmacopoeiaName": "蜂房",
+    "aliases": [
+      "蜂房"
+    ],
+    "pinyin": "Fengchao",
+    "latin": "VESPAE NIDUS",
+    "natureFlavor": [
+      "甘",
+      "平"
+    ],
+    "channels": [
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "3~5g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·蜂房·PDF第422页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/蜂巢.md"
+  },
+  {
+    "name": "茯苓",
+    "pharmacopoeiaName": "茯苓",
+    "aliases": [],
+    "pinyin": "Fuling",
+    "latin": "PORIA",
+    "natureFlavor": [
+      "甘",
+      "淡",
+      "平"
+    ],
+    "channels": [
+      "心",
+      "肺",
+      "脾",
+      "肾"
+    ],
+    "toxic": false,
+    "modernDose": "10~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·茯苓·PDF第300页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/茯苓.md"
+  },
+  {
+    "name": "附子",
+    "pharmacopoeiaName": "附子",
+    "aliases": [],
+    "pinyin": "Fuzi",
+    "latin": "ACONITI LATERALIS RADIX PRAEPARATA",
+    "natureFlavor": [
+      "辛",
+      "甘",
+      "大热"
+    ],
+    "channels": [
+      "心",
+      "肾",
+      "脾"
+    ],
+    "toxic": true,
+    "modernDose": "3~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·附子·PDF第249页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/附子.md"
+  },
+  {
+    "name": "甘草",
+    "pharmacopoeiaName": "甘草",
+    "aliases": [],
+    "pinyin": "Gancao",
+    "latin": "GLYCYRRHIZAE RADIX ET RHIZOMA",
+    "natureFlavor": [
+      "甘",
+      "平"
+    ],
+    "channels": [
+      "心",
+      "肺",
+      "脾",
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "2-10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·甘草·PDF第137页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/甘草.md"
+  },
+  {
+    "name": "甘李根白皮",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Ganligenbaipi",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/甘李根白皮.md"
+  },
+  {
+    "name": "甘遂",
+    "pharmacopoeiaName": "甘遂",
+    "aliases": [],
+    "pinyin": "Gansui",
+    "latin": "KANSUI RADIX",
+    "natureFlavor": [
+      "苦",
+      "寒"
+    ],
+    "channels": [
+      "肺",
+      "肾",
+      "大肠"
+    ],
+    "toxic": true,
+    "modernDose": "0.5~1.5g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·甘遂·PDF第138页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/甘遂.md"
+  },
+  {
+    "name": "干姜",
+    "pharmacopoeiaName": "干姜",
+    "aliases": [],
+    "pinyin": "Ganjiang",
+    "latin": "ZINGIBERIS RHIZOMA",
+    "natureFlavor": [
+      "辛",
+      "热"
+    ],
+    "channels": [
+      "脾",
+      "胃",
+      "肾",
+      "心",
+      "肺"
+    ],
+    "toxic": false,
+    "modernDose": "3~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·干姜·PDF第64页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/干姜.md"
+  },
+  {
+    "name": "干漆",
+    "pharmacopoeiaName": "干漆",
+    "aliases": [],
+    "pinyin": "Ganqi",
+    "latin": "TOXICODENDRI RESINA",
+    "natureFlavor": [
+      "辛",
+      "温"
+    ],
+    "channels": [
+      "肝",
+      "脾"
+    ],
+    "toxic": true,
+    "modernDose": "2~5g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·干漆·PDF第65页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/干漆.md"
+  },
+  {
+    "name": "葛根",
+    "pharmacopoeiaName": "葛根",
+    "aliases": [],
+    "pinyin": "Gegen",
+    "latin": "PUERARIAE LOBATAE RADIX",
+    "natureFlavor": [
+      "甘",
+      "辛",
+      "凉"
+    ],
+    "channels": [
+      "脾",
+      "胃",
+      "肺"
+    ],
+    "toxic": false,
+    "modernDose": "10~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·葛根·PDF第396页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/葛根.md"
+  },
+  {
+    "name": "瓜蒂",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Guadi",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/瓜蒂.md"
+  },
+  {
+    "name": "瓜蒌",
+    "pharmacopoeiaName": "瓜蒌",
+    "aliases": [
+      "栝蒌实",
+      "栝楼实",
+      "瓜蒌实"
+    ],
+    "pinyin": "Gualou",
+    "latin": "TRICHOSANTHIS FRUCTUS",
+    "natureFlavor": [
+      "甘",
+      "微苦",
+      "寒"
+    ],
+    "channels": [
+      "肺",
+      "胃",
+      "大肠"
+    ],
+    "toxic": false,
+    "modernDose": "9~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·瓜蒌·PDF第165页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/瓜蒌.md"
+  },
+  {
+    "name": "桂枝",
+    "pharmacopoeiaName": "桂枝",
+    "aliases": [],
+    "pinyin": "Guizhi",
+    "latin": "CINNAMOMI RAMULUS",
+    "natureFlavor": [
+      "辛",
+      "甘",
+      "温"
+    ],
+    "channels": [
+      "心",
+      "肺",
+      "膀胱"
+    ],
+    "toxic": false,
+    "modernDose": "3-10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·桂枝·PDF第337页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/桂枝.md"
+  },
+  {
+    "name": "蛤壳",
+    "pharmacopoeiaName": "蛤壳",
+    "aliases": [
+      "文蛤"
+    ],
+    "pinyin": "Geqiao",
+    "latin": "MERETRICIS CONCHA; CYCLINAE CONCHA",
+    "natureFlavor": [
+      "苦",
+      "咸",
+      "寒"
+    ],
+    "channels": [
+      "肺",
+      "肾",
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "6~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·蛤壳·PDF第406页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/蛤壳.md"
+  },
+  {
+    "name": "海藻",
+    "pharmacopoeiaName": "海藻",
+    "aliases": [],
+    "pinyin": "Haizao",
+    "latin": "SARGASSUM",
+    "natureFlavor": [
+      "苦",
+      "咸",
+      "寒"
+    ],
+    "channels": [
+      "肝",
+      "胃",
+      "肾"
+    ],
+    "toxic": false,
+    "modernDose": "3~9g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·海藻·PDF第357页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/海藻.md"
+  },
+  {
+    "name": "寒水石",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Hanshuishi",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/寒水石.md"
+  },
+  {
+    "name": "诃子",
+    "pharmacopoeiaName": "诃子",
+    "aliases": [
+      "诃梨勒",
+      "诃黎勒"
+    ],
+    "pinyin": "Hezi",
+    "latin": "CHEBULAE FRUCTUS",
+    "natureFlavor": [
+      "苦",
+      "酸",
+      "涩",
+      "平"
+    ],
+    "channels": [
+      "肺",
+      "大肠"
+    ],
+    "toxic": false,
+    "modernDose": "3~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·诃子·PDF第243页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/诃子.md"
+  },
+  {
+    "name": "红花",
+    "pharmacopoeiaName": "红花",
+    "aliases": [
+      "红蓝花"
+    ],
+    "pinyin": "Honghua",
+    "latin": "CARTHAMUS FLOS",
+    "natureFlavor": [
+      "辛",
+      "温"
+    ],
+    "channels": [
+      "心",
+      "肝"
+    ],
+    "toxic": false,
+    "modernDose": "3~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·红花·PDF第206页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/红花.md"
+  },
+  {
+    "name": "厚朴",
+    "pharmacopoeiaName": "厚朴",
+    "aliases": [
+      "厚扑"
+    ],
+    "pinyin": "Houpo",
+    "latin": "MAGNOLIAE OFFICINALIS CORTEX",
+    "natureFlavor": [
+      "苦",
+      "辛",
+      "温"
+    ],
+    "channels": [
+      "脾",
+      "胃",
+      "肺",
+      "大肠"
+    ],
+    "toxic": false,
+    "modernDose": "3~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·厚朴·PDF第312页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/厚朴.md"
+  },
+  {
+    "name": "花椒",
+    "pharmacopoeiaName": "花椒",
+    "aliases": [
+      "蜀椒"
+    ],
+    "pinyin": "Huajiao",
+    "latin": "ZANTHOXYLI PERICARPIUM",
+    "natureFlavor": [
+      "辛",
+      "温"
+    ],
+    "channels": [
+      "脾",
+      "胃",
+      "肾"
+    ],
+    "toxic": false,
+    "modernDose": "3~6g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·花椒·PDF第215页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/花椒.md"
+  },
+  {
+    "name": "滑石",
+    "pharmacopoeiaName": "滑石",
+    "aliases": [],
+    "pinyin": "Huashi",
+    "latin": "TALCUM",
+    "natureFlavor": [
+      "甘",
+      "淡",
+      "寒"
+    ],
+    "channels": [
+      "膀胱",
+      "肺",
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "10~20g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·滑石·PDF第413页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/滑石.md"
+  },
+  {
+    "name": "黄柏",
+    "pharmacopoeiaName": "黄柏",
+    "aliases": [
+      "柏皮"
+    ],
+    "pinyin": "Huangbo",
+    "latin": "PHELLODENDRI CHINENSIS CORTEX",
+    "natureFlavor": [
+      "苦",
+      "寒"
+    ],
+    "channels": [
+      "肾",
+      "膀胱"
+    ],
+    "toxic": false,
+    "modernDose": "3~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·黄柏·PDF第367页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/黄柏.md"
+  },
+  {
+    "name": "黄连",
+    "pharmacopoeiaName": "黄连",
+    "aliases": [],
+    "pinyin": "Huanglian",
+    "latin": "COPTIDIS RHIZOMA",
+    "natureFlavor": [
+      "苦",
+      "寒"
+    ],
+    "channels": [
+      "心",
+      "脾",
+      "胃",
+      "肝",
+      "胆",
+      "大肠"
+    ],
+    "toxic": false,
+    "modernDose": "2~5g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·黄连·PDF第365页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/黄连.md"
+  },
+  {
+    "name": "黄芪",
+    "pharmacopoeiaName": "黄芪",
+    "aliases": [],
+    "pinyin": "Huangqi",
+    "latin": "ASTRAGALI RADIX",
+    "natureFlavor": [
+      "甘",
+      "微温"
+    ],
+    "channels": [
+      "肺",
+      "脾"
+    ],
+    "toxic": false,
+    "modernDose": "9~30g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·黄芪·PDF第364页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/黄芪.md"
+  },
+  {
+    "name": "黄芩",
+    "pharmacopoeiaName": "黄芩",
+    "aliases": [],
+    "pinyin": "Huangqin",
+    "latin": "SCUTELLARIAE RADIX",
+    "natureFlavor": [
+      "苦",
+      "寒"
+    ],
+    "channels": [
+      "肺",
+      "胆",
+      "脾",
+      "大肠",
+      "小肠"
+    ],
+    "toxic": false,
+    "modernDose": "3~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·黄芩·PDF第363页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/黄芩.md"
+  },
+  {
+    "name": "火麻仁",
+    "pharmacopoeiaName": "火麻仁",
+    "aliases": [
+      "麻仁",
+      "麻子仁"
+    ],
+    "pinyin": "Huomaren",
+    "latin": "CANNABIS FRUCTUS",
+    "natureFlavor": [
+      "甘",
+      "平"
+    ],
+    "channels": [
+      "脾",
+      "胃",
+      "大肠"
+    ],
+    "toxic": false,
+    "modernDose": "10~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·火麻仁·PDF第130页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/火麻仁.md"
+  },
+  {
+    "name": "鸡屎白",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Jishibai",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/鸡屎白.md"
+  },
+  {
+    "name": "椒目",
+    "pharmacopoeiaName": "椒目",
+    "aliases": [],
+    "pinyin": null,
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部未收载“椒目”独立条目"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/椒目.md"
+  },
+  {
+    "name": "桔梗",
+    "pharmacopoeiaName": "桔梗",
+    "aliases": [],
+    "pinyin": "Jiegeng",
+    "latin": "PLATYCODONIS RADIX",
+    "natureFlavor": [
+      "苦",
+      "辛",
+      "平"
+    ],
+    "channels": [
+      "肺"
+    ],
+    "toxic": false,
+    "modernDose": "3~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·桔梗·PDF第338页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/桔梗.md"
+  },
+  {
+    "name": "京大戟",
+    "pharmacopoeiaName": "京大戟",
+    "aliases": [
+      "大戟"
+    ],
+    "pinyin": "Jingdaji",
+    "latin": "EUPHORBIAE PEKINENSIS RADIX",
+    "natureFlavor": [
+      "苦",
+      "寒"
+    ],
+    "channels": [
+      "肺",
+      "脾",
+      "肾"
+    ],
+    "toxic": true,
+    "modernDose": "1.5~3g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·京大戟·PDF第285页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/京大戟.md"
+  },
+  {
+    "name": "菊花",
+    "pharmacopoeiaName": "菊花",
+    "aliases": [],
+    "pinyin": "Juhua",
+    "latin": "CHRYSANTHEMI FLOS",
+    "natureFlavor": [
+      "甘",
+      "苦",
+      "微寒"
+    ],
+    "channels": [
+      "肺",
+      "肝"
+    ],
+    "toxic": false,
+    "modernDose": "5~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·菊花·PDF第372页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/菊花.md"
+  },
+  {
+    "name": "苦参",
+    "pharmacopoeiaName": "苦参",
+    "aliases": [],
+    "pinyin": "Kushen",
+    "latin": "SOPHORAE FLAVESCENTIS RADIX",
+    "natureFlavor": [
+      "苦",
+      "寒"
+    ],
+    "channels": [
+      "心",
+      "肝",
+      "胃",
+      "大肠",
+      "膀胱"
+    ],
+    "toxic": false,
+    "modernDose": "4.5~9g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·苦参·PDF第260页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/苦参.md"
+  },
+  {
+    "name": "款冬花",
+    "pharmacopoeiaName": "款冬花",
+    "aliases": [],
+    "pinyin": "Kuandonghua",
+    "latin": "FARFARAE FLOS",
+    "natureFlavor": [
+      "辛",
+      "微苦",
+      "温"
+    ],
+    "channels": [
+      "肺"
+    ],
+    "toxic": false,
+    "modernDose": "5~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·款冬花·PDF第395页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/款冬花.md"
+  },
+  {
+    "name": "葵子",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Kuizi",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/葵子.md"
+  },
+  {
+    "name": "狼毒",
+    "pharmacopoeiaName": "狼毒",
+    "aliases": [],
+    "pinyin": "Langdu",
+    "latin": "EUPHORBIAE EBRACTEOLATAE RADIX",
+    "natureFlavor": [
+      "辛",
+      "平"
+    ],
+    "channels": [
+      "肝",
+      "脾"
+    ],
+    "toxic": true,
+    "modernDose": "熬膏外敷",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·狼毒·PDF第347页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/狼毒.md"
+  },
+  {
+    "name": "狼牙",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Langya",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/狼牙.md"
+  },
+  {
+    "name": "连翘",
+    "pharmacopoeiaName": "连翘",
+    "aliases": [],
+    "pinyin": "Lianqiao",
+    "latin": "FORSYTHIAE FRUCTUS",
+    "natureFlavor": [
+      "苦",
+      "微寒"
+    ],
+    "channels": [
+      "肺",
+      "心",
+      "小肠"
+    ],
+    "toxic": false,
+    "modernDose": "6~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·连翘·PDF第226页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/连翘.md"
+  },
+  {
+    "name": "连轺",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Lianyao",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/连轺.md"
+  },
+  {
+    "name": "凌霄花",
+    "pharmacopoeiaName": "凌霄花",
+    "aliases": [
+      "紫葳"
+    ],
+    "pinyin": null,
+    "latin": null,
+    "natureFlavor": [
+      "甘",
+      "酸",
+      "寒"
+    ],
+    "channels": [
+      "肝",
+      "心包"
+    ],
+    "toxic": false,
+    "modernDose": "5~9g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·凌霄花·PDF第348页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/凌霄花.md"
+  },
+  {
+    "name": "龙骨",
+    "pharmacopoeiaName": "龙骨",
+    "aliases": [],
+    "pinyin": null,
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部未收载“龙骨”独立条目"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/龙骨.md"
+  },
+  {
+    "name": "麻黄",
+    "pharmacopoeiaName": "麻黄",
+    "aliases": [],
+    "pinyin": "Mahuang",
+    "latin": "EPHEDRAE HERBA",
+    "natureFlavor": [
+      "辛",
+      "微苦",
+      "温"
+    ],
+    "channels": [
+      "肺",
+      "膀胱"
+    ],
+    "toxic": false,
+    "modernDose": "2-10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·麻黄·PDF第382页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/麻黄.md"
+  },
+  {
+    "name": "麦冬",
+    "pharmacopoeiaName": "麦冬",
+    "aliases": [
+      "麦门冬"
+    ],
+    "pinyin": "Maidong",
+    "latin": "OPHIOPOGONIS RADIX",
+    "natureFlavor": [
+      "甘",
+      "微苦",
+      "微寒"
+    ],
+    "channels": [
+      "心",
+      "肺",
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "6~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·麦冬·PDF第211页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/麦冬.md"
+  },
+  {
+    "name": "芒硝",
+    "pharmacopoeiaName": "芒硝",
+    "aliases": [],
+    "pinyin": "Mangxiao",
+    "latin": "NATRII SULFAS",
+    "natureFlavor": [
+      "咸",
+      "苦",
+      "寒"
+    ],
+    "channels": [
+      "胃",
+      "大肠"
+    ],
+    "toxic": false,
+    "modernDose": "6~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·芒硝·PDF第181页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/芒硝.md"
+  },
+  {
+    "name": "虻虫",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Mengchong",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/虻虫.md"
+  },
+  {
+    "name": "牡丹皮",
+    "pharmacopoeiaName": "牡丹皮",
+    "aliases": [
+      "牡丹"
+    ],
+    "pinyin": "Mudanpi",
+    "latin": "MOUTAN CORTEX",
+    "natureFlavor": [
+      "苦",
+      "辛",
+      "微寒"
+    ],
+    "channels": [
+      "心",
+      "肝",
+      "肾"
+    ],
+    "toxic": false,
+    "modernDose": "6~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·牡丹皮·PDF第228页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/牡丹皮.md"
+  },
+  {
+    "name": "牡蛎",
+    "pharmacopoeiaName": "牡蛎",
+    "aliases": [],
+    "pinyin": "Muli",
+    "latin": "OSTREAE CONCHA",
+    "natureFlavor": [
+      "咸",
+      "微寒"
+    ],
+    "channels": [
+      "肝",
+      "胆",
+      "肾"
+    ],
+    "toxic": false,
+    "modernDose": "9~30g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·牡蛎·PDF第229页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/牡蛎.md"
+  },
+  {
+    "name": "木防己",
+    "pharmacopoeiaName": null,
+    "aliases": [
+      "木防已"
+    ],
+    "pinyin": "Mufangji",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": true,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/木防己.md"
+  },
+  {
+    "name": "木通",
+    "pharmacopoeiaName": "木通",
+    "aliases": [],
+    "pinyin": "Mutong",
+    "latin": "AKEBIAE CAULIS",
+    "natureFlavor": [
+      "苦",
+      "寒"
+    ],
+    "channels": [
+      "心",
+      "小肠",
+      "膀胱"
+    ],
+    "toxic": false,
+    "modernDose": "3~6g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·木通·PDF第114页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/木通.md"
+  },
+  {
+    "name": "蛴螬",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Qicao",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/蛴螬.md"
+  },
+  {
+    "name": "铅丹",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Qiandan",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/铅丹.md"
+  },
+  {
+    "name": "蜣螂",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Qianglang",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/蜣螂.md"
+  },
+  {
+    "name": "秦皮",
+    "pharmacopoeiaName": "秦皮",
+    "aliases": [],
+    "pinyin": "Qinpi",
+    "latin": "FRAXINI CORTEX",
+    "natureFlavor": [
+      "苦",
+      "涩",
+      "寒"
+    ],
+    "channels": [
+      "肝",
+      "胆",
+      "大肠"
+    ],
+    "toxic": false,
+    "modernDose": "6~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·秦皮·PDF第331页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/秦皮.md"
+  },
+  {
+    "name": "曲",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Qu",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/曲.md"
+  },
+  {
+    "name": "瞿麦",
+    "pharmacopoeiaName": "瞿麦",
+    "aliases": [],
+    "pinyin": "Qumai",
+    "latin": "DIANTHI HERBA",
+    "natureFlavor": [
+      "苦",
+      "寒"
+    ],
+    "channels": [
+      "心",
+      "小肠"
+    ],
+    "toxic": false,
+    "modernDose": "9~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·瞿麦·PDF第449页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/瞿麦.md"
+  },
+  {
+    "name": "人参",
+    "pharmacopoeiaName": "人参",
+    "aliases": [],
+    "pinyin": "Renshen",
+    "latin": "GINSENG RADIX ET RHIZOMA",
+    "natureFlavor": [
+      "甘",
+      "微苦",
+      "微温"
+    ],
+    "channels": [
+      "脾",
+      "肺",
+      "心",
+      "肾"
+    ],
+    "toxic": false,
+    "modernDose": "3~9g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·人参·PDF第57页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/人参.md"
+  },
+  {
+    "name": "戎盐",
+    "pharmacopoeiaName": null,
+    "aliases": [
+      "戎盐弹丸大"
+    ],
+    "pinyin": "Rongyan",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/戎盐.md"
+  },
+  {
+    "name": "桑白皮",
+    "pharmacopoeiaName": "桑白皮",
+    "aliases": [
+      "桑东南根白皮",
+      "桑根白皮"
+    ],
+    "pinyin": "Sangbaipi",
+    "latin": "MORI CORTEX",
+    "natureFlavor": [
+      "甘",
+      "寒"
+    ],
+    "channels": [
+      "肺"
+    ],
+    "toxic": false,
+    "modernDose": "6~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·桑白皮·PDF第360页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/桑白皮.md"
+  },
+  {
+    "name": "山药",
+    "pharmacopoeiaName": "山药",
+    "aliases": [
+      "薯蓣"
+    ],
+    "pinyin": "Shanyao",
+    "latin": "DIOSCOREAE RHIZOMA",
+    "natureFlavor": [
+      "甘",
+      "平"
+    ],
+    "channels": [
+      "脾",
+      "肺",
+      "肾"
+    ],
+    "toxic": false,
+    "modernDose": "15~30g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·山药·PDF第79页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/山药.md"
+  },
+  {
+    "name": "山茱萸",
+    "pharmacopoeiaName": "山茱萸",
+    "aliases": [],
+    "pinyin": "Shanzhuyu",
+    "latin": "CORNIFRUCTUS",
+    "natureFlavor": [
+      "酸",
+      "涩",
+      "微温"
+    ],
+    "channels": [
+      "肝",
+      "肾"
+    ],
+    "toxic": false,
+    "modernDose": "6~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·山茱萸·PDF第78页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/山茱萸.md"
+  },
+  {
+    "name": "商陆",
+    "pharmacopoeiaName": "商陆",
+    "aliases": [
+      "商陆根"
+    ],
+    "pinyin": "Shanglu",
+    "latin": "PHYTOLACCAE RADIX",
+    "natureFlavor": [
+      "苦",
+      "寒"
+    ],
+    "channels": [
+      "肺",
+      "脾",
+      "肾",
+      "大肠"
+    ],
+    "toxic": true,
+    "modernDose": "3~9g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·商陆·PDF第387页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/商陆.md"
+  },
+  {
+    "name": "芍药",
+    "pharmacopoeiaName": "白芍",
+    "aliases": [
+      "白芍",
+      "赤芍"
+    ],
+    "pinyin": "Shaoyao",
+    "latin": "PAEONIAE RADIX ALBA",
+    "natureFlavor": [
+      "苦",
+      "酸",
+      "微寒"
+    ],
+    "channels": [
+      "肝",
+      "脾"
+    ],
+    "toxic": false,
+    "modernDose": "6~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·白芍·PDF第157页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/芍药.md"
+  },
+  {
+    "name": "蛇床子",
+    "pharmacopoeiaName": "蛇床子",
+    "aliases": [],
+    "pinyin": "Shechuangzi",
+    "latin": "CNIDII FRUCTUS",
+    "natureFlavor": [
+      "辛",
+      "苦",
+      "温"
+    ],
+    "channels": [
+      "肾"
+    ],
+    "toxic": true,
+    "modernDose": "3~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·蛇床子·PDF第377页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/蛇床子.md"
+  },
+  {
+    "name": "射干",
+    "pharmacopoeiaName": "射干",
+    "aliases": [],
+    "pinyin": "Shegan",
+    "latin": "BELAMCANDAE RHIZOMA",
+    "natureFlavor": [
+      "苦",
+      "寒"
+    ],
+    "channels": [
+      "肺"
+    ],
+    "toxic": false,
+    "modernDose": "3~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·射干·PDF第346页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/射干.md"
+  },
+  {
+    "name": "升麻",
+    "pharmacopoeiaName": "升麻",
+    "aliases": [],
+    "pinyin": "Shengma",
+    "latin": "CIMICIFUGAE RHIZOMA",
+    "natureFlavor": [
+      "辛",
+      "微甘",
+      "微寒"
+    ],
+    "channels": [
+      "肺",
+      "脾",
+      "胃",
+      "大肠"
+    ],
+    "toxic": false,
+    "modernDose": "3~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·升麻·PDF第124页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/升麻.md"
+  },
+  {
+    "name": "生葛",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Shengge",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/生葛.md"
+  },
+  {
+    "name": "生姜",
+    "pharmacopoeiaName": "生姜",
+    "aliases": [],
+    "pinyin": "Shengjiang",
+    "latin": "ZINGIBERIS RHIZOMA RECENS",
+    "natureFlavor": [
+      "辛",
+      "微温"
+    ],
+    "channels": [
+      "肺",
+      "脾",
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "3~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·生姜·PDF第153页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/生姜.md"
+  },
+  {
+    "name": "生竹茹",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Shengzhuru",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/生竹茹.md"
+  },
+  {
+    "name": "生梓白皮",
+    "pharmacopoeiaName": null,
+    "aliases": [
+      "梓白皮"
+    ],
+    "pinyin": "Shengzipibaipi",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/生梓白皮.md"
+  },
+  {
+    "name": "石膏",
+    "pharmacopoeiaName": "石膏",
+    "aliases": [],
+    "pinyin": "Shigao",
+    "latin": "GYPSUM FIBROSUM",
+    "natureFlavor": [
+      "甘",
+      "辛",
+      "大寒"
+    ],
+    "channels": [
+      "肺",
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "15~60g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·石膏·PDF第147页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/石膏.md"
+  },
+  {
+    "name": "石韦",
+    "pharmacopoeiaName": "石韦",
+    "aliases": [],
+    "pinyin": "Shiwei",
+    "latin": "PYRROSIAE FOLIUM",
+    "natureFlavor": [
+      "甘",
+      "苦",
+      "微寒"
+    ],
+    "channels": [
+      "肺",
+      "膀胱"
+    ],
+    "toxic": false,
+    "modernDose": "6~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·石韦·PDF第140页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/石韦.md"
+  },
+  {
+    "name": "蜀漆",
+    "pharmacopoeiaName": "蜀漆",
+    "aliases": [],
+    "pinyin": null,
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部未收载“蜀漆”独立条目"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/蜀漆.md"
+  },
+  {
+    "name": "鼠妇",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Shufu",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/鼠妇.md"
+  },
+  {
+    "name": "水蛭",
+    "pharmacopoeiaName": "水蛭",
+    "aliases": [],
+    "pinyin": "Shuizhi",
+    "latin": "HIRUDO",
+    "natureFlavor": [
+      "咸",
+      "苦",
+      "平"
+    ],
+    "channels": [
+      "肝"
+    ],
+    "toxic": true,
+    "modernDose": "1~3g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·水蛭·PDF第134页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/水蛭.md"
+  },
+  {
+    "name": "蒴藋细叶",
+    "pharmacopoeiaName": null,
+    "aliases": [
+      "溯瞿细叶",
+      "蒴藿细叶"
+    ],
+    "pinyin": "Shuodiaoxiye",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部未收载独立条目"
+      },
+      {
+        "kind": "原名对校",
+        "text": "金匮底本“溯瞿细叶”；桂林本“蒴藿细叶”；曹氏本“蒴藋细叶”"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/蒴藋细叶.md"
+  },
+  {
+    "name": "酸枣仁",
+    "pharmacopoeiaName": "酸枣仁",
+    "aliases": [],
+    "pinyin": "Suanzaoren",
+    "latin": "ZIZIPHI SPINOSAE SEMEN",
+    "natureFlavor": [
+      "甘",
+      "酸",
+      "平"
+    ],
+    "channels": [
+      "肝",
+      "胆",
+      "心"
+    ],
+    "toxic": false,
+    "modernDose": "10~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·酸枣仁·PDF第431页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/酸枣仁.md"
+  },
+  {
+    "name": "桃仁",
+    "pharmacopoeiaName": "桃仁",
+    "aliases": [],
+    "pinyin": "Taoren",
+    "latin": "PERSICAE SEMEN",
+    "natureFlavor": [
+      "苦",
+      "甘",
+      "平"
+    ],
+    "channels": [
+      "心",
+      "肝",
+      "大肠"
+    ],
+    "toxic": false,
+    "modernDose": "5~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·桃仁·PDF第339页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/桃仁.md"
+  },
+  {
+    "name": "天冬",
+    "pharmacopoeiaName": "天冬",
+    "aliases": [
+      "天门冬"
+    ],
+    "pinyin": "Tiandong",
+    "latin": "ASPARAGI RADIX",
+    "natureFlavor": [
+      "甘",
+      "苦",
+      "寒"
+    ],
+    "channels": [
+      "肺",
+      "肾"
+    ],
+    "toxic": false,
+    "modernDose": "6~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·天冬·PDF第105页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/天冬.md"
+  },
+  {
+    "name": "天花粉",
+    "pharmacopoeiaName": "天花粉",
+    "aliases": [
+      "栝蒌根",
+      "括蒌根",
+      "括萎根"
+    ],
+    "pinyin": "Tianhuafen",
+    "latin": "TRICHOSANTHIS RADIX",
+    "natureFlavor": [
+      "甘",
+      "微苦",
+      "微寒"
+    ],
+    "channels": [
+      "肺",
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "10~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·天花粉·PDF第106页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/天花粉.md"
+  },
+  {
+    "name": "天雄",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Tianxiong",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/天雄.md"
+  },
+  {
+    "name": "葶苈子",
+    "pharmacopoeiaName": "葶苈子",
+    "aliases": [
+      "葶苈"
+    ],
+    "pinyin": "Tinglizi",
+    "latin": "LEPIDII SEU DESCURAINIAE SEMEN",
+    "natureFlavor": [
+      "辛",
+      "苦",
+      "大寒"
+    ],
+    "channels": [
+      "肺",
+      "膀胱"
+    ],
+    "toxic": false,
+    "modernDose": "9~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·葶苈子·PDF第397页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/葶苈子.md"
+  },
+  {
+    "name": "通草",
+    "pharmacopoeiaName": "通草",
+    "aliases": [],
+    "pinyin": "Tongcao",
+    "latin": "TETRAPANACIS MEDULLA",
+    "natureFlavor": [
+      "甘",
+      "淡",
+      "微寒"
+    ],
+    "channels": [
+      "肺",
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "3~5g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·通草·PDF第358页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/通草.md"
+  },
+  {
+    "name": "土瓜根",
+    "pharmacopoeiaName": "土瓜根",
+    "aliases": [],
+    "pinyin": null,
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部未收载“土瓜根”独立条目"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/土瓜根.md"
+  },
+  {
+    "name": "王不留行",
+    "pharmacopoeiaName": "王不留行",
+    "aliases": [],
+    "pinyin": "Wangbuliuxing",
+    "latin": "VACCARIAE SEMEN",
+    "natureFlavor": [
+      "苦",
+      "平"
+    ],
+    "channels": [
+      "肝",
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "5~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·王不留行·PDF第103页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/王不留行.md"
+  },
+  {
+    "name": "乌梅",
+    "pharmacopoeiaName": "乌梅",
+    "aliases": [],
+    "pinyin": "Wumei",
+    "latin": "MUME FRUCTUS",
+    "natureFlavor": [
+      "酸",
+      "涩",
+      "平"
+    ],
+    "channels": [
+      "肝",
+      "脾",
+      "肺",
+      "大肠"
+    ],
+    "toxic": false,
+    "modernDose": "6~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·乌梅·PDF第130页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/乌梅.md"
+  },
+  {
+    "name": "乌扇",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Wushan",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/乌扇.md"
+  },
+  {
+    "name": "吴茱萸",
+    "pharmacopoeiaName": "吴茱萸",
+    "aliases": [],
+    "pinyin": "Wuzhuyu",
+    "latin": "EVODIAE FRUCTUS",
+    "natureFlavor": [
+      "辛",
+      "苦",
+      "热"
+    ],
+    "channels": [
+      "肝",
+      "脾",
+      "胃",
+      "肾"
+    ],
+    "toxic": true,
+    "modernDose": "2~5g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·吴茱萸·PDF第227页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/吴茱萸.md"
+  },
+  {
+    "name": "五味子",
+    "pharmacopoeiaName": "五味子",
+    "aliases": [],
+    "pinyin": "Wuweizi",
+    "latin": "SCHISANDRAE CHINENSIS FRUCTUS",
+    "natureFlavor": [
+      "酸",
+      "甘",
+      "温"
+    ],
+    "channels": [
+      "肺",
+      "心",
+      "肾"
+    ],
+    "toxic": false,
+    "modernDose": "2~6g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·五味子·PDF第117页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/五味子.md"
+  },
+  {
+    "name": "细辛",
+    "pharmacopoeiaName": "细辛",
+    "aliases": [],
+    "pinyin": "Xixin",
+    "latin": "ASARI RADIX ET RHIZOMA",
+    "natureFlavor": [
+      "辛",
+      "温"
+    ],
+    "channels": [
+      "心",
+      "肺",
+      "肾"
+    ],
+    "toxic": false,
+    "modernDose": "1~3g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·细辛·PDF第289页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/细辛.md"
+  },
+  {
+    "name": "香蒲",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": null,
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部未收载“香蒲”独立条目"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/香蒲.md"
+  },
+  {
+    "name": "硝石",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Xiaoshi",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/硝石.md"
+  },
+  {
+    "name": "薤白",
+    "pharmacopoeiaName": "薤白",
+    "aliases": [],
+    "pinyin": "Xiebai",
+    "latin": "ALLII MACROSTEMONIS BULBUS",
+    "natureFlavor": [
+      "辛",
+      "苦",
+      "温"
+    ],
+    "channels": [
+      "心",
+      "肺",
+      "胃",
+      "大肠"
+    ],
+    "toxic": false,
+    "modernDose": "5~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·薤白·PDF第441页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/薤白.md"
+  },
+  {
+    "name": "新绛",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Xinjiang",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部未收载“新绛”独立条目"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/新绛.md"
+  },
+  {
+    "name": "杏仁",
+    "pharmacopoeiaName": "苦杏仁",
+    "aliases": [],
+    "pinyin": "Kuxingren",
+    "latin": "ARMENIACAE SEMEN AMARUM",
+    "natureFlavor": [
+      "苦",
+      "微温"
+    ],
+    "channels": [
+      "肺",
+      "大肠"
+    ],
+    "toxic": true,
+    "modernDose": "5~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·苦杏仁·PDF第259页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/杏仁.md"
+  },
+  {
+    "name": "雄黄",
+    "pharmacopoeiaName": "雄黄",
+    "aliases": [],
+    "pinyin": "Xionghuang",
+    "latin": "REALGAR",
+    "natureFlavor": [
+      "辛",
+      "温"
+    ],
+    "channels": [
+      "肝",
+      "大肠"
+    ],
+    "toxic": true,
+    "modernDose": "0.05~0.1g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·雄黄·PDF第399页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/雄黄.md"
+  },
+  {
+    "name": "旋覆花",
+    "pharmacopoeiaName": "旋覆花",
+    "aliases": [],
+    "pinyin": "Xuanfuhua",
+    "latin": "INULAE FLOS",
+    "natureFlavor": [
+      "苦",
+      "辛",
+      "咸",
+      "微温"
+    ],
+    "channels": [
+      "肺",
+      "脾",
+      "胃",
+      "大肠"
+    ],
+    "toxic": false,
+    "modernDose": "3~9g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·旋覆花·PDF第388页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/旋覆花.md"
+  },
+  {
+    "name": "血余炭",
+    "pharmacopoeiaName": "血余炭",
+    "aliases": [
+      "乱发"
+    ],
+    "pinyin": "Xueyutan",
+    "latin": "CRINIS CARBONISATUS",
+    "natureFlavor": [
+      "苦",
+      "平"
+    ],
+    "channels": [
+      "肝",
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "5~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·血余炭·PDF第197页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/血余炭.md"
+  },
+  {
+    "name": "芫花",
+    "pharmacopoeiaName": "芫花",
+    "aliases": [],
+    "pinyin": "Yuanhua",
+    "latin": "GENKWA FLOS",
+    "natureFlavor": [
+      "苦",
+      "辛",
+      "温"
+    ],
+    "channels": [
+      "肺",
+      "脾",
+      "肾"
+    ],
+    "toxic": true,
+    "modernDose": "1.5~3g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·芫花·PDF第215页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/芫花.md"
+  },
+  {
+    "name": "盐",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": null,
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": false,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部未收载“盐”独立条目"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/盐.md"
+  },
+  {
+    "name": "薏苡仁",
+    "pharmacopoeiaName": "薏苡仁",
+    "aliases": [
+      "薏苡"
+    ],
+    "pinyin": "Yiyiren",
+    "latin": "COICIS SEMEN",
+    "natureFlavor": [
+      "甘",
+      "淡",
+      "凉"
+    ],
+    "channels": [
+      "脾",
+      "胃",
+      "肺"
+    ],
+    "toxic": false,
+    "modernDose": "9~30g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·薏苡仁·PDF第442页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/薏苡仁.md"
+  },
+  {
+    "name": "茵陈",
+    "pharmacopoeiaName": "茵陈",
+    "aliases": [],
+    "pinyin": "Yinchen",
+    "latin": "ARTEMISIAE SCOPARIAE HERBA",
+    "natureFlavor": [
+      "苦",
+      "辛",
+      "微寒"
+    ],
+    "channels": [
+      "脾",
+      "胃",
+      "肝",
+      "胆"
+    ],
+    "toxic": false,
+    "modernDose": "6~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·茵陈·PDF第299页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/茵陈.md"
+  },
+  {
+    "name": "禹余粮",
+    "pharmacopoeiaName": "禹余粮",
+    "aliases": [
+      "太一禹余粮",
+      "太乙禹余粮"
+    ],
+    "pinyin": "Yuyuliang",
+    "latin": "LIMONITUM",
+    "natureFlavor": [
+      "甘",
+      "涩",
+      "微寒"
+    ],
+    "channels": [
+      "胃",
+      "大肠"
+    ],
+    "toxic": false,
+    "modernDose": "9~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·禹余粮·PDF第322页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/禹余粮.md"
+  },
+  {
+    "name": "玉竹",
+    "pharmacopoeiaName": "玉竹",
+    "aliases": [
+      "萎蕤",
+      "葳蕤"
+    ],
+    "pinyin": "Yuzhu",
+    "latin": "POLYGONATI ODORATI RHIZOMA",
+    "natureFlavor": [
+      "甘",
+      "微寒"
+    ],
+    "channels": [
+      "肺",
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "6~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·玉竹·PDF第135页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/玉竹.md"
+  },
+  {
+    "name": "云母",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Yunmu",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/云母.md"
+  },
+  {
+    "name": "灶中黄土",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Zaozhonghuangtu",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/灶中黄土.md"
+  },
+  {
+    "name": "泽漆",
+    "pharmacopoeiaName": "泽漆",
+    "aliases": [],
+    "pinyin": null,
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部未收载“泽漆”独立条目"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/泽漆.md"
+  },
+  {
+    "name": "泽泻",
+    "pharmacopoeiaName": "泽泻",
+    "aliases": [],
+    "pinyin": "Zexie",
+    "latin": "ALISMATIS RHIZOMA",
+    "natureFlavor": [
+      "甘",
+      "淡",
+      "寒"
+    ],
+    "channels": [
+      "肾",
+      "膀胱"
+    ],
+    "toxic": false,
+    "modernDose": "6~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·泽泻·PDF第288页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/泽泻.md"
+  },
+  {
+    "name": "赭石",
+    "pharmacopoeiaName": "赭石",
+    "aliases": [
+      "代赭石"
+    ],
+    "pinyin": "Zheshi",
+    "latin": "HAEMATITUM",
+    "natureFlavor": [
+      "苦",
+      "寒"
+    ],
+    "channels": [
+      "肝",
+      "心",
+      "肺",
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "9~30g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·赭石·PDF第437页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/赭石.md"
+  },
+  {
+    "name": "䗪虫",
+    "pharmacopoeiaName": "土鳖虫",
+    "aliases": [
+      "虫"
+    ],
+    "pinyin": "Tubiechong",
+    "latin": "EUPOLYPHAGA STELEOPHAGA",
+    "natureFlavor": [
+      "咸",
+      "寒"
+    ],
+    "channels": [
+      "肝"
+    ],
+    "toxic": true,
+    "modernDose": "3~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·土鳖虫·PDF第68-69页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/䗪虫.md"
+  },
+  {
+    "name": "知母",
+    "pharmacopoeiaName": "知母",
+    "aliases": [],
+    "pinyin": "Zhimu",
+    "latin": "ANEMARRHENAE RHIZOMA",
+    "natureFlavor": [
+      "苦",
+      "甘",
+      "寒"
+    ],
+    "channels": [
+      "肺",
+      "胃",
+      "肾"
+    ],
+    "toxic": false,
+    "modernDose": "6~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·知母·PDF第271页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/知母.md"
+  },
+  {
+    "name": "栀子",
+    "pharmacopoeiaName": "栀子",
+    "aliases": [
+      "梔子",
+      "肥栀子"
+    ],
+    "pinyin": "Zhizi",
+    "latin": "GARDENIAE FRUCTUS",
+    "natureFlavor": [
+      "苦",
+      "寒"
+    ],
+    "channels": [
+      "心",
+      "肺",
+      "三焦"
+    ],
+    "toxic": false,
+    "modernDose": "6~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·栀子·PDF第308页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/栀子.md"
+  },
+  {
+    "name": "蜘蛛",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": null,
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部未收载“蜘蛛”独立条目"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/蜘蛛.md"
+  },
+  {
+    "name": "枳实",
+    "pharmacopoeiaName": "枳实",
+    "aliases": [],
+    "pinyin": "Zhishi",
+    "latin": "AURANTII FRUCTUS IMMATURUS",
+    "natureFlavor": [
+      "苦",
+      "辛",
+      "酸",
+      "微寒"
+    ],
+    "channels": [
+      "脾",
+      "胃"
+    ],
+    "toxic": false,
+    "modernDose": "3~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·枳实·PDF第307页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/枳实.md"
+  },
+  {
+    "name": "猪胆汁",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Zhudanzhi",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/猪胆汁.md"
+  },
+  {
+    "name": "猪肤",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Zhufu",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/猪肤.md"
+  },
+  {
+    "name": "猪苓",
+    "pharmacopoeiaName": "猪苓",
+    "aliases": [],
+    "pinyin": "Zhuling",
+    "latin": "POLYPORUS",
+    "natureFlavor": [
+      "甘",
+      "淡",
+      "平"
+    ],
+    "channels": [
+      "肾",
+      "膀胱"
+    ],
+    "toxic": false,
+    "modernDose": "6~12g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·猪苓·PDF第380页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/猪苓.md"
+  },
+  {
+    "name": "竹茹",
+    "pharmacopoeiaName": "竹茹",
+    "aliases": [],
+    "pinyin": "Zhuru",
+    "latin": "BAMBUSAE CAULIS IN TAENIAS",
+    "natureFlavor": [
+      "甘",
+      "微寒"
+    ],
+    "channels": [
+      "肺",
+      "胃",
+      "心",
+      "胆"
+    ],
+    "toxic": false,
+    "modernDose": "5~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·竹茹·PDF第194页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/竹茹.md"
+  },
+  {
+    "name": "紫参",
+    "pharmacopoeiaName": null,
+    "aliases": [],
+    "pinyin": "Zican",
+    "latin": null,
+    "natureFlavor": null,
+    "channels": null,
+    "toxic": null,
+    "modernDose": null,
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·待核"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/紫参.md"
+  },
+  {
+    "name": "紫石英",
+    "pharmacopoeiaName": "紫石英",
+    "aliases": [],
+    "pinyin": "Zishiying",
+    "latin": "FLUORITUM",
+    "natureFlavor": [
+      "甘",
+      "温"
+    ],
+    "channels": [
+      "肾",
+      "心",
+      "肺"
+    ],
+    "toxic": false,
+    "modernDose": "9~15g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·紫石英·PDF第400页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/紫石英.md"
+  },
+  {
+    "name": "紫苏叶",
+    "pharmacopoeiaName": "紫苏叶",
+    "aliases": [
+      "干苏叶",
+      "苏叶"
+    ],
+    "pinyin": "Zisuye",
+    "latin": "PERILLAE FOLIUM",
+    "natureFlavor": [
+      "辛",
+      "温"
+    ],
+    "channels": [
+      "肺",
+      "脾"
+    ],
+    "toxic": false,
+    "modernDose": "5~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·紫苏叶·PDF第403页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/紫苏叶.md"
+  },
+  {
+    "name": "紫菀",
+    "pharmacopoeiaName": "紫菀",
+    "aliases": [],
+    "pinyin": "Ziwan",
+    "latin": "ASTERIS RADIX ET RHIZOMA",
+    "natureFlavor": [
+      "辛",
+      "苦",
+      "温"
+    ],
+    "channels": [
+      "肺"
+    ],
+    "toxic": false,
+    "modernDose": "5~10g",
+    "sources": [
+      {
+        "kind": "剂量与性味",
+        "text": "中国药典2020年版一部·紫菀·PDF第406页"
+      },
+      {
+        "kind": "汉代折算",
+        "text": "剂量折算标准(一两=15g)"
+      }
+    ],
+    "verifyStatus": "待核",
+    "locator": "03_药物/紫菀.md"
+  }
+]

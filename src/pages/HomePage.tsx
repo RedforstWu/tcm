@@ -8,6 +8,7 @@ import {
   faPills,
   faGraduationCap,
   faCodeBranch,
+  faCircleNodes,
 } from '@fortawesome/free-solid-svg-icons'
 import type { DatasetIndex } from '@/types/data'
 import { loadIndex } from '@/lib/data'
@@ -30,6 +31,12 @@ const FEATURES = [
     title: '药物对比推导',
     desc: '经方看加减差异；陈傅看法解作用与本草新编药性对照。',
     icon: faFlask,
+  },
+  {
+    to: '/graph',
+    title: '本体关系图谱',
+    desc: '古籍、方剂、证候、药物之间的邻域关系，可搜索种子节点展开。',
+    icon: faCircleNodes,
   },
   {
     to: '/viz',

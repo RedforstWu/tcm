@@ -1,12 +1,21 @@
 import path from 'node:path'
 import type { Clause, Formula } from '../../src/types/data.ts'
 import { extractChenfuFormulaBlocks } from '../lib/chenfu-formula.ts'
+import { extractShishiFormulaBlocks } from '../lib/shishi-formula.ts'
 import {
   buildHerbLexicon,
   extractBencaoHerbNames,
 } from '../lib/herb-lexicon.ts'
 import { ensureDir, projectRoot, readText, writeJson } from '../lib/fs-utils.ts'
 import { toSimplifiedChinese } from '../lib/wiki.ts'
+
+/** 「=== 肥治法 ===」「== 卷二 ==」等 wiki 标题行属于下一节，不应留在上一条正文末尾 */
+function stripWikiHeadings(text: string): string {
+  return text
+    .replace(/^\s*==+[^=\n]+==+\s*$/gm, '')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim()
+}
 
 /**
  * 《石室秘录》：== 卷一 == / === 正医法 === / 论某病……
@@ -57,10 +66,11 @@ export async function runShishiParse(): Promise<{
       })
     }
 
+    // 长度阈值按含标题行的原始片段判断，以保持既有 clauseId 不漂移（链接与 LLM 标注依赖它）
     const segments: Array<{ title: string; text: string }> = []
     if (topics.length === 0) {
       if (body.trim().length > 40) {
-        segments.push({ title: method.title, text: body.trim() })
+        segments.push({ title: method.title, text: stripWikiHeadings(body) })
       }
     } else {
       for (let ti = 0; ti < topics.length; ti += 1) {
@@ -68,27 +78,28 @@ export async function runShishiParse(): Promise<{
         const stop = ti + 1 < topics.length ? topics[ti + 1]!.index : body.length
         const seg = body.slice(start, stop).trim()
         if (seg.length > 30) {
-          segments.push({ title: topics[ti]!.title, text: seg })
+          segments.push({ title: topics[ti]!.title, text: stripWikiHeadings(seg) })
         }
       }
     }
 
     for (let si = 0; si < segments.length; si += 1) {
       const seg = segments[si]!
-      // 石室秘录药味写法不一，尝试在「用」字后插入方用标记
-      let normalized = seg.text
-      if (!/方用/.test(normalized) && /[（(][^）)]*(?:两|兩|钱|錢)/.test(normalized)) {
-        normalized = normalized.replace(
-          /(?:用|方)\s*(?=[\u4e00-\u9fff]{1,8}[（(])/,
-          '方用\n',
-        )
-      }
-
       const clauseId = `shishi-${String(clauses.length + 1).padStart(4, '0')}`
-      const blocks = extractChenfuFormulaBlocks(normalized, {
-        anonymousPrefix: `${method.title}·${seg.title}`,
-        lexicon,
-      })
+      const anonymousPrefix = `${method.title}·第${si + 1}则`
+      let blocks = extractShishiFormulaBlocks(seg.text, { anonymousPrefix, lexicon })
+
+      if (blocks.length === 0) {
+        // 少数条目为「药（剂量）」括号写法，尝试在「用」字后插入方用标记交给通用解析器
+        let normalized = seg.text
+        if (!/方用/.test(normalized) && /[（(][^）)]*(?:两|兩|钱|錢)/.test(normalized)) {
+          normalized = normalized.replace(
+            /(?:用|方)\s*(?=[\u4e00-\u9fff]{1,8}[（(])/,
+            '方用\n',
+          )
+        }
+        blocks = extractChenfuFormulaBlocks(normalized, { anonymousPrefix, lexicon })
+      }
 
       const formulaIds: string[] = []
       let mainFormulaId: string | undefined

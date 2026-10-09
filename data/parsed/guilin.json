@@ -5177,7 +5177,7 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 18,
       "order": 348,
-      "text": "阳明病，自汗出，若发汗，小便自利者，此为津液内竭，便虽鞕不可攻之，当须自欲大便，宜蜜煎导而通之，若王瓜根，及大猪胆汁，皆可为导。蜜煎导方猪胆汁方",
+      "text": "阳明病，自汗出，若发汗，小便自利者，此为津液内竭，便虽鞕不可攻之，当须自欲大便，宜蜜煎导而通之，若王瓜根，及大猪胆汁，皆可为导。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -14915,8 +14915,8 @@
           "doseLiang": 2
         },
         {
-          "herbId": "括萎根",
-          "name": "括萎根",
+          "herbId": "天花粉",
+          "name": "天花粉",
           "rawText": "括萎根四两",
           "doseRaw": "四两",
           "doseLiang": 4
@@ -15116,6 +15116,15 @@
           "rawText": "黄芩一两",
           "doseRaw": "一两",
           "doseLiang": 1
+        },
+        {
+          "herbId": "附子",
+          "name": "附子",
+          "rawText": "附子一枚（炮 去皮 破八片 别煮取汁）",
+          "doseRaw": "一枚",
+          "doseCount": 1,
+          "processing": "炮、破、去皮",
+          "note": "炮 去皮 破八片 别煮取汁"
         }
       ],
       "preparation": "右四味，切三味，以麻沸汤二升渍之。须臾绞去滓，纳附子汁，分温再服。",
@@ -15367,7 +15376,7 @@
           "doseRaw": "一分"
         }
       ],
-      "preparation": "",
+      "preparation": "右二味，各别捣筛，为散已，合治之，取一钱匙，以香豉一合，用热汤七合，煮作稀糜，去津，取汁，和散温顿服之，不吐者，少少加，得快吐乃止。诸亡血虚家，不可与。",
       "modifications": [],
       "sourceClauseIds": [
         "guilin-288",
@@ -15724,13 +15733,49 @@
       "chapter": "辨阳明病脉证并治"
     },
     {
+      "id": "guilin-formula-蜜煎导",
+      "name": "蜜煎导",
+      "book": "guilin",
+      "herbs": [
+        {
+          "herbId": "食蜜",
+          "name": "食蜜",
+          "rawText": "食蜜七合",
+          "doseRaw": "七合",
+          "doseSheng": 0.7
+        }
+      ],
+      "preparation": "右一味，纳铜器中，微火煎之，稍凝如饴状，搅之勿令焦着，可丸时，并手撚作挺，令头锐，大如指，长二寸许，当热时急作，冷则鞕，纳谷道中，以手紧抱，欲大便时乃去之。",
+      "modifications": [],
+      "sourceClauseIds": [],
+      "chapter": "辨阳明病脉证并治"
+    },
+    {
+      "id": "guilin-formula-猪胆汁",
+      "name": "猪胆汁",
+      "book": "guilin",
+      "herbs": [
+        {
+          "herbId": "大猪胆",
+          "name": "大猪胆",
+          "rawText": "大猪胆一枚",
+          "doseRaw": "一枚",
+          "doseCount": 1
+        }
+      ],
+      "preparation": "右一味，泄汁，和醋少许，灌谷道中，如一食顷，当大便出宿食甚多。",
+      "modifications": [],
+      "sourceClauseIds": [],
+      "chapter": "辨阳明病脉证并治"
+    },
+    {
       "id": "guilin-formula-茵陈蒿汤",
       "name": "茵陈蒿汤",
       "book": "guilin",
       "herbs": [
         {
-          "herbId": "茵陈蒿",
-          "name": "茵陈蒿",
+          "herbId": "茵陈",
+          "name": "茵陈",
           "rawText": "茵陈蒿六两",
           "doseRaw": "六两",
           "doseLiang": 6
@@ -16200,11 +16245,20 @@
         {
           "herbId": "附子",
           "name": "附子",
-          "rawText": "附子一枚（炮 去皮 破八片）半夏半升（洗）",
+          "rawText": "附子一枚（炮 去皮 破八片）",
           "doseRaw": "一枚",
           "doseCount": 1,
-          "processing": "炮、洗、破、去皮",
-          "note": "炮 去皮 破八片半夏半升洗"
+          "processing": "炮、破、去皮",
+          "note": "炮 去皮 破八片"
+        },
+        {
+          "herbId": "半夏",
+          "name": "半夏",
+          "rawText": "半夏半升（洗）",
+          "doseRaw": "半升",
+          "doseSheng": 0.5,
+          "processing": "洗",
+          "note": "洗"
         },
         {
           "herbId": "甘草",
@@ -16683,11 +16737,20 @@
         {
           "herbId": "枳实",
           "name": "枳实",
-          "rawText": "枳实三枚（炙）半夏半升（洗）",
+          "rawText": "枳实三枚（炙）",
           "doseRaw": "三枚",
           "doseCount": 3,
-          "processing": "炙、洗",
-          "note": "炙半夏半升洗"
+          "processing": "炙",
+          "note": "炙"
+        },
+        {
+          "herbId": "半夏",
+          "name": "半夏",
+          "rawText": "半夏半升（洗）",
+          "doseRaw": "半升",
+          "doseSheng": 0.5,
+          "processing": "洗",
+          "note": "洗"
         },
         {
           "herbId": "陈皮",
@@ -18988,8 +19051,8 @@
       "book": "guilin",
       "herbs": [
         {
-          "herbId": "括萎根",
-          "name": "括萎根",
+          "herbId": "天花粉",
+          "name": "天花粉",
           "rawText": "括萎根三两",
           "doseRaw": "三两",
           "doseLiang": 3
@@ -19500,7 +19563,7 @@
           "rawText": "蜀椒一两（炒去汗）",
           "doseRaw": "一两",
           "doseLiang": 1,
-          "processing": "炒",
+          "processing": "炒、去汗",
           "note": "炒去汗"
         },
         {
@@ -19752,8 +19815,8 @@
           "doseLiang": 2
         },
         {
-          "herbId": "括萎根",
-          "name": "括萎根",
+          "herbId": "天花粉",
+          "name": "天花粉",
           "rawText": "括萎根四两",
           "doseRaw": "四两",
           "doseLiang": 4
@@ -21180,8 +21243,8 @@
       "book": "guilin",
       "herbs": [
         {
-          "herbId": "括萎根",
-          "name": "括萎根",
+          "herbId": "天花粉",
+          "name": "天花粉",
           "rawText": "括萎根二两",
           "doseRaw": "二两",
           "doseLiang": 2
@@ -21458,8 +21521,8 @@
           "note": "烧"
         },
         {
-          "herbId": "蒴藿细叶",
-          "name": "蒴藿细叶",
+          "herbId": "蒴藋细叶",
+          "name": "蒴藋细叶",
           "rawText": "蒴藿细叶十分（烧）",
           "doseRaw": "十分",
           "processing": "烧",
@@ -21878,8 +21941,8 @@
           "doseLiang": 15
         },
         {
-          "herbId": "大附子",
-          "name": "大附子",
+          "herbId": "附子",
+          "name": "附子",
           "rawText": "大附子十枚（炮 去皮）",
           "doseRaw": "十枚",
           "doseCount": 10,
@@ -22098,7 +22161,7 @@
           "doseLiang": 1
         }
       ],
-      "preparation": "",
+      "preparation": "右六味，末之，蜜丸如梧桐子大，酒下，强人初服三丸，日三服，弱者二二丸。兼治卒中恶，腹胀痛，口不能言，又治连年积冷，流注，心胸痛，冷气上冲，落马，坠车，血疾等，皆主之，忌口如常法。",
       "modifications": [],
       "sourceClauseIds": [
         "guilin-524"
@@ -23088,6 +23151,6 @@
   "stats": {
     "chapterCount": 31,
     "clauseCount": 531,
-    "formulaCount": 319
+    "formulaCount": 321
   }
 }

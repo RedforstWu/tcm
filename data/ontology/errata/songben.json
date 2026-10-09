@@ -1,0 +1,93 @@
+[
+  {
+    "id": "songben-errata-243-wuzhuyu-junk",
+    "bookId": "songben",
+    "clauseNumber": 243,
+    "find": "(君)+四逆散(臣)+牡丹皮(佐)+澤舍(佐)+茯苓(佐)+黃蓮(史)+黃芩(史)+丹參(史)+桂枝(史)+紫蘇(史)+薄荷(史)",
+    "replace": "",
+    "basis": {
+      "sourceId": "jobkoko@4d4aefd",
+      "locator": "S-003-伤寒论宋版.txt#伤寒论(宋本)",
+      "quote": "吴茱萸一升，汤洗七遍 人参三两 大枣十二枚，擘 生姜六两，切"
+    },
+    "note": "维基宋本第 243 条吴茱萸汤药味后混入篡改文字（君臣佐使标注及四逆散、牡丹皮等），宋版无此文字。宋版第 243 条只作「吴茱萸汤。方二十九。」未列组成；引文取同方第 378 条（宋版第 309 条亦同为四味），方后「右四味」，与维基「上四味」一致，故删去混入文字。"
+  },
+  {
+    "id": "songben-errata-243-wuzhuyu-heading",
+    "bookId": "songben",
+    "clauseNumber": 243,
+    "find": "::吳茱萸一升（洗）",
+    "replace": ":;吳茱萸湯方\n::吳茱萸一升（洗）",
+    "basis": {
+      "sourceId": "jobkoko@4d4aefd",
+      "locator": "S-003-伤寒论宋版.txt#伤寒论(宋本)",
+      "quote": "食谷欲呕，属阳明也，吴茱萸汤主之。得汤反剧者，属上焦也。吴茱萸汤。方二十九。"
+    },
+    "note": "维基宋本第 243 条后的吴茱萸汤组成缺方题，解析器无法建模该方；宋版于本条出「吴茱萸汤。方二十九。」，按本书其他方剂方题格式补「吳茱萸湯方」。"
+  },
+  {
+    "id": "songben-errata-117-guizhi-jiagui-dose",
+    "bookId": "songben",
+    "clauseNumber": 117,
+    "find": "桂枝三兩（去皮）　芍藥三兩　生薑三兩（切）　甘草二兩（炙）　大棗十二枚（擘）",
+    "replace": "桂枝五兩（去皮）　芍藥三兩　生薑三兩（切）　甘草二兩（炙）　大棗十二枚（擘）",
+    "basis": {
+      "sourceId": "jobkoko@4d4aefd",
+      "locator": "S-003-伤寒论宋版.txt#伤寒论(宋本)",
+      "quote": "桂枝五两，去皮 芍药三两 生姜三两，切 甘草二两，炙 大枣十二枚，擘"
+    },
+    "note": "桂枝加桂汤桂枝维基作三两，宋版作五两；宋版方后注「本云，桂枝汤今加桂满五两」亦可互证。"
+  },
+  {
+    "id": "songben-errata-172-huangqin-dazao",
+    "bookId": "songben",
+    "clauseNumber": 172,
+    "find": "黃芩三兩　芍藥二兩　甘草二兩（炙）　大棗二十枚（擘）",
+    "replace": "黃芩三兩　芍藥二兩　甘草二兩（炙）　大棗十二枚（擘）",
+    "basis": {
+      "sourceId": "jobkoko@4d4aefd",
+      "locator": "S-003-伤寒论宋版.txt#伤寒论(宋本)",
+      "quote": "黄芩三两 芍药二两 甘草二两，炙 大枣十二枚，擘"
+    },
+    "note": "黄芩汤大枣维基作二十枚，宋版作十二枚。"
+  },
+  {
+    "id": "songben-errata-397-zhuye-shigao-banxia",
+    "bookId": "songben",
+    "clauseNumber": 397,
+    "find": "石膏一斤　半夏半斤（洗）",
+    "replace": "石膏一斤　半夏半升（洗）",
+    "basis": {
+      "sourceId": "jobkoko@4d4aefd",
+      "locator": "S-003-伤寒论宋版.txt#伤寒论(宋本)",
+      "quote": "竹叶二把 石膏一斤 半夏半升，洗 麦门冬一升，去心 人参二两 甘草二两，炙 粳米半升"
+    },
+    "note": "竹叶石膏汤半夏维基作半斤，宋版作半升。"
+  },
+  {
+    "id": "songben-errata-155-fuzi-xiexin-fuzi",
+    "bookId": "songben",
+    "clauseNumber": 155,
+    "find": "黃芩一兩　附子一兩（炮，去皮，破，別煮取汁）",
+    "replace": "黃芩一兩　附子一枚（炮，去皮，破，別煮取汁）",
+    "basis": {
+      "sourceId": "jobkoko@4d4aefd",
+      "locator": "S-003-伤寒论宋版.txt#伤寒论(宋本)",
+      "quote": "大黄二两 黄连一两 黄芩一两 附子一枚，炮，去皮，破，别煮取汁"
+    },
+    "note": "附子泻心汤附子维基作一两，宋版作一枚（炮，去皮，破，别煮取汁）；修治注语维基与宋版相同，仅改剂量。"
+  },
+  {
+    "id": "songben-errata-64-guizhi-gancao-heading",
+    "bookId": "songben",
+    "clauseNumber": 64,
+    "find": ":;桂技甘草湯方",
+    "replace": ":;桂枝甘草湯方",
+    "basis": {
+      "sourceId": "jobkoko@4d4aefd",
+      "locator": "S-003-伤寒论宋版.txt#伤寒论(宋本)",
+      "quote": "发汗过多，其人叉手自冒心，心下悸，欲得按者，桂枝甘草汤主之。方二十七。"
+    },
+    "note": "维基宋本第 64 条方题误作「桂技甘草湯方」，宋版作桂枝甘草汤。"
+  }
+]

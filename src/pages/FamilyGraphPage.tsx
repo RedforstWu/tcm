@@ -2,6 +2,7 @@ import { useCallback, useEffect, useMemo, useState } from 'react'
 import ReactECharts from 'echarts-for-react'
 import { Link } from 'react-router-dom'
 import type { Clause, Formula, FormulaDiffPair, FormulaFamily } from '@/types/data'
+import { BOOK_BY_ID, JINGFANG_BOOKS } from '@/types/data'
 import { loadAllClauses, loadDiffPairs, loadFamilies, loadFormulas } from '@/lib/data'
 import {
   buildFamilyRelations,
@@ -14,17 +15,13 @@ import { useIsCompactScreen } from '@/lib/use-media-query'
 const GRAPH_HEIGHT = 580
 const GRAPH_HEIGHT_COMPACT = 440
 
-const JINGFANG_BOOKS = new Set(['songben', 'jingui', 'guilin'])
-const BOOK_LABEL: Record<string, string> = {
-  songben: '宋本',
-  jingui: '金匮',
-  guilin: '桂林',
-}
-const BOOK_COLOR: Record<string, string> = {
-  songben: '#0f766e',
-  jingui: '#b45309',
-  guilin: '#7c3aed',
-}
+const JINGFANG_BOOK_SET = new Set<string>(JINGFANG_BOOKS)
+const BOOK_LABEL: Record<string, string> = Object.fromEntries(
+  JINGFANG_BOOKS.map((id) => [id, BOOK_BY_ID[id].shortName]),
+)
+const BOOK_COLOR: Record<string, string> = Object.fromEntries(
+  JINGFANG_BOOKS.map((id) => [id, BOOK_BY_ID[id].color]),
+)
 
 const EDGE_STYLE = {
   add: { color: '#0f766e', label: '加', lineType: 'solid' as const, width: 2 },
@@ -54,7 +51,7 @@ export function FamilyGraphPage() {
       loadDiffPairs(),
       loadAllClauses('jingfang'),
     ]).then(([formulaList, familyList, diffList, clauseList]) => {
-      const jingfang = formulaList.filter((item) => JINGFANG_BOOKS.has(item.book))
+      const jingfang = formulaList.filter((item) => JINGFANG_BOOK_SET.has(item.book))
       const jingfangIds = new Set(jingfang.map((item) => item.id))
       const usableFamilies = familyList
         .map((family) => ({

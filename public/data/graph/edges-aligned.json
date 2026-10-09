@@ -1,0 +1,3511 @@
+[
+  {
+    "id": "aligned:songben-1->guilin-171",
+    "type": "aligned",
+    "from": "songben-1",
+    "to": "guilin-171",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-2->guilin-172",
+    "type": "aligned",
+    "from": "songben-2",
+    "to": "guilin-172",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-3->guilin-173",
+    "type": "aligned",
+    "from": "songben-3",
+    "to": "guilin-173",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.935
+    }
+  },
+  {
+    "id": "aligned:songben-4->guilin-174",
+    "type": "aligned",
+    "from": "songben-4",
+    "to": "guilin-174",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.956
+    }
+  },
+  {
+    "id": "aligned:songben-5->guilin-175",
+    "type": "aligned",
+    "from": "songben-5",
+    "to": "guilin-175",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.889
+    }
+  },
+  {
+    "id": "aligned:songben-6->guilin-176",
+    "type": "aligned",
+    "from": "songben-6",
+    "to": "guilin-176",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.017
+    }
+  },
+  {
+    "id": "aligned:songben-7->guilin-177",
+    "type": "aligned",
+    "from": "songben-7",
+    "to": "guilin-177",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.903
+    }
+  },
+  {
+    "id": "aligned:songben-8->guilin-178",
+    "type": "aligned",
+    "from": "songben-8",
+    "to": "guilin-178",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-9->guilin-179",
+    "type": "aligned",
+    "from": "songben-9",
+    "to": "guilin-179",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-10->guilin-180",
+    "type": "aligned",
+    "from": "songben-10",
+    "to": "guilin-180",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-11->guilin-181",
+    "type": "aligned",
+    "from": "songben-11",
+    "to": "guilin-181",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.988
+    }
+  },
+  {
+    "id": "aligned:songben-12->guilin-182",
+    "type": "aligned",
+    "from": "songben-12",
+    "to": "guilin-182",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.435
+    }
+  },
+  {
+    "id": "aligned:songben-13->guilin-183",
+    "type": "aligned",
+    "from": "songben-13",
+    "to": "guilin-183",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.953
+    }
+  },
+  {
+    "id": "aligned:songben-14->guilin-184",
+    "type": "aligned",
+    "from": "songben-14",
+    "to": "guilin-184",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.536
+    }
+  },
+  {
+    "id": "aligned:songben-15->guilin-185",
+    "type": "aligned",
+    "from": "songben-15",
+    "to": "guilin-185",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.935
+    }
+  },
+  {
+    "id": "aligned:songben-16->guilin-186",
+    "type": "aligned",
+    "from": "songben-16",
+    "to": "guilin-186",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.709
+    }
+  },
+  {
+    "id": "aligned:songben-20->guilin-187",
+    "type": "aligned",
+    "from": "songben-20",
+    "to": "guilin-187",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.689
+    }
+  },
+  {
+    "id": "aligned:songben-21->guilin-188",
+    "type": "aligned",
+    "from": "songben-21",
+    "to": "guilin-188",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.529
+    }
+  },
+  {
+    "id": "aligned:songben-22->guilin-189",
+    "type": "aligned",
+    "from": "songben-22",
+    "to": "guilin-189",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.399
+    }
+  },
+  {
+    "id": "aligned:songben-23->guilin-190",
+    "type": "aligned",
+    "from": "songben-23",
+    "to": "guilin-190",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.661
+    }
+  },
+  {
+    "id": "aligned:songben-24->guilin-192",
+    "type": "aligned",
+    "from": "songben-24",
+    "to": "guilin-192",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.777
+    }
+  },
+  {
+    "id": "aligned:songben-25->guilin-193",
+    "type": "aligned",
+    "from": "songben-25",
+    "to": "guilin-193",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.41
+    }
+  },
+  {
+    "id": "aligned:songben-26->guilin-194",
+    "type": "aligned",
+    "from": "songben-26",
+    "to": "guilin-194",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.646
+    }
+  },
+  {
+    "id": "aligned:songben-27->guilin-195",
+    "type": "aligned",
+    "from": "songben-27",
+    "to": "guilin-195",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.585
+    }
+  },
+  {
+    "id": "aligned:songben-28->guilin-196",
+    "type": "aligned",
+    "from": "songben-28",
+    "to": "guilin-196",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.012
+    }
+  },
+  {
+    "id": "aligned:songben-29->guilin-197",
+    "type": "aligned",
+    "from": "songben-29",
+    "to": "guilin-197",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.994
+    }
+  },
+  {
+    "id": "aligned:songben-31->guilin-199",
+    "type": "aligned",
+    "from": "songben-31",
+    "to": "guilin-199",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.438
+    }
+  },
+  {
+    "id": "aligned:songben-32->guilin-200",
+    "type": "aligned",
+    "from": "songben-32",
+    "to": "guilin-200",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.395
+    }
+  },
+  {
+    "id": "aligned:songben-33->guilin-200",
+    "type": "aligned",
+    "from": "songben-33",
+    "to": "guilin-200",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.424
+    }
+  },
+  {
+    "id": "aligned:songben-34->guilin-201",
+    "type": "aligned",
+    "from": "songben-34",
+    "to": "guilin-201",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.785
+    }
+  },
+  {
+    "id": "aligned:songben-35->guilin-202",
+    "type": "aligned",
+    "from": "songben-35",
+    "to": "guilin-202",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-36->guilin-203",
+    "type": "aligned",
+    "from": "songben-36",
+    "to": "guilin-203",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.969
+    }
+  },
+  {
+    "id": "aligned:songben-37->guilin-204",
+    "type": "aligned",
+    "from": "songben-37",
+    "to": "guilin-204",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.66
+    }
+  },
+  {
+    "id": "aligned:songben-38->guilin-205",
+    "type": "aligned",
+    "from": "songben-38",
+    "to": "guilin-205",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.661
+    }
+  },
+  {
+    "id": "aligned:songben-39->guilin-206",
+    "type": "aligned",
+    "from": "songben-39",
+    "to": "guilin-206",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.874
+    }
+  },
+  {
+    "id": "aligned:songben-40->guilin-207",
+    "type": "aligned",
+    "from": "songben-40",
+    "to": "guilin-207",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.524
+    }
+  },
+  {
+    "id": "aligned:songben-41->guilin-208",
+    "type": "aligned",
+    "from": "songben-41",
+    "to": "guilin-208",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.002
+    }
+  },
+  {
+    "id": "aligned:songben-42->guilin-209",
+    "type": "aligned",
+    "from": "songben-42",
+    "to": "guilin-209",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.969
+    }
+  },
+  {
+    "id": "aligned:songben-43->guilin-210",
+    "type": "aligned",
+    "from": "songben-43",
+    "to": "guilin-210",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.588
+    }
+  },
+  {
+    "id": "aligned:songben-44->guilin-211",
+    "type": "aligned",
+    "from": "songben-44",
+    "to": "guilin-211",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.963
+    }
+  },
+  {
+    "id": "aligned:songben-45->guilin-212",
+    "type": "aligned",
+    "from": "songben-45",
+    "to": "guilin-212",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.007
+    }
+  },
+  {
+    "id": "aligned:songben-46->guilin-213",
+    "type": "aligned",
+    "from": "songben-46",
+    "to": "guilin-213",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.024
+    }
+  },
+  {
+    "id": "aligned:songben-48->guilin-214",
+    "type": "aligned",
+    "from": "songben-48",
+    "to": "guilin-214",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.713
+    }
+  },
+  {
+    "id": "aligned:songben-50->guilin-215",
+    "type": "aligned",
+    "from": "songben-50",
+    "to": "guilin-215",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.709
+    }
+  },
+  {
+    "id": "aligned:songben-51->guilin-216",
+    "type": "aligned",
+    "from": "songben-51",
+    "to": "guilin-216",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.467
+    }
+  },
+  {
+    "id": "aligned:songben-52->guilin-216",
+    "type": "aligned",
+    "from": "songben-52",
+    "to": "guilin-216",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.659
+    }
+  },
+  {
+    "id": "aligned:songben-53->guilin-217",
+    "type": "aligned",
+    "from": "songben-53",
+    "to": "guilin-217",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.545
+    }
+  },
+  {
+    "id": "aligned:songben-54->guilin-218",
+    "type": "aligned",
+    "from": "songben-54",
+    "to": "guilin-218",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.898
+    }
+  },
+  {
+    "id": "aligned:songben-55->guilin-219",
+    "type": "aligned",
+    "from": "songben-55",
+    "to": "guilin-219",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.959
+    }
+  },
+  {
+    "id": "aligned:songben-56->guilin-220",
+    "type": "aligned",
+    "from": "songben-56",
+    "to": "guilin-220",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.879
+    }
+  },
+  {
+    "id": "aligned:songben-67->guilin-222",
+    "type": "aligned",
+    "from": "songben-67",
+    "to": "guilin-222",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.633
+    }
+  },
+  {
+    "id": "aligned:songben-68->guilin-222",
+    "type": "aligned",
+    "from": "songben-68",
+    "to": "guilin-222",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.364
+    }
+  },
+  {
+    "id": "aligned:songben-70->guilin-222",
+    "type": "aligned",
+    "from": "songben-70",
+    "to": "guilin-222",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.444
+    }
+  },
+  {
+    "id": "aligned:songben-71->guilin-223",
+    "type": "aligned",
+    "from": "songben-71",
+    "to": "guilin-223",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.944
+    }
+  },
+  {
+    "id": "aligned:songben-72->guilin-224",
+    "type": "aligned",
+    "from": "songben-72",
+    "to": "guilin-224",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.65
+    }
+  },
+  {
+    "id": "aligned:songben-73->guilin-225",
+    "type": "aligned",
+    "from": "songben-73",
+    "to": "guilin-225",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.868
+    }
+  },
+  {
+    "id": "aligned:songben-74->guilin-226",
+    "type": "aligned",
+    "from": "songben-74",
+    "to": "guilin-226",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.357
+    }
+  },
+  {
+    "id": "aligned:songben-75->guilin-226",
+    "type": "aligned",
+    "from": "songben-75",
+    "to": "guilin-226",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.407
+    }
+  },
+  {
+    "id": "aligned:songben-76->guilin-226",
+    "type": "aligned",
+    "from": "songben-76",
+    "to": "guilin-226",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.571
+    }
+  },
+  {
+    "id": "aligned:songben-78->guilin-227",
+    "type": "aligned",
+    "from": "songben-78",
+    "to": "guilin-227",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.762
+    }
+  },
+  {
+    "id": "aligned:songben-79->guilin-227",
+    "type": "aligned",
+    "from": "songben-79",
+    "to": "guilin-227",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.542
+    }
+  },
+  {
+    "id": "aligned:songben-80->guilin-228",
+    "type": "aligned",
+    "from": "songben-80",
+    "to": "guilin-228",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.717
+    }
+  },
+  {
+    "id": "aligned:songben-82->guilin-229",
+    "type": "aligned",
+    "from": "songben-82",
+    "to": "guilin-229",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.387
+    }
+  },
+  {
+    "id": "aligned:songben-89->guilin-230",
+    "type": "aligned",
+    "from": "songben-89",
+    "to": "guilin-230",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.959
+    }
+  },
+  {
+    "id": "aligned:songben-90->guilin-231",
+    "type": "aligned",
+    "from": "songben-90",
+    "to": "guilin-231",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.989
+    }
+  },
+  {
+    "id": "aligned:songben-91->guilin-232",
+    "type": "aligned",
+    "from": "songben-91",
+    "to": "guilin-232",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.003
+    }
+  },
+  {
+    "id": "aligned:songben-93->guilin-233",
+    "type": "aligned",
+    "from": "songben-93",
+    "to": "guilin-233",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.891
+    }
+  },
+  {
+    "id": "aligned:songben-94->guilin-234",
+    "type": "aligned",
+    "from": "songben-94",
+    "to": "guilin-234",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.823
+    }
+  },
+  {
+    "id": "aligned:songben-95->guilin-235",
+    "type": "aligned",
+    "from": "songben-95",
+    "to": "guilin-235",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.976
+    }
+  },
+  {
+    "id": "aligned:songben-96->guilin-236",
+    "type": "aligned",
+    "from": "songben-96",
+    "to": "guilin-236",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.43
+    }
+  },
+  {
+    "id": "aligned:songben-97->guilin-236",
+    "type": "aligned",
+    "from": "songben-97",
+    "to": "guilin-236",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.417
+    }
+  },
+  {
+    "id": "aligned:songben-98->guilin-237",
+    "type": "aligned",
+    "from": "songben-98",
+    "to": "guilin-237",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.907
+    }
+  },
+  {
+    "id": "aligned:songben-99->guilin-238",
+    "type": "aligned",
+    "from": "songben-99",
+    "to": "guilin-238",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.993
+    }
+  },
+  {
+    "id": "aligned:songben-100->guilin-239",
+    "type": "aligned",
+    "from": "songben-100",
+    "to": "guilin-239",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.962
+    }
+  },
+  {
+    "id": "aligned:songben-101->guilin-240",
+    "type": "aligned",
+    "from": "songben-101",
+    "to": "guilin-240",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.948
+    }
+  },
+  {
+    "id": "aligned:songben-102->guilin-241",
+    "type": "aligned",
+    "from": "songben-102",
+    "to": "guilin-241",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.959
+    }
+  },
+  {
+    "id": "aligned:songben-103->guilin-242",
+    "type": "aligned",
+    "from": "songben-103",
+    "to": "guilin-242",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.736
+    }
+  },
+  {
+    "id": "aligned:songben-104->guilin-243",
+    "type": "aligned",
+    "from": "songben-104",
+    "to": "guilin-243",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.764
+    }
+  },
+  {
+    "id": "aligned:songben-105->guilin-244",
+    "type": "aligned",
+    "from": "songben-105",
+    "to": "guilin-244",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.971
+    }
+  },
+  {
+    "id": "aligned:songben-106->guilin-245",
+    "type": "aligned",
+    "from": "songben-106",
+    "to": "guilin-245",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.939
+    }
+  },
+  {
+    "id": "aligned:songben-107->guilin-246",
+    "type": "aligned",
+    "from": "songben-107",
+    "to": "guilin-246",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.562
+    }
+  },
+  {
+    "id": "aligned:songben-108->guilin-247",
+    "type": "aligned",
+    "from": "songben-108",
+    "to": "guilin-247",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.876
+    }
+  },
+  {
+    "id": "aligned:songben-109->guilin-248",
+    "type": "aligned",
+    "from": "songben-109",
+    "to": "guilin-248",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.775
+    }
+  },
+  {
+    "id": "aligned:songben-110->guilin-249",
+    "type": "aligned",
+    "from": "songben-110",
+    "to": "guilin-249",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.878
+    }
+  },
+  {
+    "id": "aligned:songben-111->guilin-250",
+    "type": "aligned",
+    "from": "songben-111",
+    "to": "guilin-250",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.96
+    }
+  },
+  {
+    "id": "aligned:songben-112->guilin-251",
+    "type": "aligned",
+    "from": "songben-112",
+    "to": "guilin-251",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.465
+    }
+  },
+  {
+    "id": "aligned:songben-113->guilin-251",
+    "type": "aligned",
+    "from": "songben-113",
+    "to": "guilin-251",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.418
+    }
+  },
+  {
+    "id": "aligned:songben-114->guilin-252",
+    "type": "aligned",
+    "from": "songben-114",
+    "to": "guilin-252",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-115->guilin-253",
+    "type": "aligned",
+    "from": "songben-115",
+    "to": "guilin-253",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.426
+    }
+  },
+  {
+    "id": "aligned:songben-116->guilin-253",
+    "type": "aligned",
+    "from": "songben-116",
+    "to": "guilin-253",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.56
+    }
+  },
+  {
+    "id": "aligned:songben-117->guilin-254",
+    "type": "aligned",
+    "from": "songben-117",
+    "to": "guilin-254",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.534
+    }
+  },
+  {
+    "id": "aligned:songben-119->guilin-255",
+    "type": "aligned",
+    "from": "songben-119",
+    "to": "guilin-255",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-120->guilin-256",
+    "type": "aligned",
+    "from": "songben-120",
+    "to": "guilin-256",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.895
+    }
+  },
+  {
+    "id": "aligned:songben-122->guilin-257",
+    "type": "aligned",
+    "from": "songben-122",
+    "to": "guilin-257",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.876
+    }
+  },
+  {
+    "id": "aligned:songben-123->guilin-258",
+    "type": "aligned",
+    "from": "songben-123",
+    "to": "guilin-258",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.739
+    }
+  },
+  {
+    "id": "aligned:songben-124->guilin-259",
+    "type": "aligned",
+    "from": "songben-124",
+    "to": "guilin-259",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.866
+    }
+  },
+  {
+    "id": "aligned:songben-125->guilin-260",
+    "type": "aligned",
+    "from": "songben-125",
+    "to": "guilin-260",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.01
+    }
+  },
+  {
+    "id": "aligned:songben-126->guilin-261",
+    "type": "aligned",
+    "from": "songben-126",
+    "to": "guilin-261",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.602
+    }
+  },
+  {
+    "id": "aligned:songben-127->guilin-262",
+    "type": "aligned",
+    "from": "songben-127",
+    "to": "guilin-262",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-134->guilin-264",
+    "type": "aligned",
+    "from": "songben-134",
+    "to": "guilin-264",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.967
+    }
+  },
+  {
+    "id": "aligned:songben-135->guilin-265",
+    "type": "aligned",
+    "from": "songben-135",
+    "to": "guilin-265",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.828
+    }
+  },
+  {
+    "id": "aligned:songben-136->guilin-266",
+    "type": "aligned",
+    "from": "songben-136",
+    "to": "guilin-266",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.65
+    }
+  },
+  {
+    "id": "aligned:songben-137->guilin-267",
+    "type": "aligned",
+    "from": "songben-137",
+    "to": "guilin-267",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.857
+    }
+  },
+  {
+    "id": "aligned:songben-138->guilin-267",
+    "type": "aligned",
+    "from": "songben-138",
+    "to": "guilin-267",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.505
+    }
+  },
+  {
+    "id": "aligned:songben-139->guilin-268",
+    "type": "aligned",
+    "from": "songben-139",
+    "to": "guilin-268",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.951
+    }
+  },
+  {
+    "id": "aligned:songben-140->guilin-269",
+    "type": "aligned",
+    "from": "songben-140",
+    "to": "guilin-269",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.011
+    }
+  },
+  {
+    "id": "aligned:songben-141->guilin-270",
+    "type": "aligned",
+    "from": "songben-141",
+    "to": "guilin-270",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.807
+    }
+  },
+  {
+    "id": "aligned:songben-142->guilin-272",
+    "type": "aligned",
+    "from": "songben-142",
+    "to": "guilin-272",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.458
+    }
+  },
+  {
+    "id": "aligned:songben-143->guilin-272",
+    "type": "aligned",
+    "from": "songben-143",
+    "to": "guilin-272",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.409
+    }
+  },
+  {
+    "id": "aligned:songben-144->guilin-272",
+    "type": "aligned",
+    "from": "songben-144",
+    "to": "guilin-272",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.356
+    }
+  },
+  {
+    "id": "aligned:songben-146->guilin-273",
+    "type": "aligned",
+    "from": "songben-146",
+    "to": "guilin-273",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.644
+    }
+  },
+  {
+    "id": "aligned:songben-147->guilin-274",
+    "type": "aligned",
+    "from": "songben-147",
+    "to": "guilin-274",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.806
+    }
+  },
+  {
+    "id": "aligned:songben-148->guilin-275",
+    "type": "aligned",
+    "from": "songben-148",
+    "to": "guilin-275",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.986
+    }
+  },
+  {
+    "id": "aligned:songben-149->guilin-276",
+    "type": "aligned",
+    "from": "songben-149",
+    "to": "guilin-276",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.879
+    }
+  },
+  {
+    "id": "aligned:songben-150->guilin-277",
+    "type": "aligned",
+    "from": "songben-150",
+    "to": "guilin-277",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.406
+    }
+  },
+  {
+    "id": "aligned:songben-151->guilin-277",
+    "type": "aligned",
+    "from": "songben-151",
+    "to": "guilin-277",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.422
+    }
+  },
+  {
+    "id": "aligned:songben-152->guilin-278",
+    "type": "aligned",
+    "from": "songben-152",
+    "to": "guilin-278",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.84
+    }
+  },
+  {
+    "id": "aligned:songben-153->guilin-279",
+    "type": "aligned",
+    "from": "songben-153",
+    "to": "guilin-279",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.649
+    }
+  },
+  {
+    "id": "aligned:songben-156->guilin-279",
+    "type": "aligned",
+    "from": "songben-156",
+    "to": "guilin-279",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.447
+    }
+  },
+  {
+    "id": "aligned:songben-157->guilin-280",
+    "type": "aligned",
+    "from": "songben-157",
+    "to": "guilin-280",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.717
+    }
+  },
+  {
+    "id": "aligned:songben-158->guilin-281",
+    "type": "aligned",
+    "from": "songben-158",
+    "to": "guilin-281",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.868
+    }
+  },
+  {
+    "id": "aligned:songben-159->guilin-282",
+    "type": "aligned",
+    "from": "songben-159",
+    "to": "guilin-282",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.755
+    }
+  },
+  {
+    "id": "aligned:songben-160->guilin-283",
+    "type": "aligned",
+    "from": "songben-160",
+    "to": "guilin-283",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-161->guilin-284",
+    "type": "aligned",
+    "from": "songben-161",
+    "to": "guilin-284",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.635
+    }
+  },
+  {
+    "id": "aligned:songben-163->guilin-285",
+    "type": "aligned",
+    "from": "songben-163",
+    "to": "guilin-285",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-164->guilin-286",
+    "type": "aligned",
+    "from": "songben-164",
+    "to": "guilin-286",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.837
+    }
+  },
+  {
+    "id": "aligned:songben-165->guilin-287",
+    "type": "aligned",
+    "from": "songben-165",
+    "to": "guilin-287",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.731
+    }
+  },
+  {
+    "id": "aligned:songben-166->guilin-288",
+    "type": "aligned",
+    "from": "songben-166",
+    "to": "guilin-288",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.933
+    }
+  },
+  {
+    "id": "aligned:songben-167->guilin-289",
+    "type": "aligned",
+    "from": "songben-167",
+    "to": "guilin-289",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.907
+    }
+  },
+  {
+    "id": "aligned:songben-168->guilin-290",
+    "type": "aligned",
+    "from": "songben-168",
+    "to": "guilin-290",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-169->guilin-291",
+    "type": "aligned",
+    "from": "songben-169",
+    "to": "guilin-291",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.983
+    }
+  },
+  {
+    "id": "aligned:songben-170->guilin-292",
+    "type": "aligned",
+    "from": "songben-170",
+    "to": "guilin-292",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.833
+    }
+  },
+  {
+    "id": "aligned:songben-171->guilin-293",
+    "type": "aligned",
+    "from": "songben-171",
+    "to": "guilin-293",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.85
+    }
+  },
+  {
+    "id": "aligned:songben-172->guilin-294",
+    "type": "aligned",
+    "from": "songben-172",
+    "to": "guilin-294",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.692
+    }
+  },
+  {
+    "id": "aligned:songben-173->guilin-295",
+    "type": "aligned",
+    "from": "songben-173",
+    "to": "guilin-295",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.543
+    }
+  },
+  {
+    "id": "aligned:songben-175->guilin-162",
+    "type": "aligned",
+    "from": "songben-175",
+    "to": "guilin-162",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.494
+    }
+  },
+  {
+    "id": "aligned:songben-176->guilin-296",
+    "type": "aligned",
+    "from": "songben-176",
+    "to": "guilin-296",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.535
+    }
+  },
+  {
+    "id": "aligned:songben-178->guilin-42",
+    "type": "aligned",
+    "from": "songben-178",
+    "to": "guilin-42",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.625
+    }
+  },
+  {
+    "id": "aligned:songben-179->guilin-298",
+    "type": "aligned",
+    "from": "songben-179",
+    "to": "guilin-298",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-180->guilin-299",
+    "type": "aligned",
+    "from": "songben-180",
+    "to": "guilin-299",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-181->guilin-300",
+    "type": "aligned",
+    "from": "songben-181",
+    "to": "guilin-300",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-182->guilin-301",
+    "type": "aligned",
+    "from": "songben-182",
+    "to": "guilin-301",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.98
+    }
+  },
+  {
+    "id": "aligned:songben-183->guilin-302",
+    "type": "aligned",
+    "from": "songben-183",
+    "to": "guilin-302",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.57
+    }
+  },
+  {
+    "id": "aligned:songben-184->guilin-302",
+    "type": "aligned",
+    "from": "songben-184",
+    "to": "guilin-302",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.615
+    }
+  },
+  {
+    "id": "aligned:songben-185->guilin-303",
+    "type": "aligned",
+    "from": "songben-185",
+    "to": "guilin-303",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.76
+    }
+  },
+  {
+    "id": "aligned:songben-186->guilin-304",
+    "type": "aligned",
+    "from": "songben-186",
+    "to": "guilin-304",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.717
+    }
+  },
+  {
+    "id": "aligned:songben-187->guilin-305",
+    "type": "aligned",
+    "from": "songben-187",
+    "to": "guilin-305",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-188->guilin-306",
+    "type": "aligned",
+    "from": "songben-188",
+    "to": "guilin-306",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.819
+    }
+  },
+  {
+    "id": "aligned:songben-189->guilin-307",
+    "type": "aligned",
+    "from": "songben-189",
+    "to": "guilin-307",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.836
+    }
+  },
+  {
+    "id": "aligned:songben-190->guilin-308",
+    "type": "aligned",
+    "from": "songben-190",
+    "to": "guilin-308",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-191->guilin-309",
+    "type": "aligned",
+    "from": "songben-191",
+    "to": "guilin-309",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-192->guilin-310",
+    "type": "aligned",
+    "from": "songben-192",
+    "to": "guilin-310",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.887
+    }
+  },
+  {
+    "id": "aligned:songben-193->guilin-311",
+    "type": "aligned",
+    "from": "songben-193",
+    "to": "guilin-311",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-194->guilin-312",
+    "type": "aligned",
+    "from": "songben-194",
+    "to": "guilin-312",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.717
+    }
+  },
+  {
+    "id": "aligned:songben-195->guilin-313",
+    "type": "aligned",
+    "from": "songben-195",
+    "to": "guilin-313",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.969
+    }
+  },
+  {
+    "id": "aligned:songben-196->guilin-314",
+    "type": "aligned",
+    "from": "songben-196",
+    "to": "guilin-314",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-197->guilin-315",
+    "type": "aligned",
+    "from": "songben-197",
+    "to": "guilin-315",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.787
+    }
+  },
+  {
+    "id": "aligned:songben-198->guilin-315",
+    "type": "aligned",
+    "from": "songben-198",
+    "to": "guilin-315",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.431
+    }
+  },
+  {
+    "id": "aligned:songben-199->guilin-316",
+    "type": "aligned",
+    "from": "songben-199",
+    "to": "guilin-316",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-200->guilin-317",
+    "type": "aligned",
+    "from": "songben-200",
+    "to": "guilin-317",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-201->guilin-318",
+    "type": "aligned",
+    "from": "songben-201",
+    "to": "guilin-318",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.75
+    }
+  },
+  {
+    "id": "aligned:songben-202->guilin-319",
+    "type": "aligned",
+    "from": "songben-202",
+    "to": "guilin-319",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-203->guilin-320",
+    "type": "aligned",
+    "from": "songben-203",
+    "to": "guilin-320",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.912
+    }
+  },
+  {
+    "id": "aligned:songben-204->guilin-321",
+    "type": "aligned",
+    "from": "songben-204",
+    "to": "guilin-321",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-205->guilin-322",
+    "type": "aligned",
+    "from": "songben-205",
+    "to": "guilin-322",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.914
+    }
+  },
+  {
+    "id": "aligned:songben-206->guilin-323",
+    "type": "aligned",
+    "from": "songben-206",
+    "to": "guilin-323",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.812
+    }
+  },
+  {
+    "id": "aligned:songben-207->guilin-324",
+    "type": "aligned",
+    "from": "songben-207",
+    "to": "guilin-324",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-208->guilin-325",
+    "type": "aligned",
+    "from": "songben-208",
+    "to": "guilin-325",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.913
+    }
+  },
+  {
+    "id": "aligned:songben-209->guilin-326",
+    "type": "aligned",
+    "from": "songben-209",
+    "to": "guilin-326",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.974
+    }
+  },
+  {
+    "id": "aligned:songben-210->guilin-327",
+    "type": "aligned",
+    "from": "songben-210",
+    "to": "guilin-327",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.865
+    }
+  },
+  {
+    "id": "aligned:songben-211->guilin-328",
+    "type": "aligned",
+    "from": "songben-211",
+    "to": "guilin-328",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.85
+    }
+  },
+  {
+    "id": "aligned:songben-212->guilin-329",
+    "type": "aligned",
+    "from": "songben-212",
+    "to": "guilin-329",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.943
+    }
+  },
+  {
+    "id": "aligned:songben-213->guilin-330",
+    "type": "aligned",
+    "from": "songben-213",
+    "to": "guilin-330",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.756
+    }
+  },
+  {
+    "id": "aligned:songben-214->guilin-332",
+    "type": "aligned",
+    "from": "songben-214",
+    "to": "guilin-332",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.545
+    }
+  },
+  {
+    "id": "aligned:songben-215->guilin-333",
+    "type": "aligned",
+    "from": "songben-215",
+    "to": "guilin-333",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.923
+    }
+  },
+  {
+    "id": "aligned:songben-216->guilin-334",
+    "type": "aligned",
+    "from": "songben-216",
+    "to": "guilin-334",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-217->guilin-335",
+    "type": "aligned",
+    "from": "songben-217",
+    "to": "guilin-335",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.808
+    }
+  },
+  {
+    "id": "aligned:songben-218->guilin-336",
+    "type": "aligned",
+    "from": "songben-218",
+    "to": "guilin-336",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.47
+    }
+  },
+  {
+    "id": "aligned:songben-220->guilin-336",
+    "type": "aligned",
+    "from": "songben-220",
+    "to": "guilin-336",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.409
+    }
+  },
+  {
+    "id": "aligned:songben-221->guilin-337",
+    "type": "aligned",
+    "from": "songben-221",
+    "to": "guilin-337",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.969
+    }
+  },
+  {
+    "id": "aligned:songben-222->guilin-338",
+    "type": "aligned",
+    "from": "songben-222",
+    "to": "guilin-338",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.932
+    }
+  },
+  {
+    "id": "aligned:songben-223->guilin-339",
+    "type": "aligned",
+    "from": "songben-223",
+    "to": "guilin-339",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.939
+    }
+  },
+  {
+    "id": "aligned:songben-224->guilin-340",
+    "type": "aligned",
+    "from": "songben-224",
+    "to": "guilin-340",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-225->guilin-341",
+    "type": "aligned",
+    "from": "songben-225",
+    "to": "guilin-341",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.964
+    }
+  },
+  {
+    "id": "aligned:songben-226->guilin-342",
+    "type": "aligned",
+    "from": "songben-226",
+    "to": "guilin-342",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.45
+    }
+  },
+  {
+    "id": "aligned:songben-227->guilin-343",
+    "type": "aligned",
+    "from": "songben-227",
+    "to": "guilin-343",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.8
+    }
+  },
+  {
+    "id": "aligned:songben-228->guilin-344",
+    "type": "aligned",
+    "from": "songben-228",
+    "to": "guilin-344",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.005
+    }
+  },
+  {
+    "id": "aligned:songben-229->guilin-345",
+    "type": "aligned",
+    "from": "songben-229",
+    "to": "guilin-345",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.621
+    }
+  },
+  {
+    "id": "aligned:songben-230->guilin-346",
+    "type": "aligned",
+    "from": "songben-230",
+    "to": "guilin-346",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.931
+    }
+  },
+  {
+    "id": "aligned:songben-231->guilin-347",
+    "type": "aligned",
+    "from": "songben-231",
+    "to": "guilin-347",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.779
+    }
+  },
+  {
+    "id": "aligned:songben-233->guilin-348",
+    "type": "aligned",
+    "from": "songben-233",
+    "to": "guilin-348",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.941
+    }
+  },
+  {
+    "id": "aligned:songben-234->guilin-349",
+    "type": "aligned",
+    "from": "songben-234",
+    "to": "guilin-349",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-235->guilin-350",
+    "type": "aligned",
+    "from": "songben-235",
+    "to": "guilin-350",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.964
+    }
+  },
+  {
+    "id": "aligned:songben-236->guilin-351",
+    "type": "aligned",
+    "from": "songben-236",
+    "to": "guilin-351",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-237->guilin-352",
+    "type": "aligned",
+    "from": "songben-237",
+    "to": "guilin-352",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.692
+    }
+  },
+  {
+    "id": "aligned:songben-238->guilin-353",
+    "type": "aligned",
+    "from": "songben-238",
+    "to": "guilin-353",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.8
+    }
+  },
+  {
+    "id": "aligned:songben-239->guilin-354",
+    "type": "aligned",
+    "from": "songben-239",
+    "to": "guilin-354",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-240->guilin-355",
+    "type": "aligned",
+    "from": "songben-240",
+    "to": "guilin-355",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.665
+    }
+  },
+  {
+    "id": "aligned:songben-241->guilin-355",
+    "type": "aligned",
+    "from": "songben-241",
+    "to": "guilin-355",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.626
+    }
+  },
+  {
+    "id": "aligned:songben-242->guilin-356",
+    "type": "aligned",
+    "from": "songben-242",
+    "to": "guilin-356",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.561
+    }
+  },
+  {
+    "id": "aligned:songben-243->guilin-356",
+    "type": "aligned",
+    "from": "songben-243",
+    "to": "guilin-356",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.513
+    }
+  },
+  {
+    "id": "aligned:songben-244->guilin-357",
+    "type": "aligned",
+    "from": "songben-244",
+    "to": "guilin-357",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.843
+    }
+  },
+  {
+    "id": "aligned:songben-245->guilin-358",
+    "type": "aligned",
+    "from": "songben-245",
+    "to": "guilin-358",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.947
+    }
+  },
+  {
+    "id": "aligned:songben-246->guilin-359",
+    "type": "aligned",
+    "from": "songben-246",
+    "to": "guilin-359",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.435
+    }
+  },
+  {
+    "id": "aligned:songben-247->guilin-359",
+    "type": "aligned",
+    "from": "songben-247",
+    "to": "guilin-359",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.55
+    }
+  },
+  {
+    "id": "aligned:songben-248->guilin-360",
+    "type": "aligned",
+    "from": "songben-248",
+    "to": "guilin-360",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.717
+    }
+  },
+  {
+    "id": "aligned:songben-249->guilin-361",
+    "type": "aligned",
+    "from": "songben-249",
+    "to": "guilin-361",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.939
+    }
+  },
+  {
+    "id": "aligned:songben-250->guilin-362",
+    "type": "aligned",
+    "from": "songben-250",
+    "to": "guilin-362",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.417
+    }
+  },
+  {
+    "id": "aligned:songben-251->guilin-362",
+    "type": "aligned",
+    "from": "songben-251",
+    "to": "guilin-362",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.85
+    }
+  },
+  {
+    "id": "aligned:songben-252->guilin-363",
+    "type": "aligned",
+    "from": "songben-252",
+    "to": "guilin-363",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.008
+    }
+  },
+  {
+    "id": "aligned:songben-253->guilin-364",
+    "type": "aligned",
+    "from": "songben-253",
+    "to": "guilin-364",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.599
+    }
+  },
+  {
+    "id": "aligned:songben-254->guilin-364",
+    "type": "aligned",
+    "from": "songben-254",
+    "to": "guilin-364",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.599
+    }
+  },
+  {
+    "id": "aligned:songben-255->guilin-364",
+    "type": "aligned",
+    "from": "songben-255",
+    "to": "guilin-364",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.599
+    }
+  },
+  {
+    "id": "aligned:songben-256->guilin-365",
+    "type": "aligned",
+    "from": "songben-256",
+    "to": "guilin-365",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.951
+    }
+  },
+  {
+    "id": "aligned:songben-257->guilin-366",
+    "type": "aligned",
+    "from": "songben-257",
+    "to": "guilin-366",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.846
+    }
+  },
+  {
+    "id": "aligned:songben-258->guilin-366",
+    "type": "aligned",
+    "from": "songben-258",
+    "to": "guilin-366",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.35
+    }
+  },
+  {
+    "id": "aligned:songben-259->guilin-367",
+    "type": "aligned",
+    "from": "songben-259",
+    "to": "guilin-367",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.812
+    }
+  },
+  {
+    "id": "aligned:songben-260->guilin-368",
+    "type": "aligned",
+    "from": "songben-260",
+    "to": "guilin-368",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.989
+    }
+  },
+  {
+    "id": "aligned:songben-261->guilin-369",
+    "type": "aligned",
+    "from": "songben-261",
+    "to": "guilin-369",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.833
+    }
+  },
+  {
+    "id": "aligned:songben-262->guilin-370",
+    "type": "aligned",
+    "from": "songben-262",
+    "to": "guilin-370",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.44
+    }
+  },
+  {
+    "id": "aligned:songben-263->guilin-382",
+    "type": "aligned",
+    "from": "songben-263",
+    "to": "guilin-382",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.907
+    }
+  },
+  {
+    "id": "aligned:songben-264->guilin-383",
+    "type": "aligned",
+    "from": "songben-264",
+    "to": "guilin-383",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-266->guilin-384",
+    "type": "aligned",
+    "from": "songben-266",
+    "to": "guilin-384",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.418
+    }
+  },
+  {
+    "id": "aligned:songben-267->guilin-385",
+    "type": "aligned",
+    "from": "songben-267",
+    "to": "guilin-385",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.364
+    }
+  },
+  {
+    "id": "aligned:songben-269->guilin-386",
+    "type": "aligned",
+    "from": "songben-269",
+    "to": "guilin-386",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.839
+    }
+  },
+  {
+    "id": "aligned:songben-270->guilin-387",
+    "type": "aligned",
+    "from": "songben-270",
+    "to": "guilin-387",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.959
+    }
+  },
+  {
+    "id": "aligned:songben-271->guilin-388",
+    "type": "aligned",
+    "from": "songben-271",
+    "to": "guilin-388",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.812
+    }
+  },
+  {
+    "id": "aligned:songben-272->guilin-389",
+    "type": "aligned",
+    "from": "songben-272",
+    "to": "guilin-389",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-273->guilin-390",
+    "type": "aligned",
+    "from": "songben-273",
+    "to": "guilin-390",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-274->guilin-391",
+    "type": "aligned",
+    "from": "songben-274",
+    "to": "guilin-391",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.898
+    }
+  },
+  {
+    "id": "aligned:songben-275->guilin-403",
+    "type": "aligned",
+    "from": "songben-275",
+    "to": "guilin-403",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-276->guilin-392",
+    "type": "aligned",
+    "from": "songben-276",
+    "to": "guilin-392",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.518
+    }
+  },
+  {
+    "id": "aligned:songben-277->guilin-392",
+    "type": "aligned",
+    "from": "songben-277",
+    "to": "guilin-392",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.717
+    }
+  },
+  {
+    "id": "aligned:songben-278->guilin-393",
+    "type": "aligned",
+    "from": "songben-278",
+    "to": "guilin-393",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.757
+    }
+  },
+  {
+    "id": "aligned:songben-279->guilin-393",
+    "type": "aligned",
+    "from": "songben-279",
+    "to": "guilin-393",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.601
+    }
+  },
+  {
+    "id": "aligned:songben-280->guilin-394",
+    "type": "aligned",
+    "from": "songben-280",
+    "to": "guilin-394",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.968
+    }
+  },
+  {
+    "id": "aligned:songben-281->guilin-404",
+    "type": "aligned",
+    "from": "songben-281",
+    "to": "guilin-404",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-282->guilin-405",
+    "type": "aligned",
+    "from": "songben-282",
+    "to": "guilin-405",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.954
+    }
+  },
+  {
+    "id": "aligned:songben-283->guilin-406",
+    "type": "aligned",
+    "from": "songben-283",
+    "to": "guilin-406",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.699
+    }
+  },
+  {
+    "id": "aligned:songben-284->guilin-406",
+    "type": "aligned",
+    "from": "songben-284",
+    "to": "guilin-406",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.637
+    }
+  },
+  {
+    "id": "aligned:songben-285->guilin-407",
+    "type": "aligned",
+    "from": "songben-285",
+    "to": "guilin-407",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-286->guilin-408",
+    "type": "aligned",
+    "from": "songben-286",
+    "to": "guilin-408",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-287->guilin-409",
+    "type": "aligned",
+    "from": "songben-287",
+    "to": "guilin-409",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-288->guilin-410",
+    "type": "aligned",
+    "from": "songben-288",
+    "to": "guilin-410",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.883
+    }
+  },
+  {
+    "id": "aligned:songben-289->guilin-411",
+    "type": "aligned",
+    "from": "songben-289",
+    "to": "guilin-411",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.85
+    }
+  },
+  {
+    "id": "aligned:songben-290->guilin-412",
+    "type": "aligned",
+    "from": "songben-290",
+    "to": "guilin-412",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.717
+    }
+  },
+  {
+    "id": "aligned:songben-291->guilin-412",
+    "type": "aligned",
+    "from": "songben-291",
+    "to": "guilin-412",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.631
+    }
+  },
+  {
+    "id": "aligned:songben-292->guilin-413",
+    "type": "aligned",
+    "from": "songben-292",
+    "to": "guilin-413",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-293->guilin-414",
+    "type": "aligned",
+    "from": "songben-293",
+    "to": "guilin-414",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-294->guilin-415",
+    "type": "aligned",
+    "from": "songben-294",
+    "to": "guilin-415",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.903
+    }
+  },
+  {
+    "id": "aligned:songben-295->guilin-416",
+    "type": "aligned",
+    "from": "songben-295",
+    "to": "guilin-416",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.836
+    }
+  },
+  {
+    "id": "aligned:songben-296->guilin-417",
+    "type": "aligned",
+    "from": "songben-296",
+    "to": "guilin-417",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-297->guilin-418",
+    "type": "aligned",
+    "from": "songben-297",
+    "to": "guilin-418",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-298->guilin-419",
+    "type": "aligned",
+    "from": "songben-298",
+    "to": "guilin-419",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.697
+    }
+  },
+  {
+    "id": "aligned:songben-299->guilin-420",
+    "type": "aligned",
+    "from": "songben-299",
+    "to": "guilin-420",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.39
+    }
+  },
+  {
+    "id": "aligned:songben-300->guilin-420",
+    "type": "aligned",
+    "from": "songben-300",
+    "to": "guilin-420",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.92
+    }
+  },
+  {
+    "id": "aligned:songben-301->guilin-421",
+    "type": "aligned",
+    "from": "songben-301",
+    "to": "guilin-421",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.734
+    }
+  },
+  {
+    "id": "aligned:songben-302->guilin-422",
+    "type": "aligned",
+    "from": "songben-302",
+    "to": "guilin-422",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.952
+    }
+  },
+  {
+    "id": "aligned:songben-303->guilin-423",
+    "type": "aligned",
+    "from": "songben-303",
+    "to": "guilin-423",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.934
+    }
+  },
+  {
+    "id": "aligned:songben-304->guilin-424",
+    "type": "aligned",
+    "from": "songben-304",
+    "to": "guilin-424",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-305->guilin-425",
+    "type": "aligned",
+    "from": "songben-305",
+    "to": "guilin-425",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.973
+    }
+  },
+  {
+    "id": "aligned:songben-306->guilin-427",
+    "type": "aligned",
+    "from": "songben-306",
+    "to": "guilin-427",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-307->guilin-428",
+    "type": "aligned",
+    "from": "songben-307",
+    "to": "guilin-428",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.997
+    }
+  },
+  {
+    "id": "aligned:songben-308->guilin-429",
+    "type": "aligned",
+    "from": "songben-308",
+    "to": "guilin-429",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.907
+    }
+  },
+  {
+    "id": "aligned:songben-309->guilin-430",
+    "type": "aligned",
+    "from": "songben-309",
+    "to": "guilin-430",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-310->guilin-431",
+    "type": "aligned",
+    "from": "songben-310",
+    "to": "guilin-431",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.777
+    }
+  },
+  {
+    "id": "aligned:songben-311->guilin-432",
+    "type": "aligned",
+    "from": "songben-311",
+    "to": "guilin-432",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.787
+    }
+  },
+  {
+    "id": "aligned:songben-312->guilin-433",
+    "type": "aligned",
+    "from": "songben-312",
+    "to": "guilin-433",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.86
+    }
+  },
+  {
+    "id": "aligned:songben-313->guilin-434",
+    "type": "aligned",
+    "from": "songben-313",
+    "to": "guilin-434",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.579
+    }
+  },
+  {
+    "id": "aligned:songben-314->guilin-435",
+    "type": "aligned",
+    "from": "songben-314",
+    "to": "guilin-435",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-315->guilin-436",
+    "type": "aligned",
+    "from": "songben-315",
+    "to": "guilin-436",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.99
+    }
+  },
+  {
+    "id": "aligned:songben-316->guilin-437",
+    "type": "aligned",
+    "from": "songben-316",
+    "to": "guilin-437",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.699
+    }
+  },
+  {
+    "id": "aligned:songben-317->guilin-438",
+    "type": "aligned",
+    "from": "songben-317",
+    "to": "guilin-438",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.74
+    }
+  },
+  {
+    "id": "aligned:songben-318->guilin-439",
+    "type": "aligned",
+    "from": "songben-318",
+    "to": "guilin-439",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.419
+    }
+  },
+  {
+    "id": "aligned:songben-319->guilin-440",
+    "type": "aligned",
+    "from": "songben-319",
+    "to": "guilin-440",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-320->guilin-441",
+    "type": "aligned",
+    "from": "songben-320",
+    "to": "guilin-441",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-321->guilin-442",
+    "type": "aligned",
+    "from": "songben-321",
+    "to": "guilin-442",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.991
+    }
+  },
+  {
+    "id": "aligned:songben-322->guilin-443",
+    "type": "aligned",
+    "from": "songben-322",
+    "to": "guilin-443",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.973
+    }
+  },
+  {
+    "id": "aligned:songben-323->guilin-444",
+    "type": "aligned",
+    "from": "songben-323",
+    "to": "guilin-444",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-324->guilin-445",
+    "type": "aligned",
+    "from": "songben-324",
+    "to": "guilin-445",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.95
+    }
+  },
+  {
+    "id": "aligned:songben-325->guilin-446",
+    "type": "aligned",
+    "from": "songben-325",
+    "to": "guilin-446",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-326->guilin-447",
+    "type": "aligned",
+    "from": "songben-326",
+    "to": "guilin-447",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.939
+    }
+  },
+  {
+    "id": "aligned:songben-327->guilin-448",
+    "type": "aligned",
+    "from": "songben-327",
+    "to": "guilin-448",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.772
+    }
+  },
+  {
+    "id": "aligned:songben-328->guilin-403",
+    "type": "aligned",
+    "from": "songben-328",
+    "to": "guilin-403",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.444
+    }
+  },
+  {
+    "id": "aligned:songben-329->guilin-449",
+    "type": "aligned",
+    "from": "songben-329",
+    "to": "guilin-449",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.679
+    }
+  },
+  {
+    "id": "aligned:songben-330->guilin-449",
+    "type": "aligned",
+    "from": "songben-330",
+    "to": "guilin-449",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.679
+    }
+  },
+  {
+    "id": "aligned:songben-331->guilin-450",
+    "type": "aligned",
+    "from": "songben-331",
+    "to": "guilin-450",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-332->guilin-451",
+    "type": "aligned",
+    "from": "songben-332",
+    "to": "guilin-451",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.986
+    }
+  },
+  {
+    "id": "aligned:songben-333->guilin-452",
+    "type": "aligned",
+    "from": "songben-333",
+    "to": "guilin-452",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.782
+    }
+  },
+  {
+    "id": "aligned:songben-334->guilin-453",
+    "type": "aligned",
+    "from": "songben-334",
+    "to": "guilin-453",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-335->guilin-454",
+    "type": "aligned",
+    "from": "songben-335",
+    "to": "guilin-454",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-336->guilin-455",
+    "type": "aligned",
+    "from": "songben-336",
+    "to": "guilin-455",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.748
+    }
+  },
+  {
+    "id": "aligned:songben-337->guilin-455",
+    "type": "aligned",
+    "from": "songben-337",
+    "to": "guilin-455",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.516
+    }
+  },
+  {
+    "id": "aligned:songben-338->guilin-456",
+    "type": "aligned",
+    "from": "songben-338",
+    "to": "guilin-456",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.573
+    }
+  },
+  {
+    "id": "aligned:songben-339->guilin-457",
+    "type": "aligned",
+    "from": "songben-339",
+    "to": "guilin-457",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-340->guilin-458",
+    "type": "aligned",
+    "from": "songben-340",
+    "to": "guilin-458",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.925
+    }
+  },
+  {
+    "id": "aligned:songben-341->guilin-459",
+    "type": "aligned",
+    "from": "songben-341",
+    "to": "guilin-459",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-342->guilin-460",
+    "type": "aligned",
+    "from": "songben-342",
+    "to": "guilin-460",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.762
+    }
+  },
+  {
+    "id": "aligned:songben-343->guilin-460",
+    "type": "aligned",
+    "from": "songben-343",
+    "to": "guilin-460",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.626
+    }
+  },
+  {
+    "id": "aligned:songben-344->guilin-461",
+    "type": "aligned",
+    "from": "songben-344",
+    "to": "guilin-461",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-345->guilin-462",
+    "type": "aligned",
+    "from": "songben-345",
+    "to": "guilin-462",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-346->guilin-463",
+    "type": "aligned",
+    "from": "songben-346",
+    "to": "guilin-463",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1.05
+    }
+  },
+  {
+    "id": "aligned:songben-347->guilin-464",
+    "type": "aligned",
+    "from": "songben-347",
+    "to": "guilin-464",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.64
+    }
+  },
+  {
+    "id": "aligned:songben-348->guilin-464",
+    "type": "aligned",
+    "from": "songben-348",
+    "to": "guilin-464",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.458
+    }
+  },
+  {
+    "id": "aligned:songben-349->guilin-465",
+    "type": "aligned",
+    "from": "songben-349",
+    "to": "guilin-465",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.787
+    }
+  },
+  {
+    "id": "aligned:songben-350->guilin-466",
+    "type": "aligned",
+    "from": "songben-350",
+    "to": "guilin-466",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.865
+    }
+  },
+  {
+    "id": "aligned:songben-355->guilin-468",
+    "type": "aligned",
+    "from": "songben-355",
+    "to": "guilin-468",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.982
+    }
+  },
+  {
+    "id": "aligned:songben-356->guilin-469",
+    "type": "aligned",
+    "from": "songben-356",
+    "to": "guilin-469",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.968
+    }
+  },
+  {
+    "id": "aligned:songben-357->guilin-470",
+    "type": "aligned",
+    "from": "songben-357",
+    "to": "guilin-470",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.501
+    }
+  },
+  {
+    "id": "aligned:songben-358->guilin-471",
+    "type": "aligned",
+    "from": "songben-358",
+    "to": "guilin-471",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.892
+    }
+  },
+  {
+    "id": "aligned:songben-359->guilin-472",
+    "type": "aligned",
+    "from": "songben-359",
+    "to": "guilin-472",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.435
+    }
+  },
+  {
+    "id": "aligned:songben-365->guilin-473",
+    "type": "aligned",
+    "from": "songben-365",
+    "to": "guilin-473",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.35
+    }
+  },
+  {
+    "id": "aligned:songben-366->guilin-473",
+    "type": "aligned",
+    "from": "songben-366",
+    "to": "guilin-473",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.481
+    }
+  },
+  {
+    "id": "aligned:songben-380->guilin-475",
+    "type": "aligned",
+    "from": "songben-380",
+    "to": "guilin-475",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.985
+    }
+  },
+  {
+    "id": "aligned:songben-381->guilin-476",
+    "type": "aligned",
+    "from": "songben-381",
+    "to": "guilin-476",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.756
+    }
+  },
+  {
+    "id": "aligned:songben-382->guilin-481",
+    "type": "aligned",
+    "from": "songben-382",
+    "to": "guilin-481",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 1
+    }
+  },
+  {
+    "id": "aligned:songben-384->guilin-484",
+    "type": "aligned",
+    "from": "songben-384",
+    "to": "guilin-484",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.826
+    }
+  },
+  {
+    "id": "aligned:songben-392->guilin-493",
+    "type": "aligned",
+    "from": "songben-392",
+    "to": "guilin-493",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.512
+    }
+  },
+  {
+    "id": "aligned:songben-398->guilin-495",
+    "type": "aligned",
+    "from": "songben-398",
+    "to": "guilin-495",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.441
+    }
+  }
+]

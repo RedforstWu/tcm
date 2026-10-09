@@ -237,7 +237,9 @@
       "chapterOrder": 1,
       "order": 15,
       "text": "太阳病，下之后，其气上冲者，可与桂枝汤，方用前法。若不上冲者，不得与之。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-桂枝汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -269,7 +271,9 @@
       "chapterOrder": 1,
       "order": 17,
       "text": "若酒客病，不可与桂枝汤，得之则呕，以酒客不喜甘故也。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-桂枝汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -285,7 +289,9 @@
       "chapterOrder": 1,
       "order": 18,
       "text": "喘家作，桂枝汤加厚朴、杏子佳。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-桂枝汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -389,7 +395,9 @@
       "chapterOrder": 1,
       "order": 24,
       "text": "太阳病，初服桂枝汤，反烦不解者，先刺风池、风府，却与桂枝汤则愈。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-桂枝汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -406,7 +414,8 @@
       "order": 25,
       "text": "服桂枝汤，大汗出，脉洪大者，与桂枝汤，如前法。若形似疟，一日再发者，汗出必解，宜桂枝二麻黄一汤。",
       "formulaIds": [
-        "songben-formula-桂枝二麻黄一汤"
+        "songben-formula-桂枝二麻黄一汤",
+        "songben-formula-桂枝汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -478,7 +487,10 @@
       "order": 29,
       "text": "伤寒脉浮，自汗出，小便数，心烦，微恶寒，脚挛急，反与桂枝欲攻其表，此误也。得之便厥，咽中干，烦躁吐逆者，作甘草干姜汤与之，以复其阳；若厥愈足温者，更作芍药甘草汤与之，其脚即伸。若胃气不和，谵语者，少与调胃承气汤；若重发汗，复加烧针者，四逆汤主之。",
       "formulaIds": [
-        "songben-formula-四逆汤"
+        "songben-formula-四逆汤",
+        "songben-formula-调胃承气汤",
+        "songben-formula-甘草干姜汤",
+        "songben-formula-芍药甘草汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -495,7 +507,9 @@
       "chapterOrder": 1,
       "order": 30,
       "text": "问曰：证象阳旦，按法治之而增剧，厥逆，咽中干，两胫拘急而谵语。师曰：言夜半手足当温，两脚当伸。后如师言。何以知此？答曰：寸口脉浮而大，浮为风，大为虚，风则生微热，虚则两胫挛，病证象桂枝，因加附子参其间，增桂令汗出，附子温经，亡阳故也。厥逆，咽中干，烦躁，阳明内结，谵语烦乱，更饮甘草干姜汤。夜半阳气还，两足当热，胫尚微拘急，重与芍药甘草汤，尔乃胫伸。以承气汤微溏，则止其谵语，故知病可愈。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-芍药甘草汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -619,7 +633,10 @@
       "chapterOrder": 2,
       "order": 37,
       "text": "太阳病，十日已去，脉浮细而嗜卧者，外已解也。设胸满胁痛者，与小柴胡汤。脉但浮者，与麻黄汤。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-小柴胡汤",
+        "songben-formula-麻黄汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -653,7 +670,9 @@
       "chapterOrder": 2,
       "order": 39,
       "text": "伤寒脉浮缓，身不疼，但重，乍有轻时，无少阴证者，大青龙汤发之。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-大青龙汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -1051,7 +1070,9 @@
       "chapterOrder": 2,
       "order": 62,
       "text": "发汗后，身疼痛，脉沉迟者，桂枝加芍药生姜各一两人参三两新加汤主之。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-桂枝加芍药生姜各一两人参三两新加汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -1067,7 +1088,9 @@
       "chapterOrder": 2,
       "order": 63,
       "text": "发汗后，不可更行桂枝汤，汗出而喘，无大热者，可与麻黄杏仁甘草石膏汤。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-麻黄杏仁甘草石膏汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -1083,7 +1106,9 @@
       "chapterOrder": 2,
       "order": 64,
       "text": "发汗过多，其人叉手自冒心，心下悸，欲得按者，桂枝甘草汤主之。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-桂枝甘草汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -1189,7 +1214,9 @@
       "chapterOrder": 2,
       "order": 70,
       "text": "发汗后恶寒者，虚故也。不恶寒但热者，实也。当和胃气，与调胃承气汤。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-调胃承气汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -1500,7 +1527,9 @@
       "chapterOrder": 2,
       "order": 88,
       "text": "汗家，重发汗，必恍惚心乱，小便已阴疼，与禹余粮丸。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-禹余粮丸"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -1549,7 +1578,8 @@
       "order": 91,
       "text": "伤寒，医下之，续得下利清谷不止，身疼痛者，急当救里。后身疼痛，清便自调者，急当救表。救里宜四逆汤，救表宜桂枝汤。",
       "formulaIds": [
-        "songben-formula-四逆汤"
+        "songben-formula-四逆汤",
+        "songben-formula-桂枝汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -1672,7 +1702,9 @@
       "chapterOrder": 2,
       "order": 98,
       "text": "得病六七日，脉迟浮弱，恶风寒，手足温，医二三下之，不能食而胁下满痛，面目及身黄，颈项强，小便难者，与柴胡汤，后必下重。本渴饮水而呕者，柴胡不中与也，食谷者哕。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-小柴胡汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -1706,7 +1738,10 @@
       "chapterOrder": 2,
       "order": 100,
       "text": "伤寒，阳脉涩，阴脉弦，法当腹中急痛，先与小建中汤，不差者，与小柴胡汤主之。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-小建中汤",
+        "songben-formula-小柴胡汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -1722,7 +1757,9 @@
       "chapterOrder": 2,
       "order": 101,
       "text": "伤寒中风，有柴胡证，但见一证便是，不必悉具。凡柴胡汤病证而下之，若柴胡证不罢者，复与柴胡汤，必蒸蒸而振，却复发热汗出而解。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-小柴胡汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -1756,7 +1793,10 @@
       "chapterOrder": 2,
       "order": 103,
       "text": "太阳病，过经十余日，反二三下之。后四五日，柴胡证仍在者，先与小柴胡汤；呕不止，心下急，郁郁微烦者，为未解也，与大柴胡汤下之则愈。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-小柴胡汤",
+        "songben-formula-大柴胡汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -1772,7 +1812,10 @@
       "chapterOrder": 2,
       "order": 104,
       "text": "伤寒十三日不解，胸胁满而呕，日晡所发潮热，已而微利。此本柴胡证，下之以不得利，今反利者，知医以丸药下之，此非其治也。潮热者，实也。先宜服小柴胡汤以解外，后以柴胡加芒硝汤主之。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-小柴胡汤",
+        "songben-formula-柴胡加芒硝汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -1906,7 +1949,9 @@
       "chapterOrder": 2,
       "order": 112,
       "text": "伤寒脉浮，医以火迫劫之，亡阳，必惊狂，卧起不安者，桂枝去芍药加蜀漆牡蛎龙骨救逆汤主之。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-桂枝去芍药加蜀漆牡蛎龙骨救逆汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -1986,7 +2031,9 @@
       "chapterOrder": 2,
       "order": 117,
       "text": "烧针令其汗，针处被寒，核起而赤者，必发奔豚。气从少腹上冲心者，灸其核上各一壮，与桂枝加桂汤，更加桂二两也。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-桂枝加桂汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -2084,7 +2131,9 @@
       "chapterOrder": 2,
       "order": 123,
       "text": "太阳病，过经十余日，心下温温欲吐，而胸中痛，大便反溏，腹微满，郁郁微烦，先此时自极吐下者，与调胃承气汤。若不尔者，不可与。但欲呕，胸中痛，微溏者，此非柴胡汤证，以呕，故知极吐下也。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-调胃承气汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -2305,7 +2354,8 @@
       "order": 136,
       "text": "伤寒十余日，热结在里，复往来寒热者，与大柴胡汤；但结胸，无大热者，此为水结在胸胁也，但头微汗出者，大陷胸汤主之。",
       "formulaIds": [
-        "songben-formula-大陷胸汤"
+        "songben-formula-大陷胸汤",
+        "songben-formula-大柴胡汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -2390,7 +2440,12 @@
       "chapterOrder": 3,
       "order": 141,
       "text": "病在阳，应以汗解之，反以冷水潠之，若灌之，其热被劫，不得去，弥更益烦，肉上粟起，意欲饮水，反不渴者，服文蛤散；若不差者，与五苓散。寒实结胸，无热证者，与三物小陷胸汤，白散亦可服。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-五苓散",
+        "songben-formula-小陷胸汤",
+        "songben-formula-三物小白散",
+        "songben-formula-文蛤散"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -2508,7 +2563,9 @@
       "chapterOrder": 3,
       "order": 148,
       "text": "伤寒五六日，头汗出，微恶寒，手足冷，心下满，口不欲食，大便鞕，脉细者，此为阳微结，必有表，复有里也。脉沉，亦在里也。汗出，为阳微。假令纯阴结，不得复有外证，悉入在里，此为半在里半在外也。脉虽沉紧，不得为少阴病。所以然者，阴不得有汗，今头汗出，故知非少阴也。可与小柴胡汤，设不了了者，得屎而解。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-小柴胡汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -2526,7 +2583,8 @@
       "text": "伤寒五六日，呕而发热者，柴胡汤证具，而以他药下之，柴胡证仍在者，复与柴胡汤。此虽已下之，不为逆，必蒸蒸而振，却发热汗出而解。若心下满而鞕痛者，此为结胸也，大陷胸汤主之。但满而不痛者，此为痞，柴胡不中与之，宜半夏泻心汤。",
       "formulaIds": [
         "songben-formula-大陷胸汤",
-        "songben-formula-半夏泻心汤"
+        "songben-formula-半夏泻心汤",
+        "songben-formula-小柴胡汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -2751,7 +2809,9 @@
       "chapterOrder": 3,
       "order": 162,
       "text": "下后，不可更行桂枝汤，若汗出而喘，无大热者，可与麻黄杏子甘草石膏汤。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-麻黄杏仁甘草石膏汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -2786,7 +2846,8 @@
       "order": 164,
       "text": "伤寒大下后，复发汗，心下痞，恶寒者，表未解也。不可攻痞，当先解表，表解乃可攻痞。解表宜桂枝汤，攻痞宜大黄黄连泻心汤。",
       "formulaIds": [
-        "songben-formula-桂枝汤"
+        "songben-formula-桂枝汤",
+        "songben-formula-大黄黄连泻心汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -2892,7 +2953,8 @@
       "order": 170,
       "text": "伤寒，脉浮，发热无汗，其表不解，不可与白虎汤；渴欲饮水，无表证者，白虎加人参汤主之。",
       "formulaIds": [
-        "songben-formula-白虎加人参汤"
+        "songben-formula-白虎加人参汤",
+        "songben-formula-白虎汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -2926,7 +2988,8 @@
       "order": 172,
       "text": "太阳与少阳合病，自下利者，与黄芩汤；若呕者，黄芩加半夏生姜汤主之。",
       "formulaIds": [
-        "songben-formula-黄芩加半夏生姜汤"
+        "songben-formula-黄芩加半夏生姜汤",
+        "songben-formula-黄芩汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -3498,7 +3561,9 @@
       "chapterOrder": 4,
       "order": 207,
       "text": "阳明病，不吐不下，心烦者，可与调胃承气汤。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-调胃承气汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -3515,7 +3580,8 @@
       "order": 208,
       "text": "阳明病，脉迟，虽汗出不恶寒者，其身必重，短气，腹满而喘，有潮热者，此外欲解，可攻里也。手足濈然汗出者，此大便已鞕也，大承气汤主之；若汗多，微发热恶寒者，外未解也，其热不潮，未可与承气汤；若腹大满不通者，可与小承气汤，微和胃气，勿令致大泄下。",
       "formulaIds": [
-        "songben-formula-大承气汤"
+        "songben-formula-大承气汤",
+        "songben-formula-小承气汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -3532,7 +3598,10 @@
       "chapterOrder": 4,
       "order": 209,
       "text": "阳明病，潮热，大便微鞕者，可与大承气汤，不鞕者，不可与之。若不大便六七日，恐有燥屎，欲知之法，少与小承气汤。汤入腹中，转矢气者，此有燥屎也，乃可攻之；若不转矢气者，此但初头鞕，后必溏，不可攻之，攻之必胀满不能食也。欲饮水者，与水则哕。其后发热者，必大便复鞕而少也，以小承气汤和之。不转矢气者，慎不可攻也。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-大承气汤",
+        "songben-formula-小承气汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -3792,7 +3861,9 @@
       "chapterOrder": 4,
       "order": 224,
       "text": "阳明病，汗出多而渴者，不可与猪苓汤，以汗多胃中燥，猪苓汤复利其小便故也。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-猪苓汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -3876,7 +3947,9 @@
       "chapterOrder": 4,
       "order": 229,
       "text": "阳明病，发潮热，大便溏，小便自可，胸胁满不去者，与小柴胡汤。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-小柴胡汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -3892,7 +3965,9 @@
       "chapterOrder": 4,
       "order": 230,
       "text": "阳明病，胁下鞕满，不大便，而呕，舌上白胎者，可与小柴胡汤。上焦得通，津液得下，胃气因和，身濈然汗出而解。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-小柴胡汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -3908,7 +3983,9 @@
       "chapterOrder": 4,
       "order": 231,
       "text": "阳明中风，脉弦浮大而短气，腹都满，胁下及心痛，久按之气不通，鼻干，不得汗，嗜卧，一身及目悉黄，小便难，有潮热，时时哕，耳前后肿。刺之小差，外不解，病过十日，脉续浮者，与小柴胡汤。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-小柴胡汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -3924,7 +4001,9 @@
       "chapterOrder": 4,
       "order": 232,
       "text": "脉但浮，无余证者，与麻黄汤。若不尿，腹满加哕者，不治。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-麻黄汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -3940,7 +4019,11 @@
       "chapterOrder": 4,
       "order": 233,
       "text": "阳明病，自汗出，若发汗，小便自利者，此为津液内竭，虽鞕不可攻之，当须自欲大便，宜蜜煎导而通之，若土瓜根及大猪胆汁，皆可为导。",
-      "formulaIds": [],
+      "formulaIds": [
+        "songben-formula-蜜煎导",
+        "songben-formula-土瓜根",
+        "songben-formula-猪胆汁"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -3955,8 +4038,10 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 234,
-      "text": "大猪胆一枚，泻汁，和少许法醋，以灌谷道内。如一食顷，当大便出宿食恶物，甚效。",
-      "formulaIds": [],
+      "text": "阳明病，脉迟，汗出多，微恶寒者，表未解也，可发汗，宜桂枝汤。",
+      "formulaIds": [
+        "songben-formula-桂枝汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -3971,9 +4056,9 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 235,
-      "text": "阳明病，脉迟，汗出多，微恶寒者，表未解也，可发汗，宜桂枝汤。",
+      "text": "阳明病，脉浮，无汗而喘者，发汗则愈，宜麻黄汤。",
       "formulaIds": [
-        "songben-formula-桂枝汤"
+        "songben-formula-麻黄汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -3989,9 +4074,9 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 236,
-      "text": "阳明病，脉浮，无汗而喘者，发汗则愈，宜麻黄汤。",
+      "text": "阳明病，发热汗出者，此为热越，不能发黄也；但头汗出，身无汗，剂颈而还，小便不利，渴引水浆者，此为瘀热在里，身必发黄，茵陈蒿汤主之。",
       "formulaIds": [
-        "songben-formula-麻黄汤"
+        "songben-formula-茵陈蒿汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -4007,9 +4092,9 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 237,
-      "text": "阳明病，发热汗出者，此为热越，不能发黄也；但头汗出，身无汗，剂颈而还，小便不利，渴引水浆者，此为瘀热在里，身必发黄，茵陈蒿汤主之。",
+      "text": "阳明证，其人喜忘者，必有畜血。所以然者，本有久瘀血，故令喜忘，屎虽鞕，大便反易，其色必黑者，宜抵当汤下之。",
       "formulaIds": [
-        "songben-formula-茵陈蒿汤"
+        "songben-formula-抵当汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -4025,9 +4110,9 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 238,
-      "text": "阳明证，其人喜忘者，必有畜血。所以然者，本有久瘀血，故令喜忘，屎虽鞕，大便反易，其色必黑者，宜抵当汤下之。",
+      "text": "阳明病，下之，心中懊憹而烦，胃中有燥屎者，可攻。腹微满，初头鞕，后必溏，不可攻之。若有燥屎者，宜大承气汤。",
       "formulaIds": [
-        "songben-formula-抵当汤"
+        "songben-formula-大承气汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -4043,10 +4128,8 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 239,
-      "text": "阳明病，下之，心中懊憹而烦，胃中有燥屎者，可攻。腹微满，初头鞕，后必溏，不可攻之。若有燥屎者，宜大承气汤。",
-      "formulaIds": [
-        "songben-formula-大承气汤"
-      ],
+      "text": "病人不大便五六日，绕脐痛，烦躁，发作有时者，此有燥屎，故使不大便也。",
+      "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -4061,8 +4144,11 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 240,
-      "text": "病人不大便五六日，绕脐痛，烦躁，发作有时者，此有燥屎，故使不大便也。",
-      "formulaIds": [],
+      "text": "病人烦热，汗出则解，又如疟状，日晡所发热者，属阳明也。脉实者，宜下之；脉浮虚者，宜发汗。下之，与大承气汤；发汗，宜桂枝汤。",
+      "formulaIds": [
+        "songben-formula-桂枝汤",
+        "songben-formula-大承气汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -4077,9 +4163,9 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 241,
-      "text": "病人烦热，汗出则解，又如疟状，日晡所发热者，属阳明也。脉实者，宜下之；脉浮虚者，宜发汗。下之，与大承气汤；发汗，宜桂枝汤。",
+      "text": "大下后，六七日不大便，烦不解，腹满痛者，此有燥屎也。所以然者，本有宿食故也，宜大承气汤。",
       "formulaIds": [
-        "songben-formula-桂枝汤"
+        "songben-formula-大承气汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -4095,7 +4181,7 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 242,
-      "text": "大下后，六七日不大便，烦不解，腹满痛者，此有燥屎也。所以然者，本有宿食故也，宜大承气汤。",
+      "text": "病人小便不利，大便乍难乍易，时有微热，喘冒不能卧者，有燥屎也。宜大承气汤。",
       "formulaIds": [
         "songben-formula-大承气汤"
       ],
@@ -4113,9 +4199,9 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 243,
-      "text": "病人小便不利，大便乍难乍易，时有微热，喘冒不能卧者，有燥屎也。宜大承气汤。",
+      "text": "食谷欲呕，属阳明也，吴茱萸汤主之；得汤反剧者，属上焦也。",
       "formulaIds": [
-        "songben-formula-大承气汤"
+        "songben-formula-吴茱萸汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -4131,8 +4217,10 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 244,
-      "text": "食谷欲呕，属阳明也，吴茱萸汤主之；得汤反剧者，属上焦也。",
-      "formulaIds": [],
+      "text": "太阳病，寸缓、关浮、尺弱，其人发热汗出，复恶寒，不呕，但心下痞者，此以医下之也。如其不下者，病人不恶寒而渴者，此转属阳明也，小便数者，大便必鞕，不更衣十日，无所苦也。渴欲饮水，少少与之，但以法救之，渴者，宜五苓散。",
+      "formulaIds": [
+        "songben-formula-五苓散"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -4147,10 +4235,8 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 245,
-      "text": "太阳病，寸缓、关浮、尺弱，其人发热汗出，复恶寒，不呕，但心下痞者，此以医下之也。如其不下者，病人不恶寒而渴者，此转属阳明也，小便数者，大便必鞕，不更衣十日，无所苦也。渴欲饮水，少少与之，但以法救之，渴者，宜五苓散。",
-      "formulaIds": [
-        "songben-formula-五苓散"
-      ],
+      "text": "阳脉微而汗出少者，为自和也；汗出多者为太过，阳脉实。因发其汗，出多者，亦为太过，太过者，为阳绝于里，亡津液，大便因鞕也。",
+      "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -4165,7 +4251,7 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 246,
-      "text": "阳脉微而汗出少者，为自和也；汗出多者为太过，阳脉实。因发其汗，出多者，亦为太过，太过者，为阳绝于里，亡津液，大便因鞕也。",
+      "text": "脉浮而芤，浮为阳，芤为阴，浮芤相搏，胃气生热，其阳则绝。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4181,8 +4267,10 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 247,
-      "text": "脉浮而芤，浮为阳，芤为阴，浮芤相搏，胃气生热，其阳则绝。",
-      "formulaIds": [],
+      "text": "趺阳脉浮而涩，浮则胃气强，涩则小便数，浮涩相搏，大便则鞕，其脾为约，麻子仁丸主之。",
+      "formulaIds": [
+        "songben-formula-麻子仁丸"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -4197,9 +4285,9 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 248,
-      "text": "趺阳脉浮而涩，浮则胃气强，涩则小便数，浮涩相搏，大便则鞕，其脾为约，麻子仁丸主之。",
+      "text": "太阳病三日，发汗不解，蒸蒸发热者，属胃也，调胃承气汤主之。",
       "formulaIds": [
-        "songben-formula-麻子仁丸"
+        "songben-formula-调胃承气汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -4215,7 +4303,7 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 249,
-      "text": "太阳病三日，发汗不解，蒸蒸发热者，属胃也，调胃承气汤主之。",
+      "text": "伤寒吐后，腹胀满者，与调胃承气汤。",
       "formulaIds": [
         "songben-formula-调胃承气汤"
       ],
@@ -4233,8 +4321,10 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 250,
-      "text": "伤寒吐后，腹胀满者，与调胃承气汤。",
-      "formulaIds": [],
+      "text": "太阳病，若吐、若下，若发汗后，微烦，小便数，大便因鞕者，与小承气汤，和之愈。",
+      "formulaIds": [
+        "songben-formula-小承气汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -4249,8 +4339,11 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 251,
-      "text": "太阳病，若吐、若下，若发汗后，微烦，小便数，大便因鞕者，与小承气汤，和之愈。",
-      "formulaIds": [],
+      "text": "得病二三日，脉弱，无太阳柴胡证，烦躁，心下鞕，至四五日，虽能食，以小承气汤少少与，微和之，令小安。至六日，与承气汤一升。若不大便六七日，小便少者，虽不受食，但初头鞕，后必溏，未定成鞕，攻之必溏，须小便利，屎定鞕，乃可攻之，宜大承气汤。",
+      "formulaIds": [
+        "songben-formula-大承气汤",
+        "songben-formula-小承气汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -4265,7 +4358,7 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 252,
-      "text": "得病二三日，脉弱，无太阳柴胡证，烦躁，心下鞕，至四五日，虽能食，以小承气汤少少与，微和之，令小安。至六日，与承气汤一升。若不大便六七日，小便少者，虽不受食，但初头鞕，后必溏，未定成鞕，攻之必溏，须小便利，屎定鞕，乃可攻之，宜大承气汤。",
+      "text": "伤寒六七日，目中不了了，睛不和，无表里证，大便难，身微热者，此为实也。急下之，宜大承气汤。",
       "formulaIds": [
         "songben-formula-大承气汤"
       ],
@@ -4283,7 +4376,7 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 253,
-      "text": "伤寒六七日，目中不了了，睛不和，无表里证，大便难，身微热者，此为实也。急下之，宜大承气汤。",
+      "text": "阳明病，发热，汗多者，急下之，宜大承气汤。",
       "formulaIds": [
         "songben-formula-大承气汤"
       ],
@@ -4301,7 +4394,7 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 254,
-      "text": "阳明病，发热，汗多者，急下之，宜大承气汤。",
+      "text": "发汗不解，腹满痛者，急下之，宜大承气汤。",
       "formulaIds": [
         "songben-formula-大承气汤"
       ],
@@ -4319,7 +4412,7 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 255,
-      "text": "发汗不解，腹满痛者，急下之，宜大承气汤。",
+      "text": "腹满不减，减不足言，当下之，宜大承气汤。",
       "formulaIds": [
         "songben-formula-大承气汤"
       ],
@@ -4337,7 +4430,7 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 256,
-      "text": "腹满不减，减不足言，当下之，宜大承气汤。",
+      "text": "阳明少阳合病，必下利，其脉不负者，为顺也。负者，失也。互相克贼，名为负也。脉滑而数者，有宿食也。当下之，宜大承气汤。",
       "formulaIds": [
         "songben-formula-大承气汤"
       ],
@@ -4355,9 +4448,9 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 257,
-      "text": "阳明少阳合病，必下利，其脉不负者，为顺也。负者，失也。互相克贼，名为负也。脉滑而数者，有宿食也。当下之，宜大承气汤。",
+      "text": "病人无表里证，发热七八日，虽脉浮数者，可下之。假令已下，脉数不解，合热则消谷善饥，至六七日，不大便者，有瘀血，宜抵当汤。",
       "formulaIds": [
-        "songben-formula-大承气汤"
+        "songben-formula-抵当汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -4373,10 +4466,8 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 258,
-      "text": "病人无表里证，发热七八日，虽脉浮数者，可下之。假令已下，脉数不解，合热则消谷善饥，至六七日，不大便者，有瘀血，宜抵当汤。",
-      "formulaIds": [
-        "songben-formula-抵当汤"
-      ],
+      "text": "若脉数不解，而下不止，必协热便脓血也。",
+      "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -4391,7 +4482,7 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 259,
-      "text": "若脉数不解，而下不止，必协热便脓血也。",
+      "text": "伤寒发汗已，身目为黄，所以然者，以寒湿在里不解故也，以为不可下也，于寒湿中求之。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4407,8 +4498,10 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 260,
-      "text": "伤寒发汗已，身目为黄，所以然者，以寒湿在里不解故也，以为不可下也，于寒湿中求之。",
-      "formulaIds": [],
+      "text": "伤寒七八日，身黄如橘子色，小便不利，腹微满者，茵陈蒿汤主之。",
+      "formulaIds": [
+        "songben-formula-茵陈蒿汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -4423,9 +4516,9 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 261,
-      "text": "伤寒七八日，身黄如橘子色，小便不利，腹微满者，茵陈蒿汤主之。",
+      "text": "伤寒，身黄，发热，栀子柏皮汤主之。",
       "formulaIds": [
-        "songben-formula-茵陈蒿汤"
+        "songben-formula-栀子檗皮汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -4441,22 +4534,6 @@
       "chapter": "辨阳明病脉证并治",
       "chapterOrder": 4,
       "order": 262,
-      "text": "伤寒，身黄，发热，栀子柏皮汤主之。",
-      "formulaIds": [],
-      "symptomTags": [],
-      "pulseTags": [],
-      "channelTags": [
-        "阳明"
-      ],
-      "pathogenesisTags": [],
-      "reviewStatus": "ai-draft"
-    },
-    {
-      "id": "songben-263",
-      "book": "songben",
-      "chapter": "辨阳明病脉证并治",
-      "chapterOrder": 4,
-      "order": 263,
       "text": "伤寒瘀热在里，身必黄，麻黄连轺赤小豆汤主之。",
       "formulaIds": [
         "songben-formula-麻黄连轺赤小豆汤"
@@ -4470,12 +4547,28 @@
       "reviewStatus": "ai-draft"
     },
     {
+      "id": "songben-263",
+      "book": "songben",
+      "chapter": "辨少阳病脉证并治",
+      "chapterOrder": 5,
+      "order": 263,
+      "text": "少阳之为病，口苦，咽干，目眩也。",
+      "formulaIds": [],
+      "symptomTags": [],
+      "pulseTags": [],
+      "channelTags": [
+        "少阳"
+      ],
+      "pathogenesisTags": [],
+      "reviewStatus": "ai-draft"
+    },
+    {
       "id": "songben-264",
       "book": "songben",
       "chapter": "辨少阳病脉证并治",
       "chapterOrder": 5,
       "order": 264,
-      "text": "少阳之为病，口苦，咽干，目眩也。",
+      "text": "少阳中风，两耳无所闻，目赤，胸中满而烦者，不可吐下，吐下则悸而惊。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4491,7 +4584,7 @@
       "chapter": "辨少阳病脉证并治",
       "chapterOrder": 5,
       "order": 265,
-      "text": "少阳中风，两耳无所闻，目赤，胸中满而烦者，不可吐下，吐下则悸而惊。",
+      "text": "伤寒，脉弦细，头痛发热者，属少阳。少阳不可发汗，发汗则谵语，此属胃，胃和则愈；胃不和，烦而悸。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4507,8 +4600,10 @@
       "chapter": "辨少阳病脉证并治",
       "chapterOrder": 5,
       "order": 266,
-      "text": "伤寒，脉弦细，头痛发热者，属少阳。少阳不可发汗，发汗则谵语，此属胃，胃和则愈；胃不和，烦而悸。",
-      "formulaIds": [],
+      "text": "本太阳病不解，转入少阳者，胁下鞕满，干呕不能食，往来寒热，尚未吐下，脉沉紧者，与小柴胡汤。",
+      "formulaIds": [
+        "songben-formula-小柴胡汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -4523,7 +4618,7 @@
       "chapter": "辨少阳病脉证并治",
       "chapterOrder": 5,
       "order": 267,
-      "text": "本太阳病不解，转入少阳者，胁下鞕满，干呕不能食，往来寒热，尚未吐下，脉沉紧者，与小柴胡汤。",
+      "text": "若已吐、下、发汗、温针，谵语，柴胡汤证罢，此为坏病，知犯何逆，以法治之。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4539,7 +4634,7 @@
       "chapter": "辨少阳病脉证并治",
       "chapterOrder": 5,
       "order": 268,
-      "text": "若已吐、下、发汗、温针，谵语，柴胡汤证罢，此为坏病，知犯何逆，以法治之。",
+      "text": "三阳合病，脉浮大，上关上，但欲眠睡，目合则汗。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4555,7 +4650,7 @@
       "chapter": "辨少阳病脉证并治",
       "chapterOrder": 5,
       "order": 269,
-      "text": "三阳合病，脉浮大，上关上，但欲眠睡，目合则汗。",
+      "text": "伤寒六七日，无大热，其人躁烦者，此为阳去入阴故也。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4571,7 +4666,7 @@
       "chapter": "辨少阳病脉证并治",
       "chapterOrder": 5,
       "order": 270,
-      "text": "伤寒六七日，无大热，其人躁烦者，此为阳去入阴故也。",
+      "text": "伤寒三日，三阳为尽，三阴当受邪，其人反能食而不呕，此为三阴不受邪也。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4587,7 +4682,7 @@
       "chapter": "辨少阳病脉证并治",
       "chapterOrder": 5,
       "order": 271,
-      "text": "伤寒三日，三阳为尽，三阴当受邪，其人反能食而不呕，此为三阴不受邪也。",
+      "text": "伤寒三日，少阳脉小者，欲已也。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4603,7 +4698,7 @@
       "chapter": "辨少阳病脉证并治",
       "chapterOrder": 5,
       "order": 272,
-      "text": "伤寒三日，少阳脉小者，欲已也。",
+      "text": "少阳病，欲解时，从寅至辰上。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4616,15 +4711,15 @@
     {
       "id": "songben-273",
       "book": "songben",
-      "chapter": "辨少阳病脉证并治",
-      "chapterOrder": 5,
+      "chapter": "辨太阴病脉证并治",
+      "chapterOrder": 6,
       "order": 273,
-      "text": "少阳病，欲解时，从寅至辰上。",
+      "text": "太阴之为病，腹满而吐，食不下，自利益甚，时腹自痛。若下之，必胸下结鞕。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
-        "少阳"
+        "太阴"
       ],
       "pathogenesisTags": [],
       "reviewStatus": "ai-draft"
@@ -4635,7 +4730,7 @@
       "chapter": "辨太阴病脉证并治",
       "chapterOrder": 6,
       "order": 274,
-      "text": "太阴之为病，腹满而吐，食不下，自利益甚，时腹自痛。若下之，必胸下结鞕。",
+      "text": "太阴中风，四肢烦疼，脉阳微阴涩而长者，为欲愈。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4651,7 +4746,7 @@
       "chapter": "辨太阴病脉证并治",
       "chapterOrder": 6,
       "order": 275,
-      "text": "太阴中风，四肢烦疼，脉阳微阴涩而长者，为欲愈。",
+      "text": "太阴病，欲解时，从亥至丑上。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4667,8 +4762,10 @@
       "chapter": "辨太阴病脉证并治",
       "chapterOrder": 6,
       "order": 276,
-      "text": "太阴病，欲解时，从亥至丑上。",
-      "formulaIds": [],
+      "text": "太阴病，脉浮者，可发汗，宜桂枝汤。",
+      "formulaIds": [
+        "songben-formula-桂枝汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -4683,10 +4780,8 @@
       "chapter": "辨太阴病脉证并治",
       "chapterOrder": 6,
       "order": 277,
-      "text": "太阴病，脉浮者，可发汗，宜桂枝汤。",
-      "formulaIds": [
-        "songben-formula-桂枝汤"
-      ],
+      "text": "自利不渴者，属太阴，以其脏有寒故也，当温之，宜服四逆辈。",
+      "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -4701,7 +4796,7 @@
       "chapter": "辨太阴病脉证并治",
       "chapterOrder": 6,
       "order": 278,
-      "text": "自利不渴者，属太阴，以其脏有寒故也，当温之，宜服四逆辈。",
+      "text": "伤寒脉浮而缓，手足自温者，系在太阴。太阴当发身黄，若小便自利者，不能发黄；至七八日，虽暴烦下利，日十余行，必自止，以脾家实，腐秽当去故也。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4717,22 +4812,6 @@
       "chapter": "辨太阴病脉证并治",
       "chapterOrder": 6,
       "order": 279,
-      "text": "伤寒脉浮而缓，手足自温者，系在太阴。太阴当发身黄，若小便自利者，不能发黄；至七八日，虽暴烦下利，日十余行，必自止，以脾家实，腐秽当去故也。",
-      "formulaIds": [],
-      "symptomTags": [],
-      "pulseTags": [],
-      "channelTags": [
-        "太阴"
-      ],
-      "pathogenesisTags": [],
-      "reviewStatus": "ai-draft"
-    },
-    {
-      "id": "songben-280",
-      "book": "songben",
-      "chapter": "辨太阴病脉证并治",
-      "chapterOrder": 6,
-      "order": 280,
       "text": "本太阳病，医反下之，因尔腹满时痛者，属太阴也，桂枝加芍药汤主之；大实痛者，桂枝加大黄汤主之。",
       "formulaIds": [
         "songben-formula-桂枝加芍药汤",
@@ -4747,11 +4826,11 @@
       "reviewStatus": "ai-draft"
     },
     {
-      "id": "songben-281",
+      "id": "songben-280",
       "book": "songben",
       "chapter": "辨太阴病脉证并治",
       "chapterOrder": 6,
-      "order": 281,
+      "order": 280,
       "text": "太阴为病，脉弱，其人续自便利，设当行大黄、芍药者，宜减之，以其人胃气弱，易动故也。",
       "formulaIds": [],
       "symptomTags": [],
@@ -4763,12 +4842,28 @@
       "reviewStatus": "ai-draft"
     },
     {
+      "id": "songben-281",
+      "book": "songben",
+      "chapter": "辨少阴病脉证并治",
+      "chapterOrder": 7,
+      "order": 281,
+      "text": "少阴之为病，脉微细，但欲寐也。",
+      "formulaIds": [],
+      "symptomTags": [],
+      "pulseTags": [],
+      "channelTags": [
+        "少阴"
+      ],
+      "pathogenesisTags": [],
+      "reviewStatus": "ai-draft"
+    },
+    {
       "id": "songben-282",
       "book": "songben",
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 282,
-      "text": "少阴之为病，脉微细，但欲寐也。",
+      "text": "少阴病，欲吐不吐，心烦，但欲寐，五六日自利而渴者，属少阴也。虚故引水自救。若小便色白者，少阴病形悉具。小便白者，以下焦虚有寒，不能制水，故令色白也。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4784,7 +4879,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 283,
-      "text": "少阴病，欲吐不吐，心烦，但欲寐，五六日自利而渴者，属少阴也。虚故引水自救。若小便色白者，少阴病形悉具。小便白者，以下焦虚有寒，不能制水，故令色白也。",
+      "text": "病人脉阴阳俱紧，反汗出者，亡阳也，此属少阴，法当咽痛而复吐利。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4800,7 +4895,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 284,
-      "text": "病人脉阴阳俱紧，反汗出者，亡阳也，此属少阴，法当咽痛而复吐利。",
+      "text": "少阴病，咳而下利，谵语者，被火气劫故也。小便必难，以强责少阴汗也。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4816,7 +4911,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 285,
-      "text": "少阴病，咳而下利，谵语者，被火气劫故也。小便必难，以强责少阴汗也。",
+      "text": "少阴病，脉细沉数，病为在里，不可发汗。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4832,7 +4927,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 286,
-      "text": "少阴病，脉细沉数，病为在里，不可发汗。",
+      "text": "少阴病，脉微，不可发汗，亡阳故也。阳已虚，尺脉弱涩者，复不可下之。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4848,7 +4943,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 287,
-      "text": "少阴病，脉微，不可发汗，亡阳故也。阳已虚，尺脉弱涩者，复不可下之。",
+      "text": "少阴病，脉紧，至七八日，自下利，脉暴微，手足反温，脉紧反去者，为欲解也，虽烦下利，必自愈。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4864,7 +4959,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 288,
-      "text": "少阴病，脉紧，至七八日，自下利，脉暴微，手足反温，脉紧反去者，为欲解也，虽烦下利，必自愈。",
+      "text": "少阴病，下利，若利自止，恶寒而踡卧，手足温者，可治。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4880,7 +4975,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 289,
-      "text": "少阴病，下利，若利自止，恶寒而踡卧，手足温者，可治。",
+      "text": "少阴病，恶寒而踡，时自烦，欲去衣被者，可治。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4896,7 +4991,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 290,
-      "text": "少阴病，恶寒而踡，时自烦，欲去衣被者，可治。",
+      "text": "少阴中风，脉阳微阴浮者，为欲愈。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4912,7 +5007,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 291,
-      "text": "少阴中风，脉阳微阴浮者，为欲愈。",
+      "text": "少阴病，欲解时，从子至寅上。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4928,7 +5023,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 292,
-      "text": "少阴病，欲解时，从子至寅上。",
+      "text": "少阴病，吐、利，手足不逆冷，反发热者，不死；脉不至者，灸少阴七壮。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4944,7 +5039,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 293,
-      "text": "少阴病，吐、利，手足不逆冷，反发热者，不死；脉不至者，灸少阴七壮。",
+      "text": "少阴病，八九日，一身手足尽热者，以热在膀胱，必便血也。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4960,7 +5055,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 294,
-      "text": "少阴病，八九日，一身手足尽热者，以热在膀胱，必便血也。",
+      "text": "少阴病，但厥，无汗，而强发之，必动其血。未知从何道出，或从口鼻，或从目出者，是名下厥上竭，为难治。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4976,7 +5071,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 295,
-      "text": "少阴病，但厥，无汗，而强发之，必动其血。未知从何道出，或从口鼻，或从目出者，是名下厥上竭，为难治。",
+      "text": "少阴病，恶寒，身踡而利，手足逆冷者，不治。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -4992,7 +5087,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 296,
-      "text": "少阴病，恶寒，身踡而利，手足逆冷者，不治。",
+      "text": "少阴病，吐、利、躁烦，四逆者，死。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5008,7 +5103,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 297,
-      "text": "少阴病，吐、利、躁烦，四逆者，死。",
+      "text": "少阴病，下利止而头眩，时时自冒者，死。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5024,7 +5119,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 298,
-      "text": "少阴病，下利止而头眩，时时自冒者，死。",
+      "text": "少阴病，四逆，恶寒而身踡，脉不至，不烦而躁者，死。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5040,7 +5135,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 299,
-      "text": "少阴病，四逆，恶寒而身踡，脉不至，不烦而躁者，死。",
+      "text": "少阴病，六七日，息高者，死。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5056,7 +5151,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 300,
-      "text": "少阴病，六七日，息高者，死。",
+      "text": "少阴病，脉微细沉，但欲卧，汗出不烦，自欲吐。至五六日，自利，复烦躁不得卧寐者，死。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5072,8 +5167,10 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 301,
-      "text": "少阴病，脉微细沉，但欲卧，汗出不烦，自欲吐。至五六日，自利，复烦躁不得卧寐者，死。",
-      "formulaIds": [],
+      "text": "少阴病，始得之，反发热，脉沉者，麻黄细辛附子汤主之。",
+      "formulaIds": [
+        "songben-formula-麻黄细辛附子汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -5088,9 +5185,9 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 302,
-      "text": "少阴病，始得之，反发热，脉沉者，麻黄细辛附子汤主之。",
+      "text": "少阴病，得之二三日，麻黄附子甘草汤微发汗，以二三日无证，故微发汗也。",
       "formulaIds": [
-        "songben-formula-麻黄细辛附子汤"
+        "songben-formula-麻黄附子甘草汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -5106,8 +5203,10 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 303,
-      "text": "少阴病，得之二三日，麻黄附子甘草汤微发汗，以二三日无证，故微发汗也。",
-      "formulaIds": [],
+      "text": "少阴病，得之二三日以上，心中烦，不得卧，黄连阿胶汤主之。",
+      "formulaIds": [
+        "songben-formula-黄连阿胶汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -5122,9 +5221,9 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 304,
-      "text": "少阴病，得之二三日以上，心中烦，不得卧，黄连阿胶汤主之。",
+      "text": "少阴病，得之一二日，口中和，其背恶寒者，当灸之，附子汤主之。",
       "formulaIds": [
-        "songben-formula-黄连阿胶汤"
+        "songben-formula-附子汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -5140,7 +5239,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 305,
-      "text": "少阴病，得之一二日，口中和，其背恶寒者，当灸之，附子汤主之。",
+      "text": "少阴病，身体痛，手足寒，骨节痛，脉沉者，附子汤主之。",
       "formulaIds": [
         "songben-formula-附子汤"
       ],
@@ -5158,9 +5257,9 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 306,
-      "text": "少阴病，身体痛，手足寒，骨节痛，脉沉者，附子汤主之。",
+      "text": "少阴病，下利，便脓血者，桃花汤主之。",
       "formulaIds": [
-        "songben-formula-附子汤"
+        "songben-formula-桃花汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -5176,7 +5275,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 307,
-      "text": "少阴病，下利，便脓血者，桃花汤主之。",
+      "text": "少阴病，二三日至四五日，腹痛，小便不利，下利不止，便脓血者，桃花汤主之。",
       "formulaIds": [
         "songben-formula-桃花汤"
       ],
@@ -5194,10 +5293,8 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 308,
-      "text": "少阴病，二三日至四五日，腹痛，小便不利，下利不止，便脓血者，桃花汤主之。",
-      "formulaIds": [
-        "songben-formula-桃花汤"
-      ],
+      "text": "少阴病，下利，便脓血者，可刺。",
+      "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -5212,8 +5309,10 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 309,
-      "text": "少阴病，下利，便脓血者，可刺。",
-      "formulaIds": [],
+      "text": "少阴病，吐利，手足逆冷，烦躁欲死者，吴茱萸汤主之。",
+      "formulaIds": [
+        "songben-formula-吴茱萸汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -5228,8 +5327,10 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 310,
-      "text": "少阴病，吐利，手足逆冷，烦躁欲死者，吴茱萸汤主之。",
-      "formulaIds": [],
+      "text": "少阴病，下利，咽痛，胸满，心烦，猪肤汤主之。",
+      "formulaIds": [
+        "songben-formula-猪肤汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -5244,9 +5345,10 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 311,
-      "text": "少阴病，下利，咽痛，胸满，心烦，猪肤汤主之。",
+      "text": "少阴病，二三日，咽痛者，可与甘草汤；不差者，与桔梗汤。",
       "formulaIds": [
-        "songben-formula-猪肤汤"
+        "songben-formula-甘草汤",
+        "songben-formula-桔梗汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -5262,8 +5364,10 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 312,
-      "text": "少阴病，二三日，咽痛者，可与甘草汤；不差者，与桔梗汤。",
-      "formulaIds": [],
+      "text": "少阴病，咽中伤，生疮，不能语言，声不出者，苦酒汤主之。",
+      "formulaIds": [
+        "songben-formula-苦酒汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -5278,9 +5382,9 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 313,
-      "text": "少阴病，咽中伤，生疮，不能语言，声不出者，苦酒汤主之。",
+      "text": "少阴病，咽中痛，半夏散及汤主之。",
       "formulaIds": [
-        "songben-formula-苦酒汤"
+        "songben-formula-半夏散及汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -5296,9 +5400,9 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 314,
-      "text": "少阴病，咽中痛，半夏散及汤主之。",
+      "text": "少阴病，下利，白通汤主之。",
       "formulaIds": [
-        "songben-formula-半夏散及汤"
+        "songben-formula-白通汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -5314,8 +5418,9 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 315,
-      "text": "少阴病，下利，白通汤主之。",
+      "text": "少阴病，下利，脉微者，与白通汤。利不止，厥逆无脉，干呕烦者，白通加猪胆汁汤主之。服汤，脉暴出者死，微续者生。",
       "formulaIds": [
+        "songben-formula-白通加猪胆汁汤",
         "songben-formula-白通汤"
       ],
       "symptomTags": [],
@@ -5332,9 +5437,9 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 316,
-      "text": "少阴病，下利，脉微者，与白通汤。利不止，厥逆无脉，干呕烦者，白通加猪胆汁汤主之。服汤，脉暴出者死，微续者生。",
+      "text": "少阴病，二三日不已，至四五日，腹痛，小便不利，四肢沉重疼痛，自下利者，此为有水气。其人或咳，或小便利，或下利，或呕者，真武汤主之。",
       "formulaIds": [
-        "songben-formula-白通加猪胆汁汤"
+        "songben-formula-真武汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -5350,9 +5455,9 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 317,
-      "text": "少阴病，二三日不已，至四五日，腹痛，小便不利，四肢沉重疼痛，自下利者，此为有水气。其人或咳，或小便利，或下利，或呕者，真武汤主之。",
+      "text": "少阴病，下利清谷，里寒外热，手足厥逆，脉微欲绝，身反不恶寒。其人面色赤，或腹痛，或干呕，或咽痛，或利止脉不出者，通脉四逆汤主之。",
       "formulaIds": [
-        "songben-formula-真武汤"
+        "songben-formula-通脉四逆汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -5368,9 +5473,9 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 318,
-      "text": "少阴病，下利清谷，里寒外热，手足厥逆，脉微欲绝，身反不恶寒。其人面色赤，或腹痛，或干呕，或咽痛，或利止脉不出者，通脉四逆汤主之。",
+      "text": "少阴病，四逆，其人或咳，或悸，或小便不利，或腹中痛，或泄利下重者，四逆散主之。",
       "formulaIds": [
-        "songben-formula-通脉四逆汤"
+        "songben-formula-四逆散"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -5386,9 +5491,9 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 319,
-      "text": "少阴病，四逆，其人或咳，或悸，或小便不利，或腹中痛，或泄利下重者，四逆散主之。",
+      "text": "少阴病，下利，六七日，咳而呕渴，心烦不得眠者，猪苓汤主之。",
       "formulaIds": [
-        "songben-formula-四逆散"
+        "songben-formula-猪苓汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -5404,9 +5509,9 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 320,
-      "text": "少阴病，下利，六七日，咳而呕渴，心烦不得眠者，猪苓汤主之。",
+      "text": "少阴病，得之二三日，口燥，咽干者，急下之，宜大承气汤。",
       "formulaIds": [
-        "songben-formula-猪苓汤"
+        "songben-formula-大承气汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -5422,7 +5527,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 321,
-      "text": "少阴病，得之二三日，口燥，咽干者，急下之，宜大承气汤。",
+      "text": "少阴病，自利清水，色纯青，心下必痛，口干燥者，可下之，宜大承气汤。",
       "formulaIds": [
         "songben-formula-大承气汤"
       ],
@@ -5440,7 +5545,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 322,
-      "text": "少阴病，自利清水，色纯青，心下必痛，口干燥者，可下之，宜大承气汤。",
+      "text": "少阴病，六七日，腹胀，不大便者，急下之，宜大承气汤。",
       "formulaIds": [
         "songben-formula-大承气汤"
       ],
@@ -5458,9 +5563,9 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 323,
-      "text": "少阴病，六七日，腹胀，不大便者，急下之，宜大承气汤。",
+      "text": "少阴病，脉沉者，急温之，宜四逆汤。",
       "formulaIds": [
-        "songben-formula-大承气汤"
+        "songben-formula-四逆汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -5476,7 +5581,7 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 324,
-      "text": "少阴病，脉沉者，急温之，宜四逆汤。",
+      "text": "少阴病，饮食入口则吐，心中温温欲吐，复不能吐，始得之，手足寒，脉弦迟者，此胸中实，不可下也，当吐之。若膈上有寒饮，干呕者，不可吐也，当温之，宜四逆汤。",
       "formulaIds": [
         "songben-formula-四逆汤"
       ],
@@ -5494,24 +5599,6 @@
       "chapter": "辨少阴病脉证并治",
       "chapterOrder": 7,
       "order": 325,
-      "text": "少阴病，饮食入口则吐，心中温温欲吐，复不能吐，始得之，手足寒，脉弦迟者，此胸中实，不可下也，当吐之。若膈上有寒饮，干呕者，不可吐也，当温之，宜四逆汤。",
-      "formulaIds": [
-        "songben-formula-四逆汤"
-      ],
-      "symptomTags": [],
-      "pulseTags": [],
-      "channelTags": [
-        "少阴"
-      ],
-      "pathogenesisTags": [],
-      "reviewStatus": "ai-draft"
-    },
-    {
-      "id": "songben-326",
-      "book": "songben",
-      "chapter": "辨少阴病脉证并治",
-      "chapterOrder": 7,
-      "order": 326,
       "text": "少阴病，下利，脉微涩，呕而汗出，必数更衣，反少者，当温其上，灸之。",
       "formulaIds": [],
       "symptomTags": [],
@@ -5523,12 +5610,28 @@
       "reviewStatus": "ai-draft"
     },
     {
+      "id": "songben-326",
+      "book": "songben",
+      "chapter": "辨厥阴病脉证并治",
+      "chapterOrder": 8,
+      "order": 326,
+      "text": "厥阴之为病，消渴，气上撞心，心中疼热，饥而不欲食，食则吐蚘。下之利不止。",
+      "formulaIds": [],
+      "symptomTags": [],
+      "pulseTags": [],
+      "channelTags": [
+        "厥阴"
+      ],
+      "pathogenesisTags": [],
+      "reviewStatus": "ai-draft"
+    },
+    {
       "id": "songben-327",
       "book": "songben",
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 327,
-      "text": "厥阴之为病，消渴，气上撞心，心中疼热，饥而不欲食，食则吐蚘。下之利不止。",
+      "text": "厥阴中风，脉微浮为欲愈，不浮为未愈。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5544,7 +5647,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 328,
-      "text": "厥阴中风，脉微浮为欲愈，不浮为未愈。",
+      "text": "厥阴病，欲解时，从丑至卯上。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5560,7 +5663,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 329,
-      "text": "厥阴病，欲解时，从丑至卯上。",
+      "text": "厥阴病，渴欲饮水者，少少与之愈。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5576,7 +5679,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 330,
-      "text": "厥阴病，渴欲饮水者，少少与之愈。",
+      "text": "诸四逆厥者，不可下之，虚家亦然。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5592,7 +5695,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 331,
-      "text": "诸四逆厥者，不可下之，虚家亦然。",
+      "text": "伤寒，先厥，后发热而利者，必自止。见厥复利。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5608,7 +5711,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 332,
-      "text": "伤寒，先厥，后发热而利者，必自止。见厥复利。",
+      "text": "伤寒，始发热六日，厥反九日而利。凡厥利者，当不能食；今反能食者，恐为除中。食以索饼，不发热者，知胃气尚在，必愈。恐暴热来出而复去也。后三日脉之，其热续在者，期之旦日夜半愈。所以然者，本发热六日，厥反九日，复发热三日，并前六日，亦为九日，与厥相应，故期之旦日夜半愈。后三日脉之而脉数，其热不罢者，此为热气有余，必发痈脓也。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5624,8 +5727,10 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 333,
-      "text": "伤寒，始发热六日，厥反九日而利。凡厥利者，当不能食；今反能食者，恐为除中。食以索饼，不发热者，知胃气尚在，必愈。恐暴热来出而复去也。后三日脉之，其热续在者，期之旦日夜半愈。所以然者，本发热六日，厥反九日，复发热三日，并前六日，亦为九日，与厥相应，故期之旦日夜半愈。后三日脉之而脉数，其热不罢者，此为热气有余，必发痈脓也。",
-      "formulaIds": [],
+      "text": "伤寒脉迟，六七日，而反与黄芩汤彻其热，脉迟为寒，今与黄芩汤复除其热，腹中应冷，当不能食，今反能食，此名除中，必死。",
+      "formulaIds": [
+        "songben-formula-黄芩汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -5640,7 +5745,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 334,
-      "text": "伤寒脉迟，六七日，而反与黄芩汤彻其热，脉迟为寒，今与黄芩汤复除其热，腹中应冷，当不能食，今反能食，此名除中，必死。",
+      "text": "伤寒，先厥后发热，下利必自止。而反汗出，咽中痛者，其喉为痹。发热无汗，而利必自止；若不止，必便脓血。便脓血者，其喉不痹。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5656,7 +5761,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 335,
-      "text": "伤寒，先厥后发热，下利必自止。而反汗出，咽中痛者，其喉为痹。发热无汗，而利必自止；若不止，必便脓血。便脓血者，其喉不痹。",
+      "text": "伤寒，一二日至四五日厥者，必发热，前热者，后必厥。厥深者，热亦深；厥微者，热亦微。厥应下之，而反发汗者，必口伤烂赤。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5672,7 +5777,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 336,
-      "text": "伤寒，一二日至四五日厥者，必发热，前热者，后必厥。厥深者，热亦深；厥微者，热亦微。厥应下之，而反发汗者，必口伤烂赤。",
+      "text": "伤寒病，厥五日，热亦五日。设六日，当复厥，不厥者自愈。厥终不过五日，以热五日，故知自愈。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5688,7 +5793,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 337,
-      "text": "伤寒病，厥五日，热亦五日。设六日，当复厥，不厥者自愈。厥终不过五日，以热五日，故知自愈。",
+      "text": "凡厥者，阴阳气不相顺接，便为厥。厥者，手足逆冷者是也。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5704,8 +5809,10 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 338,
-      "text": "凡厥者，阴阳气不相顺接，便为厥。厥者，手足逆冷者是也。",
-      "formulaIds": [],
+      "text": "伤寒，脉微而厥，至七八日，肤冷，其人躁无暂安时者，此为藏厥，非蚘厥也。蚘厥者，其人当吐蚘，令病者静而复时烦者，此为藏寒。蚘上入其膈故烦，须臾复止，得食而呕，又烦者，蚘闻食臭出，其人常自吐蚘。蚘厥者，乌梅丸主之。又主久利。",
+      "formulaIds": [
+        "songben-formula-乌梅丸"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -5720,10 +5827,8 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 339,
-      "text": "伤寒，脉微而厥，至七八日，肤冷，其人躁无暂安时者，此为藏厥，非蚘厥也。蚘厥者，其人当吐蚘，令病者静而复时烦者，此为藏寒。蚘上入其膈故烦，须臾复止，得食而呕，又烦者，蚘闻食臭出，其人常自吐蚘。蚘厥者，乌梅丸主之。又主久利。",
-      "formulaIds": [
-        "songben-formula-乌梅丸"
-      ],
+      "text": "伤寒，热少微厥，指头寒，嘿嘿不欲食，烦躁。数日，小便利，色白者，此热除也，欲得食，其病为愈。若厥而呕，胸胁烦满者，其后必便血。",
+      "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -5738,7 +5843,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 340,
-      "text": "伤寒，热少微厥，指头寒，嘿嘿不欲食，烦躁。数日，小便利，色白者，此热除也，欲得食，其病为愈。若厥而呕，胸胁烦满者，其后必便血。",
+      "text": "病者手足厥冷，言我不结胸，小腹满，按之痛者，此冷结在膀胱关元也。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5754,7 +5859,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 341,
-      "text": "病者手足厥冷，言我不结胸，小腹满，按之痛者，此冷结在膀胱关元也。",
+      "text": "伤寒发热四日，厥反三日，复热四日，厥少热多者，其病当愈。四日至七日，热不除者，必便脓血。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5770,7 +5875,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 342,
-      "text": "伤寒发热四日，厥反三日，复热四日，厥少热多者，其病当愈。四日至七日，热不除者，必便脓血。",
+      "text": "伤寒，厥四日，热反三日，复厥五日，其病为进。寒多热少，阳气退，故为进也。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5786,7 +5891,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 343,
-      "text": "伤寒，厥四日，热反三日，复厥五日，其病为进。寒多热少，阳气退，故为进也。",
+      "text": "伤寒六七日，脉微，手足厥冷，烦躁，灸厥阴，厥不还者，死。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5802,7 +5907,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 344,
-      "text": "伤寒六七日，脉微，手足厥冷，烦躁，灸厥阴，厥不还者，死。",
+      "text": "伤寒发热，下利，厥逆，躁不得卧者，死。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5818,7 +5923,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 345,
-      "text": "伤寒发热，下利，厥逆，躁不得卧者，死。",
+      "text": "伤寒发热，下利至甚，厥不止者，死。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5834,7 +5939,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 346,
-      "text": "伤寒发热，下利至甚，厥不止者，死。",
+      "text": "伤寒六七日，不利，便发热而利，其人汗出不止者，死。有阴无阳故也。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5850,7 +5955,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 347,
-      "text": "伤寒六七日，不利，便发热而利，其人汗出不止者，死。有阴无阳故也。",
+      "text": "伤寒五六日，不结胸，腹濡，脉虚复厥者，不可下，此亡血，下之死。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5866,7 +5971,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 348,
-      "text": "伤寒五六日，不结胸，腹濡，脉虚复厥者，不可下，此亡血，下之死。",
+      "text": "发热而厥，七日下利者，为难治。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5882,7 +5987,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 349,
-      "text": "发热而厥，七日下利者，为难治。",
+      "text": "伤寒脉促，手足厥逆，可灸之。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -5898,8 +6003,10 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 350,
-      "text": "伤寒脉促，手足厥逆，可灸之。",
-      "formulaIds": [],
+      "text": "伤寒，脉滑而厥者，里有热，白虎汤主之。",
+      "formulaIds": [
+        "songben-formula-白虎汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -5914,9 +6021,9 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 351,
-      "text": "伤寒，脉滑而厥者，里有热，白虎汤主之。",
+      "text": "手足厥寒，脉细欲绝者，当归四逆汤主之。",
       "formulaIds": [
-        "songben-formula-白虎汤"
+        "songben-formula-当归四逆汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -5932,9 +6039,9 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 352,
-      "text": "手足厥寒，脉细欲绝者，当归四逆汤主之。",
+      "text": "若其人内有久寒者，宜当归四逆加吴茱萸生姜汤。",
       "formulaIds": [
-        "songben-formula-当归四逆汤"
+        "songben-formula-当归四逆加吴茱萸生姜汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -5950,9 +6057,9 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 353,
-      "text": "若其人内有久寒者，宜当归四逆加吴茱萸生姜汤。",
+      "text": "大汗出，热不去，内拘急，四肢疼，又下利厥逆而恶寒者，四逆汤主之。",
       "formulaIds": [
-        "songben-formula-当归四逆加吴茱萸生姜汤"
+        "songben-formula-四逆汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -5968,7 +6075,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 354,
-      "text": "大汗出，热不去，内拘急，四肢疼，又下利厥逆而恶寒者，四逆汤主之。",
+      "text": "大汗，若大下利而厥冷者，四逆汤主之。",
       "formulaIds": [
         "songben-formula-四逆汤"
       ],
@@ -5986,9 +6093,9 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 355,
-      "text": "大汗，若大下利而厥冷者，四逆汤主之。",
+      "text": "病人手足厥冷，脉乍紧者，邪结在胸中，心下满而烦，饥不能食者，病在胸中，当须吐之，宜瓜蒂散。",
       "formulaIds": [
-        "songben-formula-四逆汤"
+        "songben-formula-瓜蒂散"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -6004,9 +6111,9 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 356,
-      "text": "病人手足厥冷，脉乍紧者，邪结在胸中，心下满而烦，饥不能食者，病在胸中，当须吐之，宜瓜蒂散。",
+      "text": "伤寒，厥而心下悸，宜先治水，当服茯苓甘草汤，却治其厥。不尔，水渍入胃，必作利也。",
       "formulaIds": [
-        "songben-formula-瓜蒂散"
+        "songben-formula-茯苓甘草汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -6022,8 +6129,10 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 357,
-      "text": "伤寒，厥而心下悸，宜先治水，当服茯苓甘草汤，却治其厥。不尔，水渍入胃，必作利也。",
-      "formulaIds": [],
+      "text": "伤寒六七日，大下后，寸脉沉而迟，手足厥逆，下部脉不至，喉咽不利，唾脓血，泄利不止者，为难治，麻黄升麻汤主之。",
+      "formulaIds": [
+        "songben-formula-麻黄升麻汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -6038,10 +6147,8 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 358,
-      "text": "伤寒六七日，大下后，寸脉沉而迟，手足厥逆，下部脉不至，喉咽不利，唾脓血，泄利不止者，为难治，麻黄升麻汤主之。",
-      "formulaIds": [
-        "songben-formula-麻黄升麻汤"
-      ],
+      "text": "伤寒四五日，腹中痛，若转气下趣少腹者，此欲自利也。",
+      "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -6056,8 +6163,10 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 359,
-      "text": "伤寒四五日，腹中痛，若转气下趣少腹者，此欲自利也。",
-      "formulaIds": [],
+      "text": "伤寒本自寒下，医复吐下之，寒格，更逆吐下，若食入口即吐，干姜黄芩黄连人参汤主之。",
+      "formulaIds": [
+        "songben-formula-干姜黄芩黄连人参汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -6072,10 +6181,8 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 360,
-      "text": "伤寒本自寒下，医复吐下之，寒格，更逆吐下，若食入口即吐，干姜黄芩黄连人参汤主之。",
-      "formulaIds": [
-        "songben-formula-干姜黄芩黄连人参汤"
-      ],
+      "text": "下利，有微热而渴，脉弱者，今自愈。",
+      "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -6090,7 +6197,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 361,
-      "text": "下利，有微热而渴，脉弱者，今自愈。",
+      "text": "下利脉数，有微热汗出，今自愈。设复紧，为未解。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -6106,7 +6213,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 362,
-      "text": "下利脉数，有微热汗出，今自愈。设复紧，为未解。",
+      "text": "下利，手足厥冷，无脉者，灸之。不温。若脉不还，反微喘者，死。少阴负趺阳者，为顺也。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -6122,7 +6229,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 363,
-      "text": "下利，手足厥冷，无脉者，灸之。不温。若脉不还，反微喘者，死。少阴负趺阳者，为顺也。",
+      "text": "下利，寸脉反浮数，尺中自涩者，必清脓血。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -6138,7 +6245,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 364,
-      "text": "下利，寸脉反浮数，尺中自涩者，必清脓血。",
+      "text": "下利清谷，不可攻表，汗出必胀满。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -6154,7 +6261,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 365,
-      "text": "下利清谷，不可攻表，汗出必胀满。",
+      "text": "下利，脉沉弦者，下重也；脉大者，为未止；脉微弱数者，为欲自止，虽发热，不死。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -6170,7 +6277,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 366,
-      "text": "下利，脉沉弦者，下重也；脉大者，为未止；脉微弱数者，为欲自止，虽发热，不死。",
+      "text": "下利，脉沉而迟，其人面少赤，身有微热，下利清谷者，必郁冒汗出而解。病人必微厥。所以然者，其面戴阳，下虚故也。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -6186,7 +6293,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 367,
-      "text": "下利，脉沉而迟，其人面少赤，身有微热，下利清谷者，必郁冒汗出而解。病人必微厥。所以然者，其面戴阳，下虚故也。",
+      "text": "下利，脉数而渴者，今自愈。设不差，必清脓血，以有热故也。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -6202,7 +6309,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 368,
-      "text": "下利，脉数而渴者，今自愈。设不差，必清脓血，以有热故也。",
+      "text": "下利后脉绝，手足厥冷，晬时脉还，手足温者生，脉不还者死。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -6218,7 +6325,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 369,
-      "text": "下利后脉绝，手足厥冷，晬时脉还，手足温者生，脉不还者死。",
+      "text": "伤寒下利，日十余行，脉反实者，死。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -6234,8 +6341,10 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 370,
-      "text": "伤寒下利，日十余行，脉反实者，死。",
-      "formulaIds": [],
+      "text": "下利清谷，里寒外热，汗出而厥者，通脉四逆汤主之。",
+      "formulaIds": [
+        "songben-formula-通脉四逆汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -6250,9 +6359,9 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 371,
-      "text": "下利清谷，里寒外热，汗出而厥者，通脉四逆汤主之。",
+      "text": "热利下重者，白头翁汤主之。",
       "formulaIds": [
-        "songben-formula-通脉四逆汤"
+        "songben-formula-白头翁汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -6268,9 +6377,10 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 372,
-      "text": "热利下重者，白头翁汤主之。",
+      "text": "下利腹胀满，身体疼痛者，先温其里，乃攻其表。温里宜四逆汤，攻表宜桂枝汤。",
       "formulaIds": [
-        "songben-formula-白头翁汤"
+        "songben-formula-四逆汤",
+        "songben-formula-桂枝汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -6286,9 +6396,9 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 373,
-      "text": "下利腹胀满，身体疼痛者，先温其里，乃攻其表。温里宜四逆汤，攻表宜桂枝汤。",
+      "text": "下利欲饮水者，以有热故也，白头翁汤主之。",
       "formulaIds": [
-        "songben-formula-四逆汤"
+        "songben-formula-白头翁汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -6304,9 +6414,9 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 374,
-      "text": "下利欲饮水者，以有热故也，白头翁汤主之。",
+      "text": "下利谵语者，有燥屎也，宜小承气汤。",
       "formulaIds": [
-        "songben-formula-白头翁汤"
+        "songben-formula-小承气汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -6322,9 +6432,9 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 375,
-      "text": "下利谵语者，有燥屎也，宜小承气汤。",
+      "text": "下利后，更烦，按之心下濡者，为虚烦也，宜栀子豉汤。",
       "formulaIds": [
-        "songben-formula-小承气汤"
+        "songben-formula-栀子豉汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -6340,10 +6450,8 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 376,
-      "text": "下利后，更烦，按之心下濡者，为虚烦也，宜栀子豉汤。",
-      "formulaIds": [
-        "songben-formula-栀子豉汤"
-      ],
+      "text": "呕家有痈脓者，不可治呕，脓尽自愈。",
+      "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -6358,8 +6466,10 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 377,
-      "text": "呕家有痈脓者，不可治呕，脓尽自愈。",
-      "formulaIds": [],
+      "text": "呕而脉弱，小便复利，身有微热，见厥者难治，四逆汤主之。",
+      "formulaIds": [
+        "songben-formula-四逆汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -6374,9 +6484,9 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 378,
-      "text": "呕而脉弱，小便复利，身有微热，见厥者难治，四逆汤主之。",
+      "text": "干呕，吐涎沫，头痛者，吴茱萸汤主之。",
       "formulaIds": [
-        "songben-formula-四逆汤"
+        "songben-formula-吴茱萸汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -6392,8 +6502,10 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 379,
-      "text": "干呕，吐涎沫，头痛者，吴茱萸汤主之。",
-      "formulaIds": [],
+      "text": "呕而发热者，小柴胡汤主之。",
+      "formulaIds": [
+        "songben-formula-小柴胡汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -6408,10 +6520,8 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 380,
-      "text": "呕而发热者，小柴胡汤主之。",
-      "formulaIds": [
-        "songben-formula-小柴胡汤"
-      ],
+      "text": "伤寒，大吐、大下之，极虚，复极汗者，其人外气怫郁，复与之水，以发其汗，因得哕。所以然者，胃中寒冷故也。",
+      "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [
@@ -6426,7 +6536,7 @@
       "chapter": "辨厥阴病脉证并治",
       "chapterOrder": 8,
       "order": 381,
-      "text": "伤寒，大吐、大下之，极虚，复极汗者，其人外气怫郁，复与之水，以发其汗，因得哕。所以然者，胃中寒冷故也。",
+      "text": "伤寒，哕而腹满，视其前后，知何部不利，利之即愈。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
@@ -6439,17 +6549,17 @@
     {
       "id": "songben-382",
       "book": "songben",
-      "chapter": "辨厥阴病脉证并治",
-      "chapterOrder": 8,
+      "chapter": "辨霍乱病脉证并治",
+      "chapterOrder": 9,
       "order": 382,
-      "text": "伤寒，哕而腹满，视其前后，知何部不利，利之即愈。",
+      "text": "问曰：病有霍乱者何？答曰：呕吐而利，此名霍乱。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
-      "channelTags": [
-        "厥阴"
+      "channelTags": [],
+      "pathogenesisTags": [
+        "霍乱"
       ],
-      "pathogenesisTags": [],
       "reviewStatus": "ai-draft"
     },
     {
@@ -6458,14 +6568,14 @@
       "chapter": "辨霍乱病脉证并治",
       "chapterOrder": 9,
       "order": 383,
-      "text": "问曰：病有霍乱者何？答曰：呕吐而利，此名霍乱。",
+      "text": "问曰：病发热、头痛、身疼、恶寒、吐利者，此属何病？答曰：此名霍乱。霍乱自吐下，又利止，复更发热也。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
-      "channelTags": [
+      "channelTags": [],
+      "pathogenesisTags": [
         "霍乱"
       ],
-      "pathogenesisTags": [],
       "reviewStatus": "ai-draft"
     },
     {
@@ -6474,14 +6584,14 @@
       "chapter": "辨霍乱病脉证并治",
       "chapterOrder": 9,
       "order": 384,
-      "text": "问曰：病发热、头痛、身疼、恶寒、吐利者，此属何病？答曰：此名霍乱。霍乱自吐下，又利止，复更发热也。",
+      "text": "伤寒，其脉微涩者，本是霍乱，今是伤寒，却四五日，至阴经上，转入阴必利；本呕，下利者，不可治也。欲似大便，而反失气，仍不利者，此属阳明也，便必鞕，十三日愈。所以然者，经尽故也。下利后，当便鞕，鞕则能食者愈。今反不能食，到后经中，颇能食，复过一经能食，过之一日当愈；不愈者，不属阳明也。",
       "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
-      "channelTags": [
+      "channelTags": [],
+      "pathogenesisTags": [
         "霍乱"
       ],
-      "pathogenesisTags": [],
       "reviewStatus": "ai-draft"
     },
     {
@@ -6490,14 +6600,16 @@
       "chapter": "辨霍乱病脉证并治",
       "chapterOrder": 9,
       "order": 385,
-      "text": "伤寒，其脉微涩者，本是霍乱，今是伤寒，却四五日，至阴经上，转入阴必利；本呕，下利者，不可治也。欲似大便，而反失气，仍不利者，此属阳明也，便必鞕，十三日愈。所以然者，经尽故也。下利后，当便鞕，鞕则能食者愈。今反不能食，到后经中，颇能食，复过一经能食，过之一日当愈；不愈者，不属阳明也。",
-      "formulaIds": [],
+      "text": "恶寒脉微而复利，利止，亡血也，四逆加人参汤主之。",
+      "formulaIds": [
+        "songben-formula-四逆加人参汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
-      "channelTags": [
+      "channelTags": [],
+      "pathogenesisTags": [
         "霍乱"
       ],
-      "pathogenesisTags": [],
       "reviewStatus": "ai-draft"
     },
     {
@@ -6506,16 +6618,17 @@
       "chapter": "辨霍乱病脉证并治",
       "chapterOrder": 9,
       "order": 386,
-      "text": "恶寒脉微而复利，利止，亡血也，四逆加人参汤主之。",
+      "text": "霍乱，头痛，发热，身疼痛，热多欲饮水者，五苓散主之。寒多不用水者，理中丸主之。",
       "formulaIds": [
-        "songben-formula-四逆加人参汤"
+        "songben-formula-五苓散",
+        "songben-formula-理中丸"
       ],
       "symptomTags": [],
       "pulseTags": [],
-      "channelTags": [
+      "channelTags": [],
+      "pathogenesisTags": [
         "霍乱"
       ],
-      "pathogenesisTags": [],
       "reviewStatus": "ai-draft"
     },
     {
@@ -6524,17 +6637,16 @@
       "chapter": "辨霍乱病脉证并治",
       "chapterOrder": 9,
       "order": 387,
-      "text": "霍乱，头痛，发热，身疼痛，热多欲饮水者，五苓散主之。寒多不用水者，理中丸主之。",
+      "text": "吐利止而身痛不休者，当消息和解其外，宜桂枝汤小和之。",
       "formulaIds": [
-        "songben-formula-五苓散",
-        "songben-formula-理中丸"
+        "songben-formula-桂枝汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
-      "channelTags": [
+      "channelTags": [],
+      "pathogenesisTags": [
         "霍乱"
       ],
-      "pathogenesisTags": [],
       "reviewStatus": "ai-draft"
     },
     {
@@ -6543,16 +6655,16 @@
       "chapter": "辨霍乱病脉证并治",
       "chapterOrder": 9,
       "order": 388,
-      "text": "吐利止而身痛不休者，当消息和解其外，宜桂枝汤小和之。",
+      "text": "吐利，汗出，发热，恶寒，四肢拘急，手足厥冷者，四逆汤主之。",
       "formulaIds": [
-        "songben-formula-桂枝汤"
+        "songben-formula-四逆汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
-      "channelTags": [
+      "channelTags": [],
+      "pathogenesisTags": [
         "霍乱"
       ],
-      "pathogenesisTags": [],
       "reviewStatus": "ai-draft"
     },
     {
@@ -6561,16 +6673,16 @@
       "chapter": "辨霍乱病脉证并治",
       "chapterOrder": 9,
       "order": 389,
-      "text": "吐利，汗出，发热，恶寒，四肢拘急，手足厥冷者，四逆汤主之。",
+      "text": "既吐且利，小便复利而大汗出，下利清谷，内寒外热，脉微欲绝者，四逆汤主之。",
       "formulaIds": [
         "songben-formula-四逆汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
-      "channelTags": [
+      "channelTags": [],
+      "pathogenesisTags": [
         "霍乱"
       ],
-      "pathogenesisTags": [],
       "reviewStatus": "ai-draft"
     },
     {
@@ -6579,16 +6691,16 @@
       "chapter": "辨霍乱病脉证并治",
       "chapterOrder": 9,
       "order": 390,
-      "text": "既吐且利，小便复利而大汗出，下利清谷，内寒外热，脉微欲绝者，四逆汤主之。",
+      "text": "吐已下断，汗出而厥，四肢拘急不解，脉微欲绝者，通脉四逆加猪胆汁汤主之。",
       "formulaIds": [
-        "songben-formula-四逆汤"
+        "songben-formula-通脉四逆加猪胆汁汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
-      "channelTags": [
+      "channelTags": [],
+      "pathogenesisTags": [
         "霍乱"
       ],
-      "pathogenesisTags": [],
       "reviewStatus": "ai-draft"
     },
     {
@@ -6597,31 +6709,29 @@
       "chapter": "辨霍乱病脉证并治",
       "chapterOrder": 9,
       "order": 391,
-      "text": "吐已下断，汗出而厥，四肢拘急不解，脉微欲绝者，通脉四逆加猪胆汁汤主之。",
-      "formulaIds": [
-        "songben-formula-通脉四逆加猪胆汁汤"
-      ],
+      "text": "吐利，发汗，脉平，小烦者，以新虚不胜谷气故也。",
+      "formulaIds": [],
       "symptomTags": [],
       "pulseTags": [],
-      "channelTags": [
+      "channelTags": [],
+      "pathogenesisTags": [
         "霍乱"
       ],
-      "pathogenesisTags": [],
       "reviewStatus": "ai-draft"
     },
     {
       "id": "songben-392",
       "book": "songben",
-      "chapter": "辨霍乱病脉证并治",
-      "chapterOrder": 9,
+      "chapter": "辨阴阳易差后劳复病脉证并治",
+      "chapterOrder": 10,
       "order": 392,
-      "text": "吐利，发汗，脉平，小烦者，以新虚不胜谷气故也。",
-      "formulaIds": [],
+      "text": "伤寒阴阳易之为病，其人身体重，少气，少腹里急，或引阴中拘挛，热上冲胸，头重不欲举，眼中生花，膝胫拘急者，烧裈散主之。",
+      "formulaIds": [
+        "songben-formula-烧裈散"
+      ],
       "symptomTags": [],
       "pulseTags": [],
-      "channelTags": [
-        "霍乱"
-      ],
+      "channelTags": [],
       "pathogenesisTags": [],
       "reviewStatus": "ai-draft"
     },
@@ -6631,9 +6741,9 @@
       "chapter": "辨阴阳易差后劳复病脉证并治",
       "chapterOrder": 10,
       "order": 393,
-      "text": "伤寒阴阳易之为病，其人身体重，少气，少腹里急，或引阴中拘挛，热上冲胸，头重不欲举，眼中生花，膝胫拘急者，烧裈散主之。",
+      "text": "大病差后，劳复者，枳实栀子豉汤主之。",
       "formulaIds": [
-        "songben-formula-烧裈散"
+        "songben-formula-枳实栀子豉汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -6647,8 +6757,10 @@
       "chapter": "辨阴阳易差后劳复病脉证并治",
       "chapterOrder": 10,
       "order": 394,
-      "text": "妇人中裈近隐处，取烧作灰。",
-      "formulaIds": [],
+      "text": "伤寒差以后，更发热，小柴胡汤主之。脉浮者，以汗解之；脉沉实者，以下解之。",
+      "formulaIds": [
+        "songben-formula-小柴胡汤"
+      ],
       "symptomTags": [],
       "pulseTags": [],
       "channelTags": [],
@@ -6661,9 +6773,9 @@
       "chapter": "辨阴阳易差后劳复病脉证并治",
       "chapterOrder": 10,
       "order": 395,
-      "text": "大病差后，劳复者，枳实栀子豉汤主之。",
+      "text": "大病差后，从腰以下有水气者，牡蛎泽泻散主之。",
       "formulaIds": [
-        "songben-formula-枳实栀子豉汤"
+        "songben-formula-牡蛎泽泻散"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -6677,9 +6789,9 @@
       "chapter": "辨阴阳易差后劳复病脉证并治",
       "chapterOrder": 10,
       "order": 396,
-      "text": "伤寒差以后，更发热，小柴胡汤主之。脉浮者，以汗解之；脉沉实者，以下解之。",
+      "text": "大病差后，喜唾，久不了了，胸上有寒，当以丸药温之，宜理中丸。",
       "formulaIds": [
-        "songben-formula-小柴胡汤"
+        "songben-formula-理中丸"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -6693,9 +6805,9 @@
       "chapter": "辨阴阳易差后劳复病脉证并治",
       "chapterOrder": 10,
       "order": 397,
-      "text": "大病差后，从腰以下有水气者，牡蛎泽泻散主之。",
+      "text": "伤寒解后，虚羸少气，气逆欲吐，竹叶石膏汤主之。",
       "formulaIds": [
-        "songben-formula-牡蛎泽泻散"
+        "songben-formula-竹叶石膏汤"
       ],
       "symptomTags": [],
       "pulseTags": [],
@@ -6709,38 +6821,6 @@
       "chapter": "辨阴阳易差后劳复病脉证并治",
       "chapterOrder": 10,
       "order": 398,
-      "text": "大病差后，喜唾，久不了了，胸上有寒，当以丸药温之，宜理中丸。",
-      "formulaIds": [
-        "songben-formula-理中丸"
-      ],
-      "symptomTags": [],
-      "pulseTags": [],
-      "channelTags": [],
-      "pathogenesisTags": [],
-      "reviewStatus": "ai-draft"
-    },
-    {
-      "id": "songben-399",
-      "book": "songben",
-      "chapter": "辨阴阳易差后劳复病脉证并治",
-      "chapterOrder": 10,
-      "order": 399,
-      "text": "伤寒解后，虚羸少气，气逆欲吐，竹叶石膏汤主之。",
-      "formulaIds": [
-        "songben-formula-竹叶石膏汤"
-      ],
-      "symptomTags": [],
-      "pulseTags": [],
-      "channelTags": [],
-      "pathogenesisTags": [],
-      "reviewStatus": "ai-draft"
-    },
-    {
-      "id": "songben-400",
-      "book": "songben",
-      "chapter": "辨阴阳易差后劳复病脉证并治",
-      "chapterOrder": 10,
-      "order": 400,
       "text": "病人脉已解，而日暮微烦，以病新差，人强与谷，脾胃气尚弱，不能消谷，故令微烦，损谷则愈。",
       "formulaIds": [],
       "symptomTags": [],
@@ -6805,6 +6885,11 @@
       "sourceClauseIds": [
         "songben-12",
         "songben-13",
+        "songben-15",
+        "songben-17",
+        "songben-18",
+        "songben-24",
+        "songben-25",
         "songben-42",
         "songben-44",
         "songben-45",
@@ -6812,12 +6897,14 @@
         "songben-54",
         "songben-56",
         "songben-57",
+        "songben-91",
         "songben-95",
         "songben-164",
-        "songben-235",
-        "songben-241",
-        "songben-277",
-        "songben-388"
+        "songben-234",
+        "songben-240",
+        "songben-276",
+        "songben-372",
+        "songben-387"
       ],
       "chapter": "辨太阳病脉证并治上"
     },
@@ -7418,7 +7505,9 @@
       ],
       "preparation": "上二味，以水三升，煮取一升五合，去滓，分温再服。",
       "modifications": [],
-      "sourceClauseIds": [],
+      "sourceClauseIds": [
+        "songben-29"
+      ],
       "chapter": "辨太阳病脉证并治上"
     },
     {
@@ -7445,7 +7534,10 @@
       ],
       "preparation": "上二味，以水三升，煮取一升五合，去滓，分温再服。",
       "modifications": [],
-      "sourceClauseIds": [],
+      "sourceClauseIds": [
+        "songben-29",
+        "songben-30"
+      ],
       "chapter": "辨太阳病脉证并治上"
     },
     {
@@ -7482,8 +7574,13 @@
       "preparation": "上三味，以水三升，煮取一升，去滓，内芒硝，更上火微煮令沸，少少温服之。",
       "modifications": [],
       "sourceClauseIds": [
+        "songben-29",
+        "songben-70",
         "songben-94",
         "songben-105",
+        "songben-123",
+        "songben-207",
+        "songben-248",
         "songben-249"
       ],
       "chapter": "辨太阳病脉证并治上"
@@ -7526,14 +7623,14 @@
         "songben-91",
         "songben-92",
         "songben-225",
+        "songben-323",
         "songben-324",
-        "songben-325",
+        "songben-353",
         "songben-354",
-        "songben-355",
-        "songben-373",
-        "songben-378",
-        "songben-389",
-        "songben-390"
+        "songben-372",
+        "songben-377",
+        "songben-388",
+        "songben-389"
       ],
       "chapter": "辨太阳病脉证并治上"
     },
@@ -7659,11 +7756,20 @@
         {
           "herbId": "生姜",
           "name": "生姜",
-          "rawText": "生姜二两（切）半夏半升（洗）",
+          "rawText": "生姜二两（切）",
           "doseRaw": "二两",
           "doseLiang": 2,
-          "processing": "洗、切",
-          "note": "切半夏半升洗"
+          "processing": "切",
+          "note": "切"
+        },
+        {
+          "herbId": "半夏",
+          "name": "半夏",
+          "rawText": "半夏半升（洗）",
+          "doseRaw": "半升",
+          "doseSheng": 0.5,
+          "processing": "洗",
+          "note": "洗"
         },
         {
           "herbId": "大枣",
@@ -7771,11 +7877,13 @@
       "sourceClauseIds": [
         "songben-35",
         "songben-36",
+        "songben-37",
         "songben-46",
         "songben-51",
         "songben-52",
         "songben-55",
-        "songben-236"
+        "songben-232",
+        "songben-235"
       ],
       "chapter": "辨太阳病脉证并治中"
     },
@@ -7850,7 +7958,8 @@
       "preparation": "上七味，以水九升，先煮麻黄，减二升，去上沫，内诸药，煮取三升，去滓，温服一升，取微似汗。汗出多者，温粉粉之。一服汗者，停后服。若复服，汗多亡阳，遂虚，恶风、烦躁、不得眠也。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-38"
+        "songben-38",
+        "songben-39"
       ],
       "chapter": "辨太阳病脉证并治中"
     },
@@ -8090,7 +8199,9 @@
       ],
       "preparation": "上六味，以水一斗二升，煮取三升，去滓，温服一升。",
       "modifications": [],
-      "sourceClauseIds": [],
+      "sourceClauseIds": [
+        "songben-62"
+      ],
       "chapter": "辨太阳病脉证并治中"
     },
     {
@@ -8136,12 +8247,15 @@
       ],
       "preparation": "上四味，以水七升，煮麻黄，减二升，去上沫；内诸药，煮取二升，去滓，温服一升。",
       "modifications": [],
-      "sourceClauseIds": [],
+      "sourceClauseIds": [
+        "songben-63",
+        "songben-162"
+      ],
       "chapter": "辨太阳病脉证并治中"
     },
     {
-      "id": "songben-formula-桂技甘草汤",
-      "name": "桂技甘草汤",
+      "id": "songben-formula-桂枝甘草汤",
+      "name": "桂枝甘草汤",
       "book": "songben",
       "herbs": [
         {
@@ -8165,7 +8279,9 @@
       ],
       "preparation": "上二味，以水三升，煮取一升，去滓，顿服。",
       "modifications": [],
-      "sourceClauseIds": [],
+      "sourceClauseIds": [
+        "songben-64"
+      ],
       "chapter": "辨太阳病脉证并治中"
     },
     {
@@ -8430,9 +8546,9 @@
           "doseRaw": "十八铢"
         },
         {
-          "herbId": "株茯苓",
-          "name": "株茯苓",
-          "rawText": "株茯苓十八铢",
+          "herbId": "茯苓",
+          "name": "茯苓",
+          "rawText": "茯苓十八铢",
           "doseRaw": "十八铢"
         },
         {
@@ -8452,9 +8568,10 @@
         "songben-72",
         "songben-73",
         "songben-74",
+        "songben-141",
         "songben-156",
-        "songben-245",
-        "songben-387"
+        "songben-244",
+        "songben-386"
       ],
       "chapter": "辨太阳病脉证并治中"
     },
@@ -8501,7 +8618,8 @@
       "preparation": "上四味，以水四升，煮取二升，去滓，分温三服。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-73"
+        "songben-73",
+        "songben-356"
       ],
       "chapter": "辨太阳病脉证并治中"
     },
@@ -8537,7 +8655,7 @@
         "songben-78",
         "songben-221",
         "songben-228",
-        "songben-376"
+        "songben-375"
       ],
       "chapter": "辨太阳病脉证并治中"
     },
@@ -8739,7 +8857,7 @@
       "modifications": [],
       "sourceClauseIds": [
         "songben-82",
-        "songben-317"
+        "songben-316"
       ],
       "chapter": "辨太阳病脉证并治中"
     },
@@ -8793,7 +8911,9 @@
       ],
       "preparation": "上六味，蜜为丸，如梧桐子大，每服二十丸。病人有寒，复发汗，胃中冷，必吐蚘。",
       "modifications": [],
-      "sourceClauseIds": [],
+      "sourceClauseIds": [
+        "songben-88"
+      ],
       "chapter": "辨太阳病脉证并治中"
     },
     {
@@ -8810,7 +8930,7 @@
         {
           "herbId": "黄芩",
           "name": "黄芩",
-          "rawText": "黄芩三两了",
+          "rawText": "黄芩三两",
           "doseRaw": "三两",
           "doseLiang": 3
         },
@@ -8861,12 +8981,24 @@
       "preparation": "上七味，以水一斗二升，煮取六升，去滓，再煎取三升，温服一升，日三服。若胸中烦而不呕者，去半夏、人参，加栝蒌实一枚；若渴者，去半夏，加人参合前成四两半、栝蒌根四两，若腹中痛者，去黄岑，加芍药三两；若胁下痞硬者，去大枣，加牡蛎四两；若心下悸、小便不利者，去黄芩，加茯苓四两；若不渴、外有微热者，去人参，加桂枝三两，温服微汗愈；若咳者，去人参、大枣、生姜，加五味子半升、干姜二两。",
       "modifications": [],
       "sourceClauseIds": [
+        "songben-37",
         "songben-96",
         "songben-97",
+        "songben-98",
         "songben-99",
+        "songben-100",
+        "songben-101",
+        "songben-103",
+        "songben-104",
         "songben-144",
-        "songben-380",
-        "songben-396"
+        "songben-148",
+        "songben-149",
+        "songben-229",
+        "songben-230",
+        "songben-231",
+        "songben-266",
+        "songben-379",
+        "songben-394"
       ],
       "chapter": "辨太阳病脉证并治中"
     },
@@ -8929,6 +9061,7 @@
       "preparation": "上六味，以水七升，煮取三升，去滓；内饴，更上微火消解，温服一升，日三服。呕家不可用建中汤，以甜故也。",
       "modifications": [],
       "sourceClauseIds": [
+        "songben-100",
         "songben-102"
       ],
       "chapter": "辨太阳病脉证并治中"
@@ -9011,6 +9144,8 @@
         }
       ],
       "sourceClauseIds": [
+        "songben-103",
+        "songben-136",
         "songben-165"
       ],
       "chapter": "辨太阳病脉证并治中"
@@ -9086,7 +9221,9 @@
       ],
       "preparation": "上八味，以水四升，煮取二升，去滓，内芒硝，更煮微沸，分温再服。不解，更作。",
       "modifications": [],
-      "sourceClauseIds": [],
+      "sourceClauseIds": [
+        "songben-104"
+      ],
       "chapter": "辨太阳病脉证并治中"
     },
     {
@@ -9319,7 +9456,9 @@
       ],
       "preparation": "上七味，以水一斗二升，先煮蜀漆减二升；内诸药，煮取三升，去滓，温服一升。",
       "modifications": [],
-      "sourceClauseIds": [],
+      "sourceClauseIds": [
+        "songben-112"
+      ],
       "chapter": "辨太阳病脉证并治中"
     },
     {
@@ -9330,9 +9469,9 @@
         {
           "herbId": "桂枝",
           "name": "桂枝",
-          "rawText": "桂枝三两（去皮）",
-          "doseRaw": "三两",
-          "doseLiang": 3,
+          "rawText": "桂枝五两（去皮）",
+          "doseRaw": "五两",
+          "doseLiang": 5,
           "processing": "去皮",
           "note": "去皮"
         },
@@ -9373,7 +9512,9 @@
       ],
       "preparation": "上五味，以水七升，煮取三升，去滓，温服一升。",
       "modifications": [],
-      "sourceClauseIds": [],
+      "sourceClauseIds": [
+        "songben-117"
+      ],
       "chapter": "辨太阳病脉证并治中"
     },
     {
@@ -9470,8 +9611,8 @@
       "sourceClauseIds": [
         "songben-124",
         "songben-125",
-        "songben-238",
-        "songben-258"
+        "songben-237",
+        "songben-257"
       ],
       "chapter": "辨太阳病脉证并治中"
     },
@@ -9637,7 +9778,8 @@
       "preparation": "上三味，以水六升，先煮栝蒌，取三升，去滓；内诸药，煮取二升，去滓，分温三服。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-138"
+        "songben-138",
+        "songben-141"
       ],
       "chapter": "辨太阳病脉证并治下"
     },
@@ -9656,7 +9798,9 @@
       ],
       "preparation": "上一味，为散。以沸汤和一寸方匕服，汤用五合。身热皮粟不解，欲引衣自复者，若以水潠之洗之，益令热劫不得去，当汗而不汗则烦，假令汗出已，腹中痛，与芍药三两如上法。",
       "modifications": [],
-      "sourceClauseIds": [],
+      "sourceClauseIds": [
+        "songben-141"
+      ],
       "chapter": "辨太阳病脉证并治下"
     },
     {
@@ -9687,7 +9831,9 @@
       ],
       "preparation": "上三味，为散；内巴豆更于臼中杵之，以白饮和服。强人半钱匕，羸者减之。病在膈上必吐，在膈下必利。不利，进热粥一杯；利过不止，进冷粥一杯。",
       "modifications": [],
-      "sourceClauseIds": [],
+      "sourceClauseIds": [
+        "songben-141"
+      ],
       "chapter": "辨太阳病脉证并治下"
     },
     {
@@ -9967,7 +10113,8 @@
       "preparation": "上二味，以麻沸汤二升渍之须臾，绞去滓，分温再服。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-154"
+        "songben-154",
+        "songben-164"
       ],
       "chapter": "辨太阳病脉证并治下"
     },
@@ -9996,6 +10143,15 @@
           "rawText": "黄芩一两",
           "doseRaw": "一两",
           "doseLiang": 1
+        },
+        {
+          "herbId": "附子",
+          "name": "附子",
+          "rawText": "附子一枚（炮，去皮，破，别煮取汁）",
+          "doseRaw": "一枚",
+          "doseCount": 1,
+          "processing": "炮、破、去皮",
+          "note": "炮，去皮，破，别煮取汁"
         }
       ],
       "preparation": "上四味，切三味，以麻沸汤二升渍之，须臾，绞去滓，内附子汁，分温再服。",
@@ -10157,8 +10313,8 @@
           "note": "碎"
         },
         {
-          "herbId": "太一禹余粮",
-          "name": "太一禹余粮",
+          "herbId": "禹余粮",
+          "name": "禹余粮",
           "rawText": "太一禹余粮一斤（碎）",
           "doseRaw": "一斤",
           "processing": "碎",
@@ -10199,8 +10355,8 @@
           "doseLiang": 5
         },
         {
-          "herbId": "代赭",
-          "name": "代赭",
+          "herbId": "代赭石",
+          "name": "代赭石",
           "rawText": "代赭一两",
           "doseRaw": "一两",
           "doseLiang": 1
@@ -10312,11 +10468,11 @@
           "doseRaw": "一分"
         }
       ],
-      "preparation": "",
+      "preparation": "上二味，各别捣筛，为散已，合治之，取一钱匕；以香豉一合，用热汤七合，煮作稀糜，去滓；取汁合散，温，顿服之。不吐者，少少加；得快吐，乃止。诸亡血虚家，不可与瓜蒂散。",
       "modifications": [],
       "sourceClauseIds": [
         "songben-166",
-        "songben-356"
+        "songben-355"
       ],
       "chapter": "辨太阳病脉证并治下"
     },
@@ -10351,16 +10507,19 @@
         {
           "herbId": "大枣",
           "name": "大枣",
-          "rawText": "大枣二十枚（擘）",
-          "doseRaw": "二十枚",
-          "doseCount": 20,
+          "rawText": "大枣十二枚（擘）",
+          "doseRaw": "十二枚",
+          "doseCount": 12,
           "processing": "擘",
           "note": "擘"
         }
       ],
       "preparation": "上四味，以水一斗，煮取三升，去滓，温服一升，日再、夜一服。",
       "modifications": [],
-      "sourceClauseIds": [],
+      "sourceClauseIds": [
+        "songben-172",
+        "songben-333"
+      ],
       "chapter": "辨太阳病脉证并治下"
     },
     {
@@ -10697,9 +10856,10 @@
       "preparation": "上四味，以水一斗，煮米熟汤成，去滓，温服一升，日三服。",
       "modifications": [],
       "sourceClauseIds": [
+        "songben-170",
         "songben-176",
         "songben-219",
-        "songben-351"
+        "songben-350"
       ],
       "chapter": "辨太阳病脉证并治下"
     },
@@ -10832,22 +10992,24 @@
       "modifications": [],
       "sourceClauseIds": [
         "songben-208",
+        "songben-209",
         "songben-212",
         "songben-215",
         "songben-217",
         "songben-220",
-        "songben-239",
+        "songben-238",
+        "songben-240",
+        "songben-241",
         "songben-242",
-        "songben-243",
+        "songben-251",
         "songben-252",
         "songben-253",
         "songben-254",
         "songben-255",
         "songben-256",
-        "songben-257",
+        "songben-320",
         "songben-321",
-        "songben-322",
-        "songben-323"
+        "songben-322"
       ],
       "chapter": "辨阳明病脉证并治"
     },
@@ -10887,9 +11049,13 @@
       "preparation": "上三味，以水回升，煮取一升二合，去滓，分温二服。初服当更衣，不尔者尽饮之，若更衣者勿服之。",
       "modifications": [],
       "sourceClauseIds": [
+        "songben-208",
+        "songben-209",
         "songben-213",
         "songben-214",
-        "songben-375"
+        "songben-250",
+        "songben-251",
+        "songben-374"
       ],
       "chapter": "辨阳明病脉证并治"
     },
@@ -10915,9 +11081,16 @@
           "doseLiang": 1
         },
         {
-          "herbId": "泽泻阿胶",
-          "name": "泽泻阿胶",
-          "rawText": "泽泻阿胶一两",
+          "herbId": "泽泻",
+          "name": "泽泻",
+          "rawText": "泽泻一两",
+          "doseRaw": "一两",
+          "doseLiang": 1
+        },
+        {
+          "herbId": "阿胶",
+          "name": "阿胶",
+          "rawText": "阿胶一两",
           "doseRaw": "一两",
           "doseLiang": 1
         },
@@ -10935,7 +11108,61 @@
       "modifications": [],
       "sourceClauseIds": [
         "songben-223",
-        "songben-320"
+        "songben-224",
+        "songben-319"
+      ],
+      "chapter": "辨阳明病脉证并治"
+    },
+    {
+      "id": "songben-formula-蜜煎导",
+      "name": "蜜煎导",
+      "book": "songben",
+      "herbs": [
+        {
+          "herbId": "食蜜",
+          "name": "食蜜",
+          "rawText": "食蜜七合",
+          "doseRaw": "七合",
+          "doseSheng": 0.7
+        }
+      ],
+      "preparation": "上一味。于铜器内，微火煎，当须凝如饴状，搅之勿令焦着。欲可丸，并手撚作挺，令头锐，大如指，长二寸许，当热时急作，冷则硬。以内谷道中，以手急抱，欲大便时乃去之。",
+      "modifications": [],
+      "sourceClauseIds": [
+        "songben-233"
+      ],
+      "chapter": "辨阳明病脉证并治"
+    },
+    {
+      "id": "songben-formula-土瓜根",
+      "name": "土瓜根",
+      "book": "songben",
+      "herbs": [],
+      "preparation": "",
+      "modifications": [],
+      "sourceClauseIds": [
+        "songben-233"
+      ],
+      "chapter": "辨阳明病脉证并治"
+    },
+    {
+      "id": "songben-formula-猪胆汁",
+      "name": "猪胆汁",
+      "book": "songben",
+      "herbs": [
+        {
+          "herbId": "大猪胆",
+          "name": "大猪胆",
+          "rawText": "大猪胆一枚，泻汁",
+          "doseRaw": "一枚",
+          "doseCount": 1,
+          "processing": "泻汁"
+        }
+      ],
+      "preparation": "大猪胆一枚，泻汁，和少许法醋，以灌谷道内。如一食顷，当大便出宿食恶物，甚效。",
+      "modifications": [],
+      "sourceClauseIds": [
+        "songben-233"
       ],
       "chapter": "辨阳明病脉证并治"
     },
@@ -10945,8 +11172,8 @@
       "book": "songben",
       "herbs": [
         {
-          "herbId": "茵陈蒿",
-          "name": "茵陈蒿",
+          "herbId": "茵陈",
+          "name": "茵陈",
           "rawText": "茵陈蒿六两",
           "doseRaw": "六两",
           "doseLiang": 6
@@ -10973,8 +11200,57 @@
       "preparation": "上三味，以水一斗二升，先煮茵陈减六升，内二味，煮取三升，去滓，分三服。小便当利，尿如皂荚汁状，色正赤，一宿腹减，黄从小便去也。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-237",
-        "songben-261"
+        "songben-236",
+        "songben-260"
+      ],
+      "chapter": "辨阳明病脉证并治"
+    },
+    {
+      "id": "songben-formula-吴茱萸汤",
+      "name": "吴茱萸汤",
+      "book": "songben",
+      "herbs": [
+        {
+          "herbId": "吴茱萸",
+          "name": "吴茱萸",
+          "rawText": "吴茱萸一升（洗）",
+          "doseRaw": "一升",
+          "doseSheng": 1,
+          "processing": "洗",
+          "note": "洗"
+        },
+        {
+          "herbId": "人参",
+          "name": "人参",
+          "rawText": "人参三两",
+          "doseRaw": "三两",
+          "doseLiang": 3
+        },
+        {
+          "herbId": "生姜",
+          "name": "生姜",
+          "rawText": "生姜六两（切）",
+          "doseRaw": "六两",
+          "doseLiang": 6,
+          "processing": "切",
+          "note": "切"
+        },
+        {
+          "herbId": "大枣",
+          "name": "大枣",
+          "rawText": "大枣十二枚（擘）",
+          "doseRaw": "十二枚",
+          "doseCount": 12,
+          "processing": "擘",
+          "note": "擘"
+        }
+      ],
+      "preparation": "上四味，以水七升，煮取二升，去滓，温服七合，日三服。",
+      "modifications": [],
+      "sourceClauseIds": [
+        "songben-243",
+        "songben-309",
+        "songben-378"
       ],
       "chapter": "辨阳明病脉证并治"
     },
@@ -11033,7 +11309,7 @@
       "preparation": "上六味，蜜和丸，如梧桐子大，饮服十丸，日三服，渐加，以知为度。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-248"
+        "songben-247"
       ],
       "chapter": "辨阳明病脉证并治"
     },
@@ -11043,8 +11319,8 @@
       "book": "songben",
       "herbs": [
         {
-          "herbId": "肥栀子",
-          "name": "肥栀子",
+          "herbId": "栀子",
+          "name": "栀子",
           "rawText": "肥栀子十五个（擘）",
           "doseRaw": "十五个",
           "doseCount": 15,
@@ -11070,7 +11346,9 @@
       ],
       "preparation": "上三味，以水四升，煮取一升半，去滓，分温再服。",
       "modifications": [],
-      "sourceClauseIds": [],
+      "sourceClauseIds": [
+        "songben-261"
+      ],
       "chapter": "辨阳明病脉证并治"
     },
     {
@@ -11151,7 +11429,7 @@
       "preparation": "上八味，以潦水一斗，先煮麻黄，再沸，去上沫；内诸药，煮取三升，去滓，分温三服，半日服尽。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-263"
+        "songben-262"
       ],
       "chapter": "辨阳明病脉证并治"
     },
@@ -11207,7 +11485,7 @@
       "preparation": "上五味，以水七升，煮取三升，去滓，温分三服。本云：桂枝汤，今加芍药。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-280"
+        "songben-279"
       ],
       "chapter": "辨太阴病脉证并治"
     },
@@ -11270,7 +11548,7 @@
       "preparation": "上六味，以水七升，煮取三升，去滓，温服一升，日三服。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-280"
+        "songben-279"
       ],
       "chapter": "辨太阴病脉证并治"
     },
@@ -11308,7 +11586,7 @@
       "preparation": "上三味，以水一斗，先煮麻黄，减二升，去上沫，内诸药，煮取三升，去滓，温服一升，日三服。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-302"
+        "songben-301"
       ],
       "chapter": "辨少阴病脉证并治"
     },
@@ -11347,7 +11625,9 @@
       ],
       "preparation": "上三味，以水七升，先煮麻黄一两沸，去上沫；内诸药，煮取三升，去滓，温服一升，日三服。",
       "modifications": [],
-      "sourceClauseIds": [],
+      "sourceClauseIds": [
+        "songben-302"
+      ],
       "chapter": "辨少阴病脉证并治"
     },
     {
@@ -11395,7 +11675,7 @@
       "preparation": "上五味，以水六升，先煮三物，取二升，去滓，内胶烊尽，小冷，内鸡子黄，搅令相得，温服七合，日三服。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-304"
+        "songben-303"
       ],
       "chapter": "辨少阴病脉证并治"
     },
@@ -11445,8 +11725,8 @@
       "preparation": "上五味，以水八升，煮取三升，去滓，温服一升，日三服。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-305",
-        "songben-306"
+        "songben-304",
+        "songben-305"
       ],
       "chapter": "辨少阴病脉证并治"
     },
@@ -11480,8 +11760,8 @@
       "preparation": "上三味，以水七升，煮米令熟，去滓，温服七合，内赤石脂末方寸匕，日三服。若一服愈，余勿服。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-307",
-        "songben-308"
+        "songben-306",
+        "songben-307"
       ],
       "chapter": "辨少阴病脉证并治"
     },
@@ -11500,7 +11780,7 @@
       "preparation": "上一味，以水一斗，煮取五升，去滓，加白蜜一升、白粉五合，熬香，和令相得，温分六服。注白粉，即大米粉。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-311"
+        "songben-310"
       ],
       "chapter": "辨少阴病脉证并治"
     },
@@ -11519,7 +11799,9 @@
       ],
       "preparation": "上一味，以水三升，煮取一升半，去滓，温服七合，日二服。",
       "modifications": [],
-      "sourceClauseIds": [],
+      "sourceClauseIds": [
+        "songben-311"
+      ],
       "chapter": "辨少阴病脉证并治"
     },
     {
@@ -11544,7 +11826,9 @@
       ],
       "preparation": "上二味，以水三升，煮取一升，去滓，温分再服。",
       "modifications": [],
-      "sourceClauseIds": [],
+      "sourceClauseIds": [
+        "songben-311"
+      ],
       "chapter": "辨少阴病脉证并治"
     },
     {
@@ -11572,7 +11856,7 @@
       "preparation": "上二味，内半夏苦酒中，以鸡子壳置刀环中，安火上，令三沸，去滓，少少含咽之。不差，更作三剂。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-313"
+        "songben-312"
       ],
       "chapter": "辨少阴病脉证并治"
     },
@@ -11609,7 +11893,7 @@
       "preparation": "上三味，等分，各别捣筛已，合治之。白饮和，服方寸匕，日三服。若不能散服者，以水一升，煎七沸；内散两方寸匕，更煮三沸，下火令小冷，少少咽之。半夏有毒，不当散服。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-314"
+        "songben-313"
       ],
       "chapter": "辨少阴病脉证并治"
     },
@@ -11644,6 +11928,7 @@
       "preparation": "上三味，以水三升，煮取一升，去滓，分温再服。",
       "modifications": [],
       "sourceClauseIds": [
+        "songben-314",
         "songben-315"
       ],
       "chapter": "辨少阴病脉证并治"
@@ -11693,7 +11978,7 @@
       "preparation": "上五味，以水三升，煮取一升，去滓，内胆汁、人尿，和令相得，分温再服。若无胆，亦可用。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-316"
+        "songben-315"
       ],
       "chapter": "辨少阴病脉证并治"
     },
@@ -11732,8 +12017,8 @@
       "preparation": "上三味，以水三升，煮取一升二合，去滓，分温再服。其脉即出者愈。面色赤者，加葱九茎；腹中痛者，去葱，加芍药二两，呕者，加生姜二两；咽痛者，去芍药，加桔梗一两，利止、脉不出者，去桔梗，加人参二两。病皆与方相应者，乃服之。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-318",
-        "songben-371"
+        "songben-317",
+        "songben-370"
       ],
       "chapter": "辨少阴病脉证并治"
     },
@@ -11774,7 +12059,7 @@
       "preparation": "上四味，各十分，捣筛，白饮和服方寸匕，日三服。咳者，加五味子、干姜各五分，并主下利；悸者，加桂枝五分；小便不利者，加茯苓五分；腹中痛者，加附子一枚，炮令坼；泄利下重者，先以水五升，煮薤白三升，煮取三升，去滓，以散三方寸匕，内汤中，煮取一升半，分温再服。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-319"
+        "songben-318"
       ],
       "chapter": "辨少阴病脉证并治"
     },
@@ -11863,7 +12148,7 @@
       "preparation": "上十味，异捣筛，合治之，以苦酒渍乌梅一宿，去核，蒸之五斗米下，饭熟捣成泥，和药令相得；内臼中，与蜜杵二千下，丸如梧桐子大。先食饮服十丸，日三服，稍加至二十九。禁生冷、滑物、臭食等。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-339"
+        "songben-338"
       ],
       "chapter": "辨厥阴病脉证并治"
     },
@@ -11931,7 +12216,7 @@
       "preparation": "上七味，以水八升。煮取三升，去滓，温服一升，日三服。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-352"
+        "songben-351"
       ],
       "chapter": "辨厥阴病脉证并治"
     },
@@ -11990,9 +12275,9 @@
         {
           "herbId": "细辛",
           "name": "细辛",
-          "rawText": "细辛四升",
-          "doseRaw": "四升",
-          "doseSheng": 4
+          "rawText": "细辛三两",
+          "doseRaw": "三两",
+          "doseLiang": 3
         },
         {
           "herbId": "生姜",
@@ -12013,7 +12298,7 @@
       "preparation": "上九味，以水六升、清酒六升和，煮取五升，去滓，温分五服（一方，水酒各四升）。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-353"
+        "songben-352"
       ],
       "chapter": "辨厥阴病脉证并治"
     },
@@ -12058,8 +12343,8 @@
           "doseRaw": "十八株"
         },
         {
-          "herbId": "萎蕤",
-          "name": "萎蕤",
+          "herbId": "玉竹",
+          "name": "玉竹",
           "rawText": "萎蕤十八铢（一作菖蒲）",
           "doseRaw": "十八铢",
           "note": "一作菖蒲"
@@ -12124,7 +12409,7 @@
       "preparation": "上十四味，以水一斗，先煮麻黄一两沸，去上沫内诸药，煮取三升，去滓，分温三服。相去如炊三斗米顷，令尽，汗出愈。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-358"
+        "songben-357"
       ],
       "chapter": "辨厥阴病脉证并治"
     },
@@ -12165,7 +12450,7 @@
       "preparation": "上四味，以水六升，煮取二升，去滓，分温再服。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-360"
+        "songben-359"
       ],
       "chapter": "辨厥阴病脉证并治"
     },
@@ -12206,8 +12491,8 @@
       "preparation": "上四味，以水七升，煮取二升，去滓，温服一升。不愈更服一升。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-372",
-        "songben-374"
+        "songben-371",
+        "songben-373"
       ],
       "chapter": "辨厥阴病脉证并治"
     },
@@ -12251,7 +12536,7 @@
       "preparation": "上四味，以水三升，煮取一升二合，去滓，分温再服。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-386"
+        "songben-385"
       ],
       "chapter": "辨霍乱病脉证并治"
     },
@@ -12294,8 +12579,8 @@
       "preparation": "上四味，捣筛，蜜和为丸如鸡子黄许大，以沸汤数合和一丸，研碎，温服之，日三四、夜二服。腹中未热，益至三四丸，然不及汤。汤法：以四物依两数切，用水八升，煮取三升，去滓，温服一升，日三服。若脐上筑者，肾气动也，去术，加桂四两；吐多者，去术，加生姜三两，下多者，还用术；悸者，加茯苓二两，渴欲得水者，加术足前成四两半，腹中痛者，加人参足前成四两半；寒者加干姜足前成四两半，腹满者，去术，加附子一枚。服汤后，如食顷，饮热粥一升许，微自温，勿发揭衣被。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-387",
-        "songben-398"
+        "songben-386",
+        "songben-396"
       ],
       "chapter": "辨霍乱病脉证并治"
     },
@@ -12342,7 +12627,7 @@
       "preparation": "上四味，用水三升，煮取一升二合，去滓；加入猪胆汁，分二次温服。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-391"
+        "songben-390"
       ],
       "chapter": "辨霍乱病脉证并治"
     },
@@ -12350,11 +12635,19 @@
       "id": "songben-formula-烧裈散",
       "name": "烧裈散",
       "book": "songben",
-      "herbs": [],
-      "preparation": "上一味，水服方寸匕。日三服。小便即利，阴头微肿，此为愈矣。妇人病，取男子裈烧服。",
+      "herbs": [
+        {
+          "herbId": "妇人中裈",
+          "name": "妇人中裈",
+          "rawText": "妇人中裈近隐处，取烧作灰。",
+          "doseRaw": "",
+          "processing": "近隐处，取烧作灰"
+        }
+      ],
+      "preparation": "妇人中裈近隐处，取烧作灰。上一味，水服方寸匕。日三服。小便即利，阴头微肿，此为愈矣。妇人病，取男子裈烧服。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-393"
+        "songben-392"
       ],
       "chapter": "辨阴阳易差后劳复病脉证并治"
     },
@@ -12394,7 +12687,7 @@
       "preparation": "上三味，以清浆水七升，空煮取回升；内枳实、栀子，煮取三升，下豉，更煮五六沸，去滓，温分再服。复令微似汗。若有宿食者，内大黄如博棋子大五六枚，服之愈。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-395"
+        "songben-393"
       ],
       "chapter": "辨阴阳易差后劳复病脉证并治"
     },
@@ -12459,7 +12752,7 @@
       "preparation": "上七味，异捣，下筛为散，更于臼中治之，白饮和，服方寸匕，日三服。小便利，止后服。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-397"
+        "songben-395"
       ],
       "chapter": "辨阴阳易差后劳复病脉证并治"
     },
@@ -12483,8 +12776,9 @@
         {
           "herbId": "半夏",
           "name": "半夏",
-          "rawText": "半夏半斤（洗）",
-          "doseRaw": "半斤",
+          "rawText": "半夏半升（洗）",
+          "doseRaw": "半升",
+          "doseSheng": 0.5,
           "processing": "洗",
           "note": "洗"
         },
@@ -12524,15 +12818,15 @@
       "preparation": "上七味，以水一斗，煮取六升，去滓；内粳米，煮米熟汤成，去米，温一升，日三服。",
       "modifications": [],
       "sourceClauseIds": [
-        "songben-399"
+        "songben-397"
       ],
       "chapter": "辨阴阳易差后劳复病脉证并治"
     }
   ],
   "validation": {
-    "clauseCount": 400,
+    "clauseCount": 398,
     "expected": 398,
-    "huxishuMatched": 232,
+    "huxishuMatched": 390,
     "huxishuTotal": 398,
     "mismatches": [
       {
@@ -12541,199 +12835,60 @@
         "huxishu": "问曰病有结胸有脏结其状何如答曰按之痛寸脉浮关脉沉名曰结胸"
       },
       {
-        "order": 234,
-        "songben": "大猪胆一枚泻汁和少许法醋以灌谷道内如一食顷当大便出宿食恶",
-        "huxishu": "阳明病脉迟汗出多微恶寒者表未解也可发汗宜桂枝汤"
-      },
-      {
-        "order": 235,
-        "songben": "阳明病脉迟汗出多微恶寒者表未解也可发汗宜桂枝汤",
-        "huxishu": "阳明病脉浮无汗而喘者发汗则愈宜麻黄汤前面那一节234条说"
-      },
-      {
-        "order": 236,
-        "songben": "阳明病脉浮无汗而喘者发汗则愈宜麻黄汤",
-        "huxishu": "阳明病发热汗出者此为热越不能发黄也但头汗出身无汗剂颈而还"
-      },
-      {
-        "order": 237,
-        "songben": "阳明病发热汗出者此为热越不能发黄也但头汗出身无汗剂颈而还",
-        "huxishu": "阳明证其人喜忘者必有蓄血所以然者本有久瘀血故令喜忘屎虽硬"
-      },
-      {
         "order": 238,
-        "songben": "阳明证其人喜忘者必有畜血所以然者本有久瘀血故令喜忘屎虽鞕",
+        "songben": "阳明病下之心中懊憹而烦胃中有燥屎者可攻腹微满初头鞕后必溏",
         "huxishu": "阳明病下之心中懊而烦胃中有燥屎者可攻腹微满初头硬后必溏不"
       },
       {
-        "order": 239,
-        "songben": "阳明病下之心中懊憹而烦胃中有燥屎者可攻腹微满初头鞕后必溏",
-        "huxishu": "病人不大便五六日绕脐痛烦躁发作有时者此有燥屎故使不大便也"
-      },
-      {
-        "order": 240,
-        "songben": "病人不大便五六日绕脐痛烦躁发作有时者此有燥屎故使不大便也",
-        "huxishu": "病人烦热汗出则解又如疟状日晡所发热者属阳明也脉实者宜下之"
-      },
-      {
-        "order": 241,
-        "songben": "病人烦热汗出则解又如疟状日晡所发热者属阳明也脉实者宜下之",
-        "huxishu": "大下后六七日不大便烦不解腹满痛者此有燥屎也所以然者本有宿"
-      },
-      {
-        "order": 242,
-        "songben": "大下后六七日不大便烦不解腹满痛者此有燥屎也所以然者本有宿",
-        "huxishu": "病人小便不利大便乍难乍易时有微热喘冒不能卧者有燥屎也宜大"
-      },
-      {
-        "order": 243,
-        "songben": "病人小便不利大便乍难乍易时有微热喘冒不能卧者有燥屎也宜大",
-        "huxishu": "食谷欲呕属阳明也吴茱萸汤主之得汤反剧者属上焦也属阳明也叫"
-      },
-      {
-        "order": 244,
-        "songben": "食谷欲呕属阳明也吴茱萸汤主之得汤反剧者属上焦也",
-        "huxishu": "太阳病寸缓关浮尺弱其人发热汗出复恶寒不呕但心下痞者此以医"
-      },
-      {
-        "order": 245,
-        "songben": "太阳病寸缓关浮尺弱其人发热汗出复恶寒不呕但心下痞者此以医",
-        "huxishu": "脉阳微而汗出少者为自和也汗出多者为太过阳脉实因发其汗出多"
-      },
-      {
-        "order": 246,
-        "songben": "阳脉微而汗出少者为自和也汗出多者为太过阳脉实因发其汗出多",
-        "huxishu": "脉浮而芤浮为阳芤为阴浮芤相搏胃气生热其阳则绝"
-      },
-      {
-        "order": 247,
-        "songben": "脉浮而芤浮为阳芤为阴浮芤相搏胃气生热其阳则绝",
-        "huxishu": "趺阳脉浮而涩浮则胃气强涩则小便数浮涩相搏大便则难其脾为约"
-      },
-      {
-        "order": 248,
-        "songben": "趺阳脉浮而涩浮则胃气强涩则小便数浮涩相搏大便则鞕其脾为约",
-        "huxishu": "太阳病三日发汗不解蒸蒸发热者属胃也调胃承气汤主之"
-      },
-      {
-        "order": 249,
-        "songben": "太阳病三日发汗不解蒸蒸发热者属胃也调胃承气汤主之",
-        "huxishu": "伤寒吐后腹胀满者与调胃承气汤"
-      },
-      {
         "order": 250,
-        "songben": "伤寒吐后腹胀满者与调胃承气汤",
+        "songben": "太阳病若吐若下若发汗后微烦小便数大便因鞕者与小承气汤和之",
         "huxishu": "阳病若吐若下若发汗微烦小便数大便因硬者与小承气汤和之愈"
       },
       {
-        "order": 251,
-        "songben": "太阳病若吐若下若发汗后微烦小便数大便因鞕者与小承气汤和之",
-        "huxishu": "得病二三日脉弱无太阳柴胡证烦躁心下硬至四五日虽能食以小"
-      },
-      {
-        "order": 252,
-        "songben": "得病二三日脉弱无太阳柴胡证烦躁心下鞕至四五日虽能食以小承",
-        "huxishu": "伤寒六七日目中不了了睛不和无表里证大便难身微热者此为实也"
-      },
-      {
         "order": 253,
-        "songben": "伤寒六七日目中不了了睛不和无表里证大便难身微热者此为实也",
+        "songben": "阳明病发热汗多者急下之宜大承气汤",
         "huxishu": "发热阳明汗多者急下之宜大承气汤"
       },
       {
-        "order": 254,
-        "songben": "阳明病发热汗多者急下之宜大承气汤",
-        "huxishu": "汗不解腹满痛者急下之宜大承气汤"
-      },
-      {
-        "order": 255,
-        "songben": "发汗不解腹满痛者急下之宜大承气汤",
-        "huxishu": "腹满不减减不足言当下之宜大承气汤"
-      },
-      {
-        "order": 256,
-        "songben": "腹满不减减不足言当下之宜大承气汤",
-        "huxishu": "阳明少阳合病必下利其脉不负者顺也负者失也互相克贼名为负也"
-      },
-      {
-        "order": 257,
-        "songben": "阳明少阳合病必下利其脉不负者为顺也负者失也互相克贼名为负",
-        "huxishu": "病人无表里证发热七八日虽脉浮数者可下之假令已下脉数不解合"
-      },
-      {
-        "order": 258,
-        "songben": "病人无表里证发热七八日虽脉浮数者可下之假令已下脉数不解合",
-        "huxishu": "若脉数不解而下不止必协热便脓血也"
-      },
-      {
-        "order": 259,
-        "songben": "若脉数不解而下不止必协热便脓血也",
-        "huxishu": "伤寒发汗已身目为黄所以然者以寒湿在里不解故也以为不可下也"
-      },
-      {
-        "order": 260,
-        "songben": "伤寒发汗已身目为黄所以然者以寒湿在里不解故也以为不可下也",
-        "huxishu": "伤寒七八日身黄如橘子色小便不利腹微满者茵陈蒿汤主之这条也"
-      },
-      {
         "order": 261,
-        "songben": "伤寒七八日身黄如橘子色小便不利腹微满者茵陈蒿汤主之",
+        "songben": "伤寒身黄发热栀子柏皮汤主之",
         "huxishu": "伤寒身黄发热者栀子柏皮汤主之"
       },
       {
-        "order": 262,
-        "songben": "伤寒身黄发热栀子柏皮汤主之",
-        "huxishu": "伤寒瘀热在里身必黄麻黄连轺赤小豆汤主之伤寒瘀热在里身必发"
+        "order": 274,
+        "songben": "太阴中风四肢烦疼脉阳微阴涩而长者为欲愈",
+        "huxishu": "太阴中风四肢烦疼阳微阴涩而长者为欲愈太阴中风这"
       },
       {
-        "order": 263,
-        "songben": "伤寒瘀热在里身必黄麻黄连轺赤小豆汤主之",
-        "huxishu": "少阳之为病口苦咽干目眩也"
+        "order": 356,
+        "songben": "伤寒厥而心下悸宜先治水当服茯苓甘草汤却治其厥不尔水渍入胃",
+        "huxishu": "伤寒厥而心下悸者宜先治水当服茯苓甘草汤却治其厥不尔水渍入"
       },
       {
-        "order": 264,
-        "songben": "少阳之为病口苦咽干目眩也",
-        "huxishu": "少阳中风两耳无所闻目赤胸中满而烦者不可吐下吐下则悸而惊少"
+        "order": 392,
+        "songben": "伤寒阴阳易之为病其人身体重少气少腹里急或引阴中拘挛热上冲",
+        "huxishu": "伤寒阴易之为病其人身体重少气少腹里急或引阴中拘挛热上冲胸"
+      }
+    ],
+    "formulaAppendices": [
+      {
+        "ownerClauseId": "songben-233",
+        "formulaName": "猪胆汁",
+        "formulaId": "songben-formula-猪胆汁",
+        "text": "大猪胆一枚，泻汁，和少许法醋，以灌谷道内。如一食顷，当大便出宿食恶物，甚效。"
       },
       {
-        "order": 265,
-        "songben": "少阳中风两耳无所闻目赤胸中满而烦者不可吐下吐下则悸而惊",
-        "huxishu": "伤寒脉弦细头痛发热者属少阳少阳不可发汗发汗则谵语此属胃胃"
-      },
+        "ownerClauseId": "songben-392",
+        "formulaName": "烧裈散",
+        "formulaId": "songben-formula-烧裈散",
+        "text": "妇人中裈近隐处，取烧作灰。"
+      }
+    ],
+    "formulaNotes": [
       {
-        "order": 266,
-        "songben": "伤寒脉弦细头痛发热者属少阳少阳不可发汗发汗则谵语此属胃胃",
-        "huxishu": "本太阳病不解转入少阳者胁下硬满干呕不能食往来寒热尚未吐下"
-      },
-      {
-        "order": 267,
-        "songben": "本太阳病不解转入少阳者胁下鞕满干呕不能食往来寒热尚未吐下",
-        "huxishu": "若已吐下发汗温针谵语柴胡汤证罢此为坏病知犯何逆以法治之这"
-      },
-      {
-        "order": 268,
-        "songben": "若已吐下发汗温针谵语柴胡汤证罢此为坏病知犯何逆以法治之",
-        "huxishu": "三阳合病脉浮大上关上但欲眠睡目合则汗三阳合病"
-      },
-      {
-        "order": 269,
-        "songben": "三阳合病脉浮大上关上但欲眠睡目合则汗",
-        "huxishu": "伤寒六七日无大热其人躁烦者此为阳去入阴故也六七日是病自表"
-      },
-      {
-        "order": 270,
-        "songben": "伤寒六七日无大热其人躁烦者此为阳去入阴故也",
-        "huxishu": "伤寒三日三阳为尽三阴当受邪其人反能食而不呕此为三阴不受邪"
-      },
-      {
-        "order": 271,
-        "songben": "伤寒三日三阳为尽三阴当受邪其人反能食而不呕此为三阴不受邪",
-        "huxishu": "伤寒三日少阳脉小者欲已也伤寒三日理应转属少阳"
-      },
-      {
-        "order": 272,
-        "songben": "伤寒三日少阳脉小者欲已也",
-        "huxishu": "少阳病欲解时从寅至辰上每章后头都有这么一句话"
+        "formulaId": "songben-formula-土瓜根",
+        "formulaName": "土瓜根",
+        "note": "原方佚（小标题注「附方佚」）：组成不可考，herbs 留空"
       }
     ]
   }

@@ -1,0 +1,428 @@
+[
+  {
+    "id": "pathogenesis.霍乱",
+    "type": "pathogenesis",
+    "prefLabel": "霍乱",
+    "altLabels": [],
+    "schoolNotes": [
+      {
+        "school": "jingfang",
+        "note": "《伤寒论》霍乱病篇：吐利交作之急症，非经络名。"
+      }
+    ],
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "pathogenesis.表未解",
+    "type": "pathogenesis",
+    "prefLabel": "表未解",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.表证",
+    "type": "pathogenesis",
+    "prefLabel": "表证",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.冲任虚损",
+    "type": "pathogenesis",
+    "prefLabel": "冲任虚损",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.带脉不固",
+    "type": "pathogenesis",
+    "prefLabel": "带脉不固",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肺热",
+    "type": "pathogenesis",
+    "prefLabel": "肺热",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肺虚",
+    "type": "pathogenesis",
+    "prefLabel": "肺虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.风寒",
+    "type": "pathogenesis",
+    "prefLabel": "风寒",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.风热",
+    "type": "pathogenesis",
+    "prefLabel": "风热",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.风湿",
+    "type": "pathogenesis",
+    "prefLabel": "风湿",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.风温",
+    "type": "pathogenesis",
+    "prefLabel": "风温",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肝火",
+    "type": "pathogenesis",
+    "prefLabel": "肝火",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肝克脾",
+    "type": "pathogenesis",
+    "prefLabel": "肝克脾",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肝脾不和",
+    "type": "pathogenesis",
+    "prefLabel": "肝脾不和",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肝血虚",
+    "type": "pathogenesis",
+    "prefLabel": "肝血虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肝郁",
+    "type": "pathogenesis",
+    "prefLabel": "肝郁",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.寒结",
+    "type": "pathogenesis",
+    "prefLabel": "寒结",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.寒湿",
+    "type": "pathogenesis",
+    "prefLabel": "寒湿",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.火不生土",
+    "type": "pathogenesis",
+    "prefLabel": "火不生土",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.结胸",
+    "type": "pathogenesis",
+    "prefLabel": "结胸",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.金不生水",
+    "type": "pathogenesis",
+    "prefLabel": "金不生水",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.里证",
+    "type": "pathogenesis",
+    "prefLabel": "里证",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.命门火衰",
+    "type": "pathogenesis",
+    "prefLabel": "命门火衰",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.脾湿",
+    "type": "pathogenesis",
+    "prefLabel": "脾湿",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.脾虚",
+    "type": "pathogenesis",
+    "prefLabel": "脾虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.痞",
+    "type": "pathogenesis",
+    "prefLabel": "痞",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.气虚",
+    "type": "pathogenesis",
+    "prefLabel": "气虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.气滞",
+    "type": "pathogenesis",
+    "prefLabel": "气滞",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.热结",
+    "type": "pathogenesis",
+    "prefLabel": "热结",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.热入血室",
+    "type": "pathogenesis",
+    "prefLabel": "热入血室",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.任脉湿热",
+    "type": "pathogenesis",
+    "prefLabel": "任脉湿热",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肾虚",
+    "type": "pathogenesis",
+    "prefLabel": "肾虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肾阳虚",
+    "type": "pathogenesis",
+    "prefLabel": "肾阳虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肾阴虚",
+    "type": "pathogenesis",
+    "prefLabel": "肾阴虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.湿热",
+    "type": "pathogenesis",
+    "prefLabel": "湿热",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.食积",
+    "type": "pathogenesis",
+    "prefLabel": "食积",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.暑热",
+    "type": "pathogenesis",
+    "prefLabel": "暑热",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.水不涵木",
+    "type": "pathogenesis",
+    "prefLabel": "水不涵木",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.水气",
+    "type": "pathogenesis",
+    "prefLabel": "水气",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.水饮",
+    "type": "pathogenesis",
+    "prefLabel": "水饮",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.痰湿",
+    "type": "pathogenesis",
+    "prefLabel": "痰湿",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.痰饮",
+    "type": "pathogenesis",
+    "prefLabel": "痰饮",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.土不生金",
+    "type": "pathogenesis",
+    "prefLabel": "土不生金",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.亡津液",
+    "type": "pathogenesis",
+    "prefLabel": "亡津液",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.亡阳",
+    "type": "pathogenesis",
+    "prefLabel": "亡阳",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.胃家实",
+    "type": "pathogenesis",
+    "prefLabel": "胃家实",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.胃热",
+    "type": "pathogenesis",
+    "prefLabel": "胃热",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.胃虚",
+    "type": "pathogenesis",
+    "prefLabel": "胃虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.温病",
+    "type": "pathogenesis",
+    "prefLabel": "温病",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.相火妄动",
+    "type": "pathogenesis",
+    "prefLabel": "相火妄动",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.心火",
+    "type": "pathogenesis",
+    "prefLabel": "心火",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.心肾不交",
+    "type": "pathogenesis",
+    "prefLabel": "心肾不交",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.心血虚",
+    "type": "pathogenesis",
+    "prefLabel": "心血虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.虚劳",
+    "type": "pathogenesis",
+    "prefLabel": "虚劳",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.蓄血",
+    "type": "pathogenesis",
+    "prefLabel": "蓄血",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.血虚",
+    "type": "pathogenesis",
+    "prefLabel": "血虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.血瘀",
+    "type": "pathogenesis",
+    "prefLabel": "血瘀",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.阳虚",
+    "type": "pathogenesis",
+    "prefLabel": "阳虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.阴虚",
+    "type": "pathogenesis",
+    "prefLabel": "阴虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.脏结",
+    "type": "pathogenesis",
+    "prefLabel": "脏结",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  }
+]

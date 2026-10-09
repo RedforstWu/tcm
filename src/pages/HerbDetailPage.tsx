@@ -29,7 +29,7 @@ import { FormulaCompareDrawer } from '@/components/FormulaCompareDrawer'
 export function HerbDetailPage() {
   const { herbId = '' } = useParams()
   const id = decodeURIComponent(herbId)
-  const { scriptMode, corpusFilter } = useAppContext()
+  const { scriptMode } = useAppContext()
   const isCompact = useIsCompactScreen()
   const [herb, setHerb] = useState<Herb | null>(null)
   const [allFormulas, setAllFormulas] = useState<Formula[]>([])
@@ -57,25 +57,10 @@ export function HerbDetailPage() {
       setMonograph(monoList.find((item) => item.herbId === id) ?? null)
       setRoles(roleList.filter((role) => role.herbId === id))
       if (!current) return
-      let relatedFormulas = formulaList.filter((formula) =>
-        current.formulaIds.includes(formula.id),
-      )
-      if (corpusFilter !== 'all') {
-        relatedFormulas = relatedFormulas.filter(
-          (formula) => BOOK_CORPUS[formula.book] === corpusFilter,
-        )
-      }
-      setFormulas(relatedFormulas)
-      setDiffs(
-        diffList.filter((diff) => {
-          if (diff.herbId !== current.id) return false
-          if (corpusFilter === 'all') return true
-          const from = formulaList.find((f) => f.id === diff.fromId)
-          return from ? BOOK_CORPUS[from.book] === corpusFilter : false
-        }),
-      )
+      setFormulas(formulaList.filter((formula) => current.formulaIds.includes(formula.id)))
+      setDiffs(diffList.filter((diff) => diff.herbId === current.id))
     })
-  }, [id, corpusFilter])
+  }, [id])
 
   const openFormulas = useCallback((ids: string[]) => {
     setOpenFormulaIds((prev) => {

@@ -1,0 +1,1738 @@
+[
+  {
+    "id": "symptom.白带",
+    "type": "symptom",
+    "prefLabel": "白带",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.崩漏",
+    "type": "symptom",
+    "prefLabel": "崩漏",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.鼻塞",
+    "type": "symptom",
+    "prefLabel": "鼻塞",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.闭经",
+    "type": "symptom",
+    "prefLabel": "闭经",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.便秘",
+    "type": "symptom",
+    "prefLabel": "便秘",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.便血",
+    "type": "symptom",
+    "prefLabel": "便血",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.不大便",
+    "type": "symptom",
+    "prefLabel": "不大便",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.不得眠",
+    "type": "symptom",
+    "prefLabel": "不得眠",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.不能食",
+    "type": "symptom",
+    "prefLabel": "不能食",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.不孕",
+    "type": "symptom",
+    "prefLabel": "不孕",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.产后腹痛",
+    "type": "symptom",
+    "prefLabel": "产后腹痛",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.潮热",
+    "type": "symptom",
+    "prefLabel": "潮热",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.齿痛",
+    "type": "symptom",
+    "prefLabel": "齿痛",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.赤带",
+    "type": "symptom",
+    "prefLabel": "赤带",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.出血",
+    "type": "symptom",
+    "prefLabel": "出血",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.喘",
+    "type": "symptom",
+    "prefLabel": "喘",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.疮疡",
+    "type": "symptom",
+    "prefLabel": "疮疡",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.大渴",
+    "type": "symptom",
+    "prefLabel": "大渴",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.带下",
+    "type": "symptom",
+    "prefLabel": "带下",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.盗汗",
+    "type": "symptom",
+    "prefLabel": "盗汗",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.短气",
+    "type": "symptom",
+    "prefLabel": "短气",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.多眠睡",
+    "type": "symptom",
+    "prefLabel": "多眠睡",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.恶风",
+    "type": "symptom",
+    "prefLabel": "恶风",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.恶寒",
+    "type": "symptom",
+    "prefLabel": "恶寒",
+    "altLabels": [
+      "畏寒"
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.恶露不尽",
+    "type": "symptom",
+    "prefLabel": "恶露不尽",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.耳聋",
+    "type": "symptom",
+    "prefLabel": "耳聋",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.耳鸣",
+    "type": "symptom",
+    "prefLabel": "耳鸣",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.发黄",
+    "type": "symptom",
+    "prefLabel": "发黄",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.发狂",
+    "type": "symptom",
+    "prefLabel": "发狂",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.发热",
+    "type": "symptom",
+    "prefLabel": "发热",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.烦",
+    "type": "symptom",
+    "prefLabel": "烦",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.烦躁",
+    "type": "symptom",
+    "prefLabel": "烦躁",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.腹满",
+    "type": "symptom",
+    "prefLabel": "腹满",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.腹痛",
+    "type": "symptom",
+    "prefLabel": "腹痛",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.腹胀",
+    "type": "symptom",
+    "prefLabel": "腹胀",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.干呕",
+    "type": "symptom",
+    "prefLabel": "干呕",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.骨节疼痛",
+    "type": "symptom",
+    "prefLabel": "骨节疼痛",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.咳",
+    "type": "symptom",
+    "prefLabel": "咳",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.咳嗽",
+    "type": "symptom",
+    "prefLabel": "咳嗽",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.汗出",
+    "type": "symptom",
+    "prefLabel": "汗出",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.黑带",
+    "type": "symptom",
+    "prefLabel": "黑带",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.黄带",
+    "type": "symptom",
+    "prefLabel": "黄带",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.黄疸",
+    "type": "symptom",
+    "prefLabel": "黄疸",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.积聚",
+    "type": "symptom",
+    "prefLabel": "积聚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.悸",
+    "type": "symptom",
+    "prefLabel": "悸",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.健忘",
+    "type": "symptom",
+    "prefLabel": "健忘",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.筋惕肉瞤",
+    "type": "symptom",
+    "prefLabel": "筋惕肉瞤",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.厥",
+    "type": "symptom",
+    "prefLabel": "厥",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.渴",
+    "type": "symptom",
+    "prefLabel": "渴",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.口疮",
+    "type": "symptom",
+    "prefLabel": "口疮",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.口渴",
+    "type": "symptom",
+    "prefLabel": "口渴",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.口苦",
+    "type": "symptom",
+    "prefLabel": "口苦",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.目昏",
+    "type": "symptom",
+    "prefLabel": "目昏",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.目痛",
+    "type": "symptom",
+    "prefLabel": "目痛",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.目眩",
+    "type": "symptom",
+    "prefLabel": "目眩",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.纳差",
+    "type": "symptom",
+    "prefLabel": "纳差",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.尿频",
+    "type": "symptom",
+    "prefLabel": "尿频",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.衄",
+    "type": "symptom",
+    "prefLabel": "衄",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.衄血",
+    "type": "symptom",
+    "prefLabel": "衄血",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.呕",
+    "type": "symptom",
+    "prefLabel": "呕",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.呕吐",
+    "type": "symptom",
+    "prefLabel": "呕吐",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.气喘",
+    "type": "symptom",
+    "prefLabel": "气喘",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.青带",
+    "type": "symptom",
+    "prefLabel": "青带",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.日晡潮热",
+    "type": "symptom",
+    "prefLabel": "日晡潮热",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.肉瞤",
+    "type": "symptom",
+    "prefLabel": "肉瞤",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.如狂",
+    "type": "symptom",
+    "prefLabel": "如狂",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.乳汁不通",
+    "type": "symptom",
+    "prefLabel": "乳汁不通",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.瘙痒",
+    "type": "symptom",
+    "prefLabel": "瘙痒",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.疝气",
+    "type": "symptom",
+    "prefLabel": "疝气",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.身黄",
+    "type": "symptom",
+    "prefLabel": "身黄",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.身痛",
+    "type": "symptom",
+    "prefLabel": "身痛",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.身重",
+    "type": "symptom",
+    "prefLabel": "身重",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.失眠",
+    "type": "symptom",
+    "prefLabel": "失眠",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.嗜卧",
+    "type": "symptom",
+    "prefLabel": "嗜卧",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.手足厥冷",
+    "type": "symptom",
+    "prefLabel": "手足厥冷",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.水肿",
+    "type": "symptom",
+    "prefLabel": "水肿",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.胎动不安",
+    "type": "symptom",
+    "prefLabel": "胎动不安",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.痰多",
+    "type": "symptom",
+    "prefLabel": "痰多",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.体痛",
+    "type": "symptom",
+    "prefLabel": "体痛",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.痛经",
+    "type": "symptom",
+    "prefLabel": "痛经",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.头痛",
+    "type": "symptom",
+    "prefLabel": "头痛",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.吐",
+    "type": "symptom",
+    "prefLabel": "吐",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.吐血",
+    "type": "symptom",
+    "prefLabel": "吐血",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.无汗",
+    "type": "symptom",
+    "prefLabel": "无汗",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.喜呕",
+    "type": "symptom",
+    "prefLabel": "喜呕",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.下利",
+    "type": "symptom",
+    "prefLabel": "下利",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.下痢",
+    "type": "symptom",
+    "prefLabel": "下痢",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.下血",
+    "type": "symptom",
+    "prefLabel": "下血",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.项背强",
+    "type": "symptom",
+    "prefLabel": "项背强",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.项背强几几",
+    "type": "symptom",
+    "prefLabel": "项背强几几",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.项强",
+    "type": "symptom",
+    "prefLabel": "项强",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.小便不利",
+    "type": "symptom",
+    "prefLabel": "小便不利",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.小便自利",
+    "type": "symptom",
+    "prefLabel": "小便自利",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.胁痛",
+    "type": "symptom",
+    "prefLabel": "胁痛",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.胁下痞硬",
+    "type": "symptom",
+    "prefLabel": "胁下痞硬",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.泄泻",
+    "type": "symptom",
+    "prefLabel": "泄泻",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.心烦",
+    "type": "symptom",
+    "prefLabel": "心烦",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.心悸",
+    "type": "symptom",
+    "prefLabel": "心悸",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.心下满",
+    "type": "symptom",
+    "prefLabel": "心下满",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.心下痞",
+    "type": "symptom",
+    "prefLabel": "心下痞",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.胸满",
+    "type": "symptom",
+    "prefLabel": "胸满",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.胸闷",
+    "type": "symptom",
+    "prefLabel": "胸闷",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.眩晕",
+    "type": "symptom",
+    "prefLabel": "眩晕",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.咽干",
+    "type": "symptom",
+    "prefLabel": "咽干",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.咽痛",
+    "type": "symptom",
+    "prefLabel": "咽痛",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.阳痿",
+    "type": "symptom",
+    "prefLabel": "阳痿",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.腰痛",
+    "type": "symptom",
+    "prefLabel": "腰痛",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.遗精",
+    "type": "symptom",
+    "prefLabel": "遗精",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.阴痒",
+    "type": "symptom",
+    "prefLabel": "阴痒",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.月经不调",
+    "type": "symptom",
+    "prefLabel": "月经不调",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.谵语",
+    "type": "symptom",
+    "prefLabel": "谵语",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.郑声",
+    "type": "symptom",
+    "prefLabel": "郑声",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "symptom.自汗",
+    "type": "symptom",
+    "prefLabel": "自汗",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉沉",
+    "type": "pulse",
+    "prefLabel": "脉沉",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉沉迟",
+    "type": "pulse",
+    "prefLabel": "脉沉迟",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉沉紧",
+    "type": "pulse",
+    "prefLabel": "脉沉紧",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉迟",
+    "type": "pulse",
+    "prefLabel": "脉迟",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉浮",
+    "type": "pulse",
+    "prefLabel": "脉浮",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉浮缓",
+    "type": "pulse",
+    "prefLabel": "脉浮缓",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉浮紧",
+    "type": "pulse",
+    "prefLabel": "脉浮紧",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉浮数",
+    "type": "pulse",
+    "prefLabel": "脉浮数",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉洪大",
+    "type": "pulse",
+    "prefLabel": "脉洪大",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉缓",
+    "type": "pulse",
+    "prefLabel": "脉缓",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉紧",
+    "type": "pulse",
+    "prefLabel": "脉紧",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉弱",
+    "type": "pulse",
+    "prefLabel": "脉弱",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉涩",
+    "type": "pulse",
+    "prefLabel": "脉涩",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉数",
+    "type": "pulse",
+    "prefLabel": "脉数",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉微",
+    "type": "pulse",
+    "prefLabel": "脉微",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉微细",
+    "type": "pulse",
+    "prefLabel": "脉微细",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉弦",
+    "type": "pulse",
+    "prefLabel": "脉弦",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉阴阳俱紧",
+    "type": "pulse",
+    "prefLabel": "脉阴阳俱紧",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.霍乱",
+    "type": "pathogenesis",
+    "prefLabel": "霍乱",
+    "altLabels": [],
+    "schoolNotes": [
+      {
+        "school": "jingfang",
+        "note": "《伤寒论》霍乱病篇：吐利交作之急症，非经络名。"
+      }
+    ],
+    "reviewStatus": "reviewed"
+  },
+  {
+    "id": "pathogenesis.表未解",
+    "type": "pathogenesis",
+    "prefLabel": "表未解",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.表证",
+    "type": "pathogenesis",
+    "prefLabel": "表证",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.冲任虚损",
+    "type": "pathogenesis",
+    "prefLabel": "冲任虚损",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.带脉不固",
+    "type": "pathogenesis",
+    "prefLabel": "带脉不固",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肺热",
+    "type": "pathogenesis",
+    "prefLabel": "肺热",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肺虚",
+    "type": "pathogenesis",
+    "prefLabel": "肺虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.风寒",
+    "type": "pathogenesis",
+    "prefLabel": "风寒",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.风热",
+    "type": "pathogenesis",
+    "prefLabel": "风热",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.风湿",
+    "type": "pathogenesis",
+    "prefLabel": "风湿",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.风温",
+    "type": "pathogenesis",
+    "prefLabel": "风温",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肝火",
+    "type": "pathogenesis",
+    "prefLabel": "肝火",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肝克脾",
+    "type": "pathogenesis",
+    "prefLabel": "肝克脾",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肝脾不和",
+    "type": "pathogenesis",
+    "prefLabel": "肝脾不和",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肝血虚",
+    "type": "pathogenesis",
+    "prefLabel": "肝血虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肝郁",
+    "type": "pathogenesis",
+    "prefLabel": "肝郁",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.寒结",
+    "type": "pathogenesis",
+    "prefLabel": "寒结",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.寒湿",
+    "type": "pathogenesis",
+    "prefLabel": "寒湿",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.火不生土",
+    "type": "pathogenesis",
+    "prefLabel": "火不生土",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.结胸",
+    "type": "pathogenesis",
+    "prefLabel": "结胸",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.金不生水",
+    "type": "pathogenesis",
+    "prefLabel": "金不生水",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.里证",
+    "type": "pathogenesis",
+    "prefLabel": "里证",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.命门火衰",
+    "type": "pathogenesis",
+    "prefLabel": "命门火衰",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.脾湿",
+    "type": "pathogenesis",
+    "prefLabel": "脾湿",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.脾虚",
+    "type": "pathogenesis",
+    "prefLabel": "脾虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.痞",
+    "type": "pathogenesis",
+    "prefLabel": "痞",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.气虚",
+    "type": "pathogenesis",
+    "prefLabel": "气虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.气滞",
+    "type": "pathogenesis",
+    "prefLabel": "气滞",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.热结",
+    "type": "pathogenesis",
+    "prefLabel": "热结",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.热入血室",
+    "type": "pathogenesis",
+    "prefLabel": "热入血室",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.任脉湿热",
+    "type": "pathogenesis",
+    "prefLabel": "任脉湿热",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肾虚",
+    "type": "pathogenesis",
+    "prefLabel": "肾虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肾阳虚",
+    "type": "pathogenesis",
+    "prefLabel": "肾阳虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.肾阴虚",
+    "type": "pathogenesis",
+    "prefLabel": "肾阴虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.湿热",
+    "type": "pathogenesis",
+    "prefLabel": "湿热",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.食积",
+    "type": "pathogenesis",
+    "prefLabel": "食积",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.暑热",
+    "type": "pathogenesis",
+    "prefLabel": "暑热",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.水不涵木",
+    "type": "pathogenesis",
+    "prefLabel": "水不涵木",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.水气",
+    "type": "pathogenesis",
+    "prefLabel": "水气",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.水饮",
+    "type": "pathogenesis",
+    "prefLabel": "水饮",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.痰湿",
+    "type": "pathogenesis",
+    "prefLabel": "痰湿",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.痰饮",
+    "type": "pathogenesis",
+    "prefLabel": "痰饮",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.土不生金",
+    "type": "pathogenesis",
+    "prefLabel": "土不生金",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.亡津液",
+    "type": "pathogenesis",
+    "prefLabel": "亡津液",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.亡阳",
+    "type": "pathogenesis",
+    "prefLabel": "亡阳",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.胃家实",
+    "type": "pathogenesis",
+    "prefLabel": "胃家实",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.胃热",
+    "type": "pathogenesis",
+    "prefLabel": "胃热",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.胃虚",
+    "type": "pathogenesis",
+    "prefLabel": "胃虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.温病",
+    "type": "pathogenesis",
+    "prefLabel": "温病",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.相火妄动",
+    "type": "pathogenesis",
+    "prefLabel": "相火妄动",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.心火",
+    "type": "pathogenesis",
+    "prefLabel": "心火",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.心肾不交",
+    "type": "pathogenesis",
+    "prefLabel": "心肾不交",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.心血虚",
+    "type": "pathogenesis",
+    "prefLabel": "心血虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.虚劳",
+    "type": "pathogenesis",
+    "prefLabel": "虚劳",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.蓄血",
+    "type": "pathogenesis",
+    "prefLabel": "蓄血",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.血虚",
+    "type": "pathogenesis",
+    "prefLabel": "血虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.血瘀",
+    "type": "pathogenesis",
+    "prefLabel": "血瘀",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.阳虚",
+    "type": "pathogenesis",
+    "prefLabel": "阳虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.阴虚",
+    "type": "pathogenesis",
+    "prefLabel": "阴虚",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pathogenesis.脏结",
+    "type": "pathogenesis",
+    "prefLabel": "脏结",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "channel.厥阴",
+    "type": "channel",
+    "prefLabel": "厥阴",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "channel.少阳",
+    "type": "channel",
+    "prefLabel": "少阳",
+    "altLabels": [],
+    "schoolNotes": [
+      {
+        "school": "jingfang",
+        "note": "伤寒六经之少阳，主半表半里，往来寒热、胸胁苦满等。"
+      },
+      {
+        "school": "chenfu",
+        "note": "陈傅语境中「少阳」偶指胆腑气机，勿与伤寒少阳病篇机械等同。"
+      }
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "channel.少阴",
+    "type": "channel",
+    "prefLabel": "少阴",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "channel.太阳",
+    "type": "channel",
+    "prefLabel": "太阳",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "channel.太阴",
+    "type": "channel",
+    "prefLabel": "太阴",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "channel.阳明",
+    "type": "channel",
+    "prefLabel": "阳明",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.膀胱",
+    "type": "organ",
+    "prefLabel": "膀胱",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.大肠",
+    "type": "organ",
+    "prefLabel": "大肠",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.胆",
+    "type": "organ",
+    "prefLabel": "胆",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.肺",
+    "type": "organ",
+    "prefLabel": "肺",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.肝",
+    "type": "organ",
+    "prefLabel": "肝",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.命门",
+    "type": "organ",
+    "prefLabel": "命门",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.脾",
+    "type": "organ",
+    "prefLabel": "脾",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.三焦",
+    "type": "organ",
+    "prefLabel": "三焦",
+    "altLabels": [],
+    "schoolNotes": [
+      {
+        "school": "jingfang",
+        "note": "《伤寒》《金匮》中三焦多指决渎水道与气化通路。"
+      },
+      {
+        "school": "chenfu",
+        "note": "陈士铎常以相火/命门联系论三焦，与温病三焦辨证不宜混并。"
+      }
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.肾",
+    "type": "organ",
+    "prefLabel": "肾",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.胃",
+    "type": "organ",
+    "prefLabel": "胃",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.小肠",
+    "type": "organ",
+    "prefLabel": "小肠",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.心",
+    "type": "organ",
+    "prefLabel": "心",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.心包",
+    "type": "organ",
+    "prefLabel": "心包",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.安神",
+    "type": "method",
+    "prefLabel": "安神",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.补气",
+    "type": "method",
+    "prefLabel": "补气",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.补血",
+    "type": "method",
+    "prefLabel": "补血",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.补阳",
+    "type": "method",
+    "prefLabel": "补阳",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.补阴",
+    "type": "method",
+    "prefLabel": "补阴",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.调和",
+    "type": "method",
+    "prefLabel": "调和",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.固涩",
+    "type": "method",
+    "prefLabel": "固涩",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.化痰",
+    "type": "method",
+    "prefLabel": "化痰",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.化瘀",
+    "type": "method",
+    "prefLabel": "化瘀",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.活血",
+    "type": "method",
+    "prefLabel": "活血",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.健脾",
+    "type": "method",
+    "prefLabel": "健脾",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.降逆",
+    "type": "method",
+    "prefLabel": "降逆",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.解表",
+    "type": "method",
+    "prefLabel": "解表",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.解毒",
+    "type": "method",
+    "prefLabel": "解毒",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.解郁",
+    "type": "method",
+    "prefLabel": "解郁",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.理气",
+    "type": "method",
+    "prefLabel": "理气",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.利湿",
+    "type": "method",
+    "prefLabel": "利湿",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.利腰脐",
+    "type": "method",
+    "prefLabel": "利腰脐",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.平肝",
+    "type": "method",
+    "prefLabel": "平肝",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.其他",
+    "type": "method",
+    "prefLabel": "其他",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.清热",
+    "type": "method",
+    "prefLabel": "清热",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.润燥",
+    "type": "method",
+    "prefLabel": "润燥",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.散寒",
+    "type": "method",
+    "prefLabel": "散寒",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.升提",
+    "type": "method",
+    "prefLabel": "升提",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.疏肝",
+    "type": "method",
+    "prefLabel": "疏肝",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.温中",
+    "type": "method",
+    "prefLabel": "温中",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.消食",
+    "type": "method",
+    "prefLabel": "消食",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.泻火",
+    "type": "method",
+    "prefLabel": "泻火",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.养肝",
+    "type": "method",
+    "prefLabel": "养肝",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.益肾",
+    "type": "method",
+    "prefLabel": "益肾",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.引经",
+    "type": "method",
+    "prefLabel": "引经",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.燥湿",
+    "type": "method",
+    "prefLabel": "燥湿",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.止咳",
+    "type": "method",
+    "prefLabel": "止咳",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.止血",
+    "type": "method",
+    "prefLabel": "止血",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  }
+]

@@ -1,13 +1,33 @@
-import { mkdir, writeFile, readFile, access } from 'node:fs/promises'
+import { mkdir, writeFile, readFile, access, rename, unlink, copyFile } from 'node:fs/promises'
 import path from 'node:path'
 
 export async function ensureDir(dirPath: string): Promise<void> {
   await mkdir(dirPath, { recursive: true })
 }
 
+async function writeFileAtomic(filePath: string, payload: string): Promise<void> {
+  const tmpPath = `${filePath}.${process.pid}.tmp`
+  await writeFile(tmpPath, payload, 'utf8')
+  try {
+    await rename(tmpPath, filePath)
+  } catch {
+    // Windows：目标已存在时 rename 可能失败；先覆盖再删临时文件
+    try {
+      await copyFile(tmpPath, filePath)
+    } catch {
+      await writeFile(filePath, payload, 'utf8')
+    }
+    try {
+      await unlink(tmpPath)
+    } catch {
+      /* ignore */
+    }
+  }
+}
+
 export async function writeJson(filePath: string, data: unknown): Promise<void> {
   await ensureDir(path.dirname(filePath))
-  await writeFile(filePath, `${JSON.stringify(data, null, 2)}\n`, 'utf8')
+  await writeFileAtomic(filePath, `${JSON.stringify(data, null, 2)}\n`)
 }
 
 export async function readText(filePath: string): Promise<string> {
@@ -16,7 +36,7 @@ export async function readText(filePath: string): Promise<string> {
 
 export async function writeText(filePath: string, content: string): Promise<void> {
   await ensureDir(path.dirname(filePath))
-  await writeFile(filePath, content, 'utf8')
+  await writeFileAtomic(filePath, content)
 }
 
 export async function fileExists(filePath: string): Promise<boolean> {

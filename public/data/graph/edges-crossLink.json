@@ -1,0 +1,26 @@
+[
+  {
+    "id": "crossLink:bianzheng-formula-bianzheng-0001-1->guilin-formula-白虎汤",
+    "type": "crossLink",
+    "from": "bianzheng-formula-bianzheng-0001-1",
+    "to": "guilin-formula-白虎汤",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "derivedName": "白虎汤",
+      "sourceSentence": "此即白虎汤变方，用石膏、知母以泻其阳明之火邪；用柴胡、栀子以断其少阳之路径；用麦冬以清补其肺金之气，使火邪不能上逼；用茯苓引火下趋于膀胱，从小便而出，而太阳余邪"
+    }
+  },
+  {
+    "id": "crossLink:shishi-formula-shishi-0089-4->jingui-formula-五苓散",
+    "type": "crossLink",
+    "from": "shishi-formula-shishi-0089-4",
+    "to": "jingui-formula-五苓散",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "derivedName": "五苓散",
+      "sourceSentence": "此方即五苓散加人参者也。妙在加参至一两，有参始能挽回垂绝之地；佐白术、茯苓，以去水湿之气；而又有附子、肉桂，以补命门之火，使火热以生脾土，而膀胱气化，水道可通于"
+    }
+  }
+]

@@ -68,14 +68,10 @@ function findReasoning(
 }
 
 export function ReasoningPage() {
-  const { scriptMode, corpusFilter } = useAppContext()
+  const { scriptMode } = useAppContext()
   const [searchParams, setSearchParams] = useSearchParams()
   const modeParam = searchParams.get('mode')
-  const mode: ReasoningMode = isReasoningMode(modeParam)
-    ? modeParam
-    : corpusFilter === 'chenfu'
-      ? 'chenfu'
-      : 'jingfang'
+  const mode: ReasoningMode = isReasoningMode(modeParam) ? modeParam : 'jingfang'
   const [chenfuDataset, setChenfuDataset] = useState<ChenfuReasoningDataset | null>(null)
   const [chenfuError, setChenfuError] = useState<string | null>(null)
   const [dataset, setDataset] = useState<ReasoningDataset | null>(null)

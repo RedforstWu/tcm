@@ -75,7 +75,7 @@
                 "note": "合为胃苓汤意",
                 "formulaIds": [
                   "songben-formula-五苓散",
-                  null
+                  "funvke-formula-funvke-0088-1"
                 ]
               }
             },
@@ -113,7 +113,7 @@
                 "formulaName": "桂枝汤+平胃散",
                 "formulaIds": [
                   "songben-formula-桂枝汤",
-                  null
+                  "funvke-formula-funvke-0088-1"
                 ]
               }
             },
@@ -296,7 +296,7 @@
               "result": {
                 "formulaName": "半夏厚朴汤",
                 "formulaIds": [
-                  "jingui-formula-半夏厚朴汤"
+                  null
                 ]
               }
             },
@@ -365,7 +365,7 @@
                 "formulaName": "大柴胡汤+半夏厚朴汤",
                 "formulaIds": [
                   "songben-formula-大柴胡汤",
-                  "jingui-formula-半夏厚朴汤"
+                  null
                 ]
               }
             },
@@ -375,7 +375,7 @@
                 "formulaName": "小柴胡汤+半夏厚朴汤",
                 "formulaIds": [
                   "songben-formula-小柴胡汤",
-                  "jingui-formula-半夏厚朴汤"
+                  null
                 ]
               }
             },
@@ -384,8 +384,8 @@
               "result": {
                 "formulaName": "四君子汤+半夏厚朴汤",
                 "formulaIds": [
-                  "bianzheng-formula-bianzheng-0104-2",
-                  "jingui-formula-半夏厚朴汤"
+                  "bianzheng-formula-bianzheng-0018-7",
+                  null
                 ]
               }
             },
@@ -444,7 +444,7 @@
               "result": {
                 "formulaName": "补中益气汤",
                 "formulaIds": [
-                  "bianzheng-formula-bianzheng-0157-2"
+                  "funvke-formula-funvke-0062-2"
                 ]
               }
             }
@@ -628,7 +628,7 @@
               "result": {
                 "formulaName": "半夏厚朴汤",
                 "formulaIds": [
-                  "jingui-formula-半夏厚朴汤"
+                  null
                 ]
               }
             },
@@ -760,7 +760,7 @@
               "result": {
                 "formulaName": "桂枝加黄耆汤",
                 "formulaIds": [
-                  "jingui-formula-桂枝加黄耆汤"
+                  "jingyue-formula-桂枝加黄耆汤"
                 ]
               }
             }
@@ -892,7 +892,7 @@
               "result": {
                 "formulaName": "苓桂术甘汤",
                 "formulaIds": [
-                  "jingui-formula-苓桂术甘汤"
+                  "wenbing-formula-苓桂术甘汤"
                 ]
               }
             },
@@ -941,7 +941,7 @@
               "result": {
                 "formulaName": "半夏厚朴汤",
                 "formulaIds": [
-                  "jingui-formula-半夏厚朴汤"
+                  null
                 ]
               }
             },
@@ -977,7 +977,7 @@
               "result": {
                 "formulaName": "平胃散",
                 "formulaIds": [
-                  null
+                  "funvke-formula-funvke-0088-1"
                 ]
               }
             },
@@ -1785,7 +1785,7 @@
         }
       ],
       "reviewStatus": "ai-draft",
-      "formulaId": "jingui-formula-苓桂术甘汤",
+      "formulaId": "wenbing-formula-苓桂术甘汤",
       "natureIndex": {
         "热": 0.45454545454545453,
         "寒": 0,
@@ -1905,6 +1905,7 @@
       ],
       "clauseRefs": [],
       "reviewStatus": "ai-draft",
+      "formulaId": "funvke-formula-funvke-0088-1",
       "natureIndex": {
         "热": 0.9090909090909091,
         "寒": 0,
@@ -2256,7 +2257,6 @@
         }
       ],
       "reviewStatus": "ai-draft",
-      "formulaId": "jingui-formula-半夏厚朴汤",
       "natureIndex": {
         "热": 0.7647058823529411,
         "寒": 0,
@@ -2449,6 +2449,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-08T09:22:00.165Z",
+  "generatedAt": "2026-10-09T13:58:27.328Z",
   "source": "林大栋《十二经方日用急急如律令》讲义整理，仅供学习"
 }

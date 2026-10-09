@@ -1,0 +1,71 @@
+{
+  "generatedAt": "2026-04-08",
+  "units": [
+    {
+      "id": "unit.guizhi",
+      "title": "桂枝汤及其类方",
+      "description": "先掌握桂枝汤方证，再学习加味变方。",
+      "formulaNames": [
+        "桂枝汤",
+        "桂枝加葛根汤",
+        "桂枝加附子汤",
+        "桂枝去芍药汤"
+      ],
+      "conceptIds": [
+        "symptom.恶寒",
+        "symptom.发热",
+        "symptom.汗出",
+        "pulse.脉浮缓"
+      ]
+    },
+    {
+      "id": "unit.mahuang",
+      "title": "麻黄汤及其类方",
+      "description": "表实证无汗用麻黄汤，与桂枝汤对举。",
+      "formulaNames": [
+        "麻黄汤",
+        "葛根汤",
+        "大青龙汤"
+      ],
+      "conceptIds": [
+        "symptom.恶寒",
+        "symptom.无汗",
+        "pulse.脉浮紧"
+      ]
+    },
+    {
+      "id": "unit.xiexin",
+      "title": "泻心类方",
+      "description": "心下痞相关方证对比。",
+      "formulaNames": [
+        "半夏泻心汤",
+        "甘草泻心汤",
+        "生姜泻心汤"
+      ],
+      "conceptIds": [
+        "symptom.心下痞",
+        "pathogenesis.痞"
+      ]
+    }
+  ],
+  "prerequisites": [
+    {
+      "id": "prereq.guizhi->guizhi-gegen",
+      "fromFormulaName": "桂枝汤",
+      "toFormulaName": "桂枝加葛根汤",
+      "reason": "先理解桂枝汤表虚自汗，再学项背强几几之加葛根"
+    },
+    {
+      "id": "prereq.guizhi->guizhi-fuzi",
+      "fromFormulaName": "桂枝汤",
+      "toFormulaName": "桂枝加附子汤",
+      "reason": "先掌握桂枝汤，再学漏汗亡阳之加附子"
+    },
+    {
+      "id": "prereq.mahuang->gegen",
+      "fromFormulaName": "麻黄汤",
+      "toFormulaName": "葛根汤",
+      "reason": "葛根汤由麻桂合方加葛根，宜先识麻黄汤"
+    }
+  ]
+}

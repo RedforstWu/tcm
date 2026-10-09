@@ -8,18 +8,19 @@ import {
   faSearch,
   faGraduationCap,
   faCodeBranch,
+  faCircleNodes,
   faLanguage,
-  faLayerGroup,
 } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { NavLink, Outlet, useLocation } from 'react-router-dom'
-import { useAppContext, type CorpusFilter } from '@/context/AppContext'
+import { useAppContext } from '@/context/AppContext'
 
 const NAV = [
   { to: '/', label: '首页', icon: faHouse, end: true },
   { to: '/read/songben', label: '条文', icon: faBookOpen },
   { to: '/formulas', label: '方剂', icon: faPills },
   { to: '/herbs', label: '药物', icon: faFlask },
+  { to: '/graph', label: '图谱', icon: faCircleNodes },
   { to: '/viz', label: '可视化', icon: faChartPie },
   { to: '/lab', label: '实验室', icon: faFlask },
   { to: '/reasoning', label: '辨证推理', icon: faCodeBranch },
@@ -27,14 +28,8 @@ const NAV = [
   { to: '/search', label: '搜索', icon: faSearch },
 ]
 
-const CORPUS_OPTIONS: Array<{ id: CorpusFilter; label: string }> = [
-  { id: 'all', label: '全部' },
-  { id: 'jingfang', label: '经方' },
-  { id: 'chenfu', label: '陈傅' },
-]
-
 export function Layout() {
-  const { scriptMode, setScriptMode, corpusFilter, setCorpusFilter } = useAppContext()
+  const { scriptMode, setScriptMode } = useAppContext()
   const { pathname } = useLocation()
   const mobileNavRef = useRef<HTMLDivElement>(null)
 
@@ -81,29 +76,10 @@ export function Layout() {
               </NavLink>
             ))}
           </nav>
-          <div className="ml-auto flex shrink-0 items-center gap-1 rounded-lg border border-stone-200 bg-white p-0.5 text-xs xl:ml-0">
-            <span className="ml-2 hidden text-stone-400 sm:inline">
-              <FontAwesomeIcon icon={faLayerGroup} />
-            </span>
-            {CORPUS_OPTIONS.map((option) => (
-              <button
-                key={option.id}
-                type="button"
-                onClick={() => setCorpusFilter(option.id)}
-                className={`rounded-md px-1.5 py-1.5 sm:px-2 ${
-                  corpusFilter === option.id
-                    ? 'bg-teal text-white'
-                    : 'text-stone-600 hover:bg-stone-50'
-                }`}
-              >
-                {option.label}
-              </button>
-            ))}
-          </div>
           <button
             type="button"
             aria-label={scriptMode === 'simplified' ? '切换为繁体' : '切换为简体'}
-            className="shrink-0 rounded-lg border border-stone-200 bg-white px-2.5 py-1.5 text-sm text-stone-700 hover:bg-stone-50 sm:px-3 sm:py-2"
+            className="ml-auto shrink-0 rounded-lg border border-stone-200 bg-white px-2.5 py-1.5 text-sm text-stone-700 hover:bg-stone-50 sm:px-3 sm:py-2"
             onClick={() =>
               setScriptMode(scriptMode === 'simplified' ? 'traditional' : 'simplified')
             }
@@ -140,7 +116,8 @@ export function Layout() {
         <Outlet />
       </main>
       <footer className="border-t border-stone-200/80 px-4 py-6 pb-[max(1.5rem,env(safe-area-inset-bottom))] text-center text-xs leading-relaxed text-stone-500">
-        文本来源：维基文库公有领域古籍 · 证候/方解标签含规则与大模型草稿（待校对） ·
+        文本来源：维基文库公有领域古籍 · 校勘见证：漢籍リポジトリ Kanripo（CC BY-SA 4.0） ·
+        证候/方解标签含规则与大模型草稿（待校对） ·
         陈士铎著作含托名成分
       </footer>
     </div>

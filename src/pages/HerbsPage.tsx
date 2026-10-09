@@ -6,7 +6,7 @@ import { convertScript } from '@/lib/text'
 import { useAppContext } from '@/context/AppContext'
 
 export function HerbsPage() {
-  const { scriptMode, corpusFilter } = useAppContext()
+  const { scriptMode } = useAppContext()
   const [herbs, setHerbs] = useState<Herb[]>([])
   const [query, setQuery] = useState('')
 
@@ -15,14 +15,8 @@ export function HerbsPage() {
   }, [])
 
   const filtered = useMemo(
-    () =>
-      herbs.filter((herb) => {
-        if (query && !herb.name.includes(query)) return false
-        if (corpusFilter === 'all') return true
-        const ids = herb.formulaIdsByCorpus?.[corpusFilter] ?? []
-        return ids.length > 0 || (corpusFilter === 'chenfu' && Boolean(herb.monographId))
-      }),
-    [herbs, query, corpusFilter],
+    () => herbs.filter((herb) => !query || herb.name.includes(query)),
+    [herbs, query],
   )
 
   return (

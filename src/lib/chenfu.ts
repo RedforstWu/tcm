@@ -6,6 +6,7 @@ import type {
   OrganTag,
   WuxingElement,
 } from '@/types/data'
+import { BOOK_BY_ID } from '@/types/data'
 
 export const DISPUTE_KIND_LABELS: Record<DisputeKind, string> = {
   misdiagnosis: '病机误诊',
@@ -57,10 +58,10 @@ export const ORGAN_ELEMENT: Record<OrganTag, WuxingElement> = {
 }
 
 export const CHENFU_BOOK_LABELS: Record<ChenfuRecord['book'], string> = {
-  bianzheng: '辨证录',
-  funvke: '傅青主女科',
-  funanke: '傅青主男科',
-  shishi: '石室秘录',
+  bianzheng: BOOK_BY_ID.bianzheng.title,
+  funvke: BOOK_BY_ID.funvke.title,
+  funanke: BOOK_BY_ID.funanke.title,
+  shishi: BOOK_BY_ID.shishi.title,
 }
 
 export interface BrowserItem {

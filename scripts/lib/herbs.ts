@@ -1,3 +1,4 @@
+import assert from 'node:assert/strict'
 import { CJK, DOSE_BODY, NON_CJK_RE } from './cjk.ts'
 
 export interface NormalizedHerb {
@@ -72,6 +73,46 @@ const HERB_ALIASES: Record<string, string> = {
   葱: '葱白',
   桂: '桂枝',
   参: '人参',
+  株茯苓: '茯苓',
+  黄耆: '黄芪',
+  黄: '黄芪',
+  芥穗: '荆芥穗',
+  银花: '金银花',
+  云术: '白术',
+  大附子: '附子',
+}
+
+/**
+ * 古籍药名异写 / 讹字 → 规范名。只做整名精确匹配，不参与 HERB_ALIASES 的子串规则：
+ * 原文常把相邻两味粘成一个 token（「藜芦代赭」「葳蕤甘草」「杜仲浓朴」），子串归并会吞掉另一味。
+ * 也不进 listKnownHerbs，以免改变陈傅等书 segmentHerbNames 的切分结果。
+ * 「瓜子」不收：大黄牡丹汤之瓜子有冬瓜子、甜瓜子两说，不能定为冬瓜子。
+ */
+export const CLASSICAL_HERB_VARIANTS: Readonly<Record<string, string>> = {
+  // 鳖甲煎丸「蜂窠」即露蜂房，蜂窝、蜂巢为同物俗写
+  蜂窝: '蜂房',
+  蜂巢: '蜂房',
+  // 「苇」为「韦」形近讹字，鳖甲煎丸、石韦散皆作石韦
+  石苇: '石韦',
+  // 宋本赤石脂禹余粮汤方中作「太一禹余粮」，方名即称禹余粮
+  太一禹余粮: '禹余粮',
+  // 宋本旋覆代赭汤作「代赭」，金匮滑石代赭汤、桂林本同方作「代赭石」
+  代赭: '代赭石',
+  // 茵陈即茵陈蒿省称
+  茵陈蒿: '茵陈',
+  // 「肥」言择取肥大者，非别药
+  肥栀子: '栀子',
+  // 「藿」为「藋」形近讹字（王不留行散蒴藋细叶）
+  蒴藿: '蒴藋',
+  蒴藿细叶: '蒴藋细叶',
+  // 萎蕤、葳蕤皆玉竹古名
+  萎蕤: '玉竹',
+  葳蕤: '玉竹',
+  // 「括萎」为「栝蒌」形近讹写，栝蒌根即天花粉
+  括萎根: '天花粉',
+  // 底本繁简 / 台湾用语转换把「厚朴」误成「濃朴」「浓朴」（丹溪、医宗、千金）
+  浓朴: '厚朴',
+  濃朴: '厚朴',
 }
 
 const PROCESSING_PATTERNS: Array<{ pattern: RegExp; label: string }> = [
@@ -91,6 +132,7 @@ const PROCESSING_PATTERNS: Array<{ pattern: RegExp; label: string }> = [
   { pattern: /去尖/, label: '去尖' },
   { pattern: /去芦/, label: '去芦' },
   { pattern: /去目汗|去目及汗|去目/, label: '去目' },
+  { pattern: /去汗/, label: '去汗' },
   { pattern: /去汁/, label: '去汁' },
   { pattern: /擘|劈/, label: '擘' },
   { pattern: /切/, label: '切' },
@@ -133,6 +175,7 @@ const PROCESSING_ONLY_NAMES = new Set([
   '汤泡',
   '生用',
   '出汗',
+  '去汗',
   '绵裹',
   '末',
   '咬咀',
@@ -206,6 +249,39 @@ export function isSpuriousHerbName(name: string): boolean {
   if (/^即前|^即方|^深师|^并为/.test(name)) return true
   // 「附子大者」应已剥成附子；残留则剔除
   if (/大者$|小者$/.test(name)) return true
+  // 服法 / 证候 / 校注残片
+  if (
+    /分再服|分再|分服|合煮|一云|为度|帖而|再服|更服|稍稍服|稍加|汗出|煮三沸|去滓|汤成|铜器|微火煎|不堪|预服|蜜和丸|丸如|梧子|弹子|饮下|汤下|酒下|日四五|平旦服|强人服|明日更|每日只|遂急合|旦空腹|五服愈|浓煮|桂汁|桂枝证|隂火|阴火|胀满|腰冷|如坐水|湿成|壅塞|昏乱|哮吼|钦定|四库|钱或|两或|分或|外台秘要|范汪疗|广济疗/.test(
+      name,
+    )
+  ) {
+    return true
+  }
+  if (/者$/.test(name) && name.length >= 2 && name.length <= 4) return true
+  if (/服$/.test(name) && name.length <= 5) return true
+  // 剂量残片（三两/五钱）；勿误伤药名「百合」
+  if (/^\d+$/.test(name) || /^中者或/.test(name)) return true
+  if (
+    /^[一二三四五六七八九十百半两\d]+[两钱分升合斤枚]$/.test(name) &&
+    name !== '百合'
+  ) {
+    return true
+  }
+  // 证候 / 篇章 / 服法起句
+  if (/^治/.test(name) && name.length >= 3 && name.length <= 8) return true
+  if (/^卷[一二三四五六七八九十]/.test(name)) return true
+  if (/口干|舌燥|小便自|癃闭|冷痛|发热往来|烦躁不|痞满|腹胀|含化|调下|取汁|澄清|绞取/.test(name)) {
+    return true
+  }
+  // 金鉴方论证候 / 服法碎片
+  if (
+    /发热|六七日|不解|脉浮|咽燥|口苦|腹满|恶热|烦躁|愦愦|怵惕|懊|去汗|饥能使|能使饥|水[一二三四五六七八九十半]+盏|煎[一二三四五六七八九十半]+盏|其人恶风|恶风加|病仍不解|有表里|而烦|渴欲饮|水入则|反恶|身重烦|目疼|鼻干|不得卧|补血益气|不热不冷|温而调之|神妙难述|遂漏不止|四肢微急|难以屈伸/.test(
+      name,
+    )
+  ) {
+    return true
+  }
+  if (/篇$/.test(name)) return true
   return false
 }
 
@@ -234,6 +310,8 @@ export function canonicalizeHerbName(rawName: string): string {
   if (isProcessingOnlyToken(cleaned)) return ''
   if (isSpuriousHerbName(cleaned)) return ''
   if (HERB_ALIASES[cleaned]) return HERB_ALIASES[cleaned]
+  const classicalStandard = CLASSICAL_HERB_VARIANTS[cleaned]
+  if (classicalStandard) return classicalStandard
   for (const [alias, standard] of Object.entries(HERB_ALIASES)) {
     if (alias.length >= 2 && cleaned.includes(alias) && cleaned.length <= alias.length + 2) {
       return standard
@@ -261,7 +339,7 @@ export function peelInlineProcessing(token: string): { core: string; processing?
 
   const inlineMatch = main.match(
     new RegExp(
-      `^([${CJK}].+?)(去目汗|去目及汗|去目|去皮尖|去皮|去心|去节|去尖|去芦|去汁|出汗|大者|小者)$`,
+      `^([${CJK}].+?)(去目汗|去目及汗|去目|去汗|去皮尖|去皮|去心|去节|去尖|去芦|去汁|出汗|大者|小者)$`,
     ),
   )
   if (inlineMatch) {
@@ -299,7 +377,7 @@ export function parseHerbToken(token: string): NormalizedHerb | null {
   let workingMain = main
   const midProc = workingMain.match(
     new RegExp(
-      `^([${CJK}]{2,8})(去目汗|去皮尖|去皮|去心|去节|去尖|去芦|去汁|熬|洗|炙|炮|烧|切|擘|碎|研)(?=${DOSE_BODY}|各|$)`,
+      `^([${CJK}]{2,8})(去目汗|去汗|去皮尖|去皮|去心|去节|去尖|去芦|去汁|熬|洗|炙|炮|烧|切|擘|碎|研)(?=${DOSE_BODY}|各|$)`,
     ),
   )
   let midProcessing: string | undefined
@@ -319,9 +397,9 @@ export function parseHerbToken(token: string): NormalizedHerb | null {
   }
 
   namePart = namePart.replace(/各$/, '').trim()
-  // 无剂量时再剥炮制尾巴：桃仁去皮尖
+  // 无剂量时再剥炮制尾巴：桃仁去皮尖 / 蜀椒去汗
   const tailProc = namePart.match(
-    new RegExp(`^([${CJK}]{2,8})(去目汗|去皮尖|去皮|去心|去节|去尖|去芦|去汁)$`),
+    new RegExp(`^([${CJK}]{2,8})(去目汗|去汗|去皮尖|去皮|去心|去节|去尖|去芦|去汁)$`),
   )
   if (tailProc) {
     namePart = tailProc[1]!
@@ -346,4 +424,13 @@ export function parseHerbToken(token: string): NormalizedHerb | null {
 
 export function listKnownHerbs(): string[] {
   return [...new Set(Object.values(HERB_ALIASES))].sort((a, b) => a.localeCompare(b, 'zh-CN'))
+}
+
+for (const [variant, standard] of Object.entries(CLASSICAL_HERB_VARIANTS)) {
+  assert.ok(!Object.hasOwn(HERB_ALIASES, variant), `药名异写「${variant}」与 HERB_ALIASES 重复，只能留一处`)
+  assert.equal(
+    canonicalizeHerbName(standard),
+    standard,
+    `药名异写「${variant}」的归并目标「${standard}」须为规范名（canonicalizeHerbName 不动点）`,
+  )
 }

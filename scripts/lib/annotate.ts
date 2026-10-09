@@ -1,32 +1,16 @@
-import type { Clause } from '../../src/types/data.ts'
+import type { Clause, Mention } from '../../src/types/data.ts'
+import { loadConceptLexicon, matchMentions, type ConceptMatchIndex } from './concept-lexicon.ts'
+import {
+  PATHOGENESIS_LEXICON,
+  PULSE_LEXICON,
+  SYMPTOM_LEXICON,
+} from './annotate-lexicon.ts'
 
-const SYMPTOM_LEXICON: string[] = [
-  '恶寒', '恶风', '发热', '汗出', '无汗', '头痛', '项强', '项背强', '身痛', '体痛',
-  '骨节疼痛', '腰痛', '咳', '喘', '干呕', '呕', '吐', '下利', '下痢', '便秘', '不大便',
-  '腹痛', '腹满', '心下痞', '心下满', '胸满', '胁痛', '胁下痞硬', '烦躁', '烦', '渴',
-  '大渴', '小便不利', '小便自利', '厥', '手足厥冷', '谵语', '不能食', '喜呕', '咽干',
-  '咽痛', '耳聋', '目眩', '心悸', '悸', '短气', '身黄', '发黄', '衄', '下血', '吐血',
-  '失眠', '不得眠', '盗汗', '自汗', '潮热', '日晡潮热', '郑声', '发狂', '如狂',
-  '项背强几几', '肉瞤', '筋惕肉瞤', '身重', '嗜卧', '多眠睡', '口苦', '咽干', '目眩',
-]
-
-const PULSE_LEXICON: string[] = [
-  '脉浮', '脉沉', '脉迟', '脉数', '脉紧', '脉缓', '脉弦', '脉涩', '脉微', '脉弱',
-  '脉洪大', '脉浮紧', '脉浮缓', '脉浮数', '脉沉迟', '脉沉紧', '脉阴阳俱紧', '脉微细',
-]
-
-const PATHOGENESIS_LEXICON: string[] = [
-  '表未解', '表证', '里证', '热入血室', '蓄血', '结胸', '脏结', '痞', '水气', '痰饮',
-  '胃家实', '亡阳', '亡津液', '热结', '寒结', '虚劳', '风湿', '风温', '温病',
-]
-
-export function annotateClause(clause: Clause): Clause {
+function fallbackAnnotate(clause: Clause): Clause {
   const text = clause.text
   const symptomTags = SYMPTOM_LEXICON.filter((item) => text.includes(item))
   const pulseTags = PULSE_LEXICON.filter((item) => text.includes(item))
   const pathogenesisTags = PATHOGENESIS_LEXICON.filter((item) => text.includes(item))
-
-  // 去重包含关系：同时有恶寒与恶风都保留；有「脉浮紧」时也保留「脉浮」「脉紧」可接受
   return {
     ...clause,
     symptomTags: [...new Set(symptomTags)],
@@ -36,6 +20,66 @@ export function annotateClause(clause: Clause): Clause {
   }
 }
 
+export function annotateClauseWithIndex(clause: Clause, index: ConceptMatchIndex): Clause {
+  if (index.concepts.length === 0) return fallbackAnnotate(clause)
+
+  const hits = matchMentions(clause.text, index, [
+    'symptom',
+    'pulse',
+    'pathogenesis',
+    'channel',
+  ])
+  const mentions: Mention[] = hits.map((hit) => ({
+    surface: hit.surface,
+    conceptId: hit.conceptId,
+    offset: hit.offset,
+  }))
+  const conceptIds = [...new Set(hits.map((hit) => hit.conceptId))]
+
+  const prefOf = (conceptId: string) => index.byId.get(conceptId)?.prefLabel ?? conceptId.split('.').slice(1).join('.')
+
+  const symptomTags = [
+    ...new Set(hits.filter((h) => h.type === 'symptom').map((h) => prefOf(h.conceptId))),
+  ]
+  const pulseTags = [
+    ...new Set(hits.filter((h) => h.type === 'pulse').map((h) => prefOf(h.conceptId))),
+  ]
+  const pathogenesisTags = [
+    ...new Set(hits.filter((h) => h.type === 'pathogenesis').map((h) => prefOf(h.conceptId))),
+  ]
+  const channelFromText = [
+    ...new Set(hits.filter((h) => h.type === 'channel').map((h) => prefOf(h.conceptId))),
+  ]
+
+  return {
+    ...clause,
+    symptomTags,
+    pulseTags,
+    pathogenesisTags,
+    channelTags: clause.channelTags.length > 0 ? clause.channelTags : channelFromText,
+    conceptIds,
+    mentions,
+    reviewStatus: 'ai-draft',
+  }
+}
+
+let sharedIndex: ConceptMatchIndex | null = null
+
+export async function prepareAnnotateIndex(): Promise<ConceptMatchIndex> {
+  sharedIndex = await loadConceptLexicon()
+  return sharedIndex
+}
+
+export function annotateClause(clause: Clause): Clause {
+  if (!sharedIndex) return fallbackAnnotate(clause)
+  return annotateClauseWithIndex(clause, sharedIndex)
+}
+
 export function annotateClauses(clauses: Clause[]): Clause[] {
   return clauses.map(annotateClause)
+}
+
+export async function annotateClausesAsync(clauses: Clause[]): Promise<Clause[]> {
+  const index = await prepareAnnotateIndex()
+  return clauses.map((clause) => annotateClauseWithIndex(clause, index))
 }

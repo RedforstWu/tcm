@@ -1,11 +1,5 @@
 [
   {
-    "id": "funanke-formula-funanke-0086-1__四物汤",
-    "chenfuFormulaId": "funanke-formula-funanke-0086-1",
-    "derivedName": "四物汤",
-    "sourceSentence": "此方即四物汤加减, 妙在用茜草引血归经。==== 附：三黑神曲奇散 ===="
-  },
-  {
     "id": "bianzheng-formula-bianzheng-0001-1__白虎汤",
     "chenfuFormulaId": "bianzheng-formula-bianzheng-0001-1",
     "derivedName": "白虎汤",
@@ -25,8 +19,8 @@
     "sourceSentence": "此方即逍遥散之变方也。盖病在半表半里之间，逍遥散既解散表里之邪，而太阳膀胱之邪何能独留，况方中原有茯苓、白术，以利腰脐而通膀胱之气乎。余所以止加神曲、黄芩，少解"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0018-5__逍遥散",
-    "chenfuFormulaId": "bianzheng-formula-bianzheng-0018-5",
+    "id": "bianzheng-formula-bianzheng-0018-11__逍遥散",
+    "chenfuFormulaId": "bianzheng-formula-bianzheng-0018-11",
     "derivedName": "逍遥散",
     "sourceSentence": "此方即逍遥散加味者也。用参、熟、麦、丹于逍遥散中，实有妙义。盖逍遥散为解郁之圣药，郁散而得补，则补始有功，而方中全在用白芍至一两，以平肝气，肝平则木不克土，而土"
   },
@@ -79,8 +73,8 @@
     "sourceSentence": "此方乃逍遥散之变方也。逍遥散有白术、陈皮，未尝不可开关。余改用薄荷、枳壳、丹皮者，直入肝经之药，取其尤易于开郁也。此方全不开关，而关自开者，正以其善于解郁也。"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0206-2__佛手散",
-    "chenfuFormulaId": "bianzheng-formula-bianzheng-0206-2",
+    "id": "bianzheng-formula-bianzheng-0206-3__佛手散",
+    "chenfuFormulaId": "bianzheng-formula-bianzheng-0206-3",
     "derivedName": "佛手散",
     "sourceSentence": "此方即佛手散之变，大补其气血之虚，加之人参则气更旺矣，气旺而邪不敢敌。有荆芥引血归经之药，血既归经，而邪何能独留？况荆芥原能祛邪，而不损正气，故可两用之，以出奇"
   },
@@ -95,5 +89,48 @@
     "chenfuFormulaId": "bianzheng-formula-bianzheng-0326-1",
     "derivedName": "四苓散",
     "sourceSentence": "此方即四苓散之变也。加入柴、芍以舒肝，加入浓朴以行气，加入半夏以消痰，自然气行而水亦行，气化而痰亦化矣。"
+  },
+  {
+    "id": "shishi-formula-shishi-0029-4__六味地黄汤",
+    "chenfuFormulaId": "shishi-formula-shishi-0029-4",
+    "derivedName": "六味地黄汤",
+    "sourceSentence": "此方即六味地黄汤，加麦冬、五味者也。余特另酌分两，以示世之善用六味地黄汤者。"
+  },
+  {
+    "id": "shishi-formula-shishi-0054-2__七味地黄汤",
+    "chenfuFormulaId": "shishi-formula-shishi-0054-2",
+    "derivedName": "七味地黄汤",
+    "sourceSentence": "此方即七味地黄汤。妙在不去通小便，而专治肾水肾火。盖肾中有火，而膀胱之气化自行，不通小便而小便自通矣。\n\n此末治之一法也。\n\n疟症不已，终岁连朝，经年累月，或已"
+  },
+  {
+    "id": "shishi-formula-shishi-0089-4__五苓散",
+    "chenfuFormulaId": "shishi-formula-shishi-0089-4",
+    "derivedName": "五苓散",
+    "jingfangFormulaId": "jingui-formula-五苓散",
+    "sourceSentence": "此方即五苓散加人参者也。妙在加参至一两，有参始能挽回垂绝之地；佐白术、茯苓，以去水湿之气；而又有附子、肉桂，以补命门之火，使火热以生脾土，而膀胱气化，水道可通于"
+  },
+  {
+    "id": "shishi-formula-shishi-0118-1__四物汤",
+    "chenfuFormulaId": "shishi-formula-shishi-0118-1",
+    "derivedName": "四物汤",
+    "sourceSentence": "此方即四物汤加减，妙在用茜草根、荆芥，引血归经，不拂乱其性，则血自归经，各不相犯矣。倘用止血之剂，未尝无效。然而如石压草，一时虽止，而性思冲突，必得空隙，仍飞越"
+  },
+  {
+    "id": "shishi-formula-shishi-0129-2__四物汤",
+    "chenfuFormulaId": "shishi-formula-shishi-0129-2",
+    "derivedName": "四物汤",
+    "sourceSentence": "此方即四物汤也，妙在全是阴经之药，又加之麦冬、五味以养肺金。金既旺，可以制木之克脾，则四物生肝而安于无事之福也。\n\n中风之后，亦气之虚也。此等病断宜补气，不可补"
+  },
+  {
+    "id": "shishi-formula-shishi-0139-1__此方逍遥散",
+    "chenfuFormulaId": "shishi-formula-shishi-0139-1",
+    "derivedName": "此方逍遥散",
+    "sourceSentence": "此方逍遥散之变方也，单治肝经之郁，而又加去湿之品。盖诸痛皆属于火，而两足之痛又兼有湿气作祟。方中用栀子以清火，用薏仁以去湿，故虽治肝经之一经，而诸经无不奏效也。"
+  },
+  {
+    "id": "shishi-formula-shishi-0165-2__补血汤",
+    "chenfuFormulaId": "shishi-formula-shishi-0165-2",
+    "derivedName": "补血汤",
+    "sourceSentence": "此方止药少于补药，健脾去湿，水性分消，不收而自收也。\n\n若纯以粟壳以涩止之，而不分消其滔天之势，则阻滞一时，势必溃决，反生大害矣。\n\n大汗之病，阳气尽随汗而外越"
   }
 ]

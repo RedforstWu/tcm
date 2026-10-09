@@ -1,0 +1,30 @@
+[
+  {
+    "id": "organRelation:organ.肝->organ.脾:shishi-0002#0:克",
+    "type": "organRelation",
+    "from": "organ.肝",
+    "to": "organ.脾",
+    "sourceClauseId": "shishi-0002",
+    "school": "chenfu",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "kind": "克",
+      "caseId": "shishi-0002#0"
+    }
+  },
+  {
+    "id": "organRelation:organ.肝->organ.脾:shishi-0018#0:克",
+    "type": "organRelation",
+    "from": "organ.肝",
+    "to": "organ.脾",
+    "sourceClauseId": "shishi-0018",
+    "school": "chenfu",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "kind": "克",
+      "caseId": "shishi-0018#0"
+    }
+  }
+]

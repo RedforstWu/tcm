@@ -1,0 +1,54 @@
+[
+  {
+    "id": "channel.厥阴",
+    "type": "channel",
+    "prefLabel": "厥阴",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "channel.少阳",
+    "type": "channel",
+    "prefLabel": "少阳",
+    "altLabels": [],
+    "schoolNotes": [
+      {
+        "school": "jingfang",
+        "note": "伤寒六经之少阳，主半表半里，往来寒热、胸胁苦满等。"
+      },
+      {
+        "school": "chenfu",
+        "note": "陈傅语境中「少阳」偶指胆腑气机，勿与伤寒少阳病篇机械等同。"
+      }
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "channel.少阴",
+    "type": "channel",
+    "prefLabel": "少阴",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "channel.太阳",
+    "type": "channel",
+    "prefLabel": "太阳",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "channel.太阴",
+    "type": "channel",
+    "prefLabel": "太阴",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "channel.阳明",
+    "type": "channel",
+    "prefLabel": "阳明",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  }
+]

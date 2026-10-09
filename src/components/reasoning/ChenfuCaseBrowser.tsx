@@ -14,6 +14,7 @@ import {
 import { convertScript } from '@/lib/text'
 import { useAppContext } from '@/context/AppContext'
 import type { ChenfuReasoningBook, ChenfuReasoningDataset, ChenfuRecord } from '@/types/data'
+import { BOOKS } from '@/types/data'
 
 interface ChenfuCaseBrowserProps {
   dataset: ChenfuReasoningDataset
@@ -23,7 +24,9 @@ interface ChenfuCaseBrowserProps {
 
 const PAGE_SIZE = 150
 const TAG_OPTION_LIMIT = 40
-const BOOK_ORDER: ChenfuReasoningBook[] = ['bianzheng', 'funvke', 'funanke', 'shishi']
+const BOOK_ORDER: ChenfuReasoningBook[] = BOOKS.filter(
+  (book) => book.corpus === 'chenfu' && book.hasClauses,
+).map((book) => book.id as ChenfuReasoningBook)
 const DISPUTE_FILTERS: DisputeFilter[] = [
   'misdiagnosis',
   'mistreatment',

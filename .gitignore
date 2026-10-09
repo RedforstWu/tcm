@@ -13,6 +13,9 @@ dist-ssr
 *.local
 .wrangler
 .agents
+data/vendor/*
+!data/vendor/sources.lock.json
+*.tmp
 
 # Editor directories and files
 .vscode/*

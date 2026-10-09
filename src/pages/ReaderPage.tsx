@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useParams, useSearchParams } from 'react-router-dom'
 import type { BookId, Clause, Formula, HerbMonograph, HerbRole } from '@/types/data'
-import { BOOK_CORPUS } from '@/types/data'
+import { BOOK_CORPUS, CLAUSE_BOOKS } from '@/types/data'
 import {
   bookTitle,
   loadAlignments,
@@ -10,23 +10,27 @@ import {
   loadHerbRoles,
   loadMonographs,
 } from '@/lib/data'
+import { conceptIdFromLabel, parseConceptId } from '@/lib/concept'
 import { convertScript, highlightTerms } from '@/lib/text'
 import { computeFloatingPosition } from '@/lib/floating-position'
+import { loadCommentaryIndex, type CommentaryIndex } from '@/lib/integration'
+import { EvidenceBadge } from '@/components/integration/EvidenceBadge'
+import { EvidencePanel } from '@/components/integration/EvidencePanel'
+import { KangpingTag } from '@/components/integration/KangpingTag'
+import { CommentaryList } from '@/components/integration/CommentaryList'
 import { useAppContext } from '@/context/AppContext'
 import { DraftBanner } from '@/components/DraftBanner'
 
-const JINGFANG_BOOKS: BookId[] = ['songben', 'jingui', 'guilin']
-const CHENFU_BOOKS: BookId[] = ['funvke', 'funanke', 'bianzheng', 'shishi']
 /** 与浮层 max-w-xs（20rem）保持一致 */
 const HERB_TOOLTIP_WIDTH = 320
 const HERB_CHIP_SELECTOR = '[data-herb-chip]'
 
 export function ReaderPage() {
   const { book = 'songben' } = useParams()
-  const allBooks = [...JINGFANG_BOOKS, ...CHENFU_BOOKS]
+  const allBooks = CLAUSE_BOOKS
   const bookId = (allBooks.includes(book as BookId) ? book : 'songben') as BookId
   const [searchParams, setSearchParams] = useSearchParams()
-  const { scriptMode, corpusFilter } = useAppContext()
+  const { scriptMode } = useAppContext()
   const [clauses, setClauses] = useState<Clause[]>([])
   const [guilinMap, setGuilinMap] = useState<Map<string, Clause>>(new Map())
   const [parallelMap, setParallelMap] = useState<Map<string, Clause>>(new Map())
@@ -35,6 +39,8 @@ export function ReaderPage() {
   const [monographs, setMonographs] = useState<HerbMonograph[]>([])
   const [compare, setCompare] = useState(bookId === 'songben')
   const [chapter, setChapter] = useState<string>('全部')
+  const [commentaryIndex, setCommentaryIndex] = useState<CommentaryIndex>(() => new Map())
+  const [openEvidenceId, setOpenEvidenceId] = useState<string | null>(null)
   const [hoverHerb, setHoverHerb] = useState<{
     herbId: string
     formulaId: string
@@ -54,13 +60,7 @@ export function ReaderPage() {
     container.scrollTo({
       left: active.offsetLeft - (container.clientWidth - active.clientWidth) / 2,
     })
-  }, [bookId, corpusFilter])
-
-  const visibleBooks = useMemo(() => {
-    if (corpusFilter === 'jingfang') return JINGFANG_BOOKS
-    if (corpusFilter === 'chenfu') return CHENFU_BOOKS
-    return allBooks
-  }, [corpusFilter])
+  }, [bookId])
 
   useEffect(() => {
     void loadClauses(bookId).then((items) => {
@@ -79,6 +79,16 @@ export function ReaderPage() {
         setMonographs(monoList)
       },
     )
+  }, [])
+
+  useEffect(() => {
+    let cancelled = false
+    void loadCommentaryIndex().then((index) => {
+      if (!cancelled) setCommentaryIndex(index)
+    })
+    return () => {
+      cancelled = true
+    }
   }, [])
 
   useEffect(() => {
@@ -161,7 +171,7 @@ export function ReaderPage() {
           ref={bookTabsRef}
           className="scrollbar-none relative -mx-3 flex min-w-0 flex-1 gap-2 overflow-x-auto px-3 py-0.5 sm:mx-0 sm:flex-wrap sm:overflow-visible sm:px-0"
         >
-          {visibleBooks.map((id) => (
+          {allBooks.map((id) => (
             <Link
               key={id}
               to={`/read/${id}`}
@@ -230,14 +240,43 @@ export function ReaderPage() {
                   </span>
                 )}
                 <span>{convertScript(clause.chapter, scriptMode)}</span>
-                {clause.channelTags.map((tag) => (
-                  <span key={tag} className="rounded bg-teal-soft px-2 py-0.5 text-teal">
-                    {tag}
-                  </span>
-                ))}
+                {(clause.conceptIds ?? [])
+                  .filter((id) => id.startsWith('channel.'))
+                  .map((conceptId) => {
+                    const parsed = parseConceptId(conceptId)
+                    const label = parsed?.label ?? conceptId
+                    return (
+                      <Link
+                        key={conceptId}
+                        to={`/concept/${encodeURIComponent(conceptId)}`}
+                        className="rounded bg-teal-soft px-2 py-0.5 text-teal hover:underline"
+                      >
+                        {label}
+                      </Link>
+                    )
+                  })}
+                {!(clause.conceptIds ?? []).some((id) => id.startsWith('channel.')) &&
+                  clause.channelTags.map((tag) => (
+                    <Link
+                      key={tag}
+                      to={`/concept/${encodeURIComponent(conceptIdFromLabel(tag, 'channel'))}`}
+                      className="rounded bg-teal-soft px-2 py-0.5 text-teal hover:underline"
+                    >
+                      {tag}
+                    </Link>
+                  ))}
                 <span className="rounded bg-amber-soft px-2 py-0.5 text-amber-800">
                   {clause.reviewStatus}
                 </span>
+                <KangpingTag layer={clause.kangpingLayer} />
+                <EvidenceBadge
+                  level={clause.evidenceLevel}
+                  count={clause.evidence?.length}
+                  expanded={openEvidenceId === clause.id}
+                  onToggle={() =>
+                    setOpenEvidenceId((current) => (current === clause.id ? null : clause.id))
+                  }
+                />
               </div>
 
               {clause.misjudgment && (
@@ -268,6 +307,15 @@ export function ReaderPage() {
                   </p>
                 )}
               </div>
+
+              {openEvidenceId === clause.id && (
+                <EvidencePanel
+                  evidence={clause.evidence}
+                  level={clause.evidenceLevel}
+                  scriptMode={scriptMode}
+                  className="mt-3"
+                />
+              )}
 
               {clauseFormulas.length > 0 && (
                 <div className="mt-3 space-y-2">
@@ -373,15 +421,72 @@ export function ReaderPage() {
                 </div>
               )}
 
-              {clause.symptomTags.length > 0 && (
+              {((clause.conceptIds ?? []).length > 0 ||
+                clause.symptomTags.length > 0 ||
+                clause.pulseTags.length > 0 ||
+                clause.pathogenesisTags.length > 0) && (
                 <div className="mt-2 flex flex-wrap gap-1">
-                  {clause.symptomTags.map((tag) => (
-                    <span key={tag} className="rounded bg-stone-100 px-2 py-0.5 text-[11px] text-stone-500">
-                      {tag}
-                    </span>
-                  ))}
+                  {(clause.conceptIds ?? [])
+                    .filter((id) => !id.startsWith('channel.'))
+                    .map((conceptId) => {
+                      const parsed = parseConceptId(conceptId)
+                      const label = parsed?.label ?? conceptId
+                      const type = parsed?.type
+                      const className =
+                        type === 'pulse'
+                          ? 'rounded bg-violet-50 px-2 py-0.5 text-[11px] text-violet-700 hover:bg-violet-100'
+                          : type === 'pathogenesis'
+                            ? 'rounded bg-amber-soft px-2 py-0.5 text-[11px] text-amber-800 hover:bg-amber-100'
+                            : 'rounded bg-stone-100 px-2 py-0.5 text-[11px] text-stone-500 hover:bg-teal-soft hover:text-teal'
+                      return (
+                        <Link
+                          key={conceptId}
+                          to={`/concept/${encodeURIComponent(conceptId)}`}
+                          className={className}
+                        >
+                          {label}
+                        </Link>
+                      )
+                    })}
+                  {(clause.conceptIds ?? []).length === 0 && (
+                    <>
+                      {clause.symptomTags.map((tag) => (
+                        <Link
+                          key={`s-${tag}`}
+                          to={`/concept/${encodeURIComponent(conceptIdFromLabel(tag, 'symptom'))}`}
+                          className="rounded bg-stone-100 px-2 py-0.5 text-[11px] text-stone-500 hover:bg-teal-soft hover:text-teal"
+                        >
+                          {tag}
+                        </Link>
+                      ))}
+                      {clause.pulseTags.map((tag) => (
+                        <Link
+                          key={`p-${tag}`}
+                          to={`/concept/${encodeURIComponent(conceptIdFromLabel(tag, 'pulse'))}`}
+                          className="rounded bg-violet-50 px-2 py-0.5 text-[11px] text-violet-700 hover:bg-violet-100"
+                        >
+                          {tag}
+                        </Link>
+                      ))}
+                      {clause.pathogenesisTags.map((tag) => (
+                        <Link
+                          key={`g-${tag}`}
+                          to={`/concept/${encodeURIComponent(conceptIdFromLabel(tag, 'pathogenesis'))}`}
+                          className="rounded bg-amber-soft px-2 py-0.5 text-[11px] text-amber-800 hover:bg-amber-100"
+                        >
+                          {tag}
+                        </Link>
+                      ))}
+                    </>
+                  )}
                 </div>
               )}
+
+              <CommentaryList
+                commentaries={commentaryIndex.get(clause.id)}
+                scriptMode={scriptMode}
+                formulaNameById={formulaNameById}
+              />
             </article>
           )
         })}

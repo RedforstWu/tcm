@@ -1,0 +1,54 @@
+{
+  "shishi-0002#0": [
+    "mentionsConcept:shishi-0002#0->organ.肝",
+    "mentionsConcept:shishi-0002#0->organ.脾"
+  ],
+  "shishi-0017#0": [
+    "mentionsConcept:shishi-0017#0->organ.胆",
+    "mentionsConcept:shishi-0017#0->organ.肺"
+  ],
+  "shishi-0018#0": [
+    "mentionsConcept:shishi-0018#0->organ.肝",
+    "mentionsConcept:shishi-0018#0->organ.脾",
+    "mentionsConcept:shishi-0018#0->organ.胃"
+  ],
+  "shishi-0019#0": [
+    "mentionsConcept:shishi-0019#0->organ.肾"
+  ],
+  "shishi-0024#0": [
+    "mentionsConcept:shishi-0024#0->organ.胃",
+    "mentionsConcept:shishi-0024#0->organ.肾"
+  ],
+  "shishi-0091#0": [
+    "mentionsConcept:shishi-0091#0->organ.肝"
+  ],
+  "shishi-0091#1": [
+    "mentionsConcept:shishi-0091#1->organ.胃"
+  ],
+  "shishi-0102#0": [
+    "mentionsConcept:shishi-0102#0->organ.脾",
+    "mentionsConcept:shishi-0102#0->organ.大肠"
+  ],
+  "shishi-0111#0": [
+    "mentionsConcept:shishi-0111#0->organ.胃"
+  ],
+  "shishi-0133#3": [
+    "mentionsConcept:shishi-0133#3->organ.肝",
+    "mentionsConcept:shishi-0133#3->organ.心"
+  ],
+  "shishi-0133#6": [
+    "mentionsConcept:shishi-0133#6->organ.脾"
+  ],
+  "shishi-0201#0": [
+    "mentionsConcept:shishi-0201#0->organ.胃"
+  ],
+  "shishi-0203#0": [
+    "mentionsConcept:shishi-0203#0->organ.胃"
+  ],
+  "shishi-0203#2": [
+    "mentionsConcept:shishi-0203#2->organ.大肠"
+  ],
+  "shishi-0203#3": [
+    "mentionsConcept:shishi-0203#3->organ.肾"
+  ]
+}

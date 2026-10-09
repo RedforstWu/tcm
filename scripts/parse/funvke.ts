@@ -1,3 +1,4 @@
+import assert from 'node:assert/strict'
 import path from 'node:path'
 import type { Clause, Formula } from '../../src/types/data.ts'
 import {
@@ -6,7 +7,17 @@ import {
 } from '../lib/herb-lexicon.ts'
 import { extractChenfuFormulaBlocks } from '../lib/chenfu-formula.ts'
 import { ensureDir, projectRoot, readText, writeJson } from '../lib/fs-utils.ts'
+import {
+  listWikiHeadings,
+  splitHeadingUnits,
+  type WikiHeadingUnit,
+} from '../lib/generic-wiki-parse.ts'
 import { toSimplifiedChinese } from '../lib/wiki.ts'
+
+const CLAUSE_HEADING_LEVEL = 4
+const CHAPTER_HEADING_LEVEL = 3
+/** 短于此的正文不立条文（沿用原阈值） */
+const MIN_UNIT_BODY_LENGTH = 20
 
 function extractMisjudgment(text: string): Clause['misjudgment'] | undefined {
   const simplified = toSimplifiedChinese(text)
@@ -40,20 +51,12 @@ export async function runFunvkeParse(): Promise<{
   const clauses: Clause[] = []
   const formulas: Formula[] = []
 
-  // ==== 白帶下（一） ====（四级标题）
-  const sectionRe = /^====\s*(.+?)\s*====\s*$/gm
-  const headers: Array<{ title: string; index: number }> = []
-  let m: RegExpExecArray | null
-  while ((m = sectionRe.exec(simplified)) !== null) {
-    headers.push({ title: m[1]!.trim(), index: m.index + m[0].length })
-  }
-
-  // 章（=== 帶下 ===，恰好三级，排除 ====）
-  const chapterRe = /^===(?!=)\s*(.+?)\s*===(?!=)\s*$/gm
-  const chapters: Array<{ title: string; index: number }> = []
-  while ((m = chapterRe.exec(simplified)) !== null) {
-    chapters.push({ title: m[1]!.trim(), index: m.index })
-  }
+  // ==== 白帶下（一） ====（四级标题）为条文；章（=== 帶下 ===）只作 chapter
+  const units = splitHeadingUnits(simplified, CLAUSE_HEADING_LEVEL, MIN_UNIT_BODY_LENGTH)
+  const headers = units.filter((unit) => !unit.orphan)
+  const chapters = listWikiHeadings(simplified)
+    .filter((heading) => heading.level === CHAPTER_HEADING_LEVEL)
+    .map((heading) => ({ title: heading.title, index: heading.start }))
 
   function chapterAt(pos: number): { title: string; order: number } {
     let title = '上卷'
@@ -67,16 +70,21 @@ export async function runFunvkeParse(): Promise<{
     return { title, order }
   }
 
-  for (let i = 0; i < headers.length; i += 1) {
-    const header = headers[i]!
-    const end = i + 1 < headers.length ? headers[i + 1]!.index : simplified.length
-    // 回溯找标题起始以定位章
-    const titleLineStart = simplified.lastIndexOf('====', header.index)
-    const chap = chapterAt(titleLineStart >= 0 ? titleLineStart : header.index)
-    const body = simplified.slice(header.index, end).trim()
-    if (body.length < 20) continue
+  // 四级条文沿用原序号；自带正文的二/三级小节（产后总论、补集各方）接在其后编号，不挤占原 id；输出仍按原文顺序
+  const sequenceByUnit = new Map<WikiHeadingUnit, number>()
+  headers.forEach((unit, index) => sequenceByUnit.set(unit, index + 1))
+  units
+    .filter((unit) => unit.orphan)
+    .forEach((unit, index) => sequenceByUnit.set(unit, headers.length + index + 1))
+  assert.equal(sequenceByUnit.size, units.length, 'funvke: 每个切分单元都应有唯一序号')
 
-    const clauseId = `funvke-${String(i + 1).padStart(4, '0')}`
+  for (const header of units) {
+    const sequence = sequenceByUnit.get(header)!
+    const chap = chapterAt(header.start)
+    const body = header.body
+    if (body.length < MIN_UNIT_BODY_LENGTH) continue
+
+    const clauseId = `funvke-${String(sequence).padStart(4, '0')}`
     const blocks = extractChenfuFormulaBlocks(body, {
       anonymousPrefix: header.title,
       lexicon,
@@ -112,7 +120,7 @@ export async function runFunvkeParse(): Promise<{
       book: 'funvke',
       chapter: chap.title,
       chapterOrder: chap.order,
-      order: i + 1,
+      order: sequence,
       text: body.slice(0, 2000),
       formulaIds,
       symptomTags: [],

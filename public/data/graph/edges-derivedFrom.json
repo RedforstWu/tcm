@@ -1,0 +1,24 @@
+[
+  {
+    "id": "derivedFrom:bianzheng-formula-bianzheng-0001-1->guilin-formula-白虎汤",
+    "type": "derivedFrom",
+    "from": "bianzheng-formula-bianzheng-0001-1",
+    "to": "guilin-formula-白虎汤",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "name": "白虎汤"
+    }
+  },
+  {
+    "id": "derivedFrom:shishi-formula-shishi-0089-4->jingui-formula-五苓散",
+    "type": "derivedFrom",
+    "from": "shishi-formula-shishi-0089-4",
+    "to": "jingui-formula-五苓散",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "name": "五苓散"
+    }
+  }
+]

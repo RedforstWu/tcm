@@ -12,6 +12,7 @@ import { formatDualGrams } from '@/lib/dose-display'
 import { convertScript } from '@/lib/text'
 import { useAppContext } from '@/context/AppContext'
 import { DraftBanner } from '@/components/DraftBanner'
+import { EvidenceDisclosure } from '@/components/integration/EvidenceDisclosure'
 
 export function FormulaDetailPage() {
   const { formulaId = '' } = useParams()
@@ -92,6 +93,12 @@ export function FormulaDetailPage() {
         {formula.chapter && (
           <p className="mt-1 text-sm text-stone-500">{convertScript(formula.chapter, scriptMode)}</p>
         )}
+        <EvidenceDisclosure
+          className="mt-2"
+          level={formula.evidenceLevel}
+          evidence={formula.evidence}
+          scriptMode={scriptMode}
+        />
       </div>
 
       {alternates.length > 0 && (

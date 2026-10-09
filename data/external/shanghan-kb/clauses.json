@@ -1,0 +1,6613 @@
+[
+  {
+    "number": 1,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "头项强痛",
+      "恶寒"
+    ],
+    "text": "太阳之为病，脉浮，头项强痛而恶寒。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-001.md"
+  },
+  {
+    "number": 2,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "恶风",
+      "汗出"
+    ],
+    "text": "太阳病，发热，汗出，恶风，脉缓者，名为中风。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-002.md"
+  },
+  {
+    "number": 3,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "体痛",
+      "发热",
+      "恶寒",
+      "呕逆"
+    ],
+    "text": "太阳病，或已发热，或未发热，必恶寒，体痛，呕逆，脉阴阳俱紧者，名为伤寒。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-003.md"
+  },
+  {
+    "number": 4,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "烦"
+    ],
+    "text": "伤寒一日，太阳受之，脉若静者，为不传；颇欲吐，若躁烦，脉数急者，为传也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-004.md"
+  },
+  {
+    "number": 5,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "伤寒二三日，阳明、少阳证不见者，为不传也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-005.md"
+  },
+  {
+    "number": 6,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "身重",
+      "发热",
+      "恶寒",
+      "汗出",
+      "渴",
+      "小便不利",
+      "鼻息必鼾",
+      "多眠睡"
+    ],
+    "text": "太阳病，发热而渴，不恶寒者为温病。若发汗已，身灼热者，名风温。风温为病，脉阴阳俱浮，自汗出，身重，多眠睡，鼻息必鼾，语言难出。若被下者，小便不利，直视失溲。若被火者，微发黄色，剧则如惊癎，时瘛疭，若火熏之。一逆尚引日，再逆促命期。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-006.md"
+  },
+  {
+    "number": 7,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "恶寒"
+    ],
+    "text": "病有发热恶寒者，发于阳也；无热恶寒者，发于阴也。发于阳，七日愈；发于阴，六日愈。以阳数七，阴数六故也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-007.md"
+  },
+  {
+    "number": 8,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "头痛"
+    ],
+    "text": "太阳病，头痛至七日以上自愈者，以行其经尽故也。若欲作再经者，针足阳明，使经不传则愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-008.md"
+  },
+  {
+    "number": 9,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "太阳病欲解时，从巳至未上。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-009.md"
+  },
+  {
+    "number": 10,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "风家，表解而不了了者，十二日愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-010.md"
+  },
+  {
+    "number": 11,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "病人身大热，反欲得衣者，热在皮肤，寒在骨髓也；身大寒，反不欲近衣者，寒在皮肤，热在骨髓也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-011.md"
+  },
+  {
+    "number": 12,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "恶寒",
+      "恶风",
+      "汗出",
+      "干呕",
+      "鼻鸣"
+    ],
+    "text": "太阳中风，阳浮而阴弱，阳浮者，热自发，阴弱者，汗自出，啬啬恶寒，淅淅恶风，翕翕发热，鼻鸣干呕者，桂枝汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-012.md"
+  },
+  {
+    "number": 13,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [
+      "头痛",
+      "发热",
+      "汗出恶风"
+    ],
+    "text": "太阳病，头痛发热，汗出恶风，桂枝汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-013.md"
+  },
+  {
+    "number": 14,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝加葛根汤"
+    ],
+    "symptomLabels": [
+      "项背强几几",
+      "汗出恶风"
+    ],
+    "text": "太阳病，项背强几几，反汗出恶风者，桂枝加葛根汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-014.md"
+  },
+  {
+    "number": 15,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [],
+    "text": "太阳病，下之后，其气上冲者，可与桂枝汤，方用前法。若不上冲者，不得与之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-015.md"
+  },
+  {
+    "number": 16,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热"
+    ],
+    "text": "太阳病三日，已发汗，若吐、若下、若温针，仍不解者，此为坏病，桂枝不中与之也。观其脉症，知犯何逆，随证治之。桂枝本为解肌，若其人脉浮紧，发热汗不出者，不可与之也 。常须识此，勿令误也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-016.md"
+  },
+  {
+    "number": 17,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [
+      "呕"
+    ],
+    "text": "若酒客病，不可与桂枝汤，得之则呕，以酒客不喜甘故也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-017.md"
+  },
+  {
+    "number": 18,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [
+      "喘"
+    ],
+    "text": "喘家作桂枝汤，加厚朴杏子佳。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-018.md"
+  },
+  {
+    "number": 19,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [],
+    "text": "凡服桂枝汤吐者，其后必吐脓血也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-019.md"
+  },
+  {
+    "number": 20,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝加附子汤"
+    ],
+    "symptomLabels": [
+      "恶风",
+      "小便难"
+    ],
+    "text": "太阳病，发汗，遂漏不止，其人恶风，小便难，四肢微急，难以屈伸者，桂枝加附子汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-020.md"
+  },
+  {
+    "number": 21,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝去芍药汤"
+    ],
+    "symptomLabels": [
+      "胸满"
+    ],
+    "text": "太阳病,下之后，脉促，胸满者,桂枝去芍药汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-021.md"
+  },
+  {
+    "number": 22,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝去芍药加附子汤"
+    ],
+    "symptomLabels": [],
+    "text": "若微寒者，桂枝去芍药加附子汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-022.md"
+  },
+  {
+    "number": 23,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝麻黄各半汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "恶寒",
+      "汗出",
+      "呕"
+    ],
+    "text": "太阳病，得之八九日，如疟状，发热恶寒，热多寒少，其人不呕，清便欲自可，一日二三度发，脉微缓者，为欲愈也。脉微而恶寒者，此阴阳俱虚，不可更发汗、更下、更吐也。面色反有热色者，未欲解也，以其不能得小汗出，身必痒，宜桂枝麻黄各半汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-023.md"
+  },
+  {
+    "number": 24,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [
+      "烦"
+    ],
+    "text": "太阳病，初服桂枝汤，反烦不解者，先刺风池、风府，却与桂枝汤则愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-024.md"
+  },
+  {
+    "number": 25,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤",
+      "桂枝二麻黄一汤"
+    ],
+    "symptomLabels": [
+      "汗出"
+    ],
+    "text": "服桂枝汤，大汗出，脉洪大者，与桂枝汤如前法。若形似疟，一日再发者，汗出必解，宜桂枝二麻黄一汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-025.md"
+  },
+  {
+    "number": 26,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤",
+      "白虎加人参汤"
+    ],
+    "symptomLabels": [
+      "汗出",
+      "烦",
+      "渴"
+    ],
+    "text": "服桂枝汤，大汗出后，大烦渴不解，脉洪大者，白虎加人参汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-026.md"
+  },
+  {
+    "number": 27,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝二越婢一汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "恶寒"
+    ],
+    "text": "太阳病，发热恶寒，热多寒少，脉微弱者，此无阳也，不可发汗，宜桂枝二越婢一汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-027.md"
+  },
+  {
+    "number": 28,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤",
+      "桂枝去桂加茯苓白术汤"
+    ],
+    "symptomLabels": [
+      "头项强痛",
+      "发热",
+      "无汗",
+      "心下满微痛",
+      "小便不利"
+    ],
+    "text": "服桂枝汤，或下之，仍头项强痛，翕翕发热，无汗，心下满微痛，小便不利者，桂枝去桂加茯苓白术汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-028.md"
+  },
+  {
+    "number": 29,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治上",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "甘草干姜汤",
+      "芍药甘草汤",
+      "调胃承气汤",
+      "四逆汤"
+    ],
+    "symptomLabels": [
+      "恶寒",
+      "汗出",
+      "心烦",
+      "烦躁",
+      "谵语",
+      "小便数",
+      "咽中干",
+      "厥"
+    ],
+    "text": "伤寒脉浮，自汗出，小便数，心烦，微恶寒，脚挛急，反与桂枝欲攻其表，此误也；得之便厥，咽中干，烦躁，吐逆者，作甘草干姜汤与之，以复其阳；若厥愈足温者，更作芍药甘草汤与之，其脚即伸；若胃气不和，谵语者，少与调胃承气汤；若重发汗，复加烧针者，四逆汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-029.md"
+  },
+  {
+    "number": 30,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "甘草干姜汤",
+      "芍药甘草汤"
+    ],
+    "symptomLabels": [
+      "汗出",
+      "烦躁",
+      "谵语",
+      "咽中干",
+      "厥逆"
+    ],
+    "text": "问曰：证象阳旦，按法治之而增剧，厥逆，咽中干，两胫拘急而谵语。师曰：言夜半手足当温，两脚当伸。后如师言，何以知此?答曰：寸口脉浮而大，浮为风，大为虚。风则生微热，虚则两胫挛。病形象桂枝，因加附子参其间，增桂令汗出。附子温经，亡阳故也。厥逆，咽中干，烦躁，阳明内结，谵语烦乱，更饮甘草干姜汤，夜半阳气还，两足当热；胫尚微拘急，重与芍药甘草汤，尔乃胫伸；以承气汤微溏，则止其谵语，故知病可愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-030.md"
+  },
+  {
+    "number": 31,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "葛根汤"
+    ],
+    "symptomLabels": [
+      "项背强几几",
+      "恶风",
+      "无汗"
+    ],
+    "text": "太阳病，项背强几几，无汗恶风，葛根汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-031.md"
+  },
+  {
+    "number": 32,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "葛根汤"
+    ],
+    "symptomLabels": [
+      "下利"
+    ],
+    "text": "太阳与阳明合病者，必自下利，葛根汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-032.md"
+  },
+  {
+    "number": 33,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "葛根加半夏汤"
+    ],
+    "symptomLabels": [
+      "呕",
+      "下利"
+    ],
+    "text": "太阳与阳明合病，不下利，但呕者，葛根加半夏汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-033.md"
+  },
+  {
+    "number": 34,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "葛根黄连黄芩甘草汤"
+    ],
+    "symptomLabels": [
+      "汗出",
+      "喘"
+    ],
+    "text": "太阳病，桂枝证，医反下之，利遂不止，脉促者，表未解也，喘而汗出者，葛根黄芩黄连汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-034.md"
+  },
+  {
+    "number": 35,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "麻黄汤"
+    ],
+    "symptomLabels": [
+      "身疼腰痛",
+      "骨节疼痛",
+      "头痛",
+      "发热",
+      "恶风",
+      "无汗而喘"
+    ],
+    "text": "太阳病，头痛发热，身疼腰痛，骨节疼痛，恶风无汗而喘者，麻黄汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-035.md"
+  },
+  {
+    "number": 36,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "麻黄汤"
+    ],
+    "symptomLabels": [
+      "喘",
+      "胸满"
+    ],
+    "text": "太阳与阳明合病，喘而胸满者，不可下,宜麻黄汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-036.md"
+  },
+  {
+    "number": 37,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小柴胡汤",
+      "麻黄汤"
+    ],
+    "symptomLabels": [
+      "胸满",
+      "胁痛"
+    ],
+    "text": "太阳病，十日以去，脉浮细而嗜卧者，外已解也。设胸满胁痛者，与小柴胡汤。脉但浮者，与麻黄汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-037.md"
+  },
+  {
+    "number": 38,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大青龙汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "恶寒",
+      "汗出恶风",
+      "烦躁",
+      "厥逆"
+    ],
+    "text": "太阳中风，脉浮紧，发热恶寒，身疼痛，不汗出而烦躁者，大青龙汤主之。若脉微弱，汗出恶风者，不可服之，服之则厥逆，筋惕肉瞤，此为逆也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-038.md"
+  },
+  {
+    "number": 39,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大青龙汤"
+    ],
+    "symptomLabels": [],
+    "text": "伤寒，脉浮缓，身不疼、但重，乍有轻时，无少阴证者，大青龙汤发之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-039.md"
+  },
+  {
+    "number": 40,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小青龙汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "干呕",
+      "咳",
+      "喘",
+      "渴",
+      "少腹满",
+      "小便不利"
+    ],
+    "text": "伤寒表不解，心下有水气，干呕，发热而咳，或渴，或利，或噎，或小便不利、少腹满，或喘者，小青龙汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-040.md"
+  },
+  {
+    "number": 41,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小青龙汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "咳",
+      "喘",
+      "不渴"
+    ],
+    "text": "伤寒，心下有水气，咳而微喘，发热不渴。服汤已渴者，此寒去欲解也。小青龙汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-041.md"
+  },
+  {
+    "number": 42,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [],
+    "text": "太阳病，外证未解，脉浮弱者，当以汗解，宜桂枝汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-042.md"
+  },
+  {
+    "number": 43,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝加厚朴杏子汤"
+    ],
+    "symptomLabels": [
+      "喘"
+    ],
+    "text": "太阳病，下之，微喘者，表未解故也，桂枝加厚朴杏子汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-043.md"
+  },
+  {
+    "number": 44,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [],
+    "text": "太阳病，外证未解，不可下也，下之为逆，欲解外者，宜桂枝汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-044.md"
+  },
+  {
+    "number": 45,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [],
+    "text": "太阳病,先发汗不解,而复下之,脉浮者不愈。浮为在外,而反下之，故令不愈；今脉浮,故在外。当须解外则愈,宜桂枝汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-045.md"
+  },
+  {
+    "number": 46,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "麻黄汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "无汗",
+      "烦"
+    ],
+    "text": "太阳病，脉浮紧，无汗发热，身疼痛，八九日不解，表证仍在，此当发其汗。服药已微除，其人发烦目瞑，剧者必衄，衄乃解。所以然者，阳气重故也。麻黄汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-046.md"
+  },
+  {
+    "number": 47,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "无汗"
+    ],
+    "text": "太阳病，脉浮紧，发热，身无汗，自衄者，愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-047.md"
+  },
+  {
+    "number": 48,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "恶寒",
+      "汗出",
+      "烦"
+    ],
+    "text": "二阳并病，太阳初得病时，发其汗，汗先出不彻，因转属阳明，续自微汗出，不恶寒。若太阳病证不罢者，不可下，下之为逆，如此可小发汗。设面色缘缘正赤者，阳气怫郁在表，当解之熏之。若发汗不彻，不足言，阳气怫郁不得越，当汗不汗，其人躁烦，不知痛处，乍在腹中，乍在四肢，按之不可得，其人短气但坐，以汗出不彻故也，更发汗则愈。何以知汗出不彻?以脉涩故知也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-048.md"
+  },
+  {
+    "number": 49,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "身重",
+      "汗出"
+    ],
+    "text": "脉浮数者,法当汗出而愈。若下之,身重、心悸者,不可发汗,当自汗出乃解。所以然者,尺中脉微，此里虚，须表里实，津液自和，便自汗出愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-049.md"
+  },
+  {
+    "number": 50,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "脉浮紧者，法当身疼痛，宜以汗解之。假令尺中迟者，不可发汗。何以知然?以荣气不足，血少故也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-050.md"
+  },
+  {
+    "number": 51,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "麻黄汤"
+    ],
+    "symptomLabels": [],
+    "text": "脉浮者，病在表，可发汗，宜麻黄汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-051.md"
+  },
+  {
+    "number": 52,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "麻黄汤"
+    ],
+    "symptomLabels": [],
+    "text": "脉浮而数者，可发汗，宜麻黄汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-052.md"
+  },
+  {
+    "number": 53,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [
+      "汗出"
+    ],
+    "text": "病常自汗出者，此为荣气和，荣气和者，外不谐，以卫气不共荣气谐和故尔。以荣行脉中，卫行脉外。复发其汗，荣卫和则愈，宜桂枝汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-053.md"
+  },
+  {
+    "number": 54,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "汗出"
+    ],
+    "text": "病人脏无他病，时发热自汗出而不愈者，此卫气不和也，先其时发汗则愈，宜桂枝汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-054.md"
+  },
+  {
+    "number": 55,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "麻黄汤"
+    ],
+    "symptomLabels": [],
+    "text": "伤寒,脉浮紧,不发汗,因致衄者,麻黄汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-055.md"
+  },
+  {
+    "number": 56,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [
+      "头痛"
+    ],
+    "text": "伤寒，不大便六七日，头痛有热者，与承气汤。其小便清者，知不在里，仍在表也，当须发汗。若头痛者，必衄。宜桂枝汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-056.md"
+  },
+  {
+    "number": 57,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [
+      "烦"
+    ],
+    "text": "伤寒，发汗己解，半日许复烦，脉浮数者，可更发汗，宜桂枝汤。二十三。用前第十二方。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-057.md"
+  },
+  {
+    "number": 58,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "凡病，若发汗、若吐、若下，若亡血、亡津液，阴阳自和者，必自愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-058.md"
+  },
+  {
+    "number": 59,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "小便不利"
+    ],
+    "text": "大下之后，复发汗，小便不利者，亡津液故也。勿治之，得小便利，必自愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-059.md"
+  },
+  {
+    "number": 60,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "振寒"
+    ],
+    "text": "下之后，复发汗，必振寒，脉微细。所以然者，以内外俱虚故也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-060.md"
+  },
+  {
+    "number": 61,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "干姜附子汤"
+    ],
+    "symptomLabels": [
+      "呕",
+      "烦躁",
+      "不渴"
+    ],
+    "text": "下之后，复发汗，昼日烦躁不得眠，夜而安静，不呕，不渴，无表证，脉沉微，身无大热者，干姜附子汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-061.md"
+  },
+  {
+    "number": 62,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "新加汤"
+    ],
+    "symptomLabels": [],
+    "text": "发汗后，身疼痛，脉沉迟者，桂枝加芍药生姜各一两人参三两新加汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-062.md"
+  },
+  {
+    "number": 63,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤",
+      "麻黄杏仁甘草石膏汤"
+    ],
+    "symptomLabels": [
+      "汗出",
+      "喘"
+    ],
+    "text": "发汗后，不可更行桂枝汤，汗出而喘，无大热者，可与麻黄杏仁甘草石膏汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-063.md"
+  },
+  {
+    "number": 64,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝甘草汤"
+    ],
+    "symptomLabels": [],
+    "text": "发汗过多，其人叉手自冒心，心下悸，欲得按者，桂枝甘草汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-064.md"
+  },
+  {
+    "number": 65,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "茯苓桂枝甘草大枣汤"
+    ],
+    "symptomLabels": [],
+    "text": "发汗后，其人脐下悸者，欲作奔豚，茯苓桂枝甘草大枣汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-065.md"
+  },
+  {
+    "number": 66,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "厚朴生姜半夏甘草人参汤"
+    ],
+    "symptomLabels": [],
+    "text": "发汗后，腹胀满者，厚朴生姜半夏甘草人参汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-066.md"
+  },
+  {
+    "number": 67,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "茯苓桂枝白术甘草汤"
+    ],
+    "symptomLabels": [],
+    "text": "伤寒，若吐，若下后，心下逆满，气上冲胸，起则头眩，脉沉紧，发汗则动经，身为振振摇者，茯苓桂枝白术甘草汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-067.md"
+  },
+  {
+    "number": 68,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "芍药甘草附子汤"
+    ],
+    "symptomLabels": [
+      "恶寒"
+    ],
+    "text": "发汗,病不解,反恶寒者，虚故也,芍药甘草附子汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-068.md"
+  },
+  {
+    "number": 69,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "茯苓四逆汤"
+    ],
+    "symptomLabels": [
+      "烦躁"
+    ],
+    "text": "发汗，若下之，病仍不解，烦躁者，茯苓四逆汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-069.md"
+  },
+  {
+    "number": 70,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "调胃承气汤"
+    ],
+    "symptomLabels": [
+      "恶寒"
+    ],
+    "text": "发汗后，恶寒者，虚故也。不恶寒，但热者，实也，当和胃气，与调胃承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-070.md"
+  },
+  {
+    "number": 71,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "五苓散"
+    ],
+    "symptomLabels": [
+      "汗出",
+      "烦躁",
+      "渴",
+      "小便不利"
+    ],
+    "text": "太阳病，发汗后，大汗出，胃中干，烦躁不得眠，欲得饮水者，少少与饮之，令胃气和则愈。若脉浮，小便不利，微热,消渴者五苓散主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-071.md"
+  },
+  {
+    "number": 72,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "五苓散"
+    ],
+    "symptomLabels": [
+      "烦",
+      "渴"
+    ],
+    "text": "发汗已，脉浮数，烦渴者，五苓散主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-072.md"
+  },
+  {
+    "number": 73,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "五苓散",
+      "茯苓甘草汤"
+    ],
+    "symptomLabels": [
+      "汗出",
+      "不渴"
+    ],
+    "text": "伤寒，汗出而渴者，五苓散主之；不渴者，茯苓甘草汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-073.md"
+  },
+  {
+    "number": 74,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "五苓散"
+    ],
+    "symptomLabels": [
+      "发热",
+      "烦",
+      "渴"
+    ],
+    "text": "中风发热，六七日不解而烦，有表里证，渴欲饮水，水入则吐者，名曰水逆，五苓散主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-074.md"
+  },
+  {
+    "number": 75,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "咳",
+      "喘",
+      "耳聋"
+    ],
+    "text": "未持脉时，病人手叉自冒心，师因教试令咳而不咳者，此必两耳聋无闻也。所以然者，以重发汗，虚故如此。发汗后,饮水多必喘，以水灌之亦喘。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-075.md"
+  },
+  {
+    "number": 76,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "栀子豉汤",
+      "栀子生姜豉汤"
+    ],
+    "symptomLabels": [
+      "呕",
+      "烦",
+      "少气"
+    ],
+    "text": "发汗后，水药不得入口为逆，若更发汗，必吐下不止。发汗、吐下后，虚烦不得眠，若剧者，必反复颠倒,音到，下同。心中懊憹，上乌浩，下奴冬切，下同。栀子豉汤主之；若少气者，栀子甘草豉汤主之；若呕者，栀子生姜豉汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-076.md"
+  },
+  {
+    "number": 77,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "栀子豉汤"
+    ],
+    "symptomLabels": [
+      "烦"
+    ],
+    "text": "发汗，若下之，而烦热、胸中窒者，栀子豉汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-077.md"
+  },
+  {
+    "number": 78,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "栀子豉汤"
+    ],
+    "symptomLabels": [],
+    "text": "伤寒五六日，大下之后，身热不去，心中结痛者，未欲解也，栀子豉汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-078.md"
+  },
+  {
+    "number": 79,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "心烦",
+      "腹满"
+    ],
+    "text": "伤寒下后，心烦腹满，卧起不安者，栀子厚朴汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-079.md"
+  },
+  {
+    "number": 80,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "栀子干姜汤"
+    ],
+    "symptomLabels": [
+      "烦"
+    ],
+    "text": "伤寒，医以丸药大下之，身热不去，微烦者，栀子干姜汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-080.md"
+  },
+  {
+    "number": 81,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "凡用栀子汤，病人旧微溏者，不可与服之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-081.md"
+  },
+  {
+    "number": 82,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "真武汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "汗出"
+    ],
+    "text": "太阳病发汗，汗出不解，其人仍发热，心下悸，头眩，身瞤动，振振欲擗(一作僻)地者，真武汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-082.md"
+  },
+  {
+    "number": 83,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "咽喉干燥"
+    ],
+    "text": "咽喉干燥者，不可发汗。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-083.md"
+  },
+  {
+    "number": 84,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "淋家，不可发汗，发汗必便血。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-084.md"
+  },
+  {
+    "number": 85,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出"
+    ],
+    "text": "疮家，虽身疼痛，不可发汗，汗出则痓。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-085.md"
+  },
+  {
+    "number": 86,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出"
+    ],
+    "text": "衄家，不可发汗，汗出必额上陷脉急紧，直视不能眴，音唤，又胡绢切，下同，一作瞬。不得眠。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-086.md"
+  },
+  {
+    "number": 87,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "亡血家，不可发汗，发汗则寒栗而振。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-087.md"
+  },
+  {
+    "number": 88,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "禹余粮丸"
+    ],
+    "symptomLabels": [],
+    "text": "汗家，重发汗，必恍惚心乱，小便已阴疼，与禹余粮丸。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-088.md"
+  },
+  {
+    "number": 89,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "病人有寒，复发汗，胃中冷，必吐蛔。(一作逆)",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-089.md"
+  },
+  {
+    "number": 90,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "本发汗，而复下之，此为逆也；若先发汗，治不为逆。本先下之，而反汗之，为逆；若先下之，治不为逆。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-090.md"
+  },
+  {
+    "number": 91,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "四逆汤",
+      "桂枝汤"
+    ],
+    "symptomLabels": [
+      "下利"
+    ],
+    "text": "伤寒，医下之，续得下利，清谷不止，身疼痛者，急当救里；后身疼痛，清便自调者，急当救表。救里宜四逆汤，救表宜桂枝汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-091.md"
+  },
+  {
+    "number": 92,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "头痛",
+      "发热"
+    ],
+    "text": "病发热头痛，脉反沉，若不差，身体疼痛，当救其里。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-092.md"
+  },
+  {
+    "number": 93,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出"
+    ],
+    "text": "太阳病，先下而不愈，因复发汗，以此表里俱虚，其人因致冒，冒家汗出自愈。所以然者，汗出表和故也。里未和，然后复下之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-093.md"
+  },
+  {
+    "number": 94,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "调胃承气汤",
+      "大柴胡汤"
+    ],
+    "symptomLabels": [
+      "汗出"
+    ],
+    "text": "太阳病未解，脉阴阳俱停(一作微)，必先振慄汗出而解。但阳脉微者，先汗出而解。但阴脉微一作尺脉实者，下之而解。若欲下之，宜调胃承气汤。一云用大柴胡汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-094.md"
+  },
+  {
+    "number": 95,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "汗出"
+    ],
+    "text": "太阳病，发热汗出者，此为荣弱卫强，故使汗出，欲救邪风者，宜桂枝汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-095.md"
+  },
+  {
+    "number": 96,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小柴胡汤"
+    ],
+    "symptomLabels": [
+      "呕",
+      "咳",
+      "心烦",
+      "不渴",
+      "胸胁苦满",
+      "小便不利"
+    ],
+    "text": "伤寒五六日，中风，往来寒热，胸胁苦满，嘿嘿不欲饮食，心烦喜呕，或胸中烦而不呕，或渴，或腹中痛，或胁下痞硬，或心下悸、小便不利，或不渴、身有微热，或咳者，小柴胡汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-096.md"
+  },
+  {
+    "number": 97,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小柴胡汤"
+    ],
+    "symptomLabels": [
+      "呕",
+      "渴"
+    ],
+    "text": "血弱气尽，腠理开，邪气因入，与正气相搏，结于胁下。正邪纷争，往来寒热，休作有时，嘿嘿不欲饮食。脏腑相连，其痛必下，邪高痛下，故使呕也。一云脏腑相连，其病必下，胁膈中痛。小柴胡汤主之。服柴胡汤已，渴者，属阳明，以法治之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-097.md"
+  },
+  {
+    "number": 98,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小柴胡汤"
+    ],
+    "symptomLabels": [
+      "恶风",
+      "呕",
+      "渴",
+      "小便难"
+    ],
+    "text": "得病六七日，脉迟浮弱，恶风寒，手足温。医二三下之，不能食，而胁下满痛，面目及身黄，颈项强，小便难者，与柴胡汤，后必下重。本渴饮水而呕者，柴胡汤不中与也。食谷者哕",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-098.md"
+  },
+  {
+    "number": 99,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小柴胡汤"
+    ],
+    "symptomLabels": [
+      "恶风",
+      "渴"
+    ],
+    "text": "伤寒四五日，身热恶风，颈项强，胁下满，手足温而渴者，小柴胡汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-099.md"
+  },
+  {
+    "number": 100,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小建中汤",
+      "小柴胡汤"
+    ],
+    "symptomLabels": [],
+    "text": "伤寒，阳脉涩，阴脉弦，法当腹中急痛，先与小建中汤，不差者，小柴胡汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-100.md"
+  },
+  {
+    "number": 101,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小柴胡汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "汗出"
+    ],
+    "text": "伤寒中风，有柴胡证，但见一症便是，不必悉具。凡柴胡汤病证而下之，若柴胡证不罢者，复与柴胡汤，必蒸蒸而振，却复发热汗出而解。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-101.md"
+  },
+  {
+    "number": 102,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小建中汤"
+    ],
+    "symptomLabels": [
+      "烦"
+    ],
+    "text": "伤寒二三日，心中悸而烦者，小建中汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-102.md"
+  },
+  {
+    "number": 103,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大柴胡汤"
+    ],
+    "symptomLabels": [
+      "呕",
+      "烦"
+    ],
+    "text": "太阳病，过经十余日，反二三下之，后四五日，柴胡证仍在者，先与小柴胡。呕不止，心下急(一云呕止小安)，郁郁微烦者，为未解也，与大柴胡汤，下之则愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-103.md"
+  },
+  {
+    "number": 104,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小柴胡汤"
+    ],
+    "symptomLabels": [
+      "呕"
+    ],
+    "text": "伤寒，十三日不解，胸胁满而呕，日晡所发潮热，已而微利。此本柴胡证，下之以不得利，今反利者，知医以丸药下之，此非其治也。潮热者，实也。先宜服小柴胡汤以解外，后以柴胡加芒消汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-104.md"
+  },
+  {
+    "number": 105,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "调胃承气汤"
+    ],
+    "symptomLabels": [
+      "谵语",
+      "下利",
+      "厥"
+    ],
+    "text": "伤寒十三日,过经谵语者，以有热也,当以汤下之。若小便利者,大便当硬,而反下利，脉调和者,知医以丸药下之,非其治也。若自下利者,脉当微厥，今反和者,此为内实也，调胃承气汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-105.md"
+  },
+  {
+    "number": 106,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "少腹急结"
+    ],
+    "text": "太阳病不解，热结膀胱，其人如狂，血自下，下者愈。其外不解者，尚未可攻，当先解其外；外解已，但少腹急结者，乃可攻之，宜桃核承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-106.md"
+  },
+  {
+    "number": 107,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "柴胡加龙骨牡蛎汤"
+    ],
+    "symptomLabels": [
+      "烦",
+      "谵语",
+      "胸满",
+      "小便不利"
+    ],
+    "text": "伤寒八九日，下之，胸满烦惊，小便不利，谵语，一身尽重，不可转侧者，柴胡加龙骨牡蛎汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-107.md"
+  },
+  {
+    "number": 108,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "谵语",
+      "腹满"
+    ],
+    "text": "伤寒，腹满谵语，寸口脉浮而紧，此肝乘脾也，名曰纵，刺期门。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-108.md"
+  },
+  {
+    "number": 109,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "恶寒",
+      "汗出",
+      "渴"
+    ],
+    "text": "伤寒发热，啬啬恶寒，大渴欲饮水，其腹必满；自汗出，小便利，其病欲解。此肝乘肺也，名曰横，刺期门。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-109.md"
+  },
+  {
+    "number": 110,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "恶风",
+      "汗出",
+      "呕",
+      "烦",
+      "谵语",
+      "下利"
+    ],
+    "text": "太阳病二日，反躁，反(凡)熨其背而大汗出，火热入胃，胃中水竭，躁烦，必发谵语；十余日，振栗，自下利者，此为欲解也。故其汗从腰以下不得汗，欲小便不得，反呕，欲失溲，足下恶风，大便硬，小便当数，而反不数及不多。大便已，头卓然而痛，其人足心必热，谷气下流故也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-110.md"
+  },
+  {
+    "number": 111,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出",
+      "喘",
+      "谵语",
+      "腹满",
+      "小便难"
+    ],
+    "text": "太阳病中风，以火劫发汗，邪风被火热，血气流溢，失其常度。两阳相熏灼，其身发黄，阳盛则欲衄，阴虚小便难，阴阳俱虚竭，身体则枯燥，但头汗出，剂颈而还，腹满微喘，口干咽烂，或不大便。久则谵语，甚则至哕，手足躁扰，捻衣摸床；小便利者，其人可治。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-111.md"
+  },
+  {
+    "number": 112,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "惊狂"
+    ],
+    "text": "伤寒脉浮，医以火迫劫之，亡阳必惊狂，卧起不安者，桂枝去芍药加蜀漆牡蛎龙骨救逆汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-112.md"
+  },
+  {
+    "number": 113,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "汗出",
+      "谵语",
+      "渴"
+    ],
+    "text": "形作伤寒，其脉不弦紧而弱，弱者必渴。被火者必谵语。弱者，发热脉浮，解之当汗出愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-113.md"
+  },
+  {
+    "number": 114,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "太阳病，以火熏之，不得汗，其人必躁，到经不解，必清血，名为火邪。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-114.md"
+  },
+  {
+    "number": 115,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "脉浮热甚，而反灸之，此为实，实以虚治，因火而动，必咽燥吐血。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-115.md"
+  },
+  {
+    "number": 116,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出",
+      "烦"
+    ],
+    "text": "微数之脉，慎不可灸，因火为邪，则为烦逆。追虚逐实，血散脉中，火气虽微，内攻有力，焦骨伤筋，血难复也。脉浮，宜以汗解之，用火灸之，邪无从出，因火而盛，病从腰以下必重而痹，名火逆也。欲自解者，必当先烦，烦乃有汗而解。何以知之?脉浮，故知汗出解。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-116.md"
+  },
+  {
+    "number": 117,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝加桂汤"
+    ],
+    "symptomLabels": [],
+    "text": "烧针令其汗，针处被寒，核起而赤者，必发奔豚。气从少腹上冲心者，灸其核上各一壮，与桂枝加桂汤，更加桂二两也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-117.md"
+  },
+  {
+    "number": 118,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝甘草龙骨牡蛎汤"
+    ],
+    "symptomLabels": [
+      "烦躁"
+    ],
+    "text": "火逆。下之，因烧针烦躁者，桂枝甘草龙骨牡蛎汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-118.md"
+  },
+  {
+    "number": 119,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "太阳伤寒者，加温针必惊也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-119.md"
+  },
+  {
+    "number": 120,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "恶寒",
+      "汗出"
+    ],
+    "text": "太阳病，当恶寒发热，今自汗出，反不恶寒发热，关上脉细数者，以医吐之过也。一二日吐之者，腹中饥，口不能食；三四日吐之者，不喜糜粥，欲食冷食，朝食暮吐，以医吐之所致也。此为小逆。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-120.md"
+  },
+  {
+    "number": 121,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "恶寒",
+      "烦"
+    ],
+    "text": "太阳病吐之，但太阳病当恶寒，今反不恶寒，不欲近衣，此为吐之内烦也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-121.md"
+  },
+  {
+    "number": 122,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "病人脉数，数为热，当消谷引食，而反吐者，此以发汗，令阳气微，膈气虚，脉乃数也。数为客热，不能消谷。以胃中虚冷，故吐也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-122.md"
+  },
+  {
+    "number": 123,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "调胃承气汤"
+    ],
+    "symptomLabels": [
+      "欲呕",
+      "烦"
+    ],
+    "text": "太阳病,过经十余日,心下温温欲吐，而胸中痛,大便反溏,腹微满，郁郁微烦。先此时自极吐下者,与调胃承气汤。若不尔者,不可与。但欲呕，胸中痛,微溏者,此非柴胡汤证，以呕故知极吐下也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-123.md"
+  },
+  {
+    "number": 124,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "抵当汤"
+    ],
+    "symptomLabels": [
+      "发狂"
+    ],
+    "text": "太阳病六七日，表证仍在，脉微而沉，反不结胸，其人发狂者，以热在下焦，少腹当硬满，小便自利者，下血乃愈。所以然者，以太阳随经，瘀热在里故也，抵当汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-124.md"
+  },
+  {
+    "number": 125,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "抵当汤"
+    ],
+    "symptomLabels": [
+      "小便不利"
+    ],
+    "text": "太阳病，身黄，脉沉结，少腹硬；小便不利者，为无血也；小便自利，其人如狂者，血证谛也，抵当汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-125.md"
+  },
+  {
+    "number": 126,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治中",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "抵当丸"
+    ],
+    "symptomLabels": [
+      "少腹满",
+      "小便不利"
+    ],
+    "text": "伤寒有热，少腹满，应小便不利，今反利者，为有血也，当下之，不可余药，宜抵当丸。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-126.md"
+  },
+  {
+    "number": 127,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "太阳病，小便利者，以饮水多，必心下悸；小便少者，必苦里急也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-127.md"
+  },
+  {
+    "number": 128,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "问曰：病有结胸，有藏结，其状何如？答曰：按之痛，寸脉浮，关脉沉，名曰结胸也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-128.md"
+  },
+  {
+    "number": 129,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "下利"
+    ],
+    "text": "何为藏结？答曰：如结胸状，饮食如故，时时下利，寸脉浮，关脉小细沉紧，名曰藏结。舌上白胎滑者。难治。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-129.md"
+  },
+  {
+    "number": 130,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "藏结无阳证，不往来寒热一云寒而不热，其人反静，舌上胎滑者，不可攻也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-130.md"
+  },
+  {
+    "number": 131,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大陷胸丸"
+    ],
+    "symptomLabels": [
+      "汗出"
+    ],
+    "text": "病发于阳，而反下之，热入因作结胸；病发于阴，而反下之(一作汗出)，因作痞也。所以成结胸者，以下之太早故也。结胸者，项亦强，如柔痓状，下之则和，宜大陷胸丸。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-131.md"
+  },
+  {
+    "number": 132,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "结胸证，其脉浮大者，不可下，下之则死。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-132.md"
+  },
+  {
+    "number": 133,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "烦躁"
+    ],
+    "text": "结胸证悉具，烦躁者亦死。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-133.md"
+  },
+  {
+    "number": 134,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大陷胸汤"
+    ],
+    "symptomLabels": [
+      "头痛",
+      "发热",
+      "恶寒",
+      "汗出",
+      "无汗",
+      "烦",
+      "小便不利"
+    ],
+    "text": "太阳病，脉浮而动数，浮则为风，数则为热，动则为痛，数则为虚，头痛发热，微盗汗出，而反恶寒者，表未解也。医反下之，动数变迟，膈内拒痛(一云头痛即眩)，胃中空虚，客气动膈，短气躁烦，心中懊憹，阳气内陷，心下因硬，则为结胸，大陷胸汤主之。若不结胸，但头汗出，余处无汗，剂颈而还，小便不利，身必发黄。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-134.md"
+  },
+  {
+    "number": 135,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大陷胸汤"
+    ],
+    "symptomLabels": [],
+    "text": "伤寒六七日，结胸热实，脉沉而紧，心下痛，按之石硬者，大陷胸汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-135.md"
+  },
+  {
+    "number": 136,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大柴胡汤",
+      "大陷胸汤"
+    ],
+    "symptomLabels": [
+      "汗出"
+    ],
+    "text": "伤寒十余日，热结在里，复往来寒热者，与大柴胡汤；但结胸，无大热者，此为水结在胸胁也，但头微汗出者，大陷胸汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-136.md"
+  },
+  {
+    "number": 137,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大陷胸汤"
+    ],
+    "symptomLabels": [
+      "烦",
+      "渴"
+    ],
+    "text": "太阳病，重发汗而复下之，不大便五六日，舌上燥而渴，日晡所小有潮热(一云，日晡所发心胸大烦)，从心下至少腹，硬满而痛不可近者，大陷胸汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-137.md"
+  },
+  {
+    "number": 138,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小陷胸汤"
+    ],
+    "symptomLabels": [],
+    "text": "小结胸病，正在心下,按之则痛，脉浮滑者，小陷胸汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-138.md"
+  },
+  {
+    "number": 139,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "太阳病，二三日，不能卧，但欲起，心下必结，脉微弱者，此本有寒分也。反下之，若利止，必作结胸；未止者，四日复下之，此作协热利也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-139.md"
+  },
+  {
+    "number": 140,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "头痛",
+      "欲呕"
+    ],
+    "text": "太阳病，下之，其脉促，一作纵。不结胸者，此为欲解也。脉浮者，必结胸。脉紧者，必咽痛。脉弦者，必两胁拘急。脉细数者，头痛未止。脉沉紧者，必欲呕。脉沉滑者，协热利。脉浮滑者，必下血。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-140.md"
+  },
+  {
+    "number": 141,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "文蛤散",
+      "五苓散",
+      "小陷胸汤",
+      "白散"
+    ],
+    "symptomLabels": [
+      "烦",
+      "不渴"
+    ],
+    "text": "病在阳,应以汗解之,反以冷水潠之，若灌之，其热被劫不得去，弥更益烦，肉上粟起，意欲饮水，反不渴者，服文蛤散；若不差者,与五苓散。寒实结胸，无热证者,与三物小陷胸汤。白散亦可服。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-141.md"
+  },
+  {
+    "number": 142,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "头项强痛",
+      "谵语",
+      "心下痞硬"
+    ],
+    "text": "太阳与少阳并病，头项强痛，或眩冒，时如结胸，心下痞硬者，当刺大椎第一间、肺俞、肝俞，慎不可发汗。发汗则谵语、脉弦，五日谵语不止，当刺期门。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-142.md"
+  },
+  {
+    "number": 143,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "恶寒",
+      "谵语"
+    ],
+    "text": "妇人中风，发热恶寒，经水适来，得之七八日，热除而脉迟、身凉，胸胁下满，如结胸状，谵语者，此为热入血室也。当刺期门，随其实而取之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-143.md"
+  },
+  {
+    "number": 144,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小柴胡汤"
+    ],
+    "symptomLabels": [],
+    "text": "妇人中风七八日，续得寒热发作有时。经水适断者，此为热入血室，其血必结，故使如疟状，发作有时，小柴胡汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-144.md"
+  },
+  {
+    "number": 145,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "谵语"
+    ],
+    "text": "妇人伤寒，发热，经水适来，昼日明了，暮则谵语，如见鬼状者，此为热入血室。无犯胃气及上二焦，必自愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-145.md"
+  },
+  {
+    "number": 146,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "柴胡桂枝汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "恶寒",
+      "呕",
+      "烦"
+    ],
+    "text": "伤寒六七日，发热，微恶寒，支节烦疼，微呕，心下支结，外证未去者，柴胡桂枝汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-146.md"
+  },
+  {
+    "number": 147,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "柴胡桂枝干姜汤"
+    ],
+    "symptomLabels": [
+      "汗出",
+      "呕",
+      "心烦",
+      "渴",
+      "小便不利"
+    ],
+    "text": "伤寒五六日，已发汗而复下之，胸胁满微结，小便不利，渴而不呕，但头汗出，往来寒热，心烦者，此为未解也，柴胡桂枝干姜汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-147.md"
+  },
+  {
+    "number": 148,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小柴胡汤"
+    ],
+    "symptomLabels": [
+      "恶寒",
+      "汗出"
+    ],
+    "text": "伤寒五六日，头汗出，微恶寒，手足冷，心下满，口不欲食，大便硬，脉细者，此为阳微结，必有表，复有里也。脉沉，亦在里也。汗出为阳微，假令纯阴结，不得复有外证，悉入在里，此为半在里半在外也。脉虽沉紧，不得为少阴病。所以然者，阴不得有汗，今头汗出，故知非少阴也，可与小柴胡汤。设不了了者，得屎而解。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-148.md"
+  },
+  {
+    "number": 149,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大陷胸汤",
+      "半夏泻心汤",
+      "小柴胡汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "汗出",
+      "呕"
+    ],
+    "text": "伤寒五六日，呕而发热者，柴胡汤证具，而以他药下之，柴胡证仍在者，复与柴胡汤。此虽已下之，不为逆，必蒸蒸而振，却发热汗出而解。若心下满而硬痛者，此为结胸也，大陷胸汤主之。但满而不痛者，此为痞，柴胡不中与之，宜半夏泻心汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-149.md"
+  },
+  {
+    "number": 150,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "心烦",
+      "下利"
+    ],
+    "text": "太阳少阳并病，而反下之，成结胸，心下硬，下利不止，水浆不下，其人心烦.",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-150.md"
+  },
+  {
+    "number": 151,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "脉浮而紧，而复下之，紧反入里，则作痞。按之自濡，但气痞耳。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-151.md"
+  },
+  {
+    "number": 152,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "十枣汤"
+    ],
+    "symptomLabels": [
+      "头痛",
+      "恶寒",
+      "汗出",
+      "干呕",
+      "呕逆",
+      "心下痞硬",
+      "下利"
+    ],
+    "text": "太阳中风，下利，呕逆，表解者，乃可攻之。其人漐漐汗出，发作有时，头痛，心下痞硬满，引胁下痛，干呕短气，汗出不恶寒者，此表解里未和也，十枣汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-152.md"
+  },
+  {
+    "number": 153,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "恶寒",
+      "烦",
+      "心下痞"
+    ],
+    "text": "太阳病，医发汗，遂发热恶寒，因复下之，心下痞，表里俱虚，阴阳气并竭，无阳则阴独。复加烧针，因胸烦，面色青黄，肤瞤者，难治。今色微黄，手足温者，易愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-153.md"
+  },
+  {
+    "number": 154,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大黄黄连泻心汤"
+    ],
+    "symptomLabels": [
+      "心下痞"
+    ],
+    "text": "心下痞，按之濡，其脉关上浮者，大黄黄连泻心汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-154.md"
+  },
+  {
+    "number": 155,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "附子泻心汤"
+    ],
+    "symptomLabels": [
+      "恶寒",
+      "汗出",
+      "心下痞"
+    ],
+    "text": "心下痞，而复恶寒汗出者，附子泻心汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-155.md"
+  },
+  {
+    "number": 156,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "泻心汤",
+      "五苓散"
+    ],
+    "symptomLabels": [
+      "烦",
+      "渴",
+      "心下痞",
+      "小便不利"
+    ],
+    "text": "本以下之，故心下痞。与泻心汤，痞不解。其人渴而口燥烦，小便不利者，五苓散主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-156.md"
+  },
+  {
+    "number": 157,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "生姜泻心汤"
+    ],
+    "symptomLabels": [
+      "汗出",
+      "心下痞硬",
+      "下利"
+    ],
+    "text": "伤寒，汗出解之后，胃中不和，心下痞硬，干噫食臭，胁下有水气，腹中雷鸣下利者，生姜泻心汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-157.md"
+  },
+  {
+    "number": 158,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "甘草泻心汤"
+    ],
+    "symptomLabels": [
+      "干呕",
+      "心烦",
+      "心下痞硬",
+      "下利"
+    ],
+    "text": "伤寒中风，医反下之，其人下利，日数十行，谷不化，腹中雷鸣，心下痞硬而满，干呕心烦不得安，医见心下痞，谓病不尽，复下之，其痞益甚。此非结热，但以胃中虚，客气上逆，故使硬也。甘草泻心汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-158.md"
+  },
+  {
+    "number": 159,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "泻心汤",
+      "赤石脂禹余粮汤"
+    ],
+    "symptomLabels": [
+      "心下痞硬",
+      "下利"
+    ],
+    "text": "伤寒服汤药，下利不止，心下痞硬。服泻心汤已。复以他药下之，利不止；医以理中与之，利益甚。理中者，理中焦，此利在下焦，赤石脂禹余粮汤主之。复不止者，当利其小便。赤石脂禹余粮汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-159.md"
+  },
+  {
+    "number": 160,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "烦",
+      "心下痞硬"
+    ],
+    "text": "伤寒吐下后，发汗，虚烦，脉甚微，八九日心下痞硬，胁下痛，气上冲咽喉，眩冒，经脉动惕者，久而成痿。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-160.md"
+  },
+  {
+    "number": 161,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "旋覆代赭汤"
+    ],
+    "symptomLabels": [
+      "心下痞硬"
+    ],
+    "text": "伤寒发汗，若吐，若下，解后，心下痞硬，噫气不除者，旋覆代赭汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-161.md"
+  },
+  {
+    "number": 162,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤",
+      "麻黄杏仁甘草石膏汤"
+    ],
+    "symptomLabels": [
+      "汗出",
+      "喘"
+    ],
+    "text": "下后，不可更行桂枝汤，若汗出而喘，无大热者，可与麻黄杏子甘草石膏汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-162.md"
+  },
+  {
+    "number": 163,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝人参汤"
+    ],
+    "symptomLabels": [
+      "心下痞硬"
+    ],
+    "text": "太阳病，外证未除，而数下之，遂协热而利，利下不止，心下痞硬，表里不解者，桂枝人参汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-163.md"
+  },
+  {
+    "number": 164,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤",
+      "大黄黄连泻心汤"
+    ],
+    "symptomLabels": [
+      "恶寒",
+      "心下痞"
+    ],
+    "text": "伤寒大下后，复发汗，心下痞，恶寒者，表未解也。不可攻痞，当先解表，表解乃可攻痞。解表宜桂枝汤，攻痞宜大黄黄连泻心汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-164.md"
+  },
+  {
+    "number": 165,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大柴胡汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "汗出",
+      "呕吐",
+      "下利"
+    ],
+    "text": "伤寒发热，汗出不解，心中痞硬，呕吐而下利者，大柴胡汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-165.md"
+  },
+  {
+    "number": 166,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "瓜蒂散"
+    ],
+    "symptomLabels": [],
+    "text": "病如桂枝证，头不痛，项不强，寸脉微浮，胸中痞硬，气上冲喉咽不得息者，此为胸有寒也，当吐之，宜瓜蒂散。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-166.md"
+  },
+  {
+    "number": 167,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "病胁下素有痞，连在脐旁，痛引少腹，入阴筋者，此名藏结，死。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-167.md"
+  },
+  {
+    "number": 168,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "白虎加人参汤"
+    ],
+    "symptomLabels": [
+      "恶风",
+      "烦",
+      "渴"
+    ],
+    "text": "伤寒，若吐若下后，七八日不解，热结在里，表里俱热，时时恶风，大渴，舌上干燥而烦，欲饮水数升者，白虎加人参汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-168.md"
+  },
+  {
+    "number": 169,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "白虎加人参汤"
+    ],
+    "symptomLabels": [
+      "恶寒",
+      "心烦",
+      "渴"
+    ],
+    "text": "伤寒无大热，口燥渴，心烦，背微恶寒者，白虎加人参汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-169.md"
+  },
+  {
+    "number": 170,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "白虎汤",
+      "白虎加人参汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "无汗",
+      "渴"
+    ],
+    "text": "伤寒脉浮，发热无汗，其表不解，不可与白虎汤。渴欲饮水，无表证者，白虎加人参汤主之",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-170.md"
+  },
+  {
+    "number": 171,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "太阳少阳并病，心下硬，颈项强而眩者，当刺大椎、肺俞、肝俞，慎勿下之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-171.md"
+  },
+  {
+    "number": 172,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "黄芩汤",
+      "黄芩加半夏生姜汤"
+    ],
+    "symptomLabels": [
+      "呕",
+      "下利"
+    ],
+    "text": "太阳与少阳合病，自下利者，与黄芩汤；若呕者，黄芩加半夏生姜汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-172.md"
+  },
+  {
+    "number": 173,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "黄连汤"
+    ],
+    "symptomLabels": [
+      "欲呕",
+      "呕吐"
+    ],
+    "text": "伤寒，胸中有热，胃中有邪气，腹中痛，欲呕吐者，黄连汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-173.md"
+  },
+  {
+    "number": 174,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝附子汤",
+      "去桂枝加白术汤"
+    ],
+    "symptomLabels": [
+      "呕",
+      "烦",
+      "不渴"
+    ],
+    "text": "伤寒八九日，风湿相搏，身体疼烦，不能自转侧，不呕，不渴，脉浮虚而涩者，桂枝附子汤主之。若其人大便硬(一云脐下心下硬)。小便自利者，去桂加白术汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-174.md"
+  },
+  {
+    "number": 175,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "甘草附子汤"
+    ],
+    "symptomLabels": [
+      "恶风",
+      "汗出",
+      "烦",
+      "小便不利"
+    ],
+    "text": "风湿相搏，骨节疼烦，掣痛不得屈伸，近之则痛剧，汗出短气，小便不利，恶风不欲去衣，或身微肿者，甘草附子汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-175.md"
+  },
+  {
+    "number": 176,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "白虎汤"
+    ],
+    "symptomLabels": [],
+    "text": "伤寒脉浮滑，此以表有热，里有寒，白虎汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-176.md"
+  },
+  {
+    "number": 177,
+    "sixChannel": "太阳病",
+    "chapter": "辨太阳病脉证并治下",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "炙甘草汤"
+    ],
+    "symptomLabels": [],
+    "text": "伤寒脉结代，心动悸，炙甘草汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阳病/条文-177.md"
+  },
+  {
+    "number": 178,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "脉按之来缓，时一止复来者，名曰结。又脉来动而中止，更来小数，中有还者反动，名曰结，阴也。脉来动而中止，不能自还，因而复动者，名曰代，阴也。得此脉者，必难治。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-178.md"
+  },
+  {
+    "number": 179,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "烦"
+    ],
+    "text": "问曰：病有太阳阳明，有正阳阳明，有少阳阳明，何谓也？答曰：太阳阳明者，脾约(一云络)是也；正阳阳明者，胃家实是也；少阳阳明者，发汗、利小便已，胃中燥、烦、实，大便难是也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-179.md"
+  },
+  {
+    "number": 180,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "阳明之为病，胃家实(一作寒)是也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-180.md"
+  },
+  {
+    "number": 181,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "问曰：何缘得阳明病？答曰：太阳病，若发汗，若下，若利小便，此亡津液，胃中干燥，因转属阳明。不更衣，内实，大便难者，此名阳明也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-181.md"
+  },
+  {
+    "number": 182,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "恶寒",
+      "汗出"
+    ],
+    "text": "问曰：阳明病外证云何？答曰：身热，汗自出，不恶寒，反恶热也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-182.md"
+  },
+  {
+    "number": 183,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "恶寒",
+      "汗出"
+    ],
+    "text": "问曰：病有得之一日，不发热而恶寒者，何也？答曰：虽得之一日，恶寒将自罢，即自汗出而恶热也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-183.md"
+  },
+  {
+    "number": 184,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "恶寒"
+    ],
+    "text": "问曰：恶寒何故自罢？答曰：阳明居中，主土也，万物所归，无所复传，始虽恶寒，二日自止，此为阳明病也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-184.md"
+  },
+  {
+    "number": 185,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "汗出",
+      "无汗",
+      "呕"
+    ],
+    "text": "本太阳，初得病时，发其汗，汗先出不彻，因转属阳明也。伤寒发热，无汗，呕不能食，而反汗出濈濈然者，是转属阳明也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-185.md"
+  },
+  {
+    "number": 186,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "伤寒三日，阳明脉大。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-186.md"
+  },
+  {
+    "number": 187,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "伤寒脉浮而缓，手足自温者，是为系在太阴。太阴者，身当发黄；若小便自利者，不能发黄；至七八日，大便硬者，为阳明病也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-187.md"
+  },
+  {
+    "number": 188,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出"
+    ],
+    "text": "伤寒转系阳明者，其人濈然微汗出也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-188.md"
+  },
+  {
+    "number": 189,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "恶寒",
+      "喘",
+      "腹满",
+      "小便难"
+    ],
+    "text": "阳明中风，口苦咽干，腹满微喘，发热恶寒，脉浮而紧，若下之，则腹满小便难也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-189.md"
+  },
+  {
+    "number": 190,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "阳明病，若能食，名中风，不能食，名中寒。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-190.md"
+  },
+  {
+    "number": 191,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出",
+      "小便不利"
+    ],
+    "text": "阳明病，若中寒者，不能食，小便不利，手足濈然汗出，此欲作固瘕，必大便初硬后溏。所以然者，以胃中冷，水谷不别故也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-191.md"
+  },
+  {
+    "number": 192,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出",
+      "发狂"
+    ],
+    "text": "阳明病，初欲食，小便反不利，大便自调，其人骨节疼，翕翕如有热状，奄然发狂，濈然汗出而解者，此水不胜谷气，与汗共并，脉紧则愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-192.md"
+  },
+  {
+    "number": 193,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "阳明病欲解时，从申至戌上。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-193.md"
+  },
+  {
+    "number": 194,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "阳明病，不能食，攻其热必哕。所以然者，胃中虚冷故也。以其人本虚，攻其热必哕。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-194.md"
+  },
+  {
+    "number": 195,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "烦",
+      "腹满",
+      "小便难"
+    ],
+    "text": "阳明病，脉迟，食难用饱，饱则微烦头眩，必小便难，此欲作谷瘅。虽下之，腹满如故，所以然者，脉迟故也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-195.md"
+  },
+  {
+    "number": 196,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "无汗"
+    ],
+    "text": "阳明病，法多汗，反无汗，其身如虫行皮中状者，此以久虚故也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-196.md"
+  },
+  {
+    "number": 197,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "头痛",
+      "无汗",
+      "呕",
+      "咳",
+      "厥"
+    ],
+    "text": "阳明病，反无汗而小便利，二三日呕而咳，手足厥者，必苦头痛。若不咳不呕，手足不厥者，头不痛(一云冬阳明)。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-197.md"
+  },
+  {
+    "number": 198,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "恶寒",
+      "咳"
+    ],
+    "text": "阳明病，但头眩，不恶寒，故能食而咳，其人咽必痛。若不咳者，咽不痛(一云冬阳明)。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-198.md"
+  },
+  {
+    "number": 199,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "无汗",
+      "小便不利"
+    ],
+    "text": "阳明病，无汗，小便不利，心中懊憹者，身必发黄。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-199.md"
+  },
+  {
+    "number": 200,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出",
+      "小便不利"
+    ],
+    "text": "阳明病，被火，额上微汗出，而小便不利者，必发黄。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-200.md"
+  },
+  {
+    "number": 201,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出"
+    ],
+    "text": "阳明病，脉浮而紧者，必潮热发作有时。但浮者，必盗汗出。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-201.md"
+  },
+  {
+    "number": 202,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "阳明病，口燥，但欲漱水不欲咽者，此必衄。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-202.md"
+  },
+  {
+    "number": 203,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出",
+      "烦",
+      "小便数"
+    ],
+    "text": "阳明病，本自汗出，医更重发汗，病已差，尚微烦不了了者，此必大便硬故也。以亡津液，胃中干燥，故令大便硬。当问其小便日几行，若本小便日三四行，今日再行，故知大便不久出。今为小便数少，以津液当还入胃中，故知不久必大便也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-203.md"
+  },
+  {
+    "number": 204,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "呕"
+    ],
+    "text": "伤寒呕多，虽有阳明证，不可攻之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-204.md"
+  },
+  {
+    "number": 205,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "阳明病，心下硬满者，不可攻之。攻之，利遂不止者死，利止者愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-205.md"
+  },
+  {
+    "number": 206,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "小便不利"
+    ],
+    "text": "阳明病，面合色赤，不可攻之。必发热，色黄者，小便不利也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-206.md"
+  },
+  {
+    "number": 207,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "调胃承气汤"
+    ],
+    "symptomLabels": [
+      "心烦"
+    ],
+    "text": "阳明病，不吐不下，心烦者，可与调胃承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-207.md"
+  },
+  {
+    "number": 208,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤",
+      "桂枝汤",
+      "小承气汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "恶寒",
+      "汗出",
+      "喘",
+      "腹满"
+    ],
+    "text": "阳明病，脉迟，虽汗出不恶寒者，其身必重，短气，腹满而喘，有潮热者，此外欲解，可攻里也。手足濈然汗出者，此大便已硬也，大承气汤主之。若汗多，微发热恶寒者，外未解也(一法与桂枝汤)，其热不潮，未可与承气汤。若腹大满不通者，可与小承气汤，微和胃气，勿令至大泄下。大承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-208.md"
+  },
+  {
+    "number": 209,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤",
+      "小承气汤"
+    ],
+    "symptomLabels": [
+      "发热"
+    ],
+    "text": "阳明病，潮热，大便微硬者，可与大承气汤，不硬者，不可与之。若不大便六七日，恐有燥屎，欲知之法，少与小承气汤，汤入腹中，转失气者，此有燥屎也，乃可攻之。若不转失气者，此但初头硬，后必溏，不可攻之，攻之必胀满不能食也，欲饮水者，与水则哕。其后发热者，必大便复硬而少也，以小承气汤和之。不转失气者，慎不可攻也。小承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-209.md"
+  },
+  {
+    "number": 210,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "喘满",
+      "谵语",
+      "下利"
+    ],
+    "text": "夫实则谵语，虚则郑声。郑声者，重语也。直视、谵语、喘满者死，下利者亦死。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-210.md"
+  },
+  {
+    "number": 211,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "谵语"
+    ],
+    "text": "发汗多，若重发汗者，亡其阳；谵语，脉短者死，脉自和者不死。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-211.md"
+  },
+  {
+    "number": 212,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "恶寒",
+      "喘",
+      "谵语"
+    ],
+    "text": "伤寒，若吐，若下后不解，不大便五六日，上至十余日，日晡所发潮热，不恶寒，独语如见鬼状。若剧者，发则不识人，循衣摸床，惕而不安(一云顺衣妄撮，怵惕不安)，微喘直视，脉弦者生，涩者死。微者，但发热谵语者，大承气汤主之。若一服利，则止后服。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-212.md"
+  },
+  {
+    "number": 213,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小承气汤"
+    ],
+    "symptomLabels": [
+      "谵语"
+    ],
+    "text": "阳明病，其人多汗，以津液外出，胃中燥，大便必硬，硬则谵语，小承气汤主之。若一服，谵语止者，更莫复服。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-213.md"
+  },
+  {
+    "number": 214,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小承气汤"
+    ],
+    "symptomLabels": [
+      "谵语"
+    ],
+    "text": "阳明病，谵语，发潮热，脉滑而疾者，小承气汤主之。因与承气汤一升，腹中转气者，更服一升，若不转气者，勿更与之。明日又不大便，脉反微涩者，里虚也，为难治，不可更与承气汤也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-214.md"
+  },
+  {
+    "number": 215,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤"
+    ],
+    "symptomLabels": [
+      "谵语"
+    ],
+    "text": "阳明病，谵语，有潮热，反不能食者，胃中必有燥屎五六枚也；若能食者，但硬耳。宜大承气汤下之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-215.md"
+  },
+  {
+    "number": 216,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出",
+      "谵语"
+    ],
+    "text": "阳明病，下血、谵语者，此为热入血室。但头汗出者，刺期门，随其实而泻之，濈然汗出则愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-216.md"
+  },
+  {
+    "number": 217,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤",
+      "大柴胡汤"
+    ],
+    "symptomLabels": [
+      "谵语"
+    ],
+    "text": "汗(汗一作卧)出谵语者，以有燥屎在胃中，此为风也。须下者，过经乃可下之。下之若早，语言必乱，以表虚里实故也。下之愈，宜大承气汤(一云大柴胡汤)。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-217.md"
+  },
+  {
+    "number": 218,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "喘满",
+      "谵语"
+    ],
+    "text": "伤寒四五日，脉沉而喘满，沉为在里，而反发其汗，津液越出，大便为难，表虚里实，久则谵语。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-218.md"
+  },
+  {
+    "number": 219,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "白虎汤"
+    ],
+    "symptomLabels": [
+      "身重",
+      "汗出",
+      "谵语",
+      "腹满",
+      "手足逆冷"
+    ],
+    "text": "三阳合病，腹满身重，难以转侧，口不仁，面垢(又作枯，一云向经)，谵语，遗尿。发汗则谵语，下之则额上生汗，手足逆冷。若自汗出者，白虎汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-219.md"
+  },
+  {
+    "number": 220,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤"
+    ],
+    "symptomLabels": [
+      "汗出",
+      "谵语"
+    ],
+    "text": "二阳并病，太阳证罢，但发潮热，手足漐漐汗出，大便难而谵语者，下之则愈，宜大承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-220.md"
+  },
+  {
+    "number": 221,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "栀子豉汤"
+    ],
+    "symptomLabels": [
+      "身重",
+      "发热",
+      "汗出",
+      "恶寒",
+      "喘",
+      "烦躁",
+      "谵语",
+      "腹满"
+    ],
+    "text": "阳明病，脉浮而紧，咽燥口苦，腹满而喘，发热汗出，不恶寒反恶热，身重。若发汗则燥，心愦愦公对切反谵语。若加温针，必怵惕、烦躁不得眠。若下之，则胃中空虚，客气动膈，心中懊憹，舌上苔者，栀子豉汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-221.md"
+  },
+  {
+    "number": 222,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "白虎加人参汤"
+    ],
+    "symptomLabels": [
+      "渴"
+    ],
+    "text": "若渴欲饮水，口干舌燥者，白虎加人参汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-222.md"
+  },
+  {
+    "number": 223,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "猪苓汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "渴",
+      "小便不利"
+    ],
+    "text": "若脉浮，发热，渴欲饮水，小便不利者，猪苓汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-223.md"
+  },
+  {
+    "number": 224,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "猪苓汤"
+    ],
+    "symptomLabels": [
+      "汗出",
+      "渴"
+    ],
+    "text": "阳明病，汗出多而渴者，不可与猪苓汤；以汗多胃中燥 ，猪苓汤复利其小便故也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-224.md"
+  },
+  {
+    "number": 225,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "四逆汤"
+    ],
+    "symptomLabels": [
+      "下利清谷"
+    ],
+    "text": "脉浮而迟，表热里寒，下利清谷者，四逆汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-225.md"
+  },
+  {
+    "number": 226,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "若胃中虚冷，不能食者，饮水则哕。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-226.md"
+  },
+  {
+    "number": 227,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热"
+    ],
+    "text": "脉浮发热，口干鼻燥，能食者则衄。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-227.md"
+  },
+  {
+    "number": 228,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "栀子豉汤"
+    ],
+    "symptomLabels": [
+      "汗出"
+    ],
+    "text": "阳明病，下之，其外有热，手足温，不结胸，心中懊憹，饥不能食，但头汗出者，栀子豉汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-228.md"
+  },
+  {
+    "number": 229,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小柴胡汤"
+    ],
+    "symptomLabels": [],
+    "text": "阳明病，发潮热，大便溏，小便自可，胸胁满不去者，与小柴胡汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-229.md"
+  },
+  {
+    "number": 230,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小柴胡汤"
+    ],
+    "symptomLabels": [
+      "汗出",
+      "呕"
+    ],
+    "text": "阳明病，胁下硬满，不大便而呕，舌上白胎者，可与小柴胡汤，上焦得通，津液得下，胃气因和，身濈然汗出而解。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-230.md"
+  },
+  {
+    "number": 231,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小柴胡汤"
+    ],
+    "symptomLabels": [
+      "小便难"
+    ],
+    "text": "阳明中风，脉弦浮大而短气，腹都满，胁下及心痛，久按之气不通，鼻干，不得汗，嗜卧，一身及目悉黄，小便难，有潮热，时时哕，耳前后肿，刺之小差。外不解，病过十日，脉续浮者，与小柴胡汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-231.md"
+  },
+  {
+    "number": 232,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "麻黄汤"
+    ],
+    "symptomLabels": [
+      "腹满"
+    ],
+    "text": "脉但浮，无余症者，与麻黄汤。若不尿，腹满加哕者，不治。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-232.md"
+  },
+  {
+    "number": 233,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出"
+    ],
+    "text": "阳明病，自汗出，若发汗，小便自利者，此为津液内竭，虽硬不可攻之，当须自欲大便，宜蜜煎导而通之。若土瓜根及大猪胆汁，皆可为导。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-233.md"
+  },
+  {
+    "number": 234,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [
+      "恶寒",
+      "汗出"
+    ],
+    "text": "阳明病，脉迟，汗出多，微恶寒者，表未解也，可发汗，宜桂枝汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-234.md"
+  },
+  {
+    "number": 235,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "麻黄汤"
+    ],
+    "symptomLabels": [
+      "无汗而喘"
+    ],
+    "text": "阳明病，脉浮，无汗而喘者，发汗则愈，宜麻黄汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-235.md"
+  },
+  {
+    "number": 236,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "茵陈蒿汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "汗出",
+      "无汗",
+      "渴",
+      "小便不利"
+    ],
+    "text": "阳明病，发热汗出者，此为热越，不能发黄也。但头汗出，身无汗，剂颈而还，小便不利，渴饮水浆者，此为瘀热在里，身必发黄，茵陈蒿汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-236.md"
+  },
+  {
+    "number": 237,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "抵当汤"
+    ],
+    "symptomLabels": [],
+    "text": "阳明证，其人喜忘者，必有畜血。所以然者，本有久瘀血，故令喜忘。屎虽硬，大便反易，其色必黑者，宜抵当汤下之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-237.md"
+  },
+  {
+    "number": 238,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤"
+    ],
+    "symptomLabels": [
+      "烦"
+    ],
+    "text": "阳明病，下之，心中懊憹而烦；胃中有燥屎者，可攻；腹微满，初头硬，后必溏，不可攻之。若有燥屎者，宜大承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-238.md"
+  },
+  {
+    "number": 239,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "烦躁"
+    ],
+    "text": "病人不大便五六日，绕脐痛、烦躁发作有时者，此有燥屎，故使不大便也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-239.md"
+  },
+  {
+    "number": 240,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤",
+      "桂枝汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "汗出",
+      "烦"
+    ],
+    "text": "病人烦热，汗出则解。又如疟状，日晡所发热者，属阳明也。脉实者，宜下之；脉浮虚者，宜发汗。下之与大承气汤，发汗宜桂枝汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-240.md"
+  },
+  {
+    "number": 241,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤"
+    ],
+    "symptomLabels": [
+      "烦",
+      "腹满"
+    ],
+    "text": "大下后，六七日不大便，烦不解，腹满痛者，此有燥屎也。所以然者，本有宿食故也，宜大承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-241.md"
+  },
+  {
+    "number": 242,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤"
+    ],
+    "symptomLabels": [
+      "喘",
+      "小便不利"
+    ],
+    "text": "病人小便不利，大便乍难乍易，时有微热，喘冒(一作怫郁)。不能卧者，有燥屎也，宜大承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-242.md"
+  },
+  {
+    "number": 243,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "吴茱萸汤"
+    ],
+    "symptomLabels": [
+      "欲呕"
+    ],
+    "text": "食谷欲呕，属阳明也，吴茱萸汤主之。得汤反剧者，属上焦也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-243.md"
+  },
+  {
+    "number": 244,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "五苓散"
+    ],
+    "symptomLabels": [
+      "发热",
+      "汗出",
+      "恶寒",
+      "呕",
+      "渴",
+      "心下痞",
+      "小便数"
+    ],
+    "text": "太阳病，寸缓、关浮、尺弱，其人发热汗出，复恶寒，不呕，但心下痞者，此以医下之也。如不下者，病人不恶寒而渴者，此转属阳明也；小便数者，大便必硬，不更衣十日，无所苦也。渴欲饮水，少少与之，但以法救之。渴者，宜五苓散。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-244.md"
+  },
+  {
+    "number": 245,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出"
+    ],
+    "text": "脉阳微，而汗出少者，为自和(一作如)也；汗出多者，为太过。阳脉实，因发其汗，出多者，亦为太过。太过者，为阳绝于里，亡津液，大便因硬也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-245.md"
+  },
+  {
+    "number": 246,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "脉浮而芤，浮为阳，芤为阴，浮芤相搏，胃气生热，其阳则绝。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-246.md"
+  },
+  {
+    "number": 247,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "麻子仁丸"
+    ],
+    "symptomLabels": [
+      "小便数"
+    ],
+    "text": "趺阳脉浮而涩，浮则胃气强，涩则小便数，浮涩相搏，大便则硬，其脾为约，麻子仁丸主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-247.md"
+  },
+  {
+    "number": 248,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "调胃承气汤"
+    ],
+    "symptomLabels": [
+      "发热"
+    ],
+    "text": "太阳病三日，发汗不解，蒸蒸发热者，属胃也，调胃承气汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-248.md"
+  },
+  {
+    "number": 249,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "调胃承气汤"
+    ],
+    "symptomLabels": [],
+    "text": "伤寒吐后，腹胀满者，与调胃承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-249.md"
+  },
+  {
+    "number": 250,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小承气汤"
+    ],
+    "symptomLabels": [
+      "烦",
+      "小便数"
+    ],
+    "text": "太阳病，若吐，若下，若发汗后，微烦，小便数，大便因硬者，与小承气汤和之愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-250.md"
+  },
+  {
+    "number": 251,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小承气汤",
+      "大承气汤"
+    ],
+    "symptomLabels": [
+      "烦躁"
+    ],
+    "text": "得病二三日，脉弱，无太阳柴胡证，烦躁，心下硬，至四五日，虽能食，以小承气汤，少少与，微和之，令小安，至六日，与承气汤一升。若不大便六七日，小便少者，虽不受食，一云不大便。但初头硬，后必溏，未定成硬，攻之必溏；须小便利，屎定硬，乃可攻之，宜大承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-251.md"
+  },
+  {
+    "number": 252,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤"
+    ],
+    "symptomLabels": [],
+    "text": "伤寒六七日，目中不了了，睛不和，无表里证，大便难，身微热者，此为实也，急下之，宜大承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-252.md"
+  },
+  {
+    "number": 253,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤",
+      "大柴胡汤"
+    ],
+    "symptomLabels": [
+      "发热"
+    ],
+    "text": "阳明病，发热汗多者，急下之，宜大承气汤(一云大柴胡汤)。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-253.md"
+  },
+  {
+    "number": 254,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤"
+    ],
+    "symptomLabels": [
+      "腹满"
+    ],
+    "text": "发汗不解，腹满痛者，急下之，宜大承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-254.md"
+  },
+  {
+    "number": 255,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤"
+    ],
+    "symptomLabels": [
+      "腹满"
+    ],
+    "text": "腹满不减，减不足言，当下之，宜大承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-255.md"
+  },
+  {
+    "number": 256,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤"
+    ],
+    "symptomLabels": [
+      "下利"
+    ],
+    "text": "阳明少阳合病，必下利，其脉不负者，为顺也。负者，失也，互相克贼，名为负也。脉滑而数者，有宿食也,当下之，宜大承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-256.md"
+  },
+  {
+    "number": 257,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "抵当汤"
+    ],
+    "symptomLabels": [
+      "发热"
+    ],
+    "text": "病人无表里证，发热七八日，虽脉浮数者，可下之。假令已下，脉数不解，合热则消谷喜饥。至六七日不大便者，有瘀血，宜抵当汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-257.md"
+  },
+  {
+    "number": 258,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "若脉数不解，而下不止，必协热便脓血也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-258.md"
+  },
+  {
+    "number": 259,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "伤寒发汗已，身目为黄，所以然者，以寒湿(一作温)在里不解故也。以为不可下也，于寒湿中求之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-259.md"
+  },
+  {
+    "number": 260,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "茵陈蒿汤"
+    ],
+    "symptomLabels": [
+      "小便不利"
+    ],
+    "text": "伤寒七八日，身黄如橘子色，小便不利，腹微满者，茵陈蒿汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-260.md"
+  },
+  {
+    "number": 261,
+    "sixChannel": "阳明病",
+    "chapter": "辨阳明病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "栀子柏皮汤"
+    ],
+    "symptomLabels": [
+      "发热"
+    ],
+    "text": "伤寒，身黄发热，栀子柏皮汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/阳明病/条文-261.md"
+  },
+  {
+    "number": 262,
+    "sixChannel": "少阳病",
+    "chapter": "辨少阳病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "伤寒，瘀热在里，身必黄，麻黄连轺赤小豆汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阳病/条文-262.md"
+  },
+  {
+    "number": 263,
+    "sixChannel": "少阳病",
+    "chapter": "辨少阳病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "目眩"
+    ],
+    "text": "少阳之为病，口苦，咽干，目眩也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阳病/条文-263.md"
+  },
+  {
+    "number": 264,
+    "sixChannel": "少阳病",
+    "chapter": "辨少阳病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "胸中满而烦",
+      "目赤"
+    ],
+    "text": "少阳中风，两耳无所闻，目赤，胸中满而烦者，不可吐下，吐下则悸而惊。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阳病/条文-264.md"
+  },
+  {
+    "number": 265,
+    "sixChannel": "少阳病",
+    "chapter": "辨少阳病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "头痛",
+      "发热",
+      "烦",
+      "谵语"
+    ],
+    "text": "伤寒，脉弦细，头痛发热者，属少阳。少阳不可发汗，发汗则谵语，此属胃。胃和则愈，胃不和，烦而悸(一云躁)。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阳病/条文-265.md"
+  },
+  {
+    "number": 266,
+    "sixChannel": "少阳病",
+    "chapter": "辨少阳病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小柴胡汤"
+    ],
+    "symptomLabels": [
+      "干呕"
+    ],
+    "text": "本太阳病不解，转入少阳者，胁下硬满，干呕不能食，往来寒热，尚未吐下，脉沉紧者，与小柴胡汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阳病/条文-266.md"
+  },
+  {
+    "number": 267,
+    "sixChannel": "少阳病",
+    "chapter": "辨少阳病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "谵语"
+    ],
+    "text": "若已吐下、发汗、温针，谵语，柴胡汤证罢，此为坏病。知犯何逆，以法治之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阳病/条文-267.md"
+  },
+  {
+    "number": 268,
+    "sixChannel": "少阳病",
+    "chapter": "辨少阳病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "三阳合病，脉浮大，上关上，但欲眠睡，目合则汗。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阳病/条文-268.md"
+  },
+  {
+    "number": 269,
+    "sixChannel": "少阳病",
+    "chapter": "辨少阳病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "烦"
+    ],
+    "text": "伤寒六七日，无大热，其人躁烦者，此为阳去入阴故也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阳病/条文-269.md"
+  },
+  {
+    "number": 270,
+    "sixChannel": "少阳病",
+    "chapter": "辨少阳病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "呕"
+    ],
+    "text": "伤寒三日，三阳为尽，三阴当受邪。其人反能食而不呕，此为三阴不受邪也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阳病/条文-270.md"
+  },
+  {
+    "number": 271,
+    "sixChannel": "少阳病",
+    "chapter": "辨少阳病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "伤寒三日，少阳脉小者，欲已也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阳病/条文-271.md"
+  },
+  {
+    "number": 272,
+    "sixChannel": "太阴病",
+    "chapter": "辨太阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "少阳病欲解时，从寅至辰上。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阴病/条文-272.md"
+  },
+  {
+    "number": 273,
+    "sixChannel": "太阴病",
+    "chapter": "辨太阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "腹满而吐"
+    ],
+    "text": "太阴之为病，腹满而吐，食不下，自利益甚，时腹自痛。若下之，必胸下结硬。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阴病/条文-273.md"
+  },
+  {
+    "number": 274,
+    "sixChannel": "太阴病",
+    "chapter": "辨太阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "烦"
+    ],
+    "text": "太阴中风，四肢烦疼，阳微阴涩而长者，为欲愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阴病/条文-274.md"
+  },
+  {
+    "number": 275,
+    "sixChannel": "太阴病",
+    "chapter": "辨太阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "太阴病欲解时，从亥至丑上。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阴病/条文-275.md"
+  },
+  {
+    "number": 276,
+    "sixChannel": "太阴病",
+    "chapter": "辨太阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [],
+    "text": "太阴病，脉浮者，可发汗，宜桂枝汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阴病/条文-276.md"
+  },
+  {
+    "number": 277,
+    "sixChannel": "太阴病",
+    "chapter": "辨太阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "不渴"
+    ],
+    "text": "自利不渴者，属太阴，以其藏有寒故也，当温之，宜服四逆辈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阴病/条文-277.md"
+  },
+  {
+    "number": 278,
+    "sixChannel": "太阴病",
+    "chapter": "辨太阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "烦",
+      "下利"
+    ],
+    "text": "伤寒脉浮而缓，手足自温者，系在太阴。太阴当发身黄，若小便自利者，不能发黄。至七八日，虽暴烦下利，日十余行，必自止，以脾家实，腐秽当去故也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阴病/条文-278.md"
+  },
+  {
+    "number": 279,
+    "sixChannel": "太阴病",
+    "chapter": "辨太阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝加芍药汤",
+      "桂枝加大黄汤"
+    ],
+    "symptomLabels": [
+      "腹满"
+    ],
+    "text": "本太阳病，医反下之，因尔腹满时痛者，属太阴也，桂枝加芍药汤主之；大实痛者，桂枝加大黄汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/太阴病/条文-279.md"
+  },
+  {
+    "number": 280,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "下利"
+    ],
+    "text": "太阴为病，脉弱，其人续自便利，设当行大黄、芍药者，宜减之，以其人胃气弱，易动故也。下利者，先煎芍药二沸。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-280.md"
+  },
+  {
+    "number": 281,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "少阴之为病，脉微细，但欲寐也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-281.md"
+  },
+  {
+    "number": 282,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "心烦",
+      "渴"
+    ],
+    "text": "少阴病，欲吐不吐，心烦，但欲寐，五六日自利而渴者，属少阴也。虚故引水自救。若小便色白者，少阴病形悉具。小便白者，以下焦虚，有寒，不能制水，故令色白也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-282.md"
+  },
+  {
+    "number": 283,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出"
+    ],
+    "text": "病人脉阴阳俱紧，反汗出者，亡阳也，此属少阴，法当咽痛而复吐利。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-283.md"
+  },
+  {
+    "number": 284,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "咳",
+      "谵语",
+      "下利"
+    ],
+    "text": "少阴病，咳而下利。谵语者，被火气劫故也，小便必难，以强责少阴汗也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-284.md"
+  },
+  {
+    "number": 285,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "少阴病，脉细沉数，病为在里，不可发汗。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-285.md"
+  },
+  {
+    "number": 286,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "少阴病，脉微，不可发汗，亡阳故也。阳已虚，尺脉弱涩者，复不可下之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-286.md"
+  },
+  {
+    "number": 287,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "烦",
+      "下利"
+    ],
+    "text": "少阴病，脉紧，至七八日，自下利，脉暴微，手足反温，脉紧反去者，为欲解也。虽烦，下利必自愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-287.md"
+  },
+  {
+    "number": 288,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "恶寒",
+      "下利"
+    ],
+    "text": "少阴病，下利，若利自止，恶寒而踡卧，手足温者，可治。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-288.md"
+  },
+  {
+    "number": 289,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "恶寒",
+      "烦"
+    ],
+    "text": "少阴病，恶寒而踡，时自烦，欲去衣被者，可治。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-289.md"
+  },
+  {
+    "number": 290,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "少阴中风，脉阳微阴浮者，为欲愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-290.md"
+  },
+  {
+    "number": 291,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "少阴病欲解时，从子至寅上。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-291.md"
+  },
+  {
+    "number": 292,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热"
+    ],
+    "text": "少阴病，吐利，手足不逆冷，反发热者，不死。脉不至者，至一作足。灸少阴七壮。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-292.md"
+  },
+  {
+    "number": 293,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "少阴病，八九日，一身手足尽热者，以热在膀胱，必便血也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-293.md"
+  },
+  {
+    "number": 294,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "无汗",
+      "厥"
+    ],
+    "text": "少阴病，但厥无汗，而强发之，必动其血。未知从何道出，或从口鼻，或从目出者，是名下厥上竭，为难治。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-294.md"
+  },
+  {
+    "number": 295,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "恶寒",
+      "手足逆冷"
+    ],
+    "text": "少阴病，恶寒，身踡而利，手足逆冷者，不治。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-295.md"
+  },
+  {
+    "number": 296,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "烦"
+    ],
+    "text": "少阴病，吐利，躁烦，四逆者，死。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-296.md"
+  },
+  {
+    "number": 297,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "下利"
+    ],
+    "text": "少阴病，下利止而头眩，时时自冒者，死。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-297.md"
+  },
+  {
+    "number": 298,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "恶寒",
+      "烦"
+    ],
+    "text": "少阴病，四逆，恶寒而身踡，脉不至，不烦而躁者，死。(一作吐利而躁逆者死。)",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-298.md"
+  },
+  {
+    "number": 299,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "少阴病六七日，息高者，死。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-299.md"
+  },
+  {
+    "number": 300,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出",
+      "烦躁"
+    ],
+    "text": "少阴病，脉微细沉，但欲卧，汗出不烦，自欲吐，至五六日自利，复烦躁不得卧寐者，死。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-300.md"
+  },
+  {
+    "number": 301,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热"
+    ],
+    "text": "少阴病，始得之，反发热，脉沉者，麻黄细辛附子汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-301.md"
+  },
+  {
+    "number": 302,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "麻黄附子甘草汤"
+    ],
+    "symptomLabels": [],
+    "text": "少阴病，得之二三日，麻黄附子甘草汤微发汗。以二三日无证，故微发汗也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-302.md"
+  },
+  {
+    "number": 303,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "黄连阿胶汤"
+    ],
+    "symptomLabels": [
+      "烦"
+    ],
+    "text": "少阴病，得之二三日以上，心中烦，不得卧，黄连阿胶汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-303.md"
+  },
+  {
+    "number": 304,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "附子汤"
+    ],
+    "symptomLabels": [
+      "恶寒"
+    ],
+    "text": "少阴病，得之一二日，口中和，其背恶寒者，当灸之，附子汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-304.md"
+  },
+  {
+    "number": 305,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "附子汤"
+    ],
+    "symptomLabels": [
+      "体痛",
+      "手足寒"
+    ],
+    "text": "少阴病，身体痛，手足寒，骨节痛，脉沉者，附子汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-305.md"
+  },
+  {
+    "number": 306,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桃花汤"
+    ],
+    "symptomLabels": [
+      "下利"
+    ],
+    "text": "少阴病，下利便脓血者，桃花汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-306.md"
+  },
+  {
+    "number": 307,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桃花汤"
+    ],
+    "symptomLabels": [
+      "腹痛",
+      "下利",
+      "小便不利"
+    ],
+    "text": "少阴病，二三日至四五日，腹痛，小便不利，下利不止，便脓血者，桃花汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-307.md"
+  },
+  {
+    "number": 308,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "下利"
+    ],
+    "text": "少阴病，下利便脓血者，可刺。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-308.md"
+  },
+  {
+    "number": 309,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "吴茱萸汤"
+    ],
+    "symptomLabels": [
+      "烦躁",
+      "手足逆冷"
+    ],
+    "text": "少阴病，吐利，手足逆冷，烦躁欲死者，吴茱萸汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-309.md"
+  },
+  {
+    "number": 310,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "猪肤汤"
+    ],
+    "symptomLabels": [
+      "心烦",
+      "胸满",
+      "下利"
+    ],
+    "text": "少阴病，下利，咽痛，胸满，心烦，猪肤汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-310.md"
+  },
+  {
+    "number": 311,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "甘草汤",
+      "桔梗汤"
+    ],
+    "symptomLabels": [],
+    "text": "少阴病二三日，咽痛者，可与甘草汤，不差，与桔梗汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-311.md"
+  },
+  {
+    "number": 312,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "苦酒汤"
+    ],
+    "symptomLabels": [
+      "咽中伤"
+    ],
+    "text": "少阴病，咽中伤，生疮，不能语言，声不出者，苦酒汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-312.md"
+  },
+  {
+    "number": 313,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "半夏散"
+    ],
+    "symptomLabels": [
+      "咽中痛"
+    ],
+    "text": "少阴病，咽中痛，半夏散及汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-313.md"
+  },
+  {
+    "number": 314,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "白通汤"
+    ],
+    "symptomLabels": [
+      "下利"
+    ],
+    "text": "少阴病，下利，白通汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-314.md"
+  },
+  {
+    "number": 315,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "白通汤"
+    ],
+    "symptomLabels": [
+      "干呕",
+      "烦",
+      "下利",
+      "厥逆"
+    ],
+    "text": "少阴病，下利，脉微者，与白通汤。利不止，厥逆无脉，干呕烦者，白通加猪胆汁汤主之。服汤，脉暴出者，死，微续者，生。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-315.md"
+  },
+  {
+    "number": 316,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "真武汤"
+    ],
+    "symptomLabels": [
+      "呕",
+      "咳",
+      "腹痛",
+      "下利",
+      "小便不利"
+    ],
+    "text": "少阴病，二三日不已，至四五日，腹痛，小便不利，四肢沉重疼痛，自下利者，此为有水气。其人或咳，或小便利，或下利，或呕者，真武汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-316.md"
+  },
+  {
+    "number": 317,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "通脉四逆汤"
+    ],
+    "symptomLabels": [
+      "恶寒",
+      "干呕",
+      "腹痛",
+      "下利清谷",
+      "厥逆"
+    ],
+    "text": "少阴病，下利清谷，里寒外热，手足厥逆，脉微欲绝，身反不恶寒，其人面色赤，或腹痛，或干呕，或咽痛，或利止脉不出者，通脉四逆汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-317.md"
+  },
+  {
+    "number": 318,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "四逆散"
+    ],
+    "symptomLabels": [
+      "咳",
+      "小便不利"
+    ],
+    "text": "少阴病，四逆，其人或咳，或悸，或小便不利，或腹中痛，或泄利下重者，四逆散主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-318.md"
+  },
+  {
+    "number": 319,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "猪苓汤"
+    ],
+    "symptomLabels": [
+      "呕",
+      "咳",
+      "心烦",
+      "渴",
+      "下利"
+    ],
+    "text": "少阴病，下利六七日，咳而呕渴，心烦，不得眠，猪苓汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-319.md"
+  },
+  {
+    "number": 320,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤"
+    ],
+    "symptomLabels": [
+      "口燥咽干"
+    ],
+    "text": "少阴病，得之二三日，口燥咽干者，急下之，宜大承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-320.md"
+  },
+  {
+    "number": 321,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤",
+      "大柴胡汤"
+    ],
+    "symptomLabels": [],
+    "text": "少阴病，自利清水，色纯青，心下必痛，口干燥者，可下之，宜大承气汤(一法用大柴胡汤)。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-321.md"
+  },
+  {
+    "number": 322,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "大承气汤"
+    ],
+    "symptomLabels": [],
+    "text": "少阴病，六七日，腹胀，不大便者，急下之，宜大承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-322.md"
+  },
+  {
+    "number": 323,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "四逆汤"
+    ],
+    "symptomLabels": [],
+    "text": "少阴病，脉沉者，急温之，宜四逆汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-323.md"
+  },
+  {
+    "number": 324,
+    "sixChannel": "少阴病",
+    "chapter": "辨少阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "四逆汤"
+    ],
+    "symptomLabels": [
+      "干呕",
+      "手足寒"
+    ],
+    "text": "少阴病，饮食入口则吐，心中温温欲吐，复不能吐。始得之，手足寒，脉弦迟者，此胸中实，不可下也，当吐之。若膈上有寒饮，干呕者，不可吐也，当温之，宜四逆汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/少阴病/条文-324.md"
+  },
+  {
+    "number": 325,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出",
+      "呕",
+      "下利",
+      "厥"
+    ],
+    "text": "少阴病，下利，脉微涩，呕而汗出，必数更衣反少者，当温其上，灸之。(《脉经》云, 炙厥阴可五十壮。)",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-325.md"
+  },
+  {
+    "number": 326,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "渴",
+      "厥"
+    ],
+    "text": "厥阴之为病，消渴，气上撞心，心中疼热，饥而不欲食，食则吐蛔，下之利不止。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-326.md"
+  },
+  {
+    "number": 327,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "厥"
+    ],
+    "text": "厥阴中风，脉微浮为欲愈，不浮为未愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-327.md"
+  },
+  {
+    "number": 328,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "厥"
+    ],
+    "text": "厥阴病欲解时，从丑至卯上。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-328.md"
+  },
+  {
+    "number": 329,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "渴",
+      "厥"
+    ],
+    "text": "厥阴病，渴欲饮水者，少少与之愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-329.md"
+  },
+  {
+    "number": 330,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "厥"
+    ],
+    "text": "诸四逆厥者，不可下之，虚家亦然。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-330.md"
+  },
+  {
+    "number": 331,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "厥"
+    ],
+    "text": "伤寒，先厥后发热而利者，必自止，见厥复利。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-331.md"
+  },
+  {
+    "number": 332,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "厥"
+    ],
+    "text": "伤寒，始发热六日，厥反九日而利。凡厥利者，当不能食，今反能食者，恐为除中。一云消中。食以索饼，不发热者，知胃气尚在，必愈，恐暴热来出而复去也。后日脉之，其热续在者，期之旦日夜半愈。所以然者，本发热六日，厥反九日，复发热三日，并前六日，亦为九日，与厥相应，故期之旦日夜半愈。后三日脉之而脉数，其热不罢者，此为热气有余，必发痈脓也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-332.md"
+  },
+  {
+    "number": 333,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "黄芩汤"
+    ],
+    "symptomLabels": [],
+    "text": "伤寒脉迟六七日，而反与黄芩汤彻其热，脉迟为寒，今与黄芩汤复除其热，腹中应冷，当不能食，今反能食，此名除中，必死。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-333.md"
+  },
+  {
+    "number": 334,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "汗出",
+      "无汗",
+      "下利",
+      "咽中痛",
+      "厥"
+    ],
+    "text": "伤寒，先厥后发热，下利必自止，而反汗出，咽中痛者，其喉为痹。发热无汗，而利必自止，若不止，必便脓血，便脓血者，其喉不痹。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-334.md"
+  },
+  {
+    "number": 335,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "厥"
+    ],
+    "text": "伤寒，一二日至四五日，厥者必发热。前热者后必厥，厥深者热亦深，厥微者热亦微。厥应下之，而反发汗者，必口伤烂赤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-335.md"
+  },
+  {
+    "number": 336,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "厥"
+    ],
+    "text": "伤寒病，厥五日，热亦五日，设六日当复厥，不厥者自愈。厥终不过五日，以热五日，故知自愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-336.md"
+  },
+  {
+    "number": 337,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "注文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "手足逆冷",
+      "厥"
+    ],
+    "text": "凡厥者，阴阳气不相顺接，便为厥。厥者，手足逆冷者是也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-337.md"
+  },
+  {
+    "number": 338,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "乌梅丸"
+    ],
+    "symptomLabels": [
+      "呕",
+      "烦",
+      "厥"
+    ],
+    "text": "伤寒脉微而厥，至七八日肤冷，其人躁无暂安时者，此为藏厥，非蛔厥也。蛔厥者，其人当吐蛔。令病者静，而复时烦者，此为藏寒，蛔上入其膈，故烦，须臾复止，得食而呕，又烦者，蛔闻食臭出，其人常自吐蛔。蛔厥者，乌梅丸主之。又主久利。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-338.md"
+  },
+  {
+    "number": 339,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "呕",
+      "烦躁",
+      "厥"
+    ],
+    "text": "伤寒，热少微厥，指一作稍。头寒，嘿嘿不欲食，烦躁，数日小便利，色白者，此热除也，欲得食，其病为愈。若厥而呕，胸胁烦满者，其后必便血。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-339.md"
+  },
+  {
+    "number": 340,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "腹满",
+      "厥"
+    ],
+    "text": "病者手足厥冷，言我不结胸，小腹满，按之痛者，此冷结在膀胱关元也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-340.md"
+  },
+  {
+    "number": 341,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "厥"
+    ],
+    "text": "伤寒，发热四日，厥反三日，复热四日，厥少热多者，其病当愈。四日至七日，热不除者，必便脓血。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-341.md"
+  },
+  {
+    "number": 342,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "厥"
+    ],
+    "text": "伤寒，厥四日，热反三日，复厥五日，其病为进。寒多热少，阳气退，故为进也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-342.md"
+  },
+  {
+    "number": 343,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "烦躁",
+      "厥"
+    ],
+    "text": "伤寒六七日，脉微，手足厥冷，烦躁，灸厥阴。厥不还者，死。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-343.md"
+  },
+  {
+    "number": 344,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "下利",
+      "厥逆"
+    ],
+    "text": "伤寒，发热，下利，厥逆，躁不得卧者，死。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-344.md"
+  },
+  {
+    "number": 345,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "下利",
+      "厥"
+    ],
+    "text": "伤寒，发热，下利至甚，厥不止者，死。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-345.md"
+  },
+  {
+    "number": 346,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "汗出"
+    ],
+    "text": "伤寒，六七日不利，便发热而利，其人汗出不止者，死。有阴无阳故也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-346.md"
+  },
+  {
+    "number": 347,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "厥"
+    ],
+    "text": "伤寒五六日，不结胸，腹濡，脉虚，复厥者，不可下，此亡血，下之死。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-347.md"
+  },
+  {
+    "number": 348,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "下利",
+      "厥"
+    ],
+    "text": "发热而厥，七日下利者，为难治。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-348.md"
+  },
+  {
+    "number": 349,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "厥逆"
+    ],
+    "text": "伤寒脉促，手足厥逆，可灸之。(促，一作纵)",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-349.md"
+  },
+  {
+    "number": 350,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "白虎汤"
+    ],
+    "symptomLabels": [
+      "厥"
+    ],
+    "text": "伤寒，脉滑而厥者，里有热，白虎汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-350.md"
+  },
+  {
+    "number": 351,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "当归四逆汤"
+    ],
+    "symptomLabels": [
+      "手足厥寒"
+    ],
+    "text": "手足厥寒，脉细欲绝者，当归四逆汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-351.md"
+  },
+  {
+    "number": 352,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "四逆加吴茱萸生姜汤"
+    ],
+    "symptomLabels": [],
+    "text": "若其人内有久寒者，宜当归四逆加吴茱萸生姜汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-352.md"
+  },
+  {
+    "number": 353,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "四逆汤"
+    ],
+    "symptomLabels": [
+      "恶寒",
+      "汗出",
+      "下利",
+      "厥逆"
+    ],
+    "text": "大汗出，热不去，内拘急，四肢疼，又下利、厥逆而恶寒者，四逆汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-353.md"
+  },
+  {
+    "number": 354,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "四逆汤"
+    ],
+    "symptomLabels": [
+      "下利",
+      "厥"
+    ],
+    "text": "大汗，若大下利而厥冷者，四逆汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-354.md"
+  },
+  {
+    "number": 355,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "瓜蒂散"
+    ],
+    "symptomLabels": [
+      "烦",
+      "厥"
+    ],
+    "text": "病人手足厥冷，脉乍紧者，邪结在胸中，心下满而烦，饥不能食者，病在胸中，当须吐之，宜瓜蒂散。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-355.md"
+  },
+  {
+    "number": 356,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "茯苓甘草汤"
+    ],
+    "symptomLabels": [
+      "厥"
+    ],
+    "text": "伤寒，厥而心下悸，宜先治水，当服茯苓甘草汤，却治其厥。不尔，水渍入胃，必作利也。茯苓甘草汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-356.md"
+  },
+  {
+    "number": 357,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "麻黄升麻汤"
+    ],
+    "symptomLabels": [
+      "厥逆"
+    ],
+    "text": "伤寒六七日，大下后，寸脉沉而迟，手足厥逆，下部脉不至，喉咽不利，唾脓血，泄利不止者，为难治，麻黄升麻汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-357.md"
+  },
+  {
+    "number": 358,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "伤寒四五日，腹中痛，若转气下趋少腹者，此欲自利也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-358.md"
+  },
+  {
+    "number": 359,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "干姜黄芩黄连人参汤"
+    ],
+    "symptomLabels": [],
+    "text": "伤寒本自寒下，医复吐下之，寒格，更逆吐下，若食入口即吐，干姜黄芩黄连人参汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-359.md"
+  },
+  {
+    "number": 360,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "渴",
+      "下利"
+    ],
+    "text": "下利，有微热而渴，脉弱者，今自愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-360.md"
+  },
+  {
+    "number": 361,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出",
+      "下利"
+    ],
+    "text": "下利，脉数，有微热汗出，今自愈。设复紧(一云，设脉浮复紧)，为未解。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-361.md"
+  },
+  {
+    "number": 362,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "喘",
+      "下利",
+      "厥"
+    ],
+    "text": "下利，手足厥冷，无脉者，灸之不温，若脉不还，反微喘者，死。少阴负趺阳者，为顺也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-362.md"
+  },
+  {
+    "number": 363,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "下利"
+    ],
+    "text": "下利，寸脉反浮数，尺中自涩者，必清脓血。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-363.md"
+  },
+  {
+    "number": 364,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出",
+      "下利清谷"
+    ],
+    "text": "下利清谷，不可攻表，汗出必胀满。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-364.md"
+  },
+  {
+    "number": 365,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "发热",
+      "下利"
+    ],
+    "text": "下利，脉沉弦者，下重也；脉大者，为未止；脉微弱数者，为欲自止，虽发热，不死。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-365.md"
+  },
+  {
+    "number": 366,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出",
+      "下利清谷",
+      "厥"
+    ],
+    "text": "下利，脉沉而迟，其人面少赤，身有微热，下利清谷者，必郁冒汗出而解，病人必微厥。所以然者，其面戴阳，下虚故也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-366.md"
+  },
+  {
+    "number": 367,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "渴",
+      "下利"
+    ],
+    "text": "下利,脉数而渴者，自愈；设不差，必清脓血，以有热故也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-367.md"
+  },
+  {
+    "number": 368,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "下利",
+      "厥"
+    ],
+    "text": "下利后，脉绝，手足厥冷，晬时脉还，手足温者生，脉不还者死。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-368.md"
+  },
+  {
+    "number": 369,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "下利"
+    ],
+    "text": "伤寒，下利日十余行，脉反实者，死。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-369.md"
+  },
+  {
+    "number": 370,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "通脉四逆汤"
+    ],
+    "symptomLabels": [
+      "下利清谷",
+      "厥"
+    ],
+    "text": "下利清谷，里寒外热，出而厥者，通脉四逆汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-370.md"
+  },
+  {
+    "number": 371,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "白头翁汤"
+    ],
+    "symptomLabels": [],
+    "text": "热利下重者，白头翁汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-371.md"
+  },
+  {
+    "number": 372,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "四逆汤",
+      "桂枝汤"
+    ],
+    "symptomLabels": [
+      "下利"
+    ],
+    "text": "下利，腹胀满，身体疼痛者，先温其里，乃攻其表。温里宜四逆汤，攻表宜桂枝汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-372.md"
+  },
+  {
+    "number": 373,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "白头翁汤"
+    ],
+    "symptomLabels": [
+      "下利"
+    ],
+    "text": "下利，欲饮水者，以有热故也，白头翁汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-373.md"
+  },
+  {
+    "number": 374,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小承气汤"
+    ],
+    "symptomLabels": [
+      "谵语",
+      "下利"
+    ],
+    "text": "下利，谵语者，有燥屎也，宜小承气汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-374.md"
+  },
+  {
+    "number": 375,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "栀子豉汤"
+    ],
+    "symptomLabels": [
+      "烦",
+      "下利"
+    ],
+    "text": "下利后更烦，按之心下濡者，为虚烦也，宜栀子豉汤。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-375.md"
+  },
+  {
+    "number": 376,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "呕"
+    ],
+    "text": "呕家有痈脓者，不可治呕，脓尽自愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-376.md"
+  },
+  {
+    "number": 377,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "四逆汤"
+    ],
+    "symptomLabels": [
+      "呕",
+      "厥"
+    ],
+    "text": "呕而脉弱，小便复利，身有微热，见厥者，难治，四逆汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-377.md"
+  },
+  {
+    "number": 378,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "吴茱萸汤"
+    ],
+    "symptomLabels": [
+      "头痛",
+      "干呕"
+    ],
+    "text": "干呕，吐涎沫，头痛者，吴茱萸汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-378.md"
+  },
+  {
+    "number": 379,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小柴胡汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "呕"
+    ],
+    "text": "呕而发热者，小柴胡汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-379.md"
+  },
+  {
+    "number": 380,
+    "sixChannel": "厥阴病",
+    "chapter": "辨厥阴病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "伤寒，大吐大下之，极虚。复极汗者，其人外气怫郁，复与之水，以发其汗，因得哕。所以然者，胃中寒冷故也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/厥阴病/条文-380.md"
+  },
+  {
+    "number": 381,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨霍乱病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "腹满"
+    ],
+    "text": "伤寒，哕而腹满，视其前后，知何部不利，利之即愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-381.md"
+  },
+  {
+    "number": 382,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨霍乱病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "呕吐"
+    ],
+    "text": "问曰：病有霍乱者何？答曰：呕吐而利，此名霍乱。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-382.md"
+  },
+  {
+    "number": 383,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨霍乱病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "头痛",
+      "发热",
+      "恶寒"
+    ],
+    "text": "问曰：病发热头痛，身疼恶寒，吐利者，此属何病？答曰：此名霍乱。霍乱自吐下，又利止，复更发热也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-383.md"
+  },
+  {
+    "number": 384,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨霍乱病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "呕",
+      "下利"
+    ],
+    "text": "伤寒，其脉微涩者，本是霍乱，今是伤寒。却四五日，至阴经上，转入阴必利，本呕下利者，不可治也。欲似大便，而反失气，仍不利者 ，此属阳明也，便必硬，十三日愈，所以然者，经尽故也。下利后，当便硬，硬则能食者愈，今反不能食，到后经中，颇能食，复过一经能食，过之一日当愈。不愈者，不属阳明也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-384.md"
+  },
+  {
+    "number": 385,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨霍乱病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "四逆加人参汤"
+    ],
+    "symptomLabels": [
+      "恶寒"
+    ],
+    "text": "恶寒，脉微而复利，利止，亡血也，四逆加人参汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-385.md"
+  },
+  {
+    "number": 386,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨霍乱病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "追文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "五苓散",
+      "理中丸"
+    ],
+    "symptomLabels": [
+      "头痛",
+      "发热"
+    ],
+    "text": "霍乱，头痛发热，身疼痛，热多欲饮水者，五苓散主之；寒多不用水者，理中丸主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-386.md"
+  },
+  {
+    "number": 387,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨霍乱病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "桂枝汤"
+    ],
+    "symptomLabels": [
+      "身痛"
+    ],
+    "text": "吐利止，而身痛不休者，当消息和解其外，宜桂枝汤小和之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-387.md"
+  },
+  {
+    "number": 388,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨霍乱病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "四逆汤"
+    ],
+    "symptomLabels": [
+      "发热",
+      "恶寒",
+      "汗出",
+      "厥"
+    ],
+    "text": "吐利汗出，发热恶寒，四肢拘急，手足厥冷者，四逆汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-388.md"
+  },
+  {
+    "number": 389,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨霍乱病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "四逆汤"
+    ],
+    "symptomLabels": [
+      "汗出",
+      "下利清谷"
+    ],
+    "text": "既吐且利，小便复利，而大汗出，下利清谷，内寒外热，脉微欲绝者，四逆汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-389.md"
+  },
+  {
+    "number": 390,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨霍乱病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "汗出",
+      "厥"
+    ],
+    "text": "吐已下断，汗出而厥，四肢拘急不解，脉微欲绝者，通脉四逆加猪胆汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-390.md"
+  },
+  {
+    "number": 391,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨阴阳易差后劳复病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "烦"
+    ],
+    "text": "吐利发汗，脉平，小烦者，以新虚不胜谷气故也。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-391.md"
+  },
+  {
+    "number": 392,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨阴阳易差后劳复病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "身体重",
+      "少腹里急",
+      "眼中生花",
+      "少气",
+      "膝胫拘急",
+      "拘挛"
+    ],
+    "text": "伤寒，阴易之为病，其人身体重，少气，少腹里急，或引阴中拘挛，热上冲胸，头重不欲举，眼中生花，花，一作眵。膝胫拘急者，烧裈散主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-392.md"
+  },
+  {
+    "number": 393,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨阴阳易差后劳复病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [],
+    "text": "大病差后，劳复者，枳实栀子汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-393.md"
+  },
+  {
+    "number": 394,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨阴阳易差后劳复病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "小柴胡汤"
+    ],
+    "symptomLabels": [
+      "发热"
+    ],
+    "text": "伤寒差以后，更发热，小柴胡汤主之。脉浮者，以汗解之；脉沉实(一作紧)者，以下解之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-394.md"
+  },
+  {
+    "number": 395,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨阴阳易差后劳复病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "牡蛎泽泻散"
+    ],
+    "symptomLabels": [],
+    "text": "大病差后，从腰以下有水气者，牡蛎泽泻散主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-395.md"
+  },
+  {
+    "number": 396,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨阴阳易差后劳复病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "理中丸"
+    ],
+    "symptomLabels": [],
+    "text": "大病差后，喜唾，久不了了，胸上有寒，当以丸药温之，宜理中丸。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-396.md"
+  },
+  {
+    "number": 397,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨阴阳易差后劳复病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [
+      "竹叶石膏汤"
+    ],
+    "symptomLabels": [
+      "少气"
+    ],
+    "text": "伤寒解后，虚羸少气，气逆欲吐，竹叶石膏汤主之。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-397.md"
+  },
+  {
+    "number": 398,
+    "sixChannel": "辨脉平脉",
+    "chapter": "辨阴阳易差后劳复病脉证并治",
+    "edition": "宋本",
+    "kangpingLayer": "原文",
+    "versionDisputed": false,
+    "formulaNames": [],
+    "symptomLabels": [
+      "烦"
+    ],
+    "text": "病人脉已解，而日暮微烦，以病新差，人强与谷，脾胃气尚弱，不能消谷，故令微烦，损谷则愈。",
+    "verifyStatus": "待核",
+    "locator": "01_条文/辨脉平脉/条文-398.md"
+  }
+]

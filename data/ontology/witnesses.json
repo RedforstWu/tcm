@@ -1,0 +1,259 @@
+[
+  {
+    "bookId": "songben",
+    "lockId": "kanripo-KR3e0008",
+    "group": "kanripo",
+    "ref": "KR3e0008",
+    "edition": "SBCK",
+    "differentRecension": true,
+    "note": "成无己《注解伤寒论》四部丛刊本，与赵开美本属不同版本系统，且条文间夹有成注；异文属预期"
+  },
+  {
+    "bookId": "songben",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/S-003-伤寒论宋版.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "jingui",
+    "lockId": "kanripo-KR3e0007",
+    "group": "kanripo",
+    "ref": "KR3e0007",
+    "edition": "SBCK",
+    "note": "《新编金匮要略方论》四部丛刊本"
+  },
+  {
+    "bookId": "jingui",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/J-001-金匮要略方论.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "guilin",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/S-006-桂林古本伤寒杂病论.txt",
+    "note": "jobkoko 简体网络文本。同书另有 S-002《伤寒杂病论(桂林古本)》，两者正文规范化后基本一致、对本项目条文的命中完全相同（531 条中精确 359、模糊 113）；选 S-006 是因其注明底本为罗哲初手抄本（广西人民出版社 1980 年第 2 版），出处可查"
+  },
+  {
+    "bookId": "funvke",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/G-026-傅青主女科.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "bianzheng",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/O-146-辨证录.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "shishi",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/O-135-石室秘录.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "bencao",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/B-056-本草新编.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明；本项目该书为药物专论（monographs），暂无条文可校"
+  },
+  {
+    "bookId": "shennong",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/B-001-神农本草经.txt",
+    "note": "jobkoko 简体网络文本（含孙星衍等辑本按语），版本不可考，许可未声明；本项目该书为药物专论（monographs），暂无条文可校"
+  },
+  {
+    "bookId": "xinxiu",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/B-007-新修本草.txt",
+    "note": "jobkoko 简体网络文本，版本不可考，许可未声明；本项目该书为药物专论（monographs），暂无条文可校"
+  },
+  {
+    "bookId": "zhenglei",
+    "lockId": "kanripo-KR3e0029",
+    "group": "kanripo",
+    "ref": "KR3e0029",
+    "edition": "SBCK",
+    "note": "《重修政和经史证类备用本草》四部丛刊本。另有 KR3e0028（WYG，四库本，据提要属大观本系统）；本项目维基文库底本含「重修本草之记」「政和新修经史证类备用本草序」及《本草衍义》序，属政和本系统，与 KR3e0029 一致且 SBCK 优先级更高，故选 KR3e0029；本项目该书为药物专论（monographs），暂无条文可校"
+  },
+  {
+    "bookId": "zhenglei",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/B-010-证类本草.txt",
+    "note": "jobkoko 简体网络文本，版本不可考，许可未声明；本项目该书为药物专论（monographs），暂无条文可校"
+  },
+  {
+    "bookId": "wenbing",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/N-009-温病条辨.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "wenre",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/N-005-温热经纬.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "piwei",
+    "lockId": "kanripo-KR3e0053",
+    "group": "kanripo",
+    "ref": "KR3e0053",
+    "edition": "WYG",
+    "note": "文渊阁四库全书本（该仓库无 SBCK 分支）"
+  },
+  {
+    "bookId": "piwei",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/O-030-脾胃论.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "danxi",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/O-042-丹溪心法.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "rumen",
+    "lockId": "kanripo-KR3e0051",
+    "group": "kanripo",
+    "ref": "KR3e0051",
+    "edition": "WYG",
+    "note": "文渊阁四库全书本（该仓库无 SBCK 分支）"
+  },
+  {
+    "bookId": "rumen",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/O-020-儒门事亲.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "xiaoer",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/E-003-小儿药证直诀.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "jingyue",
+    "lockId": "kanripo-KR3e0086",
+    "group": "kanripo",
+    "ref": "KR3e0086",
+    "edition": "WYG",
+    "note": "文渊阁四库全书本（该仓库无 SBCK 分支）"
+  },
+  {
+    "bookId": "jingyue",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/O-090-景岳全书.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "zhongxi",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/O-207-医学衷中参西录.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "linzheng",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/A-029-临证指南医案.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "mingyi",
+    "lockId": "kanripo-KR3e0075",
+    "group": "kanripo",
+    "ref": "KR3e0075",
+    "edition": "WYG",
+    "note": "文渊阁四库全书本（该仓库无 SBCK 分支）"
+  },
+  {
+    "bookId": "mingyi",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/O-070-名医类案.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "xumingyi",
+    "lockId": "kanripo-KR3e0096",
+    "group": "kanripo",
+    "ref": "KR3e0096",
+    "edition": "WYG",
+    "note": "文渊阁四库全书本（该仓库无 SBCK 分支）"
+  },
+  {
+    "bookId": "xumingyi",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/O-140-续名医类案.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "yizong",
+    "lockId": "kanripo-KR3e0090",
+    "group": "kanripo",
+    "ref": "KR3e0090",
+    "edition": "WYG",
+    "note": "《御纂医宗金鉴》文渊阁四库全书本（该仓库无 SBCK 分支）；本项目 yizong 为其中《删补名医方论》，只比对卷二十六至卷三十三（KR3e0090_026–_033，即删补名医方论卷一至卷八）"
+  },
+  {
+    "bookId": "yizong",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/F-066-删补名医方论.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "qianjin",
+    "lockId": "kanripo-KR3e0013",
+    "group": "kanripo",
+    "ref": "KR3e0013",
+    "edition": "WYG",
+    "note": "文渊阁四库全书本（该仓库无 SBCK 分支）"
+  },
+  {
+    "bookId": "qianjin",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/F-009-备急千金要方.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  },
+  {
+    "bookId": "waitai",
+    "lockId": "kanripo-KR3e0015",
+    "group": "kanripo",
+    "ref": "KR3e0015",
+    "edition": "WYG",
+    "note": "文渊阁四库全书本（该仓库无 SBCK 分支）"
+  },
+  {
+    "bookId": "waitai",
+    "lockId": "jobkoko",
+    "group": "web-simplified",
+    "ref": "tcm/F-012-外台秘要方.txt",
+    "note": "jobkoko 简体有标点网络文本，版本不可考，许可未声明"
+  }
+]

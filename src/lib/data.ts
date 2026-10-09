@@ -16,7 +16,7 @@ import type {
   ReasoningDataset,
   SearchDoc,
 } from '@/types/data'
-import { BOOK_CORPUS, CHENFU_BOOKS, JINGFANG_BOOKS } from '@/types/data'
+import { BOOK_BY_ID, BOOK_CORPUS, CLAUSE_BOOKS } from '@/types/data'
 
 async function fetchJson<T>(url: string): Promise<T> {
   const response = await fetch(url)
@@ -47,7 +47,7 @@ export async function loadIndex(): Promise<DatasetIndex> {
 }
 
 export async function loadClauses(book: BookId): Promise<Clause[]> {
-  if (book === 'bencao') return []
+  if (!BOOK_BY_ID[book]?.hasClauses) return []
   if (!cache.clauses[book]) {
     cache.clauses[book] = await fetchJson<Clause[]>(`/data/clauses-${book}.json`)
   }
@@ -56,11 +56,11 @@ export async function loadClauses(book: BookId): Promise<Clause[]> {
 
 export async function loadAllClauses(corpus?: Corpus | 'all'): Promise<Clause[]> {
   const books =
-    corpus === 'jingfang'
-      ? JINGFANG_BOOKS
-      : corpus === 'chenfu'
-        ? CHENFU_BOOKS.filter((b) => b !== 'bencao')
-        : [...JINGFANG_BOOKS, ...CHENFU_BOOKS.filter((b) => b !== 'bencao')]
+    !corpus || corpus === 'all'
+      ? CLAUSE_BOOKS
+      : Object.entries(BOOK_CORPUS)
+          .filter(([id, value]) => value === corpus && BOOK_BY_ID[id as BookId]?.hasClauses)
+          .map(([id]) => id as BookId)
   const lists = await Promise.all(books.map((book) => loadClauses(book)))
   return lists.flat()
 }
@@ -126,24 +126,15 @@ export async function loadChenfuReasoning(): Promise<ChenfuReasoningDataset> {
 }
 
 export function bookTitle(book: BookId): string {
-  switch (book) {
-    case 'songben':
-      return '宋本伤寒论'
-    case 'jingui':
-      return '金匮要略'
-    case 'guilin':
-      return '桂林古本'
-    case 'bianzheng':
-      return '辨证录'
-    case 'shishi':
-      return '石室秘录'
-    case 'bencao':
-      return '本草新编'
-    case 'funvke':
-      return '傅青主女科'
-    case 'funanke':
-      return '傅青主男科'
-  }
+  return BOOK_BY_ID[book]?.title ?? book
+}
+
+export function bookShortName(book: BookId): string {
+  return BOOK_BY_ID[book]?.shortName ?? book
+}
+
+export function bookColor(book: BookId): string {
+  return BOOK_BY_ID[book]?.color ?? '#78716c'
 }
 
 export function corpusOf(book: BookId): Corpus {

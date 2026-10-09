@@ -1,5 +1,7 @@
 /** 清代方剂剂量解析：1 两 = 10 钱 = 100 分 = 1000 厘 */
 
+/** 清代十六两制：1 斤 = 16 两 */
+export const LIANG_PER_JIN = 16
 export const QIAN_PER_LIANG = 10
 export const FEN_PER_QIAN = 10
 export const LI_PER_FEN = 10
@@ -47,6 +49,9 @@ const CN_NUM: Record<string, number> = {
 }
 
 const NUM_CHARS = '零〇一二贰貳兩两叁三參四五伍六陆陸七柒八捌九玖十拾百佰半壹贰叁肆伍陆柒捌玖拾'
+const DOSE_UNITS = '斤|觔|两|兩|钱|錢|分|厘|枚|个|箇|粒|片|茎|把|尺|升|合'
+const DOSE_TAIL_UNITS = '两|兩|钱|錢|分|厘'
+const DOSE_FRAGMENT_SOURCE = `([${NUM_CHARS}\\d.]+(?:${DOSE_UNITS})(?:半)?(?:[${NUM_CHARS}\\d.]+(?:${DOSE_TAIL_UNITS}))?)`
 
 export function parseChineseNumber(raw: string): number | undefined {
   const text = raw.trim()
@@ -106,20 +111,12 @@ export function extractQingDoseRaw(token: string): string {
   const parenMatches = [...trimmed.matchAll(/[（(]([^）)]+)[）)]/g)]
   for (const paren of parenMatches) {
     const inner = paren[1]!
-    const doseInParen = inner.match(
-      new RegExp(
-        `([${NUM_CHARS}\\d.]+(?:两|兩|钱|錢|分|厘|枚|个|箇|粒|片|茎|把|尺|升|合)(?:半)?(?:[${NUM_CHARS}\\d.]+(?:两|兩|钱|錢|分|厘))?)`,
-      ),
-    )
+    const doseInParen = inner.match(new RegExp(DOSE_FRAGMENT_SOURCE))
     if (doseInParen?.[1]) return doseInParen[1]
   }
 
-  // 括号外：「白术一两」「桂枝各等分」
-  const outside = trimmed.match(
-    new RegExp(
-      `([${NUM_CHARS}\\d.]+(?:两|兩|钱|錢|分|厘|枚|个|箇|粒|片|茎|把|尺|升|合)(?:半)?(?:[${NUM_CHARS}\\d.]+(?:两|兩|钱|錢|分|厘))?)`,
-    ),
-  )
+  // 括号外：「白术一两」「桂枝各等分」「熟地半斤」
+  const outside = trimmed.match(new RegExp(DOSE_FRAGMENT_SOURCE))
   if (outside?.[1]) return outside[1]
 
   return ''
@@ -134,8 +131,11 @@ export function parseQingDose(rawText: string): QingParsedDose {
     return { doseRaw: '等分' }
   }
 
-  const doseLiang =
+  const doseJin = extractUnitValue(fragment, '斤') ?? extractUnitValue(fragment, '觔')
+  const doseLiangDirect =
     extractUnitValue(fragment, '两') ?? extractUnitValue(fragment, '兩')
+  const doseLiang =
+    doseJin !== undefined ? doseJin * LIANG_PER_JIN + (doseLiangDirect ?? 0) : doseLiangDirect
   const doseQianDirect =
     extractUnitValue(fragment, '钱') ?? extractUnitValue(fragment, '錢')
   const doseFen = extractUnitValue(fragment, '分')

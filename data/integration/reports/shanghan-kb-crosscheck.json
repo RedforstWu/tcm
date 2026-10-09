@@ -1,0 +1,7049 @@
+{
+  "generatedAt": "2026-10-09T13:56:02.512Z",
+  "producer": "shanghan-kb-crosscheck",
+  "sources": {
+    "KB": "shanghan-kb@e184b49",
+    "Kanripo": "kanripo-KR3e0008@05c2c9327dc695964930c81437d873a142acd1a9",
+    "jobkoko": "jobkoko@4d4aefd805604176541052ae0d8f6f8b0a17a314"
+  },
+  "counts": {
+    "records": 2038,
+    "kbClauses": 398,
+    "kbFormulas": 259,
+    "kbCommentaries": 1194,
+    "kbSyndromes": 16,
+    "commentariesWritten": 1194,
+    "syndromesWritten": 16,
+    "clauseAttributesWritten": 398,
+    "reviewItems": 125
+  },
+  "verdicts": {
+    "text": {
+      "jobkoko": {
+        "agree": 367,
+        "variant": 30,
+        "mismatch": 1,
+        "missing": 0
+      },
+      "Kanripo": {
+        "agree": 246,
+        "variant": 133,
+        "mismatch": 14,
+        "missing": 5
+      },
+      "KB": {
+        "agree": 376,
+        "variant": 17,
+        "mismatch": 5,
+        "missing": 0
+      }
+    },
+    "formulaLink": {
+      "KB": {
+        "agree": 238,
+        "variant": 0,
+        "mismatch": 29,
+        "missing": 0
+      }
+    },
+    "doses": {
+      "KB": {
+        "agree": 76,
+        "variant": 99,
+        "mismatch": 16,
+        "missing": 0
+      }
+    },
+    "herbs": {
+      "KB": {
+        "agree": 178,
+        "variant": 9,
+        "mismatch": 6,
+        "missing": 0
+      }
+    },
+    "preparation": {
+      "KB": {
+        "agree": 8,
+        "variant": 133,
+        "mismatch": 52,
+        "missing": 0
+      }
+    }
+  },
+  "clauseLocate": {
+    "KR3e0008（注解傷寒論）": {
+      "total": 398,
+      "verdicts": {
+        "agree": 246,
+        "variant": 133,
+        "mismatch": 14,
+        "missing": 5
+      },
+      "wildcardHits": 96,
+      "located": 393,
+      "rate": "98.7%"
+    },
+    "S-003-伤寒论宋版.txt": {
+      "total": 398,
+      "verdicts": {
+        "agree": 367,
+        "variant": 30,
+        "mismatch": 1,
+        "missing": 0
+      },
+      "wildcardHits": 3,
+      "located": 398,
+      "rate": "100.0%"
+    }
+  },
+  "sectionMatchedClauses": 398,
+  "unlocated": [
+    {
+      "clauseId": "songben-16",
+      "witness": "KR3e0008（注解傷寒論）",
+      "short": false,
+      "text": "太阳病三日，已发汗，若吐、若下、若温针，仍不解者，此为坏病，桂枝不中与之也。观其脉证，知犯何逆，随证治之。桂枝本为解肌，若其人脉浮紧，发热汗不出者，不可与之也，常须识此，勿令误也。"
+    },
+    {
+      "clauseId": "songben-76",
+      "witness": "KR3e0008（注解傷寒論）",
+      "short": false,
+      "text": "发汗后，水药不得入口，为逆；若更发汗，必吐下不止。发汗吐下后，虚烦不得眠，若剧者，必反复颠倒，心中懊憹，栀子豉汤主之。若少气者，栀子甘草豉汤主之；若呕者，栀子生姜豉汤主之。"
+    },
+    {
+      "clauseId": "songben-116",
+      "witness": "KR3e0008（注解傷寒論）",
+      "short": false,
+      "text": "微数之脉，慎不可灸。因火为邪，则为烦逆，追虚逐实，血散脉中，火气虽微，内攻有力，焦骨伤筋，血难复也。脉浮，宜以汗解。用火灸之，邪无从出，因火而盛，病从腰以下必重而痹，名火逆也。欲自解者，必当先烦，烦乃有汗而解。何以知之？脉浮，故知汗出解。"
+    },
+    {
+      "clauseId": "songben-179",
+      "witness": "KR3e0008（注解傷寒論）",
+      "short": false,
+      "text": "问曰：病有太阳阳明，有正阳阳明，有少阳阳明，何谓也？答曰：太阳阳明者，脾约是也；正阳阳明者，胃家实是也；少阳阳明者，发汗利小便已，胃中燥烦实，大便难是也。"
+    },
+    {
+      "clauseId": "songben-210",
+      "witness": "KR3e0008（注解傷寒論）",
+      "short": false,
+      "text": "夫实则谵语，虚则郑声，郑声者，重语也。直视，谵语，喘满者死，下利者亦死。"
+    }
+  ],
+  "missingKbClauses": [],
+  "missingChars": {
+    "KR3e0008（注解傷寒論）": {
+      "gaijiEntity": 977,
+      "idsComposition": 0,
+      "ktPlaceholder": 0,
+      "isolatedSpace": 0
+    },
+    "S-003-伤寒论宋版.txt": {
+      "gaijiEntity": 0,
+      "idsComposition": 0,
+      "ktPlaceholder": 0,
+      "isolatedSpace": 15
+    },
+    "S-017-注解伤寒论.txt": {
+      "gaijiEntity": 0,
+      "idsComposition": 0,
+      "ktPlaceholder": 23,
+      "isolatedSpace": 75
+    },
+    "S-047-伤寒来苏集.txt": {
+      "gaijiEntity": 0,
+      "idsComposition": 0,
+      "ktPlaceholder": 0,
+      "isolatedSpace": 0
+    },
+    "S-049-伤寒贯珠集.txt": {
+      "gaijiEntity": 0,
+      "idsComposition": 0,
+      "ktPlaceholder": 10,
+      "isolatedSpace": 33
+    },
+    "合计": {
+      "gaijiEntity": 977,
+      "idsComposition": 0,
+      "ktPlaceholder": 33,
+      "isolatedSpace": 123
+    }
+  },
+  "formulaLink": {
+    "conclusions": {
+      "双方一致": 236,
+      "双方一致但需人工": 2,
+      "本地漏": 1,
+      "KB 多": 5,
+      "KB 漏": 16,
+      "需人工": 7
+    },
+    "danglingFormulaIds": []
+  },
+  "formulas": {
+    "perBook": {
+      "songben": {
+        "kb": 109,
+        "matched": 109,
+        "exact": 98,
+        "alias": 10,
+        "fuzzy": 1,
+        "notFound": 0
+      },
+      "jingui": {
+        "kb": 100,
+        "matched": 35,
+        "exact": 32,
+        "alias": 1,
+        "fuzzy": 2,
+        "notFound": 65
+      },
+      "guilin": {
+        "kb": 51,
+        "matched": 49,
+        "exact": 48,
+        "alias": 1,
+        "fuzzy": 0,
+        "notFound": 2
+      }
+    },
+    "notFound": [
+      {
+        "name": "白头翁加甘草阿胶汤",
+        "book": "jingui",
+        "locator": "02_方剂/白头翁加甘草阿胶汤.md"
+      },
+      {
+        "name": "百合洗方",
+        "book": "jingui",
+        "locator": "02_方剂/百合洗方.md"
+      },
+      {
+        "name": "半夏干姜散",
+        "book": "jingui",
+        "locator": "02_方剂/半夏干姜散.md"
+      },
+      {
+        "name": "半夏厚朴汤",
+        "book": "jingui",
+        "locator": "02_方剂/半夏厚朴汤.md"
+      },
+      {
+        "name": "半夏麻黄丸",
+        "book": "jingui",
+        "locator": "02_方剂/半夏麻黄丸.md"
+      },
+      {
+        "name": "半夏泻心汤",
+        "book": "jingui",
+        "locator": "02_方剂/半夏泻心汤.md"
+      },
+      {
+        "name": "大半夏汤",
+        "book": "jingui",
+        "locator": "02_方剂/大半夏汤.md"
+      },
+      {
+        "name": "大黄附子汤",
+        "book": "jingui",
+        "locator": "02_方剂/大黄附子汤.md"
+      },
+      {
+        "name": "大黄甘草汤",
+        "book": "jingui",
+        "locator": "02_方剂/大黄甘草汤.md"
+      },
+      {
+        "name": "大黄甘遂汤",
+        "book": "jingui",
+        "locator": "02_方剂/大黄甘遂汤.md"
+      },
+      {
+        "name": "大黄硝石汤",
+        "book": "jingui",
+        "locator": "02_方剂/大黄硝石汤.md"
+      },
+      {
+        "name": "大建中汤",
+        "book": "jingui",
+        "locator": "02_方剂/大建中汤.md",
+        "nearest": "jingui-formula-小建中汤"
+      },
+      {
+        "name": "当归生姜羊肉汤",
+        "book": "jingui",
+        "locator": "02_方剂/当归生姜羊肉汤.md"
+      },
+      {
+        "name": "矾石丸",
+        "book": "jingui",
+        "locator": "02_方剂/矾石丸.md",
+        "nearest": "jingui-formula-矾石汤"
+      },
+      {
+        "name": "茯苓戎盐汤",
+        "book": "jingui",
+        "locator": "02_方剂/茯苓戎盐汤.md"
+      },
+      {
+        "name": "茯苓杏仁甘草汤",
+        "book": "jingui",
+        "locator": "02_方剂/茯苓杏仁甘草汤.md"
+      },
+      {
+        "name": "茯苓泽泻汤",
+        "book": "jingui",
+        "locator": "02_方剂/茯苓泽泻汤.md"
+      },
+      {
+        "name": "附子粳米汤",
+        "book": "jingui",
+        "locator": "02_方剂/附子粳米汤.md"
+      },
+      {
+        "name": "甘草干姜茯苓白术汤",
+        "book": "jingui",
+        "locator": "02_方剂/甘草干姜茯苓白术汤.md"
+      },
+      {
+        "name": "甘草小麦大枣汤",
+        "book": "jingui",
+        "locator": "02_方剂/甘草小麦大枣汤.md"
+      },
+      {
+        "name": "甘遂半夏汤",
+        "book": "jingui",
+        "locator": "02_方剂/甘遂半夏汤.md"
+      },
+      {
+        "name": "栝蒌薤白白酒汤",
+        "book": "jingui",
+        "locator": "02_方剂/栝蒌薤白白酒汤.md"
+      },
+      {
+        "name": "栝蒌薤白半夏汤",
+        "book": "jingui",
+        "locator": "02_方剂/栝蒌薤白半夏汤.md"
+      },
+      {
+        "name": "桂枝二麻黄一汤",
+        "book": "guilin",
+        "locator": "02_方剂/桂枝二麻黄一汤.md"
+      },
+      {
+        "name": "桂枝加黄芪汤",
+        "book": "jingui",
+        "locator": "02_方剂/桂枝加黄芪汤.md"
+      },
+      {
+        "name": "桂枝去芍药汤",
+        "book": "guilin",
+        "locator": "02_方剂/桂枝去芍药汤.md",
+        "nearest": "guilin-formula-桂枝加芍药汤"
+      },
+      {
+        "name": "桂枝生姜枳实汤",
+        "book": "jingui",
+        "locator": "02_方剂/桂枝生姜枳实汤.md"
+      },
+      {
+        "name": "厚朴大黄汤",
+        "book": "jingui",
+        "locator": "02_方剂/厚朴大黄汤.md"
+      },
+      {
+        "name": "厚朴麻黄汤",
+        "book": "jingui",
+        "locator": "02_方剂/厚朴麻黄汤.md"
+      },
+      {
+        "name": "厚朴七物汤",
+        "book": "jingui",
+        "locator": "02_方剂/厚朴七物汤.md"
+      },
+      {
+        "name": "厚朴三物汤",
+        "book": "jingui",
+        "locator": "02_方剂/厚朴三物汤.md"
+      },
+      {
+        "name": "滑石白鱼散",
+        "book": "jingui",
+        "locator": "02_方剂/滑石白鱼散.md"
+      },
+      {
+        "name": "黄土汤",
+        "book": "jingui",
+        "locator": "02_方剂/黄土汤.md",
+        "nearest": "jingui-formula-黄芩汤"
+      },
+      {
+        "name": "己椒苈黄丸",
+        "book": "jingui",
+        "locator": "02_方剂/己椒苈黄丸.md"
+      },
+      {
+        "name": "橘皮汤",
+        "book": "jingui",
+        "locator": "02_方剂/橘皮汤.md"
+      },
+      {
+        "name": "橘皮竹茹汤",
+        "book": "jingui",
+        "locator": "02_方剂/橘皮竹茹汤.md"
+      },
+      {
+        "name": "苦参汤",
+        "book": "jingui",
+        "locator": "02_方剂/苦参汤.md"
+      },
+      {
+        "name": "狼牙汤",
+        "book": "jingui",
+        "locator": "02_方剂/狼牙汤.md"
+      },
+      {
+        "name": "麦门冬汤",
+        "book": "jingui",
+        "locator": "02_方剂/麦门冬汤.md"
+      },
+      {
+        "name": "木防己去石膏加茯苓芒硝汤",
+        "book": "jingui",
+        "locator": "02_方剂/木防己去石膏加茯苓芒硝汤.md"
+      },
+      {
+        "name": "木防己汤",
+        "book": "jingui",
+        "locator": "02_方剂/木防己汤.md"
+      },
+      {
+        "name": "排脓汤",
+        "book": "jingui",
+        "locator": "02_方剂/排脓汤.md",
+        "nearest": "jingui-formula-排脓散"
+      },
+      {
+        "name": "人参汤",
+        "book": "jingui",
+        "locator": "02_方剂/人参汤.md"
+      },
+      {
+        "name": "射干麻黄汤",
+        "book": "jingui",
+        "locator": "02_方剂/射干麻黄汤.md"
+      },
+      {
+        "name": "葶苈大枣泻肺汤",
+        "book": "jingui",
+        "locator": "02_方剂/葶苈大枣泻肺汤.md"
+      },
+      {
+        "name": "土瓜根散",
+        "book": "jingui",
+        "locator": "02_方剂/土瓜根散.md"
+      },
+      {
+        "name": "温经汤",
+        "book": "jingui",
+        "locator": "02_方剂/温经汤.md"
+      },
+      {
+        "name": "文蛤汤",
+        "book": "jingui",
+        "locator": "02_方剂/文蛤汤.md"
+      },
+      {
+        "name": "乌头赤石脂丸",
+        "book": "jingui",
+        "locator": "02_方剂/乌头赤石脂丸.md"
+      },
+      {
+        "name": "乌头桂枝汤",
+        "book": "jingui",
+        "locator": "02_方剂/乌头桂枝汤.md"
+      },
+      {
+        "name": "下瘀血汤",
+        "book": "jingui",
+        "locator": "02_方剂/下瘀血汤.md"
+      },
+      {
+        "name": "硝石矾石散",
+        "book": "jingui",
+        "locator": "02_方剂/硝石矾石散.md"
+      },
+      {
+        "name": "小半夏加茯苓汤",
+        "book": "jingui",
+        "locator": "02_方剂/小半夏加茯苓汤.md"
+      },
+      {
+        "name": "小半夏汤",
+        "book": "jingui",
+        "locator": "02_方剂/小半夏汤.md"
+      },
+      {
+        "name": "杏子汤",
+        "book": "jingui",
+        "locator": "02_方剂/杏子汤.md"
+      },
+      {
+        "name": "旋覆花汤",
+        "book": "jingui",
+        "locator": "02_方剂/旋覆花汤.md"
+      },
+      {
+        "name": "薏苡附子散",
+        "book": "jingui",
+        "locator": "02_方剂/薏苡附子散.md"
+      },
+      {
+        "name": "茵陈五苓散",
+        "book": "jingui",
+        "locator": "02_方剂/茵陈五苓散.md"
+      },
+      {
+        "name": "越婢加半夏汤",
+        "book": "jingui",
+        "locator": "02_方剂/越婢加半夏汤.md"
+      },
+      {
+        "name": "越婢汤",
+        "book": "jingui",
+        "locator": "02_方剂/越婢汤.md"
+      },
+      {
+        "name": "皂荚丸",
+        "book": "jingui",
+        "locator": "02_方剂/皂荚丸.md"
+      },
+      {
+        "name": "泽泻汤",
+        "book": "jingui",
+        "locator": "02_方剂/泽泻汤.md"
+      },
+      {
+        "name": "枳实芍药散",
+        "book": "jingui",
+        "locator": "02_方剂/枳实芍药散.md"
+      },
+      {
+        "name": "猪膏发煎",
+        "book": "jingui",
+        "locator": "02_方剂/猪膏发煎.md"
+      },
+      {
+        "name": "竹皮大丸",
+        "book": "jingui",
+        "locator": "02_方剂/竹皮大丸.md"
+      },
+      {
+        "name": "竹叶汤",
+        "book": "jingui",
+        "locator": "02_方剂/竹叶汤.md"
+      },
+      {
+        "name": "紫参汤",
+        "book": "jingui",
+        "locator": "02_方剂/紫参汤.md"
+      }
+    ],
+    "fuzzy": [
+      {
+        "kbName": "防己黄芪汤",
+        "localId": "jingui-formula-防己黄耆汤",
+        "book": "jingui"
+      },
+      {
+        "kbName": "黄芪桂枝五物汤",
+        "localId": "jingui-formula-黄耆桂枝五物汤",
+        "book": "jingui"
+      },
+      {
+        "kbName": "去桂枝加白术汤",
+        "localId": "songben-formula-去桂加白术汤",
+        "book": "songben"
+      }
+    ],
+    "formulaComponents": [],
+    "duplicateTargets": [
+      {
+        "localId": "songben-formula-理中丸",
+        "kbNames": [
+          "理中汤",
+          "理中丸"
+        ]
+      }
+    ],
+    "skippedPreparation": [],
+    "nearHerbNames": [
+      {
+        "formulaId": "jingui-formula-大黄牡丹汤",
+        "local": "瓜子",
+        "kb": "冬瓜子"
+      },
+      {
+        "formulaId": "songben-formula-烧裈散",
+        "local": "妇人中裈",
+        "kb": "中裈"
+      },
+      {
+        "formulaId": "guilin-formula-升麻鳖甲去雄黄蜀椒汤",
+        "local": "鳖甲手掌大",
+        "kb": "鳖甲"
+      },
+      {
+        "formulaId": "guilin-formula-升麻鳖甲汤",
+        "local": "鳖甲手掌大",
+        "kb": "鳖甲"
+      }
+    ]
+  },
+  "commentaries": {
+    "stats": {
+      "成无己": {
+        "cards": 398,
+        "quotes": 1127,
+        "verified": 335,
+        "wildcardHits": 7,
+        "segmented": 7,
+        "misattributed": 679,
+        "zhengZhengOnly": 0,
+        "byWitness": {
+          "S-017-注解伤寒论.txt": 329,
+          "KR3e0008（注解傷寒論）": 6
+        },
+        "rate": "29.7%"
+      },
+      "柯琴": {
+        "cards": 398,
+        "quotes": 960,
+        "verified": 731,
+        "wildcardHits": 0,
+        "segmented": 3,
+        "misattributed": 1,
+        "zhengZhengOnly": 37,
+        "byWitness": {
+          "S-047-伤寒来苏集.txt": 731
+        },
+        "rate": "76.1%"
+      },
+      "尤怡": {
+        "cards": 398,
+        "quotes": 1144,
+        "verified": 1128,
+        "wildcardHits": 7,
+        "segmented": 3,
+        "misattributed": 0,
+        "zhengZhengOnly": 0,
+        "byWitness": {
+          "S-049-伤寒贯珠集.txt": 1128
+        },
+        "rate": "98.6%"
+      }
+    },
+    "unmappedFormulaNames": [
+      "肾气丸",
+      "泻心汤"
+    ],
+    "idCollisions": [],
+    "unknownCommentators": [],
+    "skipped": [],
+    "failedQuoteSamples": [
+      {
+        "id": "commentary-成无己-033",
+        "quote": "於葛根東加半夏，兼解少陽半裡之邪。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-041",
+        "quote": "恐人服止渴藥，反滋水氣，故先提不渴二字作眼。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-041",
+        "quote": "水氣在心下則咳，為必然之症。咳與喘，皆水氣射肺所致。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-042",
+        "quote": "表未解宜桂枝汤",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-047",
+        "quote": "衄乃解，又云自衄者愈。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-055",
+        "quote": "衄乃解，又云自衄者愈。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-061",
+        "quote": "独任干姜、生附，以急回其阳。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-076",
+        "quote": "若更汗之，則吐不止，胃氣大傷矣。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-080",
+        "quote": "此梔子乾薑湯去豉用薑，是取其橫散。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-088",
+        "quote": "心液大脫，故恍惚心亂，甚於心下悸矣。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-100",
+        "quote": "設或不瘥，當更用柴胡，令邪走少陽，使有出路。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-108",
+        "quote": "肝旺則侮其所勝，直犯脾土，故曰縱。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-125",
+        "quote": "小便不利而發黃者，病在氣分。若小便自利而發狂者，病在血分，抵當湯症也。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-129",
+        "quote": "此則結在臟而不在腑，故見症種種不同。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-129",
+        "quote": "舌苔白而滑，是水來克火，心火幾於熄矣，故難治。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-129",
+        "quote": "是結在無形之氣分，五臟不通，故曰藏結。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-130",
+        "quote": "藏結是積漸凝結而為陰，五臟之陽已竭也。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-177",
+        "quote": "治法當滋陰以急和其裡。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-188",
+        "quote": "其汗則然，從內溢而無止息，與太陽風邪為汗者不同。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-191",
+        "quote": "痼瘕，即初硬後溏之謂。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-202",
+        "quote": "按：太陽陽明皆多血之經，故皆有血症。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-214",
+        "quote": "若腹中转矢气者，里实也，可更与一升。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-246",
+        "quote": "陽明論脾約脈症等條，與本論不合，無以發明，反以滋惑，剔出附後。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-247",
+        "quote": "陽明論脾約脈症等條，與本論不合，無以發明，反以滋惑，剔出附後。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-299",
+        "quote": "氣息者，乃腎間動氣，臟腑之本，經脈之根，呼吸之蒂，三焦生氣之原也。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-304",
+        "quote": "背惡寒者，俞氣化薄，陰寒得以乘之也。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-307",
+        "quote": "水歸其職，腹痛自除、膿血自清、小便自利矣。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-312",
+        "quote": "苦酒湯：半夏（十四枚，洗破如棗核大）　雞子（一枚去黃存白留殼中）",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-313",
+        "quote": "半夏散：半夏　桂枝　甘草上三味，各等分。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-315",
+        "quote": "服之利仍不止，更厥逆，反無脈，是陰盛格陽也。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-322",
+        "quote": "蓋真陰不可虛，強陽不可縱也。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-326",
+        "quote": "病發於陰而反下之，則氣無止息而利不止矣。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-327",
+        "quote": "今不得一焉，不能無闕文之憾。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-328",
+        "quote": "木克於丑，旺於寅、卯，故主此三時。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-335",
+        "quote": "厥微者，當四逆散；厥深者，當白虎湯。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-344",
+        "quote": "厥利不止，臟腑氣絕矣；躁不得臥，精神不治矣。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-345",
+        "quote": "厥利不止，臟腑氣絕矣。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-348",
+        "quote": "發熱而厥除中者，是有餘而往，不足隨之也。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-367",
+        "quote": "若不瘥，則數為實熱，渴為邪火正熾矣。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-371",
+        "quote": "暴注下迫屬於熱，熱利下重，乃濕熱之穢氣鬱遏廣腸，故魄門重滯而難出也。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-371",
+        "quote": "此熱利下重之宣劑。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-378",
+        "quote": "嘔而無物，胃虛可知矣；吐惟涎沫，胃寒可知矣。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-成无己-390",
+        "quote": "通脈四逆加豬膽汁湯：前方加豬膽汁一合。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-柯琴-014",
+        "quote": "本方重在汗出、恶风，而汗出犹为亲切，汗不出者，便非桂枝证。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-柯琴-015",
+        "quote": "桂枝本上焦之剂，气上冲，犹是外证，不上冲，便是坏病。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-柯琴-017",
+        "quote": "病指外证，言病在表，固不可下，更不可吐。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-柯琴-017",
+        "quote": "平素好酒，湿热在中者，得甘必呕，此其人苦欲之情，又不可不知。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-柯琴-019",
+        "quote": "桂枝本汗剂，服之不汗而反吐，此为逆矣。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-柯琴-022",
+        "quote": "必加附子之辛热，为纯阳之剂矣。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-柯琴-023",
+        "quote": "当汗不汗，其身必痒，当以麻桂二汤，各取三分之一，合为半服，而少汗之。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-柯琴-030",
+        "quote": "更饮甘草干姜汤，夜半阳气还，两足当热；胫尚微拘急，重与芍药甘草汤，尔乃胫伸。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-柯琴-030",
+        "quote": "以承气汤微溏，则止其谵语，故知病可愈。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-柯琴-048",
+        "quote": "何以知汗出不彻？以脉涩故知也。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-柯琴-117",
+        "quote": "上论火炙证。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-柯琴-118",
+        "quote": "上论火炙证。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-柯琴-220",
+        "quote": "手足漐漐汗出，是热聚于胃也。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-柯琴-225",
+        "quote": "表热里寒四字，括尽本方大义。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-柯琴-230",
+        "quote": "舌上白苔者，痰饮溢于上焦，仍未离乎半表半里。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-柯琴-247",
+        "quote": "三阳明论脾约脉证等条，与本论不合，无以发明，反以滋惑，剔出附后。",
+        "ratio": null
+      },
+      {
+        "id": "commentary-柯琴-252",
+        "quote": "斯必浊邪上升，邪害空窍，所谓阳气者闭塞，地气者冒明也。",
+        "ratio": null
+      }
+    ],
+    "failedQuoteCount": 357,
+    "misattributions": [
+      {
+        "id": "commentary-成无己-001",
+        "quote": "後凡言太陽病者，必據此條脈症。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-001",
+        "quote": "六經各立病機一條，提揭一經綱領。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-001",
+        "quote": "六經雖各有表症，惟太陽主表，故表症、表脈，獨太陽得其全。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-002",
+        "quote": "風為陽邪，風中太陽，兩陽相搏，而陰氣衰少。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-002",
+        "quote": "風性散漫，脈應其象，故浮而緩。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-002",
+        "quote": "陽浮故熱自發，陰弱故汗自出。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-003",
+        "quote": "寒邪凝斂，熱不遽發，非若風邪易於發熱耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-003",
+        "quote": "寒邪外束，故體痛，寒邪內侵，故嘔逆。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-003",
+        "quote": "陰陽指浮沉而言，不專指尺寸也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-004",
+        "quote": "傳者，即《內經》「人傷於寒，而傳為熱」之「傳」，乃太陽之氣，生熱而傳於表。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-004",
+        "quote": "非太陽與陽明、少陽經絡相傳之謂也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-004",
+        "quote": "太陽主表，故寒邪傷人，即太陽先受。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-005",
+        "quote": "夫三陽各受寒邪，不必自太陽始。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-005",
+        "quote": "若傷寒二日，當陽明病，若不見陽明表證。是陽明之熱不傳於表也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-005",
+        "quote": "是言見症之期，非傳經之日也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-006",
+        "quote": "發汗不如法，風去而熱反熾。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-006",
+        "quote": "推而廣之，則六經俱有溫病，非獨太陽一經也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-006",
+        "quote": "溫病內外皆熱，所以別於中風、傷寒之惡寒發熱也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-007",
+        "quote": "無熱，指初得病時，不是到底無熱。發陰，指陽證之陰，非指直中於陰。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-007",
+        "quote": "至此則陰陽自和，故愈。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-008",
+        "quote": "發於陽者七日愈，是七日乃太陽一經行盡之期，不是六經傳變之日。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-008",
+        "quote": "欲再作經，是太陽過經不解，復病陽明而為並病也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-008",
+        "quote": "曰頭痛者，是未離太陽可知；曰行，則與傳不同。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-009",
+        "quote": "人身陰陽，上合於天，天氣至太陽之時，人身太陽之病得藉其主氣而解，此天人感應之理也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-009",
+        "quote": "巳、午為陽中之陽，故太陽主之，至未上者，陽過其度也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-010",
+        "quote": "不了了者，余邪未除也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-010",
+        "quote": "此雖舉風家，傷寒概之矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-010",
+        "quote": "七日表解後，復過一候，而五臟元氣始充，故十二日精神慧爽而愈。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9615
+      },
+      {
+        "id": "commentary-成无己-011",
+        "quote": "此屬內因，不是外感，亦不關於七情。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-011",
+        "quote": "法當以六味、八味二丸，補腎中之真陰真陽，而骨髓之蓄熱痼寒，可得漸平耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9667
+      },
+      {
+        "id": "commentary-成无己-011",
+        "quote": "是病只在骨髓，不在皮膚。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-014",
+        "quote": "此惡風不惡寒者，是感三時鼓動之陽風。風勝而無寒，故君葛根之甘涼，減桂枝之辛熱。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-014",
+        "quote": "足太陽脈自絡腦而還出下項，挾背脊。此從風池而入，不上干於腦，而下行於背，故頭不痛而項背強也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-014",
+        "quote": "KTKT，項背牽動之象，動中見有強意。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-015",
+        "quote": "氣上衝者，陽氣有餘也，故外雖不解，亦不內陷。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-015",
+        "quote": "仍與桂枝湯汗之，上衝者，因而外解矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-015",
+        "quote": "用前法，是啜稀熱粥法。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-016",
+        "quote": "非謂桂枝竟不可用，下文皆隨症治逆法。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-016",
+        "quote": "若誤汗，則有遂漏不止……妄下，則有結胸痞硬、協熱下利、脹滿清穀等症。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-016",
+        "quote": "是桂枝症已罷，故不可更行桂枝湯也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-016",
+        "quote": "治之不當，故病仍不解。壞病者，即變症也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-017",
+        "quote": "平素好酒，濕熱在中，故得甘必嘔。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-017",
+        "quote": "仲景用方慎重如此，言外當知有葛根連芩以解肌之法矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-018",
+        "quote": "喘為麻黃症，治喘者功在杏仁。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-018",
+        "quote": "此妄下後，表雖不解，腠理已疏，故不宜麻黃而宜桂枝。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9524
+      },
+      {
+        "id": "commentary-成无己-018",
+        "quote": "復加厚朴以佐之，喘隨汗解矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-019",
+        "quote": "桂枝湯不特酒客當禁，凡熱淫於內者，用甘溫辛熱以助其陽，不能解肌，反能涌越熱勢。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-019",
+        "quote": "所過致傷陽絡，則吐膿血可必也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-020",
+        "quote": "當用桂枝以補心陽……必加附子以回腎陽。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-020",
+        "quote": "汗多亡陽，玄府不閉，風乘虛入，故復惡風。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-020",
+        "quote": "汗多於表，津弱於裡，故小便難。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-020",
+        "quote": "太陽固當汗，若不取微似有汗而發之太過，陽氣無所止息，而汗出不止矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-021",
+        "quote": "此下後脈促而不汗出，胸滿而不喘，非陽盛也，是寒邪內結，將作結胸之症。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-021",
+        "quote": "促為陽脈，胸滿為陽症，然陽盛則促，陽虛亦促，陽盛則胸滿，陽虛亦胸滿。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-021",
+        "quote": "去芍藥之酸寒，則陰氣流行，而邪自不結，即扶陽之劑矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-022",
+        "quote": "若微惡寒，則陰氣凝聚，恐薑、桂之力不能散，必加附子之辛熱。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-022",
+        "quote": "仲景於桂枝湯一加一減，遂成三法。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-023",
+        "quote": "八九日是當解未解之時，寒熱如瘧，是虛實互發之症。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-023",
+        "quote": "不可發汗，又不可不汗，故立此法。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-023",
+        "quote": "若其人不嘔，是胃無邪，圊便是胃不實；脈微緩，是有胃氣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-023",
+        "quote": "若其人熱多寒少，而面色緣緣正赤者，是陽氣怫鬱在表不得越。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-024",
+        "quote": "風邪本自項入，必刺風池、風府，疏通來路，以出其邪。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-024",
+        "quote": "服湯反煩而外熱不解，非桂枝湯不當用也，以外感之風邪重，內之陽氣亦重耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-024",
+        "quote": "前條治中風之始，此條治中風之變。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-024",
+        "quote": "仍與桂枝湯，以和營衛。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-025",
+        "quote": "必倍加桂枝以解肌，少與麻黃以開表。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-025",
+        "quote": "此大汗未止，內不煩渴，是病猶在表，桂枝症未罷，當仍與之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-025",
+        "quote": "服桂枝湯，取微似有汗者佳，若大汗出，病必不除矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-025",
+        "quote": "然瘧發作有時，日不再發，此則風氣留其處，故日再發耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-026",
+        "quote": "即大汗出後，脈洪大，大煩渴，是陽邪內陷，不是汗多亡陽。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-026",
+        "quote": "若大汗出後而大煩渴，是陽陷於內，急當滋陰，故用白虎加人參湯。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-028",
+        "quote": "但得膀胱水去，而太陽表裡症悉除。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-028",
+        "quote": "汗出不徹而遽下之，心下之水氣凝結，故反無汗而外不解，心下滿而微痛也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-028",
+        "quote": "然病根在心下，而病機在膀胱。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-028",
+        "quote": "如小便不利，病為在裡，是太陽之本病，而非桂枝症未罷也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-031",
+        "quote": "凡風傷衛分，則皮毛閉，故無汗。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-031",
+        "quote": "葛根稟氣輕清，而賦體濃重。此不惟取其輕以去實，復取其重以鎮動也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9643
+      },
+      {
+        "id": "commentary-成无己-031",
+        "quote": "足太陽脈自絡腦而還出下項，挾背脊。此從風池而入，不上干於腦，而下行於背，故頭不痛而項背強也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-032",
+        "quote": "不言兩經相合何等病，但舉下利而言，是病偏於陽明矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-032",
+        "quote": "葛根為陽明經藥，惟表實裡虛者宜之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-032",
+        "quote": "下利而曰「必」，必陽並於表、表實而裡虛耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-033",
+        "quote": "太陽陽明合病……今不下利而嘔，又似乎與少陽合病矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-034",
+        "quote": "故君葛根之輕清以解肌，佐連、芩之苦寒以清裡。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-034",
+        "quote": "桂枝症，脈本弱，誤下後而反促者，陽氣重故也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-034",
+        "quote": "利遂不止者，所謂暴注下迫，皆屬於熱，與脈弱而協熱下利不同。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-034",
+        "quote": "邪束於表，陽擾於內，故喘而汗出。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-038",
+        "quote": "風盛於表，非發汗不解。陽鬱於內，非大寒不除。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-038",
+        "quote": "風有陰陽，太陽中風汗出脈緩者，是中於鼓動之陽風。此汗不出而脈緊者，中於凜冽之陰風矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-038",
+        "quote": "故於麻黃湯倍麻黃以發汗，加石膏以除煩。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-038",
+        "quote": "惟煩躁是本症所獨，故制此方以治風熱相搏耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-039",
+        "quote": "但身重乍有輕時，見表症將罷，以無汗煩躁。故合用大青龍。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-039",
+        "quote": "寒有重輕、傷之重者，脈陰陽俱緊而身疼；傷之輕者，脈浮緩而身重。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-039",
+        "quote": "若反與麻黃之散，石膏之寒，真陽立亡矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-039",
+        "quote": "無少陰症，仲景正為不汗出而煩躁之症。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-040",
+        "quote": "發熱是表未解，乾嘔而咳，是水氣為患。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-040",
+        "quote": "水性動，其變多。水氣下而不上，則或渴或利；上而不下，則或噎或喘。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-040",
+        "quote": "心下有水氣，是傷藏也。水氣未入於胃，故乾嘔。咳者，水氣射肺也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-040",
+        "quote": "制小青龍以兩解表裡之邪，復立加減法，以治或然之症。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-041",
+        "quote": "服湯已而反渴，水氣內散，寒邪亦外散也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-041",
+        "quote": "水氣上升，是以不渴。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-042",
+        "quote": "浮弱为桂枝脉",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-043",
+        "quote": "喘為麻黃症，治喘者功在杏仁。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-043",
+        "quote": "此妄下後，表雖不解，腠理已疏，故不宜麻黃而宜桂枝。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9524
+      },
+      {
+        "id": "commentary-成无己-043",
+        "quote": "復加厚朴以佐之，喘隨汗解矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-045",
+        "quote": "誤下後而脈仍浮，可知表症未解，陽邪未陷。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-045",
+        "quote": "只宜桂枝湯解外，勿以脈浮仍用麻黃湯也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-050",
+        "quote": "只尺中遲，即不可發汗，況微弱乎？",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-055",
+        "quote": "宜桂枝句，直接發汗來，不是用桂枝止衄，亦非用在已衄後也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-057",
+        "quote": "伤寒发汗解、复烦而脉浮数者，热在表未传里也，故用桂枝。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-057",
+        "quote": "仲景每于汗下后表不解者，用桂枝更汗而不用麻黄。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-058",
+        "quote": "其人亡血亡津液，阴阳安能自和？欲其阴阳自和，必先调其阴阳之所自。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-058",
+        "quote": "阴自亡血，阳自亡津，益血生津，阴阳自和矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-059",
+        "quote": "若心下无水气，则发汗后津液既亡，小便不利者，亦将何所利乎？",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-059",
+        "quote": "勿治之，是禁其勿得利小便。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-059",
+        "quote": "欲小便利，治在益其津液也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-060",
+        "quote": "内阳虚，故脉微细；外阳虚，故振栗恶寒，即干姜附子证。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-061",
+        "quote": "汗出而里阳将脱，故烦躁也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-061",
+        "quote": "脉沉微，是纯阴无阳矣；身无大热，表阳将去矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-061",
+        "quote": "夜而安静，知阴不虚也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-062",
+        "quote": "此在發汗後而脈沉遲，是內外皆虛。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-062",
+        "quote": "發汗後身疼是表虛，不得更兼辛散，故去生薑；沉為在裡，遲為在藏，自當遠陰寒，故去芍藥。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-062",
+        "quote": "更兼人參以通血脈，裡和而表自解矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-063",
+        "quote": "此则内外皆热而不恶寒。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-063",
+        "quote": "一加一减，温解之方，转为凉散之剂矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-063",
+        "quote": "于麻黄汤去桂枝之辛热，加石膏之甘寒。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-063",
+        "quote": "仲景每于汗下后表不解者，用桂枝更汗而不用麻黄。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-064",
+        "quote": "桂枝為君，獨任甘草為佐。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-064",
+        "quote": "汗多則心液虛，心氣餒故悸；叉手自冒，則外有所衛，得按則內有所憑。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-064",
+        "quote": "與心中煩、心下有水氣而悸者迥別。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-065",
+        "quote": "茯苓以伐腎邪，桂枝以保心氣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-065",
+        "quote": "然水勢尚在下焦，欲作奔豚，尚未發也，當先其時而治之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-065",
+        "quote": "心下悸欲按者，心氣虛；臍下悸者，腎水乘火而上克。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-066",
+        "quote": "此条不是妄汗，以其人本虚故也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-066",
+        "quote": "汗后反见有余症。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-066",
+        "quote": "邪气盛则实，故用厚朴薑夏散邪以除腹满；正气虚，故用人参甘草补中而益元气。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-067",
+        "quote": "此沉緊之弦，是木邪內發。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-067",
+        "quote": "今脈沉緊，是為在裡，反發汗以攻表，經絡更虛。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-067",
+        "quote": "傷寒初起，正宜發表，吐下非法也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-067",
+        "quote": "吐下後胃中空虛，木邪為患。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-068",
+        "quote": "此陰陽俱虛，故加附子。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-068",
+        "quote": "發汗後反惡寒，裡虛也，表雖不解，急當救裡。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-068",
+        "quote": "故於桂枝湯去桂、薑、棗，加附子以溫經散寒，助芍藥、甘草以和中耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9615
+      },
+      {
+        "id": "commentary-成无己-068",
+        "quote": "若反與桂枝攻表，此誤也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-069",
+        "quote": "汗多既亡阳，下多又亡阴。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-069",
+        "quote": "薑、附以回阳，参、苓以滋阴，则烦躁止而外热自除。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-069",
+        "quote": "未经汗下而烦躁，为阳盛；汗下后而烦躁，是阳虚。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-070",
+        "quote": "此见调胃承气，是和剂而非下剂也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-070",
+        "quote": "汗后正气夺则胃虚。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-070",
+        "quote": "邪气盛则胃实。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-070",
+        "quote": "虚、实俱指胃言。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-073",
+        "quote": "不渴者津液未亡，故仍用桂加減，更發其汗。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-073",
+        "quote": "二方皆因心下有水氣而設。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-073",
+        "quote": "渴者是津液已亡，故少用桂枝，多服暖水，微發其汗。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-075",
+        "quote": "汗出多則心液虛，故叉手外衛，此望而知之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-075",
+        "quote": "心寄竅於耳，心虛故耳聾，此問而知之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-076",
+        "quote": "虛熱相搏者多嘔，加生薑以散邪。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-076",
+        "quote": "陽重之人，大發其汗，有升無降，故水藥拒膈而不得入也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-077",
+        "quote": "此陽明半表半裡涌泄之劑也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-077",
+        "quote": "豆形象腎，制而為豉，輕浮上行，能使心腹之邪上出於口。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-077",
+        "quote": "梔子苦能泄熱，寒能勝熱。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-078",
+        "quote": "病發於陽而反下之，外熱未除，心中結痛。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-078",
+        "quote": "此乃熱結心中，用梔豉湯，火鬱則發之也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-078",
+        "quote": "雖輕於結胸，而甚於懊憹矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-079",
+        "quote": "此梔子厚朴湯以枳、朴易豉，是取其下泄，皆不欲上越之義。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9565
+      },
+      {
+        "id": "commentary-成无己-079",
+        "quote": "若微滿，猶是梔子厚朴湯證。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-080",
+        "quote": "皆不欲上越之義。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-081",
+        "quote": "觀梔子柏皮湯與茵陳湯中俱有梔子，俱不言吐，又病患舊微溏者不可與，則梔子之性自明。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9722
+      },
+      {
+        "id": "commentary-成无己-082",
+        "quote": "此條用真武者，全在降火利水，重在發熱而心下悸。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-082",
+        "quote": "仍發熱而心下悸，坎陽外亡而腎水凌心耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-082",
+        "quote": "頭眩身瞤，因心下悸所致。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-083",
+        "quote": "因有此亡津液之病機，成此胃家實之病根也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-084",
+        "quote": "小便由於氣化。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-085",
+        "quote": "瘡家病與外感不同，故治法與風寒亦異。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-085",
+        "quote": "汗之則津液越出，筋脈血虛，攣急而為痙矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-085",
+        "quote": "諸脈症之當審，正此故耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-086",
+        "quote": "故脈緊急，而目直視也，亦心腎俱絕矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-086",
+        "quote": "目不轉，故不能眴；目不合，故不得眠。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-086",
+        "quote": "已脫血而復汗之，津液枯竭。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-087",
+        "quote": "血之與汗，異名同類。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-088",
+        "quote": "汗家，平素多汗人也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-088",
+        "quote": "心虛於上，則腎衰於下，故陰疼。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-088",
+        "quote": "用以固脫而鎮怯，故為丸以治之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-089",
+        "quote": "蛔者，蟲也，因所食生冷之物，與胃中濕熱之氣，相結而成。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-090",
+        "quote": "病從外來者，當先治外而後治其內。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-092",
+        "quote": "此太陽麻黃湯證。病為在表，脈當浮而反沉，此為逆也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-092",
+        "quote": "熱雖發於表，為虛陽，寒反據於裡，是真陰矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-092",
+        "quote": "陽證見陰脈，是陽消陰長之兆也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-093",
+        "quote": "待汗出冒自解，然但得個表和。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-093",
+        "quote": "裡症既得，然後下之，此雖復下，治不為逆矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-093",
+        "quote": "冒者如有物蒙蔽之狀，是欲汗之兆也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-097",
+        "quote": "柴胡湯有芩、參、甘、棗，皆生津之品。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-097",
+        "quote": "當行白虎、承氣等法。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-097",
+        "quote": "服之反渴者，必胃家已實，津液不足以和胃也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-099",
+        "quote": "不任桂枝而主柴胡者，從樞故也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-099",
+        "quote": "身熱惡風，頭項強，桂枝證未罷。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-099",
+        "quote": "脅下滿，已見柴胡一證，便當用小柴胡去參、夏加桂枝、栝蔞以兩解之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-100",
+        "quote": "此小建中為厥陰驅寒發表平肝逐邪之先著也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-100",
+        "quote": "今陽脈澀而陰脈弦，是寒傷厥陰，而不在少陽也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-101",
+        "quote": "柴胡為樞機之劑，凡寒氣不全在表未全入裡者，皆服之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-101",
+        "quote": "證不必悉具，故方亦無定品。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-102",
+        "quote": "故制小建中以理少陽，佐小柴胡之不及。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-102",
+        "quote": "是少陽中樞受寒，而木邪挾相火為患。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-102",
+        "quote": "相火旺則君火虛。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-103",
+        "quote": "病從外來者，當先治外而後治其內。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-103",
+        "quote": "而曰下之則愈者，見大柴胡為下劑，非和劑也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-103",
+        "quote": "以前此妄下之藥，但去腸胃有形之物，而未泄胸膈氣分之結熱也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-104",
+        "quote": "不加大黃者，以地道原通；不用大柴胡者，以中氣已虛也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-104",
+        "quote": "此少陽陽明並病，先服小柴胡二升，以解少陽之表；其一升加芒硝，以除陽明之裡。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9688
+      },
+      {
+        "id": "commentary-成无己-106",
+        "quote": "病自外來者，當先審表熱之輕重以治其表，繼用桃仁承氣以攻其裡之結血。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-106",
+        "quote": "此少腹未硬滿，故不用抵當。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-106",
+        "quote": "陽氣太重，標本俱病，故其人如狂。血得熱則行，故尿血也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-107",
+        "quote": "此方取柴胡湯之半，以除胸滿心煩之半裡。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-107",
+        "quote": "妄下後熱邪內攻，煩驚譫語者，君主不明，而神明內亂也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-107",
+        "quote": "小便不利者，火盛而水虧也；一身盡重者，陽內而陰反外也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-108",
+        "quote": "脈法曰：脈浮而緊者，名曰弦也。弦為肝脈。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-108",
+        "quote": "是腹滿由肝火，而譫語乃肝旺所發也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-109",
+        "quote": "此肝邪挾火而克金。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-109",
+        "quote": "得自汗，則惡寒發熱自解；得小便利，則腹滿自除矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-109",
+        "quote": "脾精不上歸於肺，故大渴；肺氣不能通調水道，故腹滿。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-110",
+        "quote": "火邪入胃，胃中水竭，屎必燥硬。煩躁不止，譫語所由發也。非調胃承氣下之，胃氣絕矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-110",
+        "quote": "太陽被火迫，因轉屬陽明。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-110",
+        "quote": "陽氣微，故振栗而解；陰氣復，故自利而解。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-111",
+        "quote": "劫汗而得汗者，其患速；不得汗者，其患遲。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-111",
+        "quote": "陽盛則欲衄，陰虛則小便難。陰陽俱虛竭，腹滿而喘，口渴咽爛。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-114",
+        "quote": "此條以火熏不得汗而圊血，是陽邪下陷入陰分，故在過經不解時。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-114",
+        "quote": "可知劫汗而得汗者，其患速；不得汗者，其患遲。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-114",
+        "quote": "名為火邪，則但治其火，而不慮其前此之風寒矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-117",
+        "quote": "從小腹衝心，是奔豚之氣象也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-117",
+        "quote": "更加桂者，不特益火之陽，且以制木邪而逐水氣耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-117",
+        "quote": "寒氣不能外散，發為赤核，是奔豚之兆也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-119",
+        "quote": "寒在形軀而用溫針刺之，寒氣內迫於心，故振驚也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-119",
+        "quote": "溫針者，即燒針也，燒之令其溫耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-120",
+        "quote": "妄吐，則有飢不能食，朝食暮吐，不欲近衣等症。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-121",
+        "quote": "妄吐，則有飢不能食，朝食暮吐，不欲近衣等症。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-123",
+        "quote": "今胃氣雖傷，而余邪未盡，故與調胃承氣和之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-123",
+        "quote": "若未經吐下，是病氣分而不在胃。則嘔不止而鬱鬱微煩者，當屬之大柴胡矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-123",
+        "quote": "是太陽轉屬陽明，而不屬少陽矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-124",
+        "quote": "此因誤下，熱邪隨經入府，結於膀胱，故少腹硬滿而不結胸，小便自利而不發黃也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-124",
+        "quote": "然下其血而氣自舒，攻其裡而表自解矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-124",
+        "quote": "陽極則擾陰，故血燥而蓄於中耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-125",
+        "quote": "太陽病發黃與狂，有氣血之分。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-125",
+        "quote": "小便不利是水結，小便自利是血結。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-127",
+        "quote": "發汗、利水，是治太陽兩大法門。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-127",
+        "quote": "其治水有三法。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-127",
+        "quote": "太陽病，飲水多，小便利者，必心下悸，小便少者，必苦裡急也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-128",
+        "quote": "關主中焦，妄下而中氣傷故沉，寒水留結於胸脅之間故緊。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-128",
+        "quote": "所重在關，故舉關以統之也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-128",
+        "quote": "陽邪結胸而不散，必寸部仍見浮脈。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-130",
+        "quote": "理中、四逆輩溫之，尚有可生之義。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-130",
+        "quote": "外無煩躁潮熱之陽，舌無黃黑芒刺之苔，雖有硬滿之症，慎不可攻。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9615
+      },
+      {
+        "id": "commentary-成无己-132",
+        "quote": "結胸雖因熱入所致，然尚浮大，仍為表脈。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-132",
+        "quote": "太陽結胸熱實，脈浮大者，不可下。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-133",
+        "quote": "結胸是邪氣實，煩躁是正氣虛，故死。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-134",
+        "quote": "結胸是陽邪下陷，尚有陽症見於外，故脈雖沉緊，有可下之理。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-134",
+        "quote": "下後熱入水結所致，而非胃家實，故不得名為陽明病也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-135",
+        "quote": "沉為在裡，緊則為寒，此正水結胸脅之脈。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-135",
+        "quote": "心下滿痛，按之石硬，此正水結胸脅之症。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-135",
+        "quote": "又當於熱實二字著眼，六七日中，詳辨結胸有熱實，亦有寒實。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-136",
+        "quote": "結胸無大熱，但頭微汗出者，此為水結在胸脅也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-136",
+        "quote": "裡者對表而言，不是指胃。此熱結氣分，不屬有形，故十余日復能往來寒熱。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-137",
+        "quote": "此妄汗妄下，將轉屬陽明而尚未離乎太陽也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-137",
+        "quote": "從心下至小腹硬滿而痛不可近，是下後熱入水結所致，而非胃家實。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-137",
+        "quote": "然心下者，太陽之位，小腹者，膀胱之室也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-139",
+        "quote": "此其人素有久寒宿飲結於心下，非亡津液而胃家實也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-139",
+        "quote": "若利未止者，裡既已虛，表尚未解。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-139",
+        "quote": "若利自止者，是太陽之熱入，與心下之水氣交持不散，必作結胸矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-140",
+        "quote": "誤下後有二症者，少陽為半表半裡之經，不全發陽，不全發陰，故誤下之變，亦因偏於半表者成結胸，偏於半裡者心下痞耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-141",
+        "quote": "今移太陰胸下結硬之後，其證其方，若合符節。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-141",
+        "quote": "五苓因水氣不舒而設，是小發汗，不是生津液，是逐水氣，不是利水道。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-142",
+        "quote": "汗吐下之法，非少陽所宜。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-142",
+        "quote": "兩陽並病，陽氣重可知。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-142",
+        "quote": "若發汗是犯少陽，膽液虛必轉屬胃而譫語。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-143",
+        "quote": "此不在氣分而在血分矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-143",
+        "quote": "當刺其募以瀉其結熱，滿自消而譫語自止。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-143",
+        "quote": "月事未盡之余，其血必結。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-144",
+        "quote": "發作有期，與前之往來寒熱無定期者不侔，此不在氣分而在血分矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-144",
+        "quote": "用小柴胡和之，使結血散則寒熱自除矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-145",
+        "quote": "此經水未斷，與上條血結不同。是肝虛魂不安而妄見，本無實可瀉。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-145",
+        "quote": "當以不治治之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-145",
+        "quote": "要知譫語多有不因於胃者，不可以譫語為胃實而犯其胃氣也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-146",
+        "quote": "表證微，故取桂枝之半；內證微，故取柴胡之半。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-146",
+        "quote": "此表證而兼心下支結之裡證，表裡未解也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-146",
+        "quote": "此因內外俱虛，故以此輕劑和解之也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-148",
+        "quote": "但頭汗，始可屬之少陽。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-148",
+        "quote": "上焦得通，則心下不滿而欲食；津液得下，則大便自軟而得便矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-148",
+        "quote": "邪在少陽，陽微，故不欲食，此謂陽微結，宜屬小柴胡矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-150",
+        "quote": "並病無結胸證，但陽氣怫鬱於內，時時若結胸狀耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-150",
+        "quote": "並病在兩陽，而反下之如結胸者，成真結胸矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-150",
+        "quote": "今下利不止，水漿不入，是陽明之闔病於下，太陽之開病於上，少陽之樞機無主。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-151",
+        "quote": "夫按之濡為氣痞，是無形也，則不當下。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-151",
+        "quote": "誤下之變，亦因偏於半表者成結胸，偏於半裡者心下痞耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-152",
+        "quote": "此可以見表之風邪已解，而裡之水氣不和也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-152",
+        "quote": "此十棗之劑，與五苓、青龍、瀉心等法懸殊矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-152",
+        "quote": "但心下痞硬而滿，脅下牽引而痛，是心下水氣泛溢，上攻於腦而頭痛也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-153",
+        "quote": "此因汗下後加燒針，以致虛煩。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-153",
+        "quote": "多汗傷血，故經脈動惕；燒針傷肉，故面青膚　。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-153",
+        "quote": "色微黃手足溫，是胃陽漸回，故愈。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-154",
+        "quote": "夫按之濡為氣痞，是無形也，則不當下。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-154",
+        "quote": "濡當作硬。按之濡下，當有大便硬不惡寒反惡熱句，故立此湯。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-154",
+        "quote": "是必有當急下之症，比結胸更甚者，故制此峻攻之劑也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-155",
+        "quote": "夫心下痞而惡寒者，表未解也，當先解表。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-155",
+        "quote": "若汗出為亡陽，又烏可用芩、連乎？",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-155",
+        "quote": "心下痞下，當有大便硬、心煩不得眠句，故用此湯。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-157",
+        "quote": "故病雖在胃而不屬陽明，仍屬太陽寒水之變耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-157",
+        "quote": "胃中不和，是太陽之余邪與陰寒之水氣雜處其中故也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-157",
+        "quote": "陽邪居胃之上口，故心下痞硬，乾嘔而食臭；水邪居胃之下口，故腹中雷鳴而下利也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-158",
+        "quote": "不曰理中仍名瀉心者，以心煩痞硬，病本於心耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-158",
+        "quote": "此腹鳴而完穀不化，日數十行，則痞為虛痞、硬為虛硬、滿為虛滿也明矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9643
+      },
+      {
+        "id": "commentary-成无己-158",
+        "quote": "此虛邪逆上，故心煩而滿。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-159",
+        "quote": "服湯藥而利不止，是病在胃。復以他藥下之而利不止，則病在大腸矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-159",
+        "quote": "理中非不善，但遲一著耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-159",
+        "quote": "若復利不止者，以腎主下焦，為胃之關也。關門不利，再利小便，以分消其濕。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-160",
+        "quote": "此以八九日吐下復汗，其脈甚微，看出是虛煩。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-160",
+        "quote": "若用竹葉石膏湯，大謬。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-160",
+        "quote": "心下痞硬、脅下痛、經脈動惕，皆屬於虛。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-161",
+        "quote": "既發汗復吐下之，心氣太虛，表寒乘虛而結於心下。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-161",
+        "quote": "心氣不得降而上出於聲，君主出亡之象也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-161",
+        "quote": "噫者傷痛聲。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-163",
+        "quote": "病根在心下，非辛熱何能化痞而軟硬？非甘溫無以止利而解表。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-163",
+        "quote": "外熱未除，是表不解，利下不止，是裡不解，此之謂有表裡症。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-163",
+        "quote": "於以奏雙解表裡之功，又一新加法也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-165",
+        "quote": "此心下痞硬，協熱而利，表裡不解，似桂枝人參證。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-165",
+        "quote": "故去參、甘之甘溫益氣，而加枳、芍之酸苦涌泄耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-165",
+        "quote": "然彼在妄下後而不嘔，則此未經下而嘔，則嘔而發熱者，小柴胡主之矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-166",
+        "quote": "寒邪結而不散，胃陽抑而不升，故成此痞象耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-166",
+        "quote": "頭不痛，項不強，則非太陽中風。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-166",
+        "quote": "胃陽得升，胸寒自散。裡之表和，表之表亦解矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-167",
+        "quote": "此陰常在，絕不見陽。陽氣先絕，陰氣繼絕，故死。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-167",
+        "quote": "肝脾腎三藏之陰凝結於此，所以痛引小腹入陰筋也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-167",
+        "quote": "素有痞而在脅下，與下後而心下痞不同矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-168",
+        "quote": "用白虎加人參湯，瀉胃火而扶元氣，全不涉汗吐下三法矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-168",
+        "quote": "燥渴欲飲，是熱已入胃。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-169",
+        "quote": "此雖有表裡證，而表邪已輕，裡熱已甚。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-169",
+        "quote": "急與白虎加人參湯，裡和而表自解矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-169",
+        "quote": "無大熱，指表言，見微熱猶在；背微惡寒，見惡寒將罷。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-170",
+        "quote": "白虎湯治結熱在裡之劑，先示所禁，後明所用。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-170",
+        "quote": "脈浮、發熱、無汗，麻黃證尚在，即是表不解。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-170",
+        "quote": "若外熱已解，是無表證。但渴欲飲水，是邪熱內攻。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-171",
+        "quote": "調其氣血，則頭項強痛可除。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-171",
+        "quote": "督主諸陽，刺大椎以泄陽氣。肺主氣，肝主血，肺肝二俞，皆主太陽。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-171",
+        "quote": "脈弦屬少陽，頭項強痛屬太陽。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-172",
+        "quote": "太陽與少陽合病，是邪已入少陽之裡，與黃芩湯酸苦涌泄。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-172",
+        "quote": "又通因通用之法。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-173",
+        "quote": "心煩喜嘔，嘔而發熱，柴胡證也。胸中有熱，腹痛欲嘔，黃連湯證也。太、少合病，自利而嘔，黃芩湯證也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9737
+      },
+      {
+        "id": "commentary-成无己-174",
+        "quote": "病本在脾，法當君以白朮，代桂枝以治脾，培土以勝濕。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-174",
+        "quote": "不嘔不渴，是裡無熱。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-174",
+        "quote": "大便硬，小便利，是中焦不治，故去桂。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-176",
+        "quote": "白虎湯治結熱在裡之劑。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-177",
+        "quote": "此汗多亡液，不轉屬陽明而成痙者。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-179",
+        "quote": "此明太陽轉屬陽明之病。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-179",
+        "quote": "太陽病，若發汗，若下，若利小便，亡津液，胃中干燥，因轉屬陽明。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-179",
+        "quote": "胃實不是陽明病，而陽明之為病，悉從胃實上得來。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-180",
+        "quote": "此只舉其病根在實，而勿得以胃實即為可下之症。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-180",
+        "quote": "故以胃家實，為陽明一經之總綱也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-180",
+        "quote": "胃實不是陽明病，而陽明之為病，悉從胃實上得來。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-181",
+        "quote": "此明太陽轉屬陽明之病。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-181",
+        "quote": "故仲景諄諄以亡津液為治陽明者告也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-181",
+        "quote": "因有此亡津液之病機，成此胃家實之病根也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-182",
+        "quote": "然此但言病機發現，非即可下之證也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-182",
+        "quote": "胃實之外見者，其身則蒸蒸然。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-182",
+        "quote": "陽明主裡，而亦有外證者，有諸中而形諸外。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-183",
+        "quote": "此因本經自受寒邪，胃陽中發，寒邪即退，反從熱化故耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-183",
+        "quote": "二日來表邪自罷，故不惡寒。寒止熱熾，故汗自出而反惡熱。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-185",
+        "quote": "因有此亡津液之病機，成此胃家實之病根也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-188",
+        "quote": "胃陽中發，寒邪即退，反從熱化。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-191",
+        "quote": "胃實則中熱，故能消穀；胃虛則中寒，故不能食。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-191",
+        "quote": "陽明所慮在亡津液，此更慮其不能化液矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-192",
+        "quote": "初欲食，則胃不虛冷。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-192",
+        "quote": "其人胃本不虛，因水氣怫鬱，鬱極而發，故忽狂。汗生於穀，然汗出者，水氣與穀氣並出而為汗也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9737
+      },
+      {
+        "id": "commentary-成无己-192",
+        "quote": "小便不利，是水氣不宣矣。大便反調，胃不實可知。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-195",
+        "quote": "若脈遲，為中寒、為無陽矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-195",
+        "quote": "下之則脾家愈虛，不化不出，故腹滿如故。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-195",
+        "quote": "陽虛不能化液，則清中清者不上升，故食穀則頭眩；濁中清者不下輸，故腹滿而小便難。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9706
+      },
+      {
+        "id": "commentary-成无己-202",
+        "quote": "陽明脈當下行，營氣逆而不下，反循齒環唇而上循鼻外至鼻　而入鼻，故先口燥鼻干。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9706
+      },
+      {
+        "id": "commentary-成无己-206",
+        "quote": "黃未發宜梔子豉湯，已黃宜梔子柏皮湯。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-206",
+        "quote": "面色正赤者，陽氣怫鬱在表，當以汗解。而反下之，熱不得越，故復發熱，而赤轉為黃也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-206",
+        "quote": "總因津液枯涸，不能通調水道而然。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-216",
+        "quote": "必刺肝之募，引血上歸經絡，推陳致新，使熱有所泄。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-216",
+        "quote": "血室者，肝也。肝為藏血之臟，故稱血室。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-216",
+        "quote": "要知此非胃實，因熱入血室而肝實也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-217",
+        "quote": "七日來行經已盡，陽邪入陰，乃可下之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-217",
+        "quote": "若不知此義而早下之，表以早下而虛熱不解，裡以早下而胃家不實。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-217",
+        "quote": "言汗出必亡津，譫語因胃實，則汗出譫語，以胃中有燥屎也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-219",
+        "quote": "此陽明半表裡證也。裡熱而非裡實，故當用白虎，而不當用承氣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-219",
+        "quote": "若妄汗則津竭而譫語，誤下則亡陽而額汗出、手足厥也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-219",
+        "quote": "雖三陽合病，而陽明證多，則當獨取陽明矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-224",
+        "quote": "若汗出多，以大便燥，飲水多，即無小便，不可利之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-224",
+        "quote": "陽明病，重在亡津液。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-224",
+        "quote": "飲水多而汗不多、小便不利者，可與豬苓湯利之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-232",
+        "quote": "若不尿腹滿加噦，是接耳前後腫來。此是內不解。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-232",
+        "quote": "若脈但浮而不弦大，則非陽明少陽脈。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-232",
+        "quote": "無余證，則上文諸證悉罷，是無陽明少陽證。惟太陽之表邪未散，故可與麻黃湯以解外。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-236",
+        "quote": "治陽明發黃二法：但頭汗、小便不利、腹滿者，茵陳、大黃以下之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-237",
+        "quote": "非虻蟲、水蛭，不勝其任也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-237",
+        "quote": "屎硬為陽明病，硬則大便當難而反易，此病機之變易見矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-237",
+        "quote": "瘀血是病根，喜忘是病情。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-243",
+        "quote": "服湯反劇者，以痰飲在上焦為患，嘔盡自愈，非謂不宜服也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-243",
+        "quote": "食穀欲嘔，固是胃寒。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-243",
+        "quote": "胃熱則消穀善飢，胃寒則水穀不納。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-253",
+        "quote": "陽明病，重在亡津液。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-257",
+        "quote": "表裡熱極，陽盛陰虛，必傷陰絡。故仍不大便者，必有蓄血。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-257",
+        "quote": "不頭痛惡寒，為無表症，不煩燥嘔渴，為無裡症，非無熱也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9545
+      },
+      {
+        "id": "commentary-成无己-257",
+        "quote": "六經惟太陽、陽明有蓄血症，以二經多血故也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-258",
+        "quote": "熱利不止，必大便膿血矣。宜黃連阿膠湯主之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-258",
+        "quote": "少陰便膿血屬於虛，陽明則熱。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-258",
+        "quote": "消穀善飢，此為實熱矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-261",
+        "quote": "治陽明發黃二法：但頭汗、小便不利、腹滿者，茵陳、大黃以下之；身熱、發黃與誤治而致者，梔子、柏皮以清之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-261",
+        "quote": "總不用滲泄之劑。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-273",
+        "quote": "法宜溫中散寒。若以腹滿為實而誤下，胃中受寒，故胸下結硬。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9583
+      },
+      {
+        "id": "commentary-成无己-273",
+        "quote": "太陰之上，濕氣主之，腹痛吐利，從濕化也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-273",
+        "quote": "陽明三陽之裡，故提綱屬裡之陽證；太陰三陰之裡，故提綱皆裡之陰證。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-274",
+        "quote": "風為陽邪，四肢為諸陽之本。脾主四肢，陰氣衰少，則兩陽相搏，故煩疼。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-274",
+        "quote": "脈澀與長，不是並見，澀本病脈，澀而轉長，病始愈耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-274",
+        "quote": "四肢煩疼，是中風未愈前證；微澀而長，是中風將愈之脈。宜作兩截看。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-275",
+        "quote": "《經》曰：「夜半後而陰隆為重陰。」",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-275",
+        "quote": "脾為陰中之至陰，故主亥、子、丑時。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-276",
+        "quote": "脈浮者病在表，可發汗，太陰亦然也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-276",
+        "quote": "太陰主裡，故提綱皆屬裡證。然太陰主開，不全主裡也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-276",
+        "quote": "謂脈在三陰則俱沉，陰經不當發汗者，非也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-276",
+        "quote": "以太陰是裡之表證，桂枝是表之裡藥也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-277",
+        "quote": "法宜溫中散寒。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-277",
+        "quote": "太陰之上，濕氣主之，腹痛吐利，從濕化也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-277",
+        "quote": "自利因藏寒者，四逆輩溫之則愈。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-278",
+        "quote": "前條是太陰寒濕，脈當沉細；此條是太陰濕熱，故脈浮緩。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-278",
+        "quote": "若水道通調，則濕氣下輸膀胱，便不發黃矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-278",
+        "quote": "手足自溫，是表陽猶在，暴煩是裡陽陡發。此陰中有陽，與前藏寒不同。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-278",
+        "quote": "太陰主肌肉，寒濕傷於肌肉，而不得越於皮膚，故身當發黃。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-279",
+        "quote": "大黃瀉胃，是陽明血分下藥；芍藥瀉脾，是太陰氣分下藥。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-279",
+        "quote": "若自利因太陽誤下者，則腹滿時痛，當加芍藥；而大實痛者，當加大黃矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-279",
+        "quote": "下利腹痛，熱邪為患，宜芍藥下之。下利腹痛為陰寒者，非芍藥所宜矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-280",
+        "quote": "太陰脈本弱，胃弱則脾病，此內因也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-280",
+        "quote": "下利為太陰本證。自利因脾實者，腐穢盡則愈；自利因藏寒者，四逆輩溫之則愈。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-280",
+        "quote": "小其制而與之，動其易動，合乎通因通用之法。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-281",
+        "quote": "今少陰病，則入陽分多，故欲寐。欲寐是病患意中，非實能寐也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9583
+      },
+      {
+        "id": "commentary-成无己-281",
+        "quote": "三陽以少陽為樞，三陰以少陰為樞。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-281",
+        "quote": "衛氣行陽則寤，行陰則寐。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-282",
+        "quote": "然必驗小便者，以少陰主水，熱則黃赤，寒則清白也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-282",
+        "quote": "太陰從濕化，故自利不渴；少陰從火化，故自利而渴。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-282",
+        "quote": "欲吐不得吐，欲寐不得寐，少陰樞機之象也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-282",
+        "quote": "欲吐而不得吐者，樞病而開闔不利也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-283",
+        "quote": "故上焦從火化而咽痛嘔吐，下焦從陰虛而下利不止也，宜八味腎氣丸主之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-283",
+        "quote": "緊脈為寒，當屬少陰。然病發於陰，不當有汗，反汗出者，陰極似陽也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-283",
+        "quote": "亡陽者，虛陽不歸，其邪皆由少陰不藏所致。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-284",
+        "quote": "火氣迫心肺，故咳而譫語也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-284",
+        "quote": "今少陰受邪，復受火侮，樞機無主，大腸清濁不分，膀胱水道不利，故下利而小便難也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-284",
+        "quote": "上咳下利，津液喪亡，而譫語非轉屬陽明。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-284",
+        "quote": "少陰受病，液不上升，所以陰不得有汗也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-285",
+        "quote": "沉為在裡，然亦有表證，如少陰病，反發熱者是矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-285",
+        "quote": "可不審之精而辨之確乎？",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-285",
+        "quote": "少陰脈沉者當溫，然數則為熱，又不可溫；而數為在藏，是為在裡，更不可汗。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-286",
+        "quote": "少陰之不可汗下，與少陽同。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-286",
+        "quote": "微為無陽，澀為少血。汗之亡陽，下之亡陰。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-286",
+        "quote": "陽虛者既不可汗，即不可下，玩「復」字可知。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-287",
+        "quote": "煩則陽已反於中宮，溫則陽已敷於四末。陰平陽秘，故煩利自止。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-287",
+        "quote": "前條是亡陽脈證，此條是回陽脈證。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-287",
+        "quote": "至七八日，陰盡陽復之時，緊去微見，所謂穀氣之來也，徐而和矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-288",
+        "quote": "若利而手仍溫，是陽回故可治。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-288",
+        "quote": "傷寒以陽為主，不特陰證見陽脈者生，又陰病見陽證者可治。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-289",
+        "quote": "時自煩，是陽漸回；不煩而躁，是氣已先亡，惟形獨存耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-289",
+        "quote": "陽盛則煩，陰極則躁。煩屬氣，躁屬形。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-290",
+        "quote": "微則不緊，浮則不沉，即暴微而緊反去之謂也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-290",
+        "quote": "邪從外來者，仍自內而出，故愈。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-290",
+        "quote": "陽微者，復少陰之本體；陰浮者，知坎中之陽回。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-291",
+        "quote": "天以一生水而開於子，故少陰主於子。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-292",
+        "quote": "急灸少陰，則脈可復而吐利可止也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-292",
+        "quote": "上吐下利，胃脘之陽將脫；手足不逆冷，諸陽之本猶在；反發熱，衛外之陽尚存。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-293",
+        "quote": "此藏病傳府，陰乘陽也，氣病而傷血，陽乘陰也，亦見少陰中樞之象。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-293",
+        "quote": "輕則豬苓湯，重則黃連阿膠湯可治。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-293",
+        "quote": "腎移熱於膀胱，膀胱熱則太陽經皆熱。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-293",
+        "quote": "太陽經多血，血得熱則行。陽病者，上行極而下，故尿血也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-294",
+        "quote": "峻劑發汗，傷經動血。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-294",
+        "quote": "血之與汗，異名同類，不奪其汗，必動其血矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-294",
+        "quote": "陽氣不達於四肢，故厥。厥為無陽，不能作汗，而強發之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-295",
+        "quote": "若利不止而手足逆冷，是純陰無陽。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-296",
+        "quote": "蓋陰陽互為其根，陰中有陽則生，無陽則死，獨陰不生故也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-296",
+        "quote": "若吐利而兼煩躁，四肢俱冷，純陰無陽，不可復生矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-296",
+        "quote": "同是吐利，手足不逆冷反發熱者不死，煩躁四逆者死。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-297",
+        "quote": "此非陽回而利止，是水穀已竭，無物更行也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-297",
+        "quote": "冒家自汗則愈，今頭眩而時時自冒，清陽之氣已脫。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-298",
+        "quote": "少陰病，四肢冷逆，惡寒而　，脈不至，不煩而躁者死。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.95
+      },
+      {
+        "id": "commentary-成无己-298",
+        "quote": "時自煩，是陽漸回；不煩而躁，是氣已先亡，惟形獨存耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-298",
+        "quote": "陽盛則煩，陰極則躁。煩屬氣，躁屬形。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-299",
+        "quote": "息高者，但出心與肺，不能入肝與腎，生氣已絕於內也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-299",
+        "quote": "知少陰病是生死關。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-300",
+        "quote": "當心煩而反不煩，心不煩而反汗出，亡陽已兆於始得之日矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-300",
+        "quote": "蓋陰陽互為其根，陰中有陽則生，無陽則死，獨陰不生故也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-300",
+        "quote": "脈沉微細，是少陰本脈；欲臥欲吐，是少陰本證。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-300",
+        "quote": "五六日自利，而反煩躁不得臥，是微陽將絕，無生理矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-302",
+        "quote": "此證與附子湯證，皆是少陰表證。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-302",
+        "quote": "言無裡證，則有表證可知。以甘草易細辛，故曰微發汗。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-302",
+        "quote": "要知此條是微惡寒、微發熱，故微發汗也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-303",
+        "quote": "此心中煩不得臥者，腎火上攻於心也，當滋陰以涼心腎。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-303",
+        "quote": "然二三日心煩是實熱，六七日心煩是虛煩矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-303",
+        "quote": "少陰病，但欲寐，心煩而反不得臥，是黃連阿膠證也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-304",
+        "quote": "必灸其背俞，使陰氣流行而為陽。急溫以附子湯，壯火之陽，而陰自和矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-304",
+        "quote": "此云和者，不燥干而渴，火化幾於息矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-305",
+        "quote": "此純陰無陽，陰寒切膚，故身疼。四肢不得稟陽氣，故手足寒。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-305",
+        "quote": "此傷寒溫補第一方也，與真武湯似同而實異。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-305",
+        "quote": "此身疼骨痛，雖與麻黃證同，而陰陽寒熱彼此判然。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-305",
+        "quote": "寒邪自經入藏，藏氣實而不能入，則從陰內注於骨，故骨節疼。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-306",
+        "quote": "本證與真武不同。彼以四肢沉重疼痛，是為有水氣；此便膿血，是為有火氣矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9667
+      },
+      {
+        "id": "commentary-成无己-306",
+        "quote": "故制此方，不清火，不利水，一惟培土，又全賴乾薑轉旋。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-306",
+        "quote": "少陰病，腹痛下利，是坎中陽虛。故真武有附子，桃花用乾薑，不可以小便不利作熱治。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-307",
+        "quote": "彼以四肢沉重疼痛，是為有水氣；此便膿血，是為有火氣矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9565
+      },
+      {
+        "id": "commentary-成无己-307",
+        "quote": "此為伏陽屈伏之火，與升陽之火不同。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-307",
+        "quote": "桃花是升陽散火法。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-308",
+        "quote": "便膿血，亦是熱入血室所致，刺期門以瀉之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-308",
+        "quote": "病在少陰而刺厥陰，實則瀉其子也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-309",
+        "quote": "故用吳茱萸湯以溫之，吐利止而煩躁除。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-309",
+        "quote": "四逆者，四肢厥冷，兼臂脛而言。此云手足，是指指掌而言，四肢之陽猶在。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-309",
+        "quote": "吳萸溫中散寒，則吐利可除；人參安神定志，則煩躁可止。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-310",
+        "quote": "豬膚湯：豬膚（一兩）",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-311",
+        "quote": "甘草湯：甘草（二兩）",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-311",
+        "quote": "桔梗湯：甘草、桔梗（各二兩）。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-313",
+        "quote": "若不能散服，以水一升，煎七沸，內散方寸匕，更煮三沸，下火令少冷，少少咽之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-314",
+        "quote": "蔥辛溫而莖白，通肺以行營衛陰陽，故能散邪而通陽氣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-314",
+        "quote": "下利脈微，是下焦虛寒不能制水故也。與白通湯以通其陽，補虛卻寒而制水。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-315",
+        "quote": "脈暴出者，孤陽獨行也，故死：微續者，少陽初生也，故生。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-315",
+        "quote": "與白通湯以通其陽，補虛卻寒而制水。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-316",
+        "quote": "法當壯元陽以消陰翳，逐留垢以清水源，因立此湯。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-316",
+        "quote": "若雖有水氣而不屬少陰，不得以真武主之也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-316",
+        "quote": "為有水氣，是立真武湯本意。小便不利是病根。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-316",
+        "quote": "小便不利，實由坎中之無陽。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-317",
+        "quote": "此寒熱相半證。下利清穀，陰盛於裡也；手足厥逆，寒盛於外也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9583
+      },
+      {
+        "id": "commentary-成无己-317",
+        "quote": "身不惡寒面赤，陽郁在表也；咽痛利止，陽回於內也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-317",
+        "quote": "溫裡通脈，乃扶陽之法。脈為司命，脈出則從陽而生，厥逆則從陰而死。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-318",
+        "quote": "咳者加五味子、乾薑各五分，並主下利。悸者加桂枝五分。小便不利者加茯苓五分。腹中痛者加附子一枚。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-318",
+        "quote": "厥微者，當四逆散，芍藥、枳實以攻裡，柴胡、甘草以和表也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-318",
+        "quote": "少陰病，四逆，泄利下重，其人或咳、或悸、或小便不利、或腹中痛者，四逆散主之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9667
+      },
+      {
+        "id": "commentary-成无己-320",
+        "quote": "此必有不大便證，若非本有宿食，何得二三日便當急下？",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9545
+      },
+      {
+        "id": "commentary-成无己-320",
+        "quote": "急下之，火歸於坎，津液自升矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-320",
+        "quote": "熱淫於內，腎水枯涸，因轉屬陽明，胃火上炎，故口燥咽乾。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-321",
+        "quote": "是土燥火炎，脾氣不濡，胃氣反濃，水去而穀不去，故純青也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9565
+      },
+      {
+        "id": "commentary-成无己-321",
+        "quote": "雖曰通因通用，仍是通因塞用。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-321",
+        "quote": "自利而渴者，屬少陰。今自利清水，疑其為寒矣，而利清水時，必心下痛，必口燥舌乾。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-322",
+        "quote": "三陽惟少陽無承氣證。三陰惟少陰有承氣證。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-322",
+        "quote": "少陰為陰樞，陽有餘邪，便傷其陰，故宜急下以存其陰。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-323",
+        "quote": "少陰脈沉者當溫。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-323",
+        "quote": "仲景凡治虛證，以裡為重。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-324",
+        "quote": "此病升而不降，宜從「高者抑之」之法，下之則愈矣。而不敢者，以始得病時手足寒，脈弦遲，疑其為寒。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-324",
+        "quote": "然病在少陰，嘔吐多屬於虛寒，最宜細究。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-324",
+        "quote": "若膈上有寒飲，與心下溫者不同；而反乾嘔者，與飲食即吐者不同矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-325",
+        "quote": "大便數少而不下利，是下焦之陽尚存，急灸百會以溫其上，則陽猶可復也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-325",
+        "quote": "脈微而澀，嘔而汗出，陽已亡矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-325",
+        "quote": "少陰病，脈微澀，嘔而汗出，大便數而少者，宜溫其上，灸之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-326",
+        "quote": "厥陰病則氣上逆，故心疼熱而消渴。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-326",
+        "quote": "太陰主寒，厥陰主熱，太陰為陰中之至陰，厥陰為陰中之陽也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-326",
+        "quote": "烏梅丸主之，可以除蛔，亦可以止利。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-327",
+        "quote": "厥陰受病，則尺寸微緩而不浮。今微浮，是陰出之陽，亦陰病見陽脈也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-327",
+        "quote": "有厥陰中風欲愈脈，則應有未愈證。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-329",
+        "quote": "水能生木、能制火，故厥陰消渴最宜之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-330",
+        "quote": "熱厥者，有可下之理；寒厥為虛，則宜溫補。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-331",
+        "quote": "發熱而厥利自止，是為晚發。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-331",
+        "quote": "若陰氣勝則虛熱外退，而真寒內生，厥利復作矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-331",
+        "quote": "先厥利而後發熱者，寒邪盛而陽氣微，陽為陰抑故也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-332",
+        "quote": "此為陽邪入陰，原是熱厥熱利，故能食而不為除中。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-332",
+        "quote": "如胃陽未亡，腹中不冷，尚能化食，故食之自安。若除中，則反見善食之狀。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-332",
+        "quote": "若續熱三日而脈數，可知熱之不止，是陽氣有餘，必有癰膿之患。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.96
+      },
+      {
+        "id": "commentary-成无己-332",
+        "quote": "續熱三日來，其脈自和可知。熱當自止，正與厥相應，故愈。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-333",
+        "quote": "若除中，則反見善食之狀。如中空無陽，今俗云食祿將盡者是也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-334",
+        "quote": "汗因於心，無汗則心氣平，故火不上炎而咽不痛；利因於胃，利止則胃液藏，故火不下陷而無膿血。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-334",
+        "quote": "若厥止而熱與利不止，是陽邪下陷，必便膿血，下而不上，故咽不痛而喉不痹。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.9667
+      },
+      {
+        "id": "commentary-成无己-334",
+        "quote": "下利不當有汗，有汗是陽反上升，故咽中痛而成喉痹。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-335",
+        "quote": "必發熱者，寒極而生熱也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-335",
+        "quote": "熱發三陽，未入於府者，可汗；熱在三陰，已入於府者，可下。陰不得有汗，而強發之，此為逆也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-335",
+        "quote": "傷寒三日，三陽為盡，四五日而厥者，三陰受邪也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-336",
+        "quote": "厥終即不厥也，不過五日，即六日不復厥之謂。愈指熱言。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-336",
+        "quote": "熱與厥相應，是謂陰陽和平，故愈。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-336",
+        "quote": "陰盛格陽，故先厥；陰極陽生，故後熱。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-337",
+        "quote": "手足六經之脈，皆自陰傳陽，自陽傳陰。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-337",
+        "quote": "陰氣勝，則陽不達於四肢，故為寒厥。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-339",
+        "quote": "熱深厥深，不早治之，致熱傷陰絡，其後必便血也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-339",
+        "quote": "身無大熱，手足不冷，但指頭寒，此熱微厥亦微也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-339",
+        "quote": "數日來，小便之難者已利，色赤者仍白，是陰陽自和，熱除可知。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-340",
+        "quote": "按此二條，當知結胸證有熱厥者。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-340",
+        "quote": "關元在臍下三寸，小腸之募，三陰任脈之會，宜灸之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-341",
+        "quote": "傷寒以陽為主，熱多當愈，熱不除為太過，熱深厥微，必傷陰絡。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-341",
+        "quote": "四日至七日，自發熱起至厥止而言。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-341",
+        "quote": "醫者當於陽盛時預滋其陰，以善其後也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-342",
+        "quote": "凡厥與熱不相應，便謂之反。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-342",
+        "quote": "熱不及厥之一，厥反進熱之二。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-342",
+        "quote": "熱微而厥反勝，此時不急扶其陽，陰盛以亡矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-343",
+        "quote": "厥陰肝脈也，應春生之氣，故灸其五俞而陽可回也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-344",
+        "quote": "微陽不久留，故死。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-345",
+        "quote": "微陽不久留，故死。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-346",
+        "quote": "此為亡陽，與熱利之發熱不死、汗出自利者天淵矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-346",
+        "quote": "汗出不止，是陽亡而不能衛外也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-346",
+        "quote": "六七日當陰陽自和，復發熱而利，正氣虛可知。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-347",
+        "quote": "其脈空虛，此無血也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-348",
+        "quote": "發於陽者，當七日愈。今厥不止而反下利，恐為除中，故難治。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-348",
+        "quote": "若躁煩而能食，尚為熱厥利耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-349",
+        "quote": "促為陽脈，亦有陽虛而促者，亦有陰盛而促者。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-349",
+        "quote": "火氣雖微，內攻有力，故灸之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-349",
+        "quote": "要知促與結皆代之互文，皆是虛脈。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-350",
+        "quote": "當知有口燥舌乾之證，與口傷爛赤者照應焉。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-350",
+        "quote": "脈弱以滑，是有胃氣，緩而滑，名熱中，與寒厥之脈微欲絕者，大相徑庭矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-350",
+        "quote": "上條明熱厥之理，此條明熱厥之脈，並熱厥之方。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-351",
+        "quote": "此篇但論厥陰脈證，雖無外衛之微陽，亦未見內寒諸險證也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-351",
+        "quote": "此條證為在裡，當是四逆本方加當歸，如茯苓四逆之例。若反用桂枝湯攻表，誤矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-351",
+        "quote": "既名四逆湯，豈得無薑、附？若其人內有久寒者，宜當歸四逆加吳茱萸生薑湯。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-353",
+        "quote": "可知表熱裡寒者，即表寒亡陽者矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-353",
+        "quote": "內拘急而下利，裡寒已發，四肢疼而厥冷，表寒又見矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-353",
+        "quote": "治之失宜，雖大汗出而熱不去，惡寒不止，表未除也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-354",
+        "quote": "大汗則亡陽，大下則亡陰，陰陽俱虛，故厥冷。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-354",
+        "quote": "但利非清穀，急溫之，陽回而生可望也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-355",
+        "quote": "非汗下溫補之法所能治，必瓜蒂散吐之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-355",
+        "quote": "緊則為寒，乍緊者，不厥時不緊，言緊與厥相應也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-355",
+        "quote": "手足為諸陽之本，厥冷則胃陽不達於四肢。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-356",
+        "quote": "如傷寒厥而心下悸，宜先治水，亦重在悸，不重在厥。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-357",
+        "quote": "此為下厥上竭，陰陽離決之候，生氣將絕於內也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-357",
+        "quote": "舊本有麻黃升麻湯，其方味數多而分兩輕，重汗散而畏溫補，乃後世粗工之伎，必非仲景方也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-357",
+        "quote": "下部脈不至，根本已絕矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-358",
+        "quote": "上條明自利之因，此條言自利之兆。四五日是太陰發病之期。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-359",
+        "quote": "上焦寒格，故用參、薑；心下蓄熱，故用芩、連；嘔家不喜甘，故去甘草。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-359",
+        "quote": "要知寒熱相阻，則為格症；寒熱相結，則為痞症。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-359",
+        "quote": "治之小誤，變症亦輕，故制方用瀉心之半。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-360",
+        "quote": "發熱而微，表當自解矣，熱利脈弱，裡當自解矣，可不服白頭翁而待其自愈也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-360",
+        "quote": "乃渴欲飲水之互文。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-361",
+        "quote": "汗出是熱從汗解、內從外解之兆。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-361",
+        "quote": "緊即弦之互文。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-362",
+        "quote": "灸之能還大脈，是少陰之經。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-363",
+        "quote": "不得以必字作一例看。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-363",
+        "quote": "寸為陽，沉數是陽陷陰中，故圊血。今脈反浮，是陰出之陽，利當自愈矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-363",
+        "quote": "澀為少血，因便膿血後見於尺中，亦順脈也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-364",
+        "quote": "汗生於穀，汗出陽亡，藏寒而生滿病也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-364",
+        "quote": "裡氣大虛，不能藏精而為陽之守，幸表陽之尚存，得以衛外而為固，攻之更虛其表。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-365",
+        "quote": "沉為在裡，弦為少陽，此膽氣不升，火邪下陷，故下重也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-365",
+        "quote": "前條論證，此條言脈，互相發明。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-365",
+        "quote": "微弱為虛，利後而數亦為虛，故欲自止。發熱者，熱自裡達外，陰出之陽，故不死。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-366",
+        "quote": "此比上條脈證皆輕，故能自作鬱冒汗出而解。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-366",
+        "quote": "此陰陽相等，寒熱自和，故易愈。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-366",
+        "quote": "面赤為戴陽，陽在上也。因其戴陽，故鬱冒而汗出；因其下虛，故下利清穀而厥逆。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-367",
+        "quote": "脈數有虛有實，渴亦有虛有實。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-367",
+        "quote": "若自愈，則數為虛熱，渴為津液未復也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-368",
+        "quote": "灸之能還大脈，是少陰之經。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-369",
+        "quote": "脾氣虛而邪氣盛，故脈反實也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-370",
+        "quote": "此比上條脈證皆輕，故能自作鬱冒汗出而解。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-370",
+        "quote": "溫裡通脈，乃扶陽之法。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-370",
+        "quote": "下利清穀，陰盛於裡也；手足厥逆，寒盛於外也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-371",
+        "quote": "四物皆苦寒除濕勝熱之品也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-372",
+        "quote": "傷寒下之後，續得下利清穀不止，身疼痛者，急當救裡，宜四逆湯。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-372",
+        "quote": "溫中之後，仍可用桂枝湯，其神乎神矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-372",
+        "quote": "下利是裡寒，身痛是表寒。表宜溫散，裡宜溫補。先救裡者，治其本也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-373",
+        "quote": "下利屬胃寒者多，此欲飲水，其內熱可知。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-374",
+        "quote": "若不知此義而早下之，表以早下而虛熱不解，裡以早下而胃家不實。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-374",
+        "quote": "若小承氣三物同煮，不分次第，只服四合，但求地道之通，而不用芒硝之峻。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-374",
+        "quote": "言汗出必亡津，譫語因胃實，則汗出譫語，以胃中有燥屎也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-375",
+        "quote": "更煩是既解而復煩也。心下軟，對胸中窒而言，與心下反硬者懸殊矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-375",
+        "quote": "心居胃上，即陽明之表。凡心病皆陽明表邪，故制梔豉湯因而越之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-375",
+        "quote": "要知陽明虛煩，對胃家實熱而言，是空虛之虛。不是虛弱之虛。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-376",
+        "quote": "嘔家不可用建中湯，以甘故也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-376",
+        "quote": "心煩喜嘔，嘔而發熱，柴胡證也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-377",
+        "quote": "內無熱，故小便利；表寒虛，故見厥；是膈上有寒飲，故嘔也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-377",
+        "quote": "嘔而發熱者，小柴胡證。此脈弱而微熱，非相火明矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-377",
+        "quote": "傷寒以陽為主，陽消陰長，故難治。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-378",
+        "quote": "乾嘔，吐涎沫，頭痛者，吳茱萸湯主之；不頭痛者，半夏乾薑湯主之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.96
+      },
+      {
+        "id": "commentary-成无己-378",
+        "quote": "頭痛者，陽氣不足，陰寒得以乘之也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-378",
+        "quote": "吳茱萸湯溫中益氣，升陽散寒，嘔、痛盡除矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-381",
+        "quote": "欲知胃之虛實，必於二便驗之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-382",
+        "quote": "病發熱頭痛，身疼惡寒，上吐下利者，名曰霍亂。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-383",
+        "quote": "病發熱頭痛，身疼惡寒，上吐下利者，名曰霍亂。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-385",
+        "quote": "利雖止而惡寒未罷，仍宜四逆；以其脈微為無血，當仍加人參以通之也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-386",
+        "quote": "病發熱頭痛，身疼惡寒，上吐下利者，名曰霍亂。熱多欲飲水者，五苓散主之：寒多不用水者，理中丸主之。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 0.975
+      },
+      {
+        "id": "commentary-成无己-386",
+        "quote": "理中丸人參　甘草　白朮　乾薑。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-386",
+        "quote": "然不及湯，湯以水八升，煮取三升，去滓溫服一升，日三服。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-388",
+        "quote": "此吐利非清穀，汗出不大，而脈不微弱，賴此發熱之表陽，助以四逆而溫裡，尚有可生之望。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-389",
+        "quote": "所幸身熱未去，手足不厥，則衛外之陽，諸陽之本猶在，脈尚未絕，有一線之生機，急救其裡。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-389",
+        "quote": "吐利交作，中氣大虛，完穀不化，脈微欲絕，氣血喪亡矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-389",
+        "quote": "小便復利而大汗出，是門戶不要，玄府不閉矣。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-390",
+        "quote": "此必有陰盛格陽之證，故加膽汁為反佐，閱白通證可知。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-392",
+        "quote": "病由於腎，毒侵水道，故小便不利耳。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-392",
+        "quote": "此證無內外因，本非傷寒而冠以傷寒者。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-392",
+        "quote": "是不病於傷寒，而病於陰陽之易也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-393",
+        "quote": "吐利止而脈平，小煩者，以新虛不勝穀氣故也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-394",
+        "quote": "柴胡感一陽之氣而生，故能直入少陽，引清氣上升而行春令，為治寒熱往來之第一品藥。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-395",
+        "quote": "若雖有水氣而不屬少陰，不得以真武主之也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-396",
+        "quote": "理中丸人參　甘草　白朮　乾薑。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-397",
+        "quote": "此亦半夏瀉心症，治之失宜，久而成痿矣。若用竹葉石膏湯，大謬。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-成无己-398",
+        "quote": "吐利止而脈平，小煩者，以新虛不勝穀氣故也。",
+        "foundIn": "S-047-伤寒来苏集.txt",
+        "ratio": 1
+      },
+      {
+        "id": "commentary-柯琴-362",
+        "quote": "下利后，脉绝、手足厥冷，晬时脉还、手足温者生，脉不还者死。",
+        "foundIn": "S-017-注解伤寒论.txt",
+        "ratio": 1
+      }
+    ]
+  },
+  "syndromes": {
+    "count": 16,
+    "unmappedFormulas": [],
+    "unmappedSymptoms": [
+      {
+        "syndrome": "厥阴寒厥证",
+        "symptom": "手足厥寒",
+        "partial": [
+          "厥"
+        ]
+      },
+      {
+        "syndrome": "厥阴蛔厥证",
+        "symptom": "吐蛔",
+        "partial": [
+          "吐"
+        ]
+      },
+      {
+        "syndrome": "厥阴蛔厥证",
+        "symptom": "时烦",
+        "partial": [
+          "烦"
+        ]
+      },
+      {
+        "syndrome": "厥阴蛔厥证",
+        "symptom": "得食而呕",
+        "partial": [
+          "呕"
+        ]
+      },
+      {
+        "syndrome": "厥阴蛔厥证",
+        "symptom": "久利",
+        "partial": []
+      },
+      {
+        "syndrome": "厥阴热利证",
+        "symptom": "下重",
+        "partial": []
+      },
+      {
+        "syndrome": "厥阴热利证",
+        "symptom": "欲饮水",
+        "partial": []
+      },
+      {
+        "syndrome": "少阳枢机不利证",
+        "symptom": "往来寒热",
+        "partial": []
+      },
+      {
+        "syndrome": "少阳枢机不利证",
+        "symptom": "胸胁苦满",
+        "partial": []
+      },
+      {
+        "syndrome": "少阳枢机不利证",
+        "symptom": "默默不欲饮食",
+        "partial": []
+      },
+      {
+        "syndrome": "少阴表寒证",
+        "symptom": "身无大热",
+        "partial": []
+      },
+      {
+        "syndrome": "少阴表寒证",
+        "symptom": "少阴病二三日",
+        "partial": []
+      },
+      {
+        "syndrome": "少阴寒化证",
+        "symptom": "背恶寒",
+        "partial": [
+          "恶寒"
+        ]
+      },
+      {
+        "syndrome": "少阴寒化证",
+        "symptom": "身体痛",
+        "partial": [
+          "体痛"
+        ]
+      },
+      {
+        "syndrome": "少阴寒化证",
+        "symptom": "手足寒",
+        "partial": []
+      },
+      {
+        "syndrome": "少阴寒化证",
+        "symptom": "骨节痛",
+        "partial": []
+      },
+      {
+        "syndrome": "少阴热化证",
+        "symptom": "不得卧",
+        "partial": []
+      },
+      {
+        "syndrome": "少阴阳虚水泛证",
+        "symptom": "四肢沉重",
+        "partial": []
+      },
+      {
+        "syndrome": "太阳结胸证",
+        "symptom": "心下痛",
+        "partial": []
+      },
+      {
+        "syndrome": "太阳结胸证",
+        "symptom": "按之石硬",
+        "partial": []
+      },
+      {
+        "syndrome": "太阳蓄水证",
+        "symptom": "消渴",
+        "partial": [
+          "渴"
+        ]
+      },
+      {
+        "syndrome": "太阳蓄水证",
+        "symptom": "水逆",
+        "partial": []
+      },
+      {
+        "syndrome": "太阳蓄血证",
+        "symptom": "少腹硬满",
+        "partial": []
+      },
+      {
+        "syndrome": "太阳中风证",
+        "symptom": "鼻鸣",
+        "partial": []
+      },
+      {
+        "syndrome": "太阴虚寒证",
+        "symptom": "自利",
+        "partial": []
+      },
+      {
+        "syndrome": "太阴虚寒证",
+        "symptom": "不渴",
+        "partial": [
+          "渴"
+        ]
+      },
+      {
+        "syndrome": "太阴虚寒证",
+        "symptom": "食不下",
+        "partial": []
+      },
+      {
+        "syndrome": "阳明腑实证",
+        "symptom": "大便硬",
+        "partial": []
+      },
+      {
+        "syndrome": "阳明经热津伤证",
+        "symptom": "口干舌燥",
+        "partial": []
+      }
+    ],
+    "unknownDifferentials": [],
+    "invalidClauses": [],
+    "symptomMappingRate": "53.2%"
+  },
+  "kangping": {
+    "written": 398,
+    "distribution": {
+      "原文": 346,
+      "注文": 26,
+      "追文": 26
+    },
+    "skipped": []
+  },
+  "aliases": {
+    "accepted": [
+      {
+        "names": [
+          "白散",
+          "三物白散"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「白散」异名字段"
+      },
+      {
+        "names": [
+          "百合洗方",
+          "百合洗"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「百合洗方」异名字段"
+      },
+      {
+        "names": [
+          "半夏散",
+          "半夏散及汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「半夏散」异名字段"
+      },
+      {
+        "names": [
+          "赤豆当归散",
+          "赤小豆当归散"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「赤豆当归散」异名字段"
+      },
+      {
+        "names": [
+          "大黄䗪虫丸",
+          "大黄虫丸"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「大黄䗪虫丸」异名字段"
+      },
+      {
+        "names": [
+          "防己黄芪汤",
+          "防已黄芪汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「防己黄芪汤」异名字段"
+      },
+      {
+        "names": [
+          "茯苓桂枝白术甘草汤",
+          "苓桂术甘汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「茯苓桂枝白术甘草汤」异名字段"
+      },
+      {
+        "names": [
+          "茯苓桂枝甘草大枣汤",
+          "苓桂甘枣汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「茯苓桂枝甘草大枣汤」异名字段"
+      },
+      {
+        "names": [
+          "茯苓戎盐汤",
+          "茯苓白术戎盐汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「茯苓戎盐汤」异名字段"
+      },
+      {
+        "names": [
+          "葛根黄连黄芩甘草汤",
+          "葛根黄芩黄连汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「葛根黄连黄芩甘草汤」异名字段"
+      },
+      {
+        "names": [
+          "栝蒌薤白白酒汤",
+          "括萎薤白白酒汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「栝蒌薤白白酒汤」异名字段"
+      },
+      {
+        "names": [
+          "桂枝麻黄各半汤",
+          "桂枝麻黄合半汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「桂枝麻黄各半汤」异名字段"
+      },
+      {
+        "names": [
+          "滑石白鱼散",
+          "滑石乱发白鱼散"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「滑石白鱼散」异名字段"
+      },
+      {
+        "names": [
+          "括蒌桂枝汤",
+          "栝蒌桂枝汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「括蒌桂枝汤」异名字段"
+      },
+      {
+        "names": [
+          "括蒌牡蛎散",
+          "栝蒌牡蛎散"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「括蒌牡蛎散」异名字段"
+      },
+      {
+        "names": [
+          "理中汤",
+          "理中丸"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「理中汤」异名字段"
+      },
+      {
+        "names": [
+          "麻黄杏仁甘草石膏汤",
+          "麻杏甘石汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「麻黄杏仁甘草石膏汤」异名字段"
+      },
+      {
+        "names": [
+          "麻黄杏仁甘草石膏汤",
+          "麻黄杏子甘草石膏汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「麻黄杏仁甘草石膏汤」异名字段"
+      },
+      {
+        "names": [
+          "麻子仁丸",
+          "脾约丸"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「麻子仁丸」异名字段"
+      },
+      {
+        "names": [
+          "木防己去石膏加茯苓芒硝汤",
+          "木防已去石膏加茯苓芒硝汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「木防己去石膏加茯苓芒硝汤」异名字段"
+      },
+      {
+        "names": [
+          "木防己汤",
+          "木防已汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「木防己汤」异名字段"
+      },
+      {
+        "names": [
+          "暮蓣丸",
+          "薯蓣丸"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「暮蓣丸」异名字段"
+      },
+      {
+        "names": [
+          "人参汤",
+          "理中汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「人参汤」异名字段"
+      },
+      {
+        "names": [
+          "肾气丸",
+          "八味肾气丸"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「肾气丸」异名字段"
+      },
+      {
+        "names": [
+          "四逆加吴茱萸生姜汤",
+          "当归四逆加吴茱萸生姜汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「四逆加吴茱萸生姜汤」异名字段"
+      },
+      {
+        "names": [
+          "小柴胡汤",
+          "柴胡汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「小柴胡汤」异名字段"
+      },
+      {
+        "names": [
+          "小陷胸汤",
+          "三物小陷胸汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「小陷胸汤」异名字段"
+      },
+      {
+        "names": [
+          "炙甘草汤",
+          "复脉汤"
+        ],
+        "kind": "KB异名",
+        "evidence": "KB 方剂卡「炙甘草汤」异名字段"
+      },
+      {
+        "names": [
+          "枳实栀子豉汤",
+          "枳实栀子汤"
+        ],
+        "kind": "原文异写",
+        "evidence": "宋版（jobkoko S-003）第 393 条作「枳实栀子汤主之」；维基宋本与《注解伤寒论》方题作「枳实栀子豉汤方」"
+      },
+      {
+        "names": [
+          "通脉四逆加猪胆汁汤",
+          "通脉四逆加猪胆汤"
+        ],
+        "kind": "原文异写",
+        "evidence": "宋版（jobkoko S-003）第 390 条作「通脉四逆加猪胆汤主之」；《注解伤寒论》校注「赵本无汁字」"
+      },
+      {
+        "names": [
+          "栀子柏皮汤",
+          "栀子檗皮汤"
+        ],
+        "kind": "原文异写",
+        "evidence": "维基宋本第 261 条作「栀子柏皮汤主之」，其后方题作「栀子檗皮汤方」"
+      },
+      {
+        "names": [
+          "白散",
+          "三物白散",
+          "三物小白散"
+        ],
+        "kind": "原文异写",
+        "evidence": "维基宋本第 141 条「白散亦可服」，方题作「三物小白散方」；KB「白散」异名字段为「三物白散」"
+      },
+      {
+        "names": [
+          "蜜煎",
+          "蜜煎导"
+        ],
+        "kind": "原文异写",
+        "evidence": "宋本第 233 条「宜蜜煎导而通之」；维基宋本方题「蜜煎导方」，宋版（S-003）方题「蜜煎方」"
+      },
+      {
+        "names": [
+          "桂枝甘草汤",
+          "桂技甘草汤"
+        ],
+        "kind": "原文错字",
+        "evidence": "维基宋本第 64 条作「桂枝甘草汤主之」，其后方题误作「桂技甘草汤方」"
+      },
+      {
+        "names": [
+          "桂枝加芍药生姜各一两人参三两新加汤",
+          "桂枝加芍药生姜人参新加汤",
+          "新加汤"
+        ],
+        "kind": "简称",
+        "evidence": "宋本第 62 条「桂枝加芍药生姜各一两人参三两新加汤主之」；可发汗篇方题「桂枝加芍药生姜人参新加汤方」；KB 卡名「新加汤」"
+      },
+      {
+        "names": [
+          "防己黄芪汤",
+          "防己黄耆汤"
+        ],
+        "kind": "同方异名待核",
+        "evidence": "KB「防己黄芪汤」与本地 jingui「防己黄耆汤」方名仅差一字且药味相同"
+      },
+      {
+        "names": [
+          "黄芪桂枝五物汤",
+          "黄耆桂枝五物汤"
+        ],
+        "kind": "同方异名待核",
+        "evidence": "KB「黄芪桂枝五物汤」与本地 jingui「黄耆桂枝五物汤」方名仅差一字且药味相同"
+      },
+      {
+        "names": [
+          "去桂枝加白术汤",
+          "去桂加白术汤"
+        ],
+        "kind": "同方异名待核",
+        "evidence": "KB「去桂枝加白术汤」与本地 songben「去桂加白术汤」方名仅差一字且药味相同"
+      }
+    ],
+    "rejected": [
+      {
+        "formula": "桂枝去桂加茯苓白术汤",
+        "alias": "去桂枝加白术汤",
+        "reason": "KB 另有「去桂枝加白术汤」卡（附子、白术、生姜、甘草、大枣，即第 174 条去桂加白术汤），与第 28 条方不同"
+      },
+      {
+        "formula": "四逆加吴茱萸生姜汤",
+        "alias": "宜当归四逆加吴茱萸生姜汤",
+        "reason": "含「宜」字，是条文片段而非方名"
+      }
+    ]
+  },
+  "dataIssues": [
+    "本地 songben-formula-土瓜根 无药味",
+    "KB 02_方剂/杏子汤.md 组成为空"
+  ],
+  "suggestedScripts": {
+    "data:crosscheck:shanghan": "tsx scripts/crosscheck/shanghan-kb.ts"
+  },
+  "reviewQueue": [
+    {
+      "priority": 1,
+      "entityId": "songben-19",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "需人工",
+      "note": "桂枝汤：需人工（条文本文提及方名但非处方语境）；KB：桂枝汤；本地已有方剂 songben-formula-桂枝汤，未关联到本条",
+      "local": "凡服桂枝汤吐者，其后必吐脓血也。",
+      "witness": "KB 关联方剂：桂枝汤",
+      "locator": "01_条文/太阳病/条文-019.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "songben-26",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "需人工",
+      "note": "桂枝汤：需人工（条文本文提及方名但非处方语境）；KB：桂枝汤；本地已有方剂 songben-formula-桂枝汤，未关联到本条",
+      "local": "服桂枝汤，大汗出后，大烦渴不解，脉洪大者，白虎加人参汤主之。 ‖ 方剂区段：白虎加人参汤方 知母六两 石膏一斤（碎，绵裹） 甘草（炙）二两 粳米六合 人参三两 上五味，以水一斗，煮米熟，汤成，去滓，温服一升，日二服。",
+      "witness": "KB 关联方剂：桂枝汤",
+      "locator": "01_条文/太阳病/条文-026.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "songben-28",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "需人工",
+      "note": "桂枝汤：需人工（条文本文提及方名但非处方语境）；KB：桂枝汤；本地已有方剂 songben-formula-桂枝汤，未关联到本条",
+      "local": "服桂枝汤，或下之，仍头项强痛，翕翕发热，无汗，心下满微痛，小便不利者，桂枝去桂加茯苓白术汤主之。 ‖ 方剂区段：桂枝去桂加茯苓白术汤方 芍药三两 甘草二两（炙） 生姜（切） 白术 茯苓各三两 大枣十二枚（擘） 上六味，以水八升，煮取三升，去滓，温服一升。小便利则愈。",
+      "witness": "KB 关联方剂：桂枝汤",
+      "locator": "01_条文/太阳病/条文-028.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "songben-30",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "需人工",
+      "note": "甘草干姜汤：需人工（条文本文提及方名但非处方语境）；KB：甘草干姜汤；本地已有方剂 songben-formula-甘草干姜汤，未关联到本条",
+      "local": "问曰：证象阳旦，按法治之而增剧，厥逆，咽中干，两胫拘急而谵语。师曰：言夜半手足当温，两脚当伸。后如师言。何以知此？答曰：寸口脉浮而大，浮为风，大为虚，风则生微热，虚则两胫挛，病证象桂枝，因加附子参其间，增桂令汗出，附子温经，亡阳故也。厥逆，咽中干，烦躁，阳明内结，谵语烦乱，更饮甘草干姜汤。夜半阳气还，两足当热，胫尚微拘…",
+      "witness": "KB 关联方剂：甘草干姜汤",
+      "locator": "01_条文/太阳病/条文-030.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "songben-63",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "需人工",
+      "note": "桂枝汤：需人工（原文中仅见于禁用/否定语境）；KB：桂枝汤；本地已有方剂 songben-formula-桂枝汤，未关联到本条",
+      "local": "发汗后，不可更行桂枝汤，汗出而喘，无大热者，可与麻黄杏仁甘草石膏汤。 ‖ 方剂区段：麻黄杏仁甘草石膏汤方 麻黄四两（去节） 杏仁五十个（去皮尖） 甘草二两（炙） 石膏半斤（碎、绵裹） 上四味，以水七升，煮麻黄，减二升，去上沫；内诸药，煮取二升，去滓，温服一升。",
+      "witness": "KB 关联方剂：桂枝汤",
+      "locator": "01_条文/太阳病/条文-063.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "songben-156",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "本地漏",
+      "note": "泻心汤：本地漏（条文本文以处方语境出现方名）；KB：泻心汤；本地宋本无此方剂",
+      "local": "本以下之，故心下痞，与泻心汤，痞不解，其人渴而口燥，烦，小便不利者，五苓散主之。",
+      "witness": "KB 关联方剂：泻心汤",
+      "locator": "01_条文/太阳病/条文-156.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "songben-159",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "需人工",
+      "note": "泻心汤：需人工（条文本文提及方名但非处方语境）；KB：泻心汤；本地宋本无此方剂",
+      "local": "伤寒，服汤药，下利不止，心下痞鞕。服泻心汤已，复以他药下之，利不止。医以理中与之，利益甚。理中者，理中焦，此利在下焦，赤石脂禹余粮汤主之。复不止者，当利其小便。 ‖ 方剂区段：赤石脂禹余粮汤方 赤石脂一斤（碎） 太一禹余粮一斤（碎） 上二味，以水六升，煮取二升，去滓，分温三服。",
+      "witness": "KB 关联方剂：泻心汤",
+      "locator": "01_条文/太阳病/条文-159.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "songben-162",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "需人工",
+      "note": "桂枝汤：需人工（原文中仅见于禁用/否定语境）；KB：桂枝汤；本地已有方剂 songben-formula-桂枝汤，未关联到本条",
+      "local": "下后，不可更行桂枝汤，若汗出而喘，无大热者，可与麻黄杏子甘草石膏汤。",
+      "witness": "KB 关联方剂：桂枝汤",
+      "locator": "01_条文/太阳病/条文-162.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "songben-formula-猪肤汤",
+      "field": "herbs",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.3333,
+      "note": "KB 多：白粉、白蜜；KB 多出的为食材/辅料：白蜜",
+      "local": "猪肤一斤",
+      "witness": "猪肤一斤、白蜜一升、白粉五合",
+      "locator": "02_方剂/猪肤汤.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "guilin-formula-奔豚汤",
+      "field": "herbs",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.6364,
+      "note": "本地多：葛根、桂枝；KB 多：甘李根白皮、生葛",
+      "local": "甘草二两（炙）、芎䓖二两、当归二两、黄芩二两、芍药二两、半夏四两（洗）、生姜四两、葛根五两、桂枝三两",
+      "witness": "甘草二两、芎藭二两、当归二两、黄芩二两、芍药二两、半夏四两、生姜四两、生葛五两、甘李根白皮一升",
+      "locator": "02_方剂/奔豚汤.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "songben-formula-大陷胸丸",
+      "field": "herbs",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.6667,
+      "note": "KB 多：白蜜、甘遂；KB 多出的为食材/辅料：白蜜",
+      "local": "大黄半斤、葶苈子半升（熬）、芒硝半升、杏仁半升（去皮尖，熬）",
+      "witness": "大黄半斤、葶苈子半升、芒硝半升、杏仁半升、甘遂一钱匕、白蜜二合",
+      "locator": "02_方剂/大陷胸丸.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "songben-formula-十枣汤",
+      "field": "herbs",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.75,
+      "note": "KB 多：大枣",
+      "local": "芫花等分（熬）、甘遂等分、大戟等分",
+      "witness": "芫花熬等分、甘遂等分、大戟等分、大枣肥者十枚",
+      "locator": "02_方剂/十枣汤.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "songben-formula-大柴胡汤",
+      "field": "herbs",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.875,
+      "note": "KB 多：大黄",
+      "local": "柴胡半斤、黄芩三两、芍药三两、半夏半升（洗）、生姜五两（切）、枳实四枚（炙）、大枣十二枚（擘）",
+      "witness": "柴胡半斤、黄芩三两、芍药三两、半夏半升洗、生姜五两切、枳实四枚炙、大枣十二枚擘、大黄二两",
+      "locator": "02_方剂/大柴胡汤.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "jingui-formula-薯蓣丸",
+      "field": "herbs",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.9524,
+      "note": "按异名匹配：KB「暮蓣丸」↔ 本地「薯蓣丸」；KB 多：曲",
+      "local": "薯蓣三十分、当归十分、桂枝十分、干地黄十分、豆黄卷十分、甘草二十八分、人参七分、芎䓖六分、芍药六分、白术六分、麦门冬六分、杏仁六分、柴胡五分、桔梗五分、茯苓五分、阿胶七分、干姜三分、白敛二分、防风六分、大枣百枚为膏",
+      "witness": "薯蓣三十分、当归十分、桂枝十分、干地黄十分、曲十分、豆黄卷十分、甘草二十八分、芎藭六分、麦门冬六分、芍药六分、白术六分、杏仁六分、人参七分、柴胡五分、桔梗五分、茯苓五分、阿胶七分、干姜三分、白敛二分、防风六分、大枣百枚",
+      "locator": "02_方剂/暮蓣丸.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "songben-86",
+      "field": "text",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.6765,
+      "note": "与 KB 第 86 条原文差异较大，需人工核对编号与文本",
+      "local": "衄家，不可发汗，汗出必额上陷，脉急紧，直视不能眴，不得眠。",
+      "witness": "衄家，不可发汗，汗出必额上陷脉急紧，直视不能眴，音唤，又胡绢切，下同，一作瞬。不得眠。",
+      "locator": "01_条文/太阳病/条文-086.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "songben-57",
+      "field": "text",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.6875,
+      "note": "与 KB 第 57 条原文差异较大，需人工核对编号与文本",
+      "local": "伤寒发汗已解，半日许复烦，脉浮数者，可更发汗，宜桂枝汤。",
+      "witness": "伤寒，发汗己解，半日许复烦，脉浮数者，可更发汗，宜桂枝汤。二十三。用前第十二方。",
+      "locator": "01_条文/太阳病/条文-057.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "songben-280",
+      "field": "text",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.7857,
+      "note": "与 KB 第 280 条原文差异较大，需人工核对编号与文本",
+      "local": "太阴为病，脉弱，其人续自便利，设当行大黄、芍药者，宜减之，以其人胃气弱，易动故也。",
+      "witness": "太阴为病，脉弱，其人续自便利，设当行大黄、芍药者，宜减之，以其人胃气弱，易动故也。下利者，先煎芍药二沸。",
+      "locator": "01_条文/少阴病/条文-280.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "songben-130",
+      "field": "text",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.7931,
+      "note": "与 KB 第 130 条原文差异较大，需人工核对编号与文本",
+      "local": "藏结无阳证，不往来寒热，其人反静，舌上胎滑者，不可攻也。",
+      "witness": "藏结无阳证，不往来寒热一云寒而不热，其人反静，舌上胎滑者，不可攻也。",
+      "locator": "01_条文/太阳病/条文-130.md"
+    },
+    {
+      "priority": 1,
+      "entityId": "songben-94",
+      "field": "text",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.7966,
+      "note": "与 KB 第 94 条原文差异较大，需人工核对编号与文本",
+      "local": "太阳病未解，脉阴阳俱停，必先振栗汗出而解。但阳脉微者，先汗出而解；但阴脉微者，下之而解。若欲下之，宜调胃承气汤。",
+      "witness": "太阳病未解，脉阴阳俱停(一作微)，必先振慄汗出而解。但阳脉微者，先汗出而解。但阴脉微一作尺脉实者，下之而解。若欲下之，宜调胃承气汤。一云用大柴胡汤。",
+      "locator": "01_条文/太阳病/条文-094.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "jingui-formula-当归散",
+      "field": "doses",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.2,
+      "note": "当归：本地「一两」/KB「一斤」；黄芩：本地「一两」/KB「一斤」；芍药：本地「一两」/KB「一斤」；川芎：本地「一两」/KB「一斤」",
+      "local": "当归一两、黄芩一两、芍药一两、芎䓖一两、白术半斤。",
+      "witness": "当归一斤、黄芩一斤、芍药一斤、芎藭一斤、白术半斤",
+      "locator": "02_方剂/当归散.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "guilin-formula-小柴胡加茯苓汤",
+      "field": "doses",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.375,
+      "note": "人参：本地「二两」/KB「三两」；半夏：本地「半升洗」/KB「半升」（数量同，修治/注语异）；生姜：本地「二两切」/KB「三两」；大枣：本地「十二枚劈」/KB「十二枚」（数量同，修治/注语异）；茯苓：本地「四两」/KB「三两」",
+      "local": "柴胡半斤、黄芩三两、人参二两、半夏半升（洗）、甘草三两、生姜二两（切）、大枣十二枚（劈）、茯苓四两",
+      "witness": "柴胡半斤、黄芩三两、人参三两、半夏半升、甘草三两、生姜三两、大枣十二枚、茯苓三两",
+      "locator": "02_方剂/小柴胡加茯苓汤.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-formula-麻黄升麻汤",
+      "field": "doses",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.4286,
+      "note": "麻黄：本地「二两半去节」/KB「二两半」（数量同，修治/注语异）；知母：本地「十八株」/KB「十八铢」；黄芩：本地「十八株」/KB「十八铢」；玉竹：本地「十八铢一作菖蒲」/KB「十八铢」（数量同，修治/注语异）；天冬：本地「六铢去心」/KB「六铢」（数量同，修治/注语异）；桂枝：本地「六铢去皮」/KB「六铢」（数量同，修治/注语异）；甘草：本地「六铢炙」/KB「六铢」（数量同，修治/注语异）；石膏：本地「六铢碎绵裹」/KB「六铢」（数量同，修治/注语异）",
+      "local": "麻黄二两半（去节）、升麻一两一分、当归一两一分、知母十八株、黄芩十八株、萎蕤十八铢（一作菖蒲）、芍药六铢、天门冬六铢（去心）、桂枝六铢（去皮）、茯苓六铢、甘草六铢（炙）、石膏六铢（碎，绵裹）、白术六铢、干姜六铢",
+      "witness": "麻黄二两半、升麻一两一分、当归一两一分、知母十八铢、黄芩十八铢、葳蕤十八铢、芍药六铢、天门冬六铢、桂枝六铢、茯苓六铢、甘草六铢、石膏六铢、白术六铢、干姜六铢",
+      "locator": "02_方剂/麻黄升麻汤.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "guilin-formula-人参附子汤",
+      "field": "doses",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.5,
+      "note": "附子：本地「一枚炮去皮破八片」/KB「一枚」（数量同，修治/注语异）；干姜：本地「二两炮」/KB「二枚」；半夏：本地「半升洗」/KB「半升」（数量同，修治/注语异）",
+      "local": "人参二两、附子一枚（炮 去皮 破八片）、干姜二两（炮）、半夏半升（洗）、阿胶二两、柏叶三两",
+      "witness": "人参二两、附子一枚、干姜二枚、半夏半升、阿胶二两、柏叶三两",
+      "locator": "02_方剂/人参附子汤.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "guilin-formula-泽漆汤",
+      "field": "doses",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.5,
+      "note": "半夏：本地「半升洗」/KB「半升」（数量同，修治/注语异）；泽漆：本地「三斤」/KB「三升」；甘草：本地「三两炙」/KB「三两」（数量同，修治/注语异）",
+      "local": "半夏半升（洗）、紫参五两、泽漆三斤、生姜五两、人参三两、甘草三两（炙）",
+      "witness": "半夏半升、紫参五两、泽漆三升、生姜五两、人参三两、甘草三两",
+      "locator": "02_方剂/泽漆汤.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "jingui-formula-葵子茯苓散",
+      "field": "doses",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.5,
+      "note": "葵子：本地「三两」/KB「一斤」",
+      "local": "葵子三两、茯苓三两。",
+      "witness": "葵子一斤、茯苓三两",
+      "locator": "02_方剂/葵子茯苓散.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-formula-四逆散",
+      "field": "doses",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.5,
+      "note": "甘草：本地「十分炙」/KB「炙」；枳实：本地「十分破水渍炙干」/KB「炙」",
+      "local": "甘草十分（炙）、枳实十分（破，水渍，炙干）、柴胡十分、芍药十分",
+      "witness": "甘草炙、枳实炙、柴胡各十分、芍药各十分",
+      "locator": "02_方剂/四逆散.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "guilin-formula-升麻鳖甲汤",
+      "field": "doses",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.6,
+      "note": "花椒：本地「一两炒去汗」/KB「一两」（数量同，修治/注语异）；雄黄：本地「半两研」/KB「五钱」",
+      "local": "升麻二两、蜀椒一两（炒去汗）、雄黄半两（研）、当归一两、甘草二两、鳖甲手掌大一片（炙）",
+      "witness": "升麻二两、蜀椒一两、雄黄五钱、当归一两、甘草二两、鳖甲一片",
+      "locator": "02_方剂/升麻鳖甲汤.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "jingui-formula-麻黄加术汤",
+      "field": "doses",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.6,
+      "note": "麻黄：本地「三两去节」/KB「二两去节」；甘草：本地「二两炙」/KB「一两炙」",
+      "local": "麻黄三两（去节）、桂枝二两（去皮）、甘草二两（炙）、杏仁七十个（去皮尖）、白术四两",
+      "witness": "麻黄二两去节、桂枝二两去皮、甘草一两炙、杏仁七十个去皮尖、白术四两",
+      "locator": "02_方剂/麻黄加术汤.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "jingui-formula-排脓散",
+      "field": "doses",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.6667,
+      "note": "桔梗：本地「一分」/KB「二分」",
+      "local": "枳实十六枚、芍药六分、桔梗一分。",
+      "witness": "枳实十六枚、芍药六分、桔梗二分、鸡子黄一枚",
+      "locator": "02_方剂/排脓散.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "jingui-formula-薏苡附子败酱散",
+      "field": "doses",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.6667,
+      "note": "薏苡仁：本地「十分」/KB「六十分」",
+      "local": "薏苡仁十分、附子二分、败酱五分。",
+      "witness": "薏苡仁六十分、附子二分、败酱五分",
+      "locator": "02_方剂/薏苡附子败酱散.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-formula-栀子甘草豉汤",
+      "field": "doses",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.6667,
+      "note": "豆豉：本地「四合绵裹」/KB「四两绵裹」",
+      "local": "栀子十四个（擘）、甘草二两（炙）、香豉四合（绵裹）",
+      "witness": "十四个擘、二两炙、四两绵裹",
+      "locator": "02_方剂/栀子甘草豉汤.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-formula-茯苓桂枝白术甘草汤",
+      "field": "doses",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.75,
+      "note": "白术：本地「二两」/KB「三两」",
+      "local": "茯苓四两、桂枝三两（去皮）、白术二两、甘草二两（炙）",
+      "witness": "茯苓四两、桂枝三两去皮、白术三两、甘草二两炙",
+      "locator": "02_方剂/茯苓桂枝白术甘草汤.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-formula-炙甘草汤",
+      "field": "doses",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.7778,
+      "note": "生地黄：本地「一斤酒洗」/KB「一斤」（数量同，修治/注语异）；麦冬：本地「半斤去心」/KB「半升去心」",
+      "local": "甘草四两（炙）、生姜三两（切）、人参二两、桂枝三两（去皮）、生地黄一斤（酒洗）、阿胶二两、麦门冬半斤（去心）、麻仁半升、大枣三十枚（擘）",
+      "witness": "甘草四两炙、生姜三两切、人参二两、生地黄一斤、桂枝三两去皮、阿胶二两、麦门冬半升去心、麻仁半升、大枣三十枚擘",
+      "locator": "02_方剂/炙甘草汤.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "jingui-formula-越婢加术汤",
+      "field": "doses",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.8333,
+      "note": "生姜：本地「二两」/KB「三两」",
+      "local": "麻黄六两、石膏半斤、生姜二两、甘草二两、白术四两、大枣十五枚",
+      "witness": "麻黄六两、石膏半斤、生姜三两、大枣十五枚、甘草二两、白术四两",
+      "locator": "02_方剂/越婢加术汤.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-formula-桂枝去桂加茯苓白术汤",
+      "field": "doses",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.8333,
+      "note": "生姜：本地「三两切」/KB「切」",
+      "local": "芍药三两、甘草二两（炙）、生姜三两（切）、白术三两、茯苓三两、大枣十二枚（擘）",
+      "witness": "芍药三两、甘草二两炙、生姜切、白术三两、茯苓三两、大枣十二枚擘",
+      "locator": "02_方剂/桂枝去桂加茯苓白术汤.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-17",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "agree",
+      "conclusion": "双方一致但需人工",
+      "note": "桂枝汤：双方一致但需人工（原文中仅见于禁用/否定语境）；KB：桂枝汤；本地：songben-formula-桂枝汤",
+      "local": "若酒客病，不可与桂枝汤，得之则呕，以酒客不喜甘故也。",
+      "witness": "KB 关联方剂：桂枝汤",
+      "locator": "01_条文/太阳病/条文-017.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-76",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 漏",
+      "note": "栀子甘草豉汤：KB 漏（条文本文以处方语境出现方名）；本地：songben-formula-栀子甘草豉汤",
+      "local": "发汗后，水药不得入口，为逆；若更发汗，必吐下不止。发汗吐下后，虚烦不得眠，若剧者，必反复颠倒，心中懊憹，栀子豉汤主之。若少气者，栀子甘草豉汤主之；若呕者，栀子生姜豉汤主之。 ‖ 方剂区段：栀子豉汤方 栀子甘草豉汤方 栀子生姜豉汤方 栀子十四个（擘） 香豉四合（绵裹） 上二味，以水四个，先煮栀子得二分半；内豉，煮取一升半…",
+      "witness": "KB 未关联此方",
+      "locator": "01_条文/太阳病/条文-076.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-79",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 漏",
+      "note": "栀子厚朴汤：KB 漏（条文本文以处方语境出现方名）；本地：songben-formula-栀子厚朴汤",
+      "local": "伤寒下后，心烦腹满，卧起不安者，栀子厚朴汤主之。 ‖ 方剂区段：栀子厚朴汤方 栀子十四个（擘） 厚朴四两（炙，去皮）枳实四枚（水浸，炙令黄） 上三味，以水三升半，煮取一升半，去滓，分二服，温进一服（得吐者，止后服）。",
+      "witness": "KB 未关联此方",
+      "locator": "01_条文/太阳病/条文-079.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-92",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 漏",
+      "note": "四逆汤：KB 漏（条文本文以处方语境出现方名）；本地：songben-formula-四逆汤",
+      "local": "病发热，头痛，脉反沉，若不差，身体疼痛，当救其里，宜四逆汤。",
+      "witness": "KB 未关联此方",
+      "locator": "01_条文/太阳病/条文-092.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-94",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 多",
+      "note": "大柴胡汤：KB 多（条文及其方剂区段均未见方名）；KB：大柴胡汤；本地已有方剂 songben-formula-大柴胡汤，未关联到本条",
+      "local": "太阳病未解，脉阴阳俱停，必先振栗汗出而解。但阳脉微者，先汗出而解；但阴脉微者，下之而解。若欲下之，宜调胃承气汤。",
+      "witness": "KB 关联方剂：大柴胡汤",
+      "locator": "01_条文/太阳病/条文-094.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-103",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 漏",
+      "note": "小柴胡汤：KB 漏（条文本文以处方语境出现方名）；本地：songben-formula-小柴胡汤",
+      "local": "太阳病，过经十余日，反二三下之。后四五日，柴胡证仍在者，先与小柴胡汤；呕不止，心下急，郁郁微烦者，为未解也，与大柴胡汤下之则愈。 ‖ 方剂区段：大柴胡汤方 柴胡半斤 黄芩三两 芍药三两 半夏半升（洗） 生姜五两（切） 枳实四枚（炙） 大枣十二枚（擘） 上七味，以水一斗二升，煮取六升，去滓，再煎（取三升），温服一升，日三…",
+      "witness": "KB 未关联此方",
+      "locator": "01_条文/太阳病/条文-103.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-104",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 漏",
+      "note": "柴胡加芒硝汤：KB 漏（条文本文以处方语境出现方名）；本地：songben-formula-柴胡加芒硝汤",
+      "local": "伤寒十三日不解，胸胁满而呕，日晡所发潮热，已而微利。此本柴胡证，下之以不得利，今反利者，知医以丸药下之，此非其治也。潮热者，实也。先宜服小柴胡汤以解外，后以柴胡加芒硝汤主之。 ‖ 方剂区段：柴胡加芒硝汤方 柴胡二两十六铢 黄芩一两 人参一两 甘草一两（炙） 生姜一两（切） 半夏二十铢（洗） 大枣四枚（擘） 芒硝二两 上…",
+      "witness": "KB 未关联此方",
+      "locator": "01_条文/太阳病/条文-104.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-106",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 漏",
+      "note": "桃核承气汤：KB 漏（条文本文以处方语境出现方名）；本地：songben-formula-桃核承气汤",
+      "local": "太阳病不解，热结膀胱，其人如狂，血自下，下者愈。其外不解者，尚未可攻，当先解其外。外解已，但少腹急结者，乃可攻之，宜桃核承气汤。 ‖ 方剂区段：桃核承气汤方 桃仁五十个（去皮尖） 大黄四两 桂枝二两（去皮） 甘草二两（炙） 芒硝二两 上五味，以水七升，煮取二升半，去滓，内芒硝，更上火微沸，下火，先食温服五合，日三服，当…",
+      "witness": "KB 未关联此方",
+      "locator": "01_条文/太阳病/条文-106.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-112",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 漏",
+      "note": "桂枝去芍药加蜀漆牡蛎龙骨救逆汤：KB 漏（条文本文以处方语境出现方名）；本地：songben-formula-桂枝去芍药加蜀漆牡蛎龙骨救逆汤",
+      "local": "伤寒脉浮，医以火迫劫之，亡阳，必惊狂，卧起不安者，桂枝去芍药加蜀漆牡蛎龙骨救逆汤主之。 ‖ 方剂区段：桂枝去芍药加蜀漆牡蛎龙骨救逆汤方 桂枝三两（去皮） 甘草二两（炙） 生姜三两（切） 大枣十二枚（擘） 牡蛎五两（熬） 蜀漆三两（洗去腥） 龙骨四两 上七味，以水一斗二升，先煮蜀漆减二升；内诸药，煮取三升，去滓，温服一升…",
+      "witness": "KB 未关联此方",
+      "locator": "01_条文/太阳病/条文-112.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-170",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "agree",
+      "conclusion": "双方一致但需人工",
+      "note": "白虎汤：双方一致但需人工（原文中仅见于禁用/否定语境）；KB：白虎汤；本地：songben-formula-白虎汤",
+      "local": "伤寒，脉浮，发热无汗，其表不解，不可与白虎汤；渴欲饮水，无表证者，白虎加人参汤主之。",
+      "witness": "KB 关联方剂：白虎汤",
+      "locator": "01_条文/太阳病/条文-170.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-208",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 多",
+      "note": "桂枝汤：KB 多（条文及其方剂区段均未见方名）；KB：桂枝汤；本地已有方剂 songben-formula-桂枝汤，未关联到本条",
+      "local": "阳明病，脉迟，虽汗出不恶寒者，其身必重，短气，腹满而喘，有潮热者，此外欲解，可攻里也。手足濈然汗出者，此大便已鞕也，大承气汤主之；若汗多，微发热恶寒者，外未解也，其热不潮，未可与承气汤；若腹大满不通者，可与小承气汤，微和胃气，勿令致大泄下。 ‖ 方剂区段：大承气汤方 小承气汤方 大黄四两（酒洗） 厚朴半斤（炙，去皮） …",
+      "witness": "KB 关联方剂：桂枝汤",
+      "locator": "01_条文/阳明病/条文-208.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-217",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 多",
+      "note": "大柴胡汤：KB 多（条文及其方剂区段均未见方名）；KB：大柴胡汤；本地已有方剂 songben-formula-大柴胡汤，未关联到本条",
+      "local": "汗出，谵语者，以有燥屎在胃中，此为风也。须下者，过经乃可下之。下之若早，语言必乱，以表虚里实故也。下之愈，宜大承气汤。",
+      "witness": "KB 关联方剂：大柴胡汤",
+      "locator": "01_条文/阳明病/条文-217.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-233",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 漏",
+      "note": "蜜煎导：KB 漏（条文本文以处方语境出现方名）；本地：songben-formula-蜜煎导",
+      "local": "阳明病，自汗出，若发汗，小便自利者，此为津液内竭，虽鞕不可攻之，当须自欲大便，宜蜜煎导而通之，若土瓜根及大猪胆汁，皆可为导。 ‖ 方剂区段：蜜煎导方 土瓜根方 猪胆汁方 食蜜七合 上一味。于铜器内，微火煎，当须凝如饴状，搅之勿令焦着。欲可丸，并手撚作挺，令头锐，大如指，长二寸许，当热时急作，冷则硬。以内谷道中，以手急抱…",
+      "witness": "KB 未关联此方",
+      "locator": "01_条文/阳明病/条文-233.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-233",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 漏",
+      "note": "土瓜根：KB 漏（紧随方剂区段方题为此方）；本地：songben-formula-土瓜根",
+      "local": "阳明病，自汗出，若发汗，小便自利者，此为津液内竭，虽鞕不可攻之，当须自欲大便，宜蜜煎导而通之，若土瓜根及大猪胆汁，皆可为导。 ‖ 方剂区段：蜜煎导方 土瓜根方 猪胆汁方 食蜜七合 上一味。于铜器内，微火煎，当须凝如饴状，搅之勿令焦着。欲可丸，并手撚作挺，令头锐，大如指，长二寸许，当热时急作，冷则硬。以内谷道中，以手急抱…",
+      "witness": "KB 未关联此方",
+      "locator": "01_条文/阳明病/条文-233.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-233",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 漏",
+      "note": "猪胆汁：KB 漏（紧随方剂区段方题为此方）；本地：songben-formula-猪胆汁",
+      "local": "阳明病，自汗出，若发汗，小便自利者，此为津液内竭，虽鞕不可攻之，当须自欲大便，宜蜜煎导而通之，若土瓜根及大猪胆汁，皆可为导。 ‖ 方剂区段：蜜煎导方 土瓜根方 猪胆汁方 食蜜七合 上一味。于铜器内，微火煎，当须凝如饴状，搅之勿令焦着。欲可丸，并手撚作挺，令头锐，大如指，长二寸许，当热时急作，冷则硬。以内谷道中，以手急抱…",
+      "witness": "KB 未关联此方",
+      "locator": "01_条文/阳明病/条文-233.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-253",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 多",
+      "note": "大柴胡汤：KB 多（条文及其方剂区段均未见方名）；KB：大柴胡汤；本地已有方剂 songben-formula-大柴胡汤，未关联到本条",
+      "local": "阳明病，发热，汗多者，急下之，宜大承气汤。",
+      "witness": "KB 关联方剂：大柴胡汤",
+      "locator": "01_条文/阳明病/条文-253.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-262",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 漏",
+      "note": "麻黄连轺赤小豆汤：KB 漏（条文本文以处方语境出现方名）；本地：songben-formula-麻黄连轺赤小豆汤",
+      "local": "伤寒瘀热在里，身必黄，麻黄连轺赤小豆汤主之。 ‖ 方剂区段：麻黄连轺赤小豆汤方 麻黄二两（去节） 连轺二两（连翘根是） 杏仁四十个（去皮尖） 赤小豆一升 大枣十二枚（擘） 生梓白皮一升（切） 生姜二两（切） 甘草二两（炙） 上八味，以潦水一斗，先煮麻黄，再沸，去上沫；内诸药，煮取三升，去滓，分温三服，半日服尽。",
+      "witness": "KB 未关联此方",
+      "locator": "01_条文/少阳病/条文-262.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-301",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 漏",
+      "note": "麻黄细辛附子汤：KB 漏（条文本文以处方语境出现方名）；本地：songben-formula-麻黄细辛附子汤",
+      "local": "少阴病，始得之，反发热，脉沉者，麻黄细辛附子汤主之。 ‖ 方剂区段：麻黄细辛附子汤方 麻黄二两（去节） 细辛二两 附子一枚（炮，去皮，破八片） 上三味，以水一斗，先煮麻黄，减二升，去上沫，内诸药，煮取三升，去滓，温服一升，日三服。",
+      "witness": "KB 未关联此方",
+      "locator": "01_条文/少阴病/条文-301.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-315",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 漏",
+      "note": "白通加猪胆汁汤：KB 漏（条文本文以处方语境出现方名）；本地：songben-formula-白通加猪胆汁汤",
+      "local": "少阴病，下利，脉微者，与白通汤。利不止，厥逆无脉，干呕烦者，白通加猪胆汁汤主之。服汤，脉暴出者死，微续者生。 ‖ 方剂区段：白通加猪胆汁汤方 葱白四茎 干姜一两 附子一枚（生，去皮，破八片） 人尿五合 猪胆汁一合 上五味，以水三升，煮取一升，去滓，内胆汁、人尿，和令相得，分温再服。若无胆，亦可用。",
+      "witness": "KB 未关联此方",
+      "locator": "01_条文/少阴病/条文-315.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-321",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 多",
+      "note": "大柴胡汤：KB 多（条文及其方剂区段均未见方名）；KB：大柴胡汤；本地已有方剂 songben-formula-大柴胡汤，未关联到本条",
+      "local": "少阴病，自利清水，色纯青，心下必痛，口干燥者，可下之，宜大承气汤。",
+      "witness": "KB 关联方剂：大柴胡汤",
+      "locator": "01_条文/少阴病/条文-321.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-390",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 漏",
+      "note": "通脉四逆加猪胆汁汤：KB 漏（条文本文以处方语境出现方名）；本地：songben-formula-通脉四逆加猪胆汁汤",
+      "local": "吐已下断，汗出而厥，四肢拘急不解，脉微欲绝者，通脉四逆加猪胆汁汤主之。 ‖ 方剂区段：通脉四逆加猪胆汁汤方 甘草二两（炙） 干姜三两（强人可四两）附子大者一枚（生，去皮，破八片） 猪胆汁（半合） 上四味，用水三升，煮取一升二合，去滓；加入猪胆汁，分二次温服。",
+      "witness": "KB 未关联此方",
+      "locator": "01_条文/辨脉平脉/条文-390.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-392",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 漏",
+      "note": "烧裈散：KB 漏（条文本文以处方语境出现方名）；本地：songben-formula-烧裈散",
+      "local": "伤寒阴阳易之为病，其人身体重，少气，少腹里急，或引阴中拘挛，热上冲胸，头重不欲举，眼中生花，膝胫拘急者，烧裈散主之。 ‖ 方剂区段：烧裈散方 妇人中裈近隐处，取烧作灰。 上一味，水服方寸匕。日三服。小便即利，阴头微肿，此为愈矣。妇人病，取男子裈烧服。",
+      "witness": "KB 未关联此方",
+      "locator": "01_条文/辨脉平脉/条文-392.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-393",
+      "field": "formulaLink",
+      "source": "KB",
+      "verdict": "mismatch",
+      "conclusion": "KB 漏",
+      "note": "枳实栀子豉汤：KB 漏（条文本文以处方语境出现方名）；本地：songben-formula-枳实栀子豉汤",
+      "local": "大病差后，劳复者，枳实栀子豉汤主之。 ‖ 方剂区段：枳实栀子豉汤方 枳实三枚（炙） 栀子十四个（擘） 香豉一升（绵裹） 上三味，以清浆水七升，空煮取回升；内枳实、栀子，煮取三升，下豉，更煮五六沸，去滓，温分再服。复令微似汗。若有宿食者，内大黄如博棋子大五六枚，服之愈。",
+      "witness": "KB 未关联此方",
+      "locator": "01_条文/辨脉平脉/条文-393.md"
+    },
+    {
+      "priority": 2,
+      "entityId": "songben-130",
+      "field": "text",
+      "source": "jobkoko",
+      "verdict": "mismatch",
+      "ratio": 0.7931,
+      "note": "",
+      "local": "藏结无阳证，不往来寒热，其人反静，舌上胎滑者，不可攻也。",
+      "witness": "藏结无阳证，不往来寒热，一云寒而不热。其人反静，舌上胎滑者，不可攻也",
+      "locator": "S-003-伤寒论宋版.txt#伤寒论(宋本)"
+    },
+    {
+      "priority": 3,
+      "entityId": "guilin-formula-甘草麻黄汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0,
+      "note": "取 KB 正文「## 煎服法」",
+      "local": "右二味，以水五升，先煮麻黄，去上沫，纳甘草，煮取三升，去滓，温服一升，复令汗出，不汗再服。",
+      "witness": "待核。",
+      "locator": "02_方剂/甘草麻黄汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "guilin-formula-小柴胡加茯苓汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0,
+      "note": "取 KB 正文「## 煎服法」",
+      "local": "右八味，以水一斗二升，煮取六升，去滓，再煎，取三升，温服一升，日三服。",
+      "witness": "待核。",
+      "locator": "02_方剂/小柴胡加茯苓汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-去桂加白术汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.115,
+      "note": "方名模糊匹配（同药味、名差一字，需人工确认）：KB「去桂枝加白术汤」↔ 本地「去桂加白术汤」",
+      "local": "上五味，以水六升，煮取两升，去滓，分温三服。初一服，其人身如痹，半日许复服之，三服都尽，其人如冒状，勿怪。此以附子、术并走皮内，逐水气未得除，故使之耳，法当加桂四两。此本一方二法：以大便硬、小便自利，去桂也；以大便不硬、小便不利，当加桂。附子三枚，恐多也。虚弱家及产妇，宜减服之。",
+      "witness": "以水六升，煮取二升，去滓，分温三服。",
+      "locator": "02_方剂/去桂枝加白术汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-小柴胡汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.1589,
+      "note": "",
+      "local": "上七味，以水一斗二升，煮取六升，去滓，再煎取三升，温服一升，日三服。若胸中烦而不呕者，去半夏、人参，加栝蒌实一枚；若渴者，去半夏，加人参合前成四两半、栝蒌根四两，若腹中痛者，去黄岑，加芍药三两；若胁下痞硬者，去大枣，加牡蛎四两；若心下悸、小便不利者，去黄芩，加茯苓四两；若不渴、外有微热者，去人参，加桂枝三两，温服微汗愈…",
+      "witness": "以水一斗二升，煮取六升，去滓，再煎取三升。温服一升，日三服。",
+      "locator": "02_方剂/小柴胡汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "jingui-formula-白术散",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.1809,
+      "note": "",
+      "local": "右四味，杵为散，酒服一钱匕，日三服，夜一服。但苦痛，加芍药；心下毒痛，倍加芎䓖；心烦吐痛，不能食饮，加细辛一两、半夏大者二十枚，服之后，更以醋浆水服之；若呕，以醋浆水服之，后不解者，小麦汁服之；已后渴者，大麦粥服之。病虽愈，服之勿置。",
+      "witness": "右四味，杵为散，酒服一钱匕，日三服，夜一服。",
+      "locator": "02_方剂/白术散.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-小青龙汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.1967,
+      "note": "",
+      "local": "上八味，以水一升，先煮麻黄，减二升，去上沫；内诸药，取三升，去滓，温服一升。若渴者，去半夏，加栝蒌根三两；若微利者，去麻黄，加荛花（如一鸡子，熬令赤色）；若噎者，去麻黄，加附子一枚（炮），若小便不利、少腹满者，去麻黄，加茯苓四两；若喘者，去麻黄，加杏仁半升（去皮尖）。且荛花不治利，麻黄主喘。今此语反之，疑非仲景意。",
+      "witness": "以水一斗，先煮麻黄，减二升，去上沫，内诸药，煮取三升，去滓。温服一升。",
+      "locator": "02_方剂/小青龙汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-文蛤散",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.2239,
+      "note": "",
+      "local": "上一味，为散。以沸汤和一寸方匕服，汤用五合。身热皮粟不解，欲引衣自复者，若以水潠之洗之，益令热劫不得去，当汗而不汗则烦，假令汗出已，腹中痛，与芍药三两如上法。",
+      "witness": "右一味为散，以沸汤和一方寸匕服，汤用五合。",
+      "locator": "02_方剂/文蛤散.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-通脉四逆汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.2558,
+      "note": "",
+      "local": "上三味，以水三升，煮取一升二合，去滓，分温再服。其脉即出者愈。面色赤者，加葱九茎；腹中痛者，去葱，加芍药二两，呕者，加生姜二两；咽痛者，去芍药，加桔梗一两，利止、脉不出者，去桔梗，加人参二两。病皆与方相应者，乃服之。",
+      "witness": "以水三升，煮取一升二合，去滓。分温再服。其脉即出者愈。",
+      "locator": "02_方剂/通脉四逆汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "jingui-formula-防己黄耆汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.2755,
+      "note": "方名模糊匹配（同药味、名差一字，需人工确认）：KB「防己黄芪汤」↔ 本地「防己黄耆汤」",
+      "local": "上锉麻豆大，每抄五钱匕，生姜四片，大枣一枚，水盏半，煎八分，去滓，温服，良久再服。喘者加麻黄半两，胃中不和者加芍药三分，气上冲者加桂枝三分，下有陈寒者加细辛三分。服后当如虫行皮中，从腰下如冰，后坐被上，又以一被绕腰以下，温令微汗，差。",
+      "witness": "右锉麻豆大，每抄五钱匕，生姜四片，大枣一枚，水盏半，煎八分，去滓温服。",
+      "locator": "02_方剂/防己黄芪汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-理中丸",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.2865,
+      "note": "按异名匹配：KB「理中汤」↔ 本地「理中丸」；取 KB 正文「## 煎服法」",
+      "local": "上四味，捣筛，蜜和为丸如鸡子黄许大，以沸汤数合和一丸，研碎，温服之，日三四、夜二服。腹中未热，益至三四丸，然不及汤。汤法：以四物依两数切，用水八升，煮取三升，去滓，温服一升，日三服。若脐上筑者，肾气动也，去术，加桂四两；吐多者，去术，加生姜三两，下多者，还用术；悸者，加茯苓二两，渴欲得水者，加术足前成四两半，腹中痛者，…",
+      "witness": "宋版附于理中丸方后：然不及汤，汤法，以四物依两数切，用水八升，煮取三升，去滓，温服一升，日三服。服汤后如食顷，饮热粥一升许，微自温，勿发揭衣被。",
+      "locator": "02_方剂/理中汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-桂枝加桂汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.2973,
+      "note": "",
+      "local": "上五味，以水七升，煮取三升，去滓，温服一升。",
+      "witness": "以水七升，煮取三升，去滓。温服一升。本云，桂枝汤今加桂满五两。所以加桂者，以能泄奔豚气也。",
+      "locator": "02_方剂/桂枝加桂汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-柴胡桂枝汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.3043,
+      "note": "",
+      "local": "上九味，以水七升，煮取三升，去滓，温服一升。本云：人参汤，作如桂枝法，加半夏、柴胡、黄芩；复如柴胡法，今用人参，作半剂。",
+      "witness": "以水七升，煮取三升，去滓。温服一升。",
+      "locator": "02_方剂/柴胡桂枝汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-蜜煎导",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.3125,
+      "note": "按异名匹配：KB「蜜煎」↔ 本地「蜜煎导」",
+      "local": "上一味。于铜器内，微火煎，当须凝如饴状，搅之勿令焦着。欲可丸，并手撚作挺，令头锐，大如指，长二寸许，当热时急作，冷则硬。以内谷道中，以手急抱，欲大便时乃去之。",
+      "witness": "于铜器内微火煎，凝如饴状，搅之勿焦，捻作挺，纳谷道中。",
+      "locator": "02_方剂/蜜煎.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "jingui-formula-九痛丸",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.3143,
+      "note": "",
+      "local": "右六味，沫之，炼蜜丸如梧子大，酒下，强人初服三丸，日三服；弱者二丸。兼治卒中恶，腹胀痛，口不能言。又治连年积冷，流注心胸痛，并冷肿上气，落马坠车血疾等，皆主之。忌口如常法。",
+      "witness": "末之，炼蜜丸如桐子大，酒下，强人初服三丸，日三服，弱者二丸。",
+      "locator": "02_方剂/九痛丸.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-真武汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.3148,
+      "note": "",
+      "local": "上五味，以水八升，煮取三升，去滓，温服七合，日三服。咽喉干燥者，不可发汗。淋家，不可发汗，汗出必便血。疮家，虽身疼痛，不可发汗，汗出则痉。",
+      "witness": "以水八升，煮取三升，去滓。温服七合，日三服。",
+      "locator": "02_方剂/真武汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "jingui-formula-当归散",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.3636,
+      "note": "",
+      "local": "右五味，杵为散，酒饮服方寸匕，日再服。妊娠常服即易产，胎无苦疾，产后百病悉主之。",
+      "witness": "杵为散，酒饮服方寸匕，日再服。",
+      "locator": "02_方剂/当归散.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-通脉四逆加猪胆汁汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.3929,
+      "note": "按异名匹配：KB「通脉四逆加猪胆汤」↔ 本地「通脉四逆加猪胆汁汤」",
+      "local": "上四味，用水三升，煮取一升二合，去滓；加入猪胆汁，分二次温服。",
+      "witness": "以水三升，煮取一升二合，去滓，内猪胆汁。分温再服。无猪胆，以羊胆代之。",
+      "locator": "02_方剂/通脉四逆加猪胆汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-烧裈散",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.3953,
+      "note": "",
+      "local": "妇人中裈近隐处，取烧作灰。上一味，水服方寸匕。日三服。小便即利，阴头微肿，此为愈矣。妇人病，取男子裈烧服。",
+      "witness": "水服方寸匕，日三服。妇人病取男子裈烧服。",
+      "locator": "02_方剂/烧裈散.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-理中丸",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.4045,
+      "note": "取 KB 正文「## 煎服法」",
+      "local": "上四味，捣筛，蜜和为丸如鸡子黄许大，以沸汤数合和一丸，研碎，温服之，日三四、夜二服。腹中未热，益至三四丸，然不及汤。汤法：以四物依两数切，用水八升，煮取三升，去滓，温服一升，日三服。若脐上筑者，肾气动也，去术，加桂四两；吐多者，去术，加生姜三两，下多者，还用术；悸者，加茯苓二两，渴欲得水者，加术足前成四两半，腹中痛者，…",
+      "witness": "捣筛，蜜和为丸，如鸡子黄许大。以沸汤数合，和一丸，研碎，温服之，日三四，夜二服；腹中未热，益至三四丸。然不及汤，汤法，以四物依两数切，用水八升，煮取三升，去滓，温服一升，日三服（详见理中汤）。",
+      "locator": "02_方剂/理中丸.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-干姜附子汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.4286,
+      "note": "",
+      "local": "上二味，以水三升，煮取一升，去滓，顿服。上二味，以水三升，煮取一升，去滓，",
+      "witness": "以水三升，煮取一升，去滓，顿服。",
+      "locator": "02_方剂/干姜附子汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-栀子豉汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.4412,
+      "note": "取 KB 正文「## 煎服法」",
+      "local": "上二味，以水四个，先煮栀子得二分半；内豉，煮取一升半，去滓，分为二服，温进一服（得吐者，止后服）。",
+      "witness": "以水四升，先煮栀子，得二升半，内豉，煮取一升半，去滓。分为二服，温进一服，得吐者，止后服。阳明篇作：煮栀子取二升半，内豉，更煮取一升半，分二服，温进一服，得快吐者止后服。",
+      "locator": "02_方剂/栀子豉汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "guilin-formula-人参石膏汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.4722,
+      "note": "",
+      "local": "右五味，以水六升，煮取三升，去滓，温服一升，日三服。 伤暑者，头不痛，头痛者风也，头重者湿也。",
+      "witness": "以水六升，煮取三升，去滓，温服一升，日三服。",
+      "locator": "02_方剂/人参石膏汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-大柴胡汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.4773,
+      "note": "",
+      "local": "上七味，以水一斗二升，煮取六升，去滓，再煎（取三升），温服一升，日三服。一方，加大黄二两。若不加，恐不为大柴胡汤。",
+      "witness": "以水一斗二升，煮取六升，去滓再煎。温服一升，日三服。",
+      "locator": "02_方剂/大柴胡汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "guilin-formula-地黄知母黄连阿胶汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.48,
+      "note": "",
+      "local": "右四味， 以水一斗，煮取三升，煮米熟，汤成去滓，温服一升，日三服。",
+      "witness": "以水一斗，先煮三味，取三升，去滓，纳胶烊消，温服一升，日三服。",
+      "locator": "02_方剂/地黄知母黄连阿胶汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-禹余粮丸",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.4828,
+      "note": "",
+      "local": "上六味，蜜为丸，如梧桐子大，每服二十丸。病人有寒，复发汗，胃中冷，必吐蚘。",
+      "witness": "右六味，蜜为丸，如梧子大，每服二十丸。",
+      "locator": "02_方剂/禹余粮丸.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-桂枝去桂加茯苓白术汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.4848,
+      "note": "",
+      "local": "上六味，以水八升，煮取三升，去滓，温服一升。小便利则愈。",
+      "witness": "以水八升，煮取三升，去滓。温服一升，小便利则愈。本云，桂枝汤今去桂枝，加茯苓、白术。",
+      "locator": "02_方剂/桂枝去桂加茯苓白术汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-四逆散",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.4851,
+      "note": "取 KB 正文「## 煎服法」",
+      "local": "上四味，各十分，捣筛，白饮和服方寸匕，日三服。咳者，加五味子、干姜各五分，并主下利；悸者，加桂枝五分；小便不利者，加茯苓五分；腹中痛者，加附子一枚，炮令坼；泄利下重者，先以水五升，煮薤白三升，煮取三升，去滓，以散三方寸匕，内汤中，煮取一升半，分温再服。",
+      "witness": "白饮和服方寸匕，日三服；咳者加五味子、干姜各五分；悸者加桂枝五分；小便不利者加茯苓五分；泄利下重者以薤白汤合散再服。",
+      "locator": "02_方剂/四逆散.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "jingui-formula-乌头汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.4878,
+      "note": "",
+      "local": "上五味，㕮咀四味，以水三升，煮取一升，去滓，内蜜煎中，更煎之，服七合。不知，尽服之。",
+      "witness": "先以蜜二升煮乌头，取一升，去滓；别以水三升煮四味，取一升，去滓，内蜜再煮一二沸，服七合，不知尽服之。",
+      "locator": "02_方剂/乌头汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-调胃承气汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.4889,
+      "note": "取 KB 正文「## 煎服法」",
+      "local": "上三味，以水三升，煮取一升，去滓，内芒硝，更上火微煮令沸，少少温服之。",
+      "witness": "以水三升，煮取一升，去滓，内芒硝，更上火微煮令沸。少少温服之。宋版70条另作：煮取一升，内芒硝，更煮两沸，顿服。",
+      "locator": "02_方剂/调胃承气汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-桂枝麻黄各半汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.5,
+      "note": "",
+      "local": "上七味，以水五升，先煮麻黄一二沸，去上沫；内诸药，煮取一升八合，去滓，温服六合。",
+      "witness": "以水五升，先煮麻黄一二沸，去上沫，内诸药，煮取一升八合，去滓。温服六合。本云，桂枝汤三合，麻黄汤三合，并为六合，顿服。将息如上法。",
+      "locator": "02_方剂/桂枝麻黄各半汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-桂枝汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.5,
+      "note": "取 KB 正文「## 煎服法」",
+      "local": "上五味，㕮咀三味，以水七升，微火煮取三升，去滓，适寒温，服一升。服已须臾，啜热稀粥一升余，以助药力。温覆令一时许，遍身漐漐微似有汗者益佳，不可令如水流漓，病必不除。若一服汗出病差，停后服，不必尽剂。若不汗，更取依前法，又不汗，后服小促其间，半日许，令三取尽。若病重者，一日一夜服，周时观之，服一剂尽，病证犹在者，更作服。…",
+      "witness": "咀三味，以水七升，微火煮取三升，去滓。适寒温，服一升。服已须臾，啜热稀粥一升余，以助药力。温覆令一时许，遍身漐漐微似有汗者益佳，不可令如水流漓，病必不除。若一服汗出病差，停后服，不必尽剂。",
+      "locator": "02_方剂/桂枝汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-桂枝加芍药汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.5385,
+      "note": "",
+      "local": "上五味，以水七升，煮取三升，去滓，温分三服。本云：桂枝汤，今加芍药。",
+      "witness": "以水七升，煮取三升，去滓，温分三服。",
+      "locator": "02_方剂/桂枝加芍药汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "jingui-formula-排脓散",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.5517,
+      "note": "",
+      "local": "右三味，杵为散，取鸡子黄一枚，以药散与鸡黄相等，揉和。",
+      "witness": "杵为散，取鸡子黄一枚，以药散与鸡黄相等，揉和令相得，饮和服之，日一服。",
+      "locator": "02_方剂/排脓散.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-五苓散",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.5625,
+      "note": "取 KB 正文「## 煎服法」",
+      "local": "上五味，捣为散，以白饮和服方寸匕，日三服。多饮暖水，汗出愈。如法将息。",
+      "witness": "捣为散，以白饮和服方寸匕，日三服。多饮暖水，汗出愈。方寸匕为非重量单位，待核。",
+      "locator": "02_方剂/五苓散.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-桂枝去芍药加附子汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.5789,
+      "note": "",
+      "local": "上五味，以水七升，煮取三升，去滓，温服一升。",
+      "witness": "以水七升，煮取三升，去滓，温服一升。将息如前法。",
+      "locator": "02_方剂/桂枝去芍药加附子汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-枳实栀子豉汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.5833,
+      "note": "按异名匹配：KB「枳实栀子汤」↔ 本地「枳实栀子豉汤」",
+      "local": "上三味，以清浆水七升，空煮取回升；内枳实、栀子，煮取三升，下豉，更煮五六沸，去滓，温分再服。复令微似汗。若有宿食者，内大黄如博棋子大五六枚，服之愈。",
+      "witness": "以清浆水七升，空煮取四升，内枳实、栀子，煮取二升，下豉，更煮五六沸，去滓。温分再服，覆令微似汗。",
+      "locator": "02_方剂/枳实栀子汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "jingui-formula-当归贝母苦参丸",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.6,
+      "note": "",
+      "local": "右三味，末之，炼蜜丸如小豆大，饮服三丸，加至十丸。",
+      "witness": "末之，炼蜜为丸，如小豆大，饮服三丸，日三服。",
+      "locator": "02_方剂/当归贝母苦参丸.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-附子泻心汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.6061,
+      "note": "",
+      "local": "上四味，切三味，以麻沸汤二升渍之，须臾，绞去滓，内附子汁，分温再服。",
+      "witness": "大黄、黄连、黄芩以麻沸汤二升渍之，须臾，绞去滓；别煮附子取汁，两液相合，分温再服。",
+      "locator": "02_方剂/附子泻心汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-葛根汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.6122,
+      "note": "",
+      "local": "上七味，以水一斗，先煮麻黄、葛根，减六升，去白沫；内诸药，煮取三升，去滓，温服一升。覆取微似汗。",
+      "witness": "以水一斗，先煮麻黄、葛根，减二升，去白沫，内诸药，煮取三升，去滓。温服一升，覆取微似汗，余如桂枝法将息及禁忌。诸汤皆仿此。",
+      "locator": "02_方剂/葛根汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "jingui-formula-越婢加术汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.625,
+      "note": "",
+      "local": "上六味，以水六升，先煮麻黄去沫，内诸药，煮取三升，分温三服。恶风加附子一枚，炮。",
+      "witness": "以水六升，先煮麻黄，去上沫，内诸药，煮取三升，分温三服。",
+      "locator": "02_方剂/越婢加术汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-柴胡加龙骨牡蛎汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.625,
+      "note": "",
+      "local": "上十二味，以水八升，煮取四升，内大黄切如棋子，更煮一两沸，去滓，温服一升。",
+      "witness": "以水八升，煮取四升，纳大黄切如棋子，更煮一二沸，去滓，温服一升，日三服，夜一服。",
+      "locator": "02_方剂/柴胡加龙骨牡蛎汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-大陷胸丸",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.625,
+      "note": "",
+      "local": "上四味，捣筛二味；内杏仁、芒硝合研如脂，和散，取如弹丸一枚；别捣甘遂末一钱匕，白蜜二合，水二升，煮取一升，温，顿服之。一宿乃下。如不下，更服，取下为效。禁如药法。",
+      "witness": "捣筛诸药，取如弹丸一枚，别捣甘遂末一钱匕，白蜜二合，水二升，煮取一升，温顿服之，一宿乃下，如不下，更服。",
+      "locator": "02_方剂/大陷胸丸.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "jingui-formula-天雄散",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.6316,
+      "note": "",
+      "local": "上四味、杵为散，酒服半钱匕，日三服，不知，稍增之。",
+      "witness": "杵为散，酒服半钱匕，日三服，不知稍增，以知为度。",
+      "locator": "02_方剂/天雄散.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-半夏散及汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.6349,
+      "note": "按异名匹配：KB「半夏散」↔ 本地「半夏散及汤」",
+      "local": "上三味，等分，各别捣筛已，合治之。白饮和，服方寸匕，日三服。若不能散服者，以水一升，煎七沸；内散两方寸匕，更煮三沸，下火令小冷，少少咽之。半夏有毒，不当散服。",
+      "witness": "白饮和服方寸匕，日三服；若不能散服者，以水一升煎七沸，纳散两方寸匕，更煎三沸，下火令小冷，少少咽之。",
+      "locator": "02_方剂/半夏散.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "guilin-formula-大青龙加附子汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.697,
+      "note": "",
+      "local": "右八味，以水九升，先煮麻黄减二升，去上沫，纳诸药，煮取三升，去滓，温服一升，取微似汗，汗出多者温粉粉之，一服汗者，停后服；若复服汗多亡阳，遂虚，恶风烦躁不得眠也。",
+      "witness": "以水九升，先煮麻黄减二升，去上沫，纳诸药，煮取三升，去滓，温服一升，取微似汗。汗出多者温粉粉之，一服汗者，停后服。",
+      "locator": "02_方剂/大青龙加附子汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-瓜蒂散",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.7031,
+      "note": "取 KB 正文「## 煎服法」",
+      "local": "上二味，各别捣筛，为散已，合治之，取一钱匕；以香豉一合，用热汤七合，煮作稀糜，去滓；取汁合散，温，顿服之。不吐者，少少加；得快吐，乃止。诸亡血虚家，不可与瓜蒂散。",
+      "witness": "各别捣筛，为散已，合治之，取一钱匕。以香豉一合，用热汤七合煮作稀糜，去滓，取汁和散，温顿服之。不吐者，少少加，得快吐乃止。香豉一合、一钱匕为非重量单位，待核。",
+      "locator": "02_方剂/瓜蒂散.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "guilin-formula-小半夏汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.7222,
+      "note": "",
+      "local": "右二味，以水七升，煮取一升半，去滓，分温再服。",
+      "witness": "以水七升，煮取一升半，分温再服。",
+      "locator": "02_方剂/小半夏汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-formula-猪肤汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.7436,
+      "note": "",
+      "local": "上一味，以水一斗，煮取五升，去滓，加白蜜一升、白粉五合，熬香，和令相得，温分六服。注白粉，即大米粉。",
+      "witness": "以水一斗，煮取五升，去滓，加白蜜一升，白粉五合，熬香，和令相得。温分六服。",
+      "locator": "02_方剂/猪肤汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "jingui-formula-桂枝茯苓丸",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.7692,
+      "note": "",
+      "local": "右五味，末之，炼蜜和丸如兔屎大，每日食前服一丸，不知，加至三丸。",
+      "witness": "末之，炼蜜为丸，如兔屎大，每日食前服一丸，不知可渐加至三丸。",
+      "locator": "02_方剂/桂枝茯苓丸.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "jingui-formula-干姜人参半夏丸",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.7826,
+      "note": "",
+      "local": "右三味，末之，以生姜汁糊为丸如梧子大，饮服十丸，日三服。",
+      "witness": "末之，以生姜汁糊为丸，如梧桐子大，饮服十九，日三服。",
+      "locator": "02_方剂/干姜人参半夏丸.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "jingui-formula-泻心汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.7857,
+      "note": "",
+      "local": "右三味，以水三升，煮取一升，顿服之。",
+      "witness": "以水三升，煮取一升，顿服之。",
+      "locator": "02_方剂/泻心汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "jingui-formula-小青龙加石膏汤",
+      "field": "preparation",
+      "source": "KB",
+      "verdict": "mismatch",
+      "ratio": 0.7895,
+      "note": "",
+      "local": "右九味，以水一斗，先煮麻黄，去上沫，内诸药，煮取三升。强人服一升，羸者减之，日三服，小儿服四合。",
+      "witness": "以水一斗，先煮麻黄，去上沫，内诸药，煮取三升；强人服一升，羸者减之，日三服。",
+      "locator": "02_方剂/小青龙加石膏汤.md"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-185",
+      "field": "text",
+      "source": "Kanripo",
+      "verdict": "mismatch",
+      "ratio": 0.6222,
+      "note": "不同版本系统（成无己注本，与赵开美本异文属预期）",
+      "local": "本太阳，初得病时，发其汗，汗先出不彻，因转属阳明也。伤寒发热，无汗，呕不能食，而反汗出濈濈然者，是转属阳明也。",
+      "witness": "日太陽二日陽明此太陽傳經故曰轉属陽明傷寒𤼵熱無汗嘔不能食而反汗岀濈濈然者是轉属陽明也",
+      "locator": "KR3e0008_SBCK_005-3b"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-245",
+      "field": "text",
+      "source": "Kanripo",
+      "verdict": "mismatch",
+      "ratio": 0.6327,
+      "note": "不同版本系统（成无己注本，与赵开美本异文属预期）",
+      "local": "阳脉微而汗出少者，为自和也；汗出多者为太过，阳脉实。因发其汗，出多者，亦为太过，太过者，为阳绝于里，亡津液，大便因鞕也。",
+      "witness": "當故自和汗岀多者反損正氣是汗出太過也陽脉實因𤼵其汗岀多者亦爲太過太過爲陽絶於裏亡津液大便因鞕也",
+      "locator": "KR3e0008_SBCK_005-27b"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-384",
+      "field": "text",
+      "source": "Kanripo",
+      "verdict": "mismatch",
+      "ratio": 0.6372,
+      "note": "不同版本系统（成无己注本，与赵开美本异文属预期）；命中区间含缺字占位（按通配比对）",
+      "local": "伤寒，其脉微涩者，本是霍乱，今是伤寒，却四五日，至阴经上，转入阴必利；本呕，下利者，不可治也。欲似大便，而反失气，仍不利者，此属阳明也，便必鞕，十三日愈。所以然者，经尽故也。下利后，当便鞕，鞕则能食者愈。今反不能食，到后经中，颇能食，复过一经能食，过之一日当愈；不愈者，不属阳明也。",
+      "witness": "傷寒其脉㣲澁者本是霍亂今是傷寒&KR0077;四五日至隂經上轉入隂必利本嘔下利者不可治也欲似大便而反失氣仍不利者属陽明也便必鞕十三日愈所以然者經盡故也㣲爲亡陽澁爲亡血傷寒脉㣲澁則本是霍亂&KR0269;利亡陽亡血&KR0269;利止傷寒之邪未巳還是傷寒&KR0077;四五日邪",
+      "locator": "KR3e0008_SBCK_007-1b"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-101",
+      "field": "text",
+      "source": "Kanripo",
+      "verdict": "mismatch",
+      "ratio": 0.6538,
+      "note": "不同版本系统（成无己注本，与赵开美本异文属预期）",
+      "local": "伤寒中风，有柴胡证，但见一证便是，不必悉具。凡柴胡汤病证而下之，若柴胡证不罢者，复与柴胡汤，必蒸蒸而振，却复发热汗出而解。",
+      "witness": "一證便宜與柴胡湯治之不必待其證候全具也凡柴胡湯病證而下之若柴胡證不罷者復與柴胡湯必蒸蒸而振却發熱汗岀而解",
+      "locator": "KR3e0008_SBCK_003-35b"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-131",
+      "field": "text",
+      "source": "Kanripo",
+      "verdict": "mismatch",
+      "ratio": 0.6552,
+      "note": "不同版本系统（成无己注本，与赵开美本异文属预期）",
+      "local": "病发于阳，而反下之，热入因作结胸；病发于阴，而反下之，因作痞也。所以成结胸者，以下之太早故也。结胸者，项亦强，如柔痉状，下之则和，宜大陷胸丸。",
+      "witness": "病𤼵於陽而反下之熱入因作結胷病𤼵於隂而反下之因作痞所以成結胷者以下之太早故也𤼵熱惡寒者𤼵於陽也而反下之則表中陽邪入裏",
+      "locator": "KR3e0008_SBCK_004-2a"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-174",
+      "field": "text",
+      "source": "Kanripo",
+      "verdict": "mismatch",
+      "ratio": 0.6667,
+      "note": "不同版本系统（成无己注本，与赵开美本异文属预期）；命中区间含缺字占位（按通配比对）",
+      "local": "伤寒八九日，风湿相搏，身体疼烦，不能自转侧，不呕不渴，脉浮虚而涩者，桂枝附子汤主之。若其人大便鞕，小便自利者，去桂加白术汤主之。",
+      "witness": "傷寒八九日風濕相&KR0366;身體疼煩不能自轉側不嘔不渴脉浮虚而濇者桂枝附子湯主之傷寒與中風家至七八日再經之",
+      "locator": "KR3e0008_SBCK_004-28a"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-22",
+      "field": "text",
+      "source": "Kanripo",
+      "verdict": "mismatch",
+      "ratio": 0.6875,
+      "note": "不同版本系统（成无己注本，与赵开美本异文属预期）",
+      "local": "若微寒者，桂枝去芍药加附子汤主之。",
+      "witness": "若㣲惡寒者去芍藥方中加附子湯主之",
+      "locator": "KR3e0008_SBCK_002-37b"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-279",
+      "field": "text",
+      "source": "Kanripo",
+      "verdict": "mismatch",
+      "ratio": 0.6923,
+      "note": "不同版本系统（成无己注本，与赵开美本异文属预期）",
+      "local": "本太阳病，医反下之，因尔腹满时痛者，属太阴也，桂枝加芍药汤主之；大实痛者，桂枝加大黄汤主之。",
+      "witness": "本太陽病醫反下之因而腹滿時痛者屬太隂也桂枝加芍藥湯主之表邪未罷醫下之",
+      "locator": "KR3e0008_SBCK_006-2b"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-362",
+      "field": "text",
+      "source": "Kanripo",
+      "verdict": "mismatch",
+      "ratio": 0.7097,
+      "note": "不同版本系统（成无己注本，与赵开美本异文属预期）",
+      "local": "下利，手足厥冷，无脉者，灸之。不温。若脉不还，反微喘者，死。少阴负趺阳者，为顺也。",
+      "witness": "下利手足厥冷無脉者灸之不温若脉不還反㣲喘者死下利手足厥逆無脉者",
+      "locator": "KR3e0008_SBCK_006-34a"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-301",
+      "field": "text",
+      "source": "Kanripo",
+      "verdict": "mismatch",
+      "ratio": 0.7619,
+      "note": "不同版本系统（成无己注本，与赵开美本异文属预期）",
+      "local": "少阴病，始得之，反发热，脉沉者，麻黄细辛附子汤主之。",
+      "witness": "少隂病始得之反𤼵熱脉沉者麻黄附子細辛湯主之",
+      "locator": "KR3e0008_SBCK_006-7b"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-75",
+      "field": "text",
+      "source": "Kanripo",
+      "verdict": "mismatch",
+      "ratio": 0.7818,
+      "note": "不同版本系统（成无己注本，与赵开美本异文属预期）",
+      "local": "未持脉时，病人手叉自冒心，师因教试令咳，而不咳者，此必两耳聋无闻也。所以然者，以重发汗，虚，故如此。发汗后，饮水多，必喘；以水灌之，亦喘。",
+      "witness": "未持脉時病人手义自冒心師因教試令欬而不欬者此必兩耳聾無聞也所以然者以重發汗虚故如此發汗多亡陽胷中陽氣不足",
+      "locator": "KR3e0008_SBCK_003-22a"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-85",
+      "field": "text",
+      "source": "Kanripo",
+      "verdict": "mismatch",
+      "ratio": 0.7857,
+      "note": "不同版本系统（成无己注本，与赵开美本异文属预期）",
+      "local": "疮家，虽身疼痛，不可发汗，汗出则痉。",
+      "witness": "瘡家雖身疼痛不可發汗發汗則痓",
+      "locator": "KR3e0008_SBCK_003-26a"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-261",
+      "field": "text",
+      "source": "Kanripo",
+      "verdict": "mismatch",
+      "ratio": 0.7857,
+      "note": "不同版本系统（成无己注本，与赵开美本异文属预期）",
+      "local": "伤寒，身黄，发热，栀子柏皮汤主之。",
+      "witness": "傷寒身黄𤼵熱者梔子蘗皮湯主之",
+      "locator": "KR3e0008_SBCK_005-33a"
+    },
+    {
+      "priority": 3,
+      "entityId": "songben-97",
+      "field": "text",
+      "source": "Kanripo",
+      "verdict": "mismatch",
+      "ratio": 0.7973,
+      "note": "不同版本系统（成无己注本，与赵开美本异文属预期）；命中区间含缺字占位（按通配比对）",
+      "local": "血弱气尽，腠理开，邪气因入，与正气相搏，结于胁下，正邪分争，往来寒热，休作有时，嘿嘿不欲饮食，藏府相连，其痛必下，邪高痛下，故使呕也，小柴胡汤主之。服柴胡汤已，渴者属阳明，以法治之。",
+      "witness": "血弱氣盡腠理開邪氣因入與正氣相&KR0366;結於脇下正邪分爭往來寒熱休作有時黙黙不欲飲食藏府相連其痛必下邪高痛下故使嘔也小柴胡湯主之人之氣血隨時盛衰當月郭空之",
+      "locator": "KR3e0008_SBCK_003-32b"
+    }
+  ]
+}

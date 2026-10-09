@@ -1,8 +1,8 @@
 {
   "songben": {
-    "clauseCount": 400,
+    "clauseCount": 398,
     "expected": 398,
-    "huxishuMatched": 232,
+    "huxishuMatched": 390,
     "huxishuTotal": 398,
     "mismatches": [
       {
@@ -11,239 +11,1029 @@
         "huxishu": "问曰病有结胸有脏结其状何如答曰按之痛寸脉浮关脉沉名曰结胸"
       },
       {
-        "order": 234,
-        "songben": "大猪胆一枚泻汁和少许法醋以灌谷道内如一食顷当大便出宿食恶",
-        "huxishu": "阳明病脉迟汗出多微恶寒者表未解也可发汗宜桂枝汤"
-      },
-      {
-        "order": 235,
-        "songben": "阳明病脉迟汗出多微恶寒者表未解也可发汗宜桂枝汤",
-        "huxishu": "阳明病脉浮无汗而喘者发汗则愈宜麻黄汤前面那一节234条说"
-      },
-      {
-        "order": 236,
-        "songben": "阳明病脉浮无汗而喘者发汗则愈宜麻黄汤",
-        "huxishu": "阳明病发热汗出者此为热越不能发黄也但头汗出身无汗剂颈而还"
-      },
-      {
-        "order": 237,
-        "songben": "阳明病发热汗出者此为热越不能发黄也但头汗出身无汗剂颈而还",
-        "huxishu": "阳明证其人喜忘者必有蓄血所以然者本有久瘀血故令喜忘屎虽硬"
-      },
-      {
         "order": 238,
-        "songben": "阳明证其人喜忘者必有畜血所以然者本有久瘀血故令喜忘屎虽鞕",
+        "songben": "阳明病下之心中懊憹而烦胃中有燥屎者可攻腹微满初头鞕后必溏",
         "huxishu": "阳明病下之心中懊而烦胃中有燥屎者可攻腹微满初头硬后必溏不"
       },
       {
-        "order": 239,
-        "songben": "阳明病下之心中懊憹而烦胃中有燥屎者可攻腹微满初头鞕后必溏",
-        "huxishu": "病人不大便五六日绕脐痛烦躁发作有时者此有燥屎故使不大便也"
-      },
-      {
-        "order": 240,
-        "songben": "病人不大便五六日绕脐痛烦躁发作有时者此有燥屎故使不大便也",
-        "huxishu": "病人烦热汗出则解又如疟状日晡所发热者属阳明也脉实者宜下之"
-      },
-      {
-        "order": 241,
-        "songben": "病人烦热汗出则解又如疟状日晡所发热者属阳明也脉实者宜下之",
-        "huxishu": "大下后六七日不大便烦不解腹满痛者此有燥屎也所以然者本有宿"
-      },
-      {
-        "order": 242,
-        "songben": "大下后六七日不大便烦不解腹满痛者此有燥屎也所以然者本有宿",
-        "huxishu": "病人小便不利大便乍难乍易时有微热喘冒不能卧者有燥屎也宜大"
-      },
-      {
-        "order": 243,
-        "songben": "病人小便不利大便乍难乍易时有微热喘冒不能卧者有燥屎也宜大",
-        "huxishu": "食谷欲呕属阳明也吴茱萸汤主之得汤反剧者属上焦也属阳明也叫"
-      },
-      {
-        "order": 244,
-        "songben": "食谷欲呕属阳明也吴茱萸汤主之得汤反剧者属上焦也",
-        "huxishu": "太阳病寸缓关浮尺弱其人发热汗出复恶寒不呕但心下痞者此以医"
-      },
-      {
-        "order": 245,
-        "songben": "太阳病寸缓关浮尺弱其人发热汗出复恶寒不呕但心下痞者此以医",
-        "huxishu": "脉阳微而汗出少者为自和也汗出多者为太过阳脉实因发其汗出多"
-      },
-      {
-        "order": 246,
-        "songben": "阳脉微而汗出少者为自和也汗出多者为太过阳脉实因发其汗出多",
-        "huxishu": "脉浮而芤浮为阳芤为阴浮芤相搏胃气生热其阳则绝"
-      },
-      {
-        "order": 247,
-        "songben": "脉浮而芤浮为阳芤为阴浮芤相搏胃气生热其阳则绝",
-        "huxishu": "趺阳脉浮而涩浮则胃气强涩则小便数浮涩相搏大便则难其脾为约"
-      },
-      {
-        "order": 248,
-        "songben": "趺阳脉浮而涩浮则胃气强涩则小便数浮涩相搏大便则鞕其脾为约",
-        "huxishu": "太阳病三日发汗不解蒸蒸发热者属胃也调胃承气汤主之"
-      },
-      {
-        "order": 249,
-        "songben": "太阳病三日发汗不解蒸蒸发热者属胃也调胃承气汤主之",
-        "huxishu": "伤寒吐后腹胀满者与调胃承气汤"
-      },
-      {
         "order": 250,
-        "songben": "伤寒吐后腹胀满者与调胃承气汤",
+        "songben": "太阳病若吐若下若发汗后微烦小便数大便因鞕者与小承气汤和之",
         "huxishu": "阳病若吐若下若发汗微烦小便数大便因硬者与小承气汤和之愈"
       },
       {
-        "order": 251,
-        "songben": "太阳病若吐若下若发汗后微烦小便数大便因鞕者与小承气汤和之",
-        "huxishu": "得病二三日脉弱无太阳柴胡证烦躁心下硬至四五日虽能食以小"
-      },
-      {
-        "order": 252,
-        "songben": "得病二三日脉弱无太阳柴胡证烦躁心下鞕至四五日虽能食以小承",
-        "huxishu": "伤寒六七日目中不了了睛不和无表里证大便难身微热者此为实也"
-      },
-      {
         "order": 253,
-        "songben": "伤寒六七日目中不了了睛不和无表里证大便难身微热者此为实也",
+        "songben": "阳明病发热汗多者急下之宜大承气汤",
         "huxishu": "发热阳明汗多者急下之宜大承气汤"
       },
       {
-        "order": 254,
-        "songben": "阳明病发热汗多者急下之宜大承气汤",
-        "huxishu": "汗不解腹满痛者急下之宜大承气汤"
-      },
-      {
-        "order": 255,
-        "songben": "发汗不解腹满痛者急下之宜大承气汤",
-        "huxishu": "腹满不减减不足言当下之宜大承气汤"
-      },
-      {
-        "order": 256,
-        "songben": "腹满不减减不足言当下之宜大承气汤",
-        "huxishu": "阳明少阳合病必下利其脉不负者顺也负者失也互相克贼名为负也"
-      },
-      {
-        "order": 257,
-        "songben": "阳明少阳合病必下利其脉不负者为顺也负者失也互相克贼名为负",
-        "huxishu": "病人无表里证发热七八日虽脉浮数者可下之假令已下脉数不解合"
-      },
-      {
-        "order": 258,
-        "songben": "病人无表里证发热七八日虽脉浮数者可下之假令已下脉数不解合",
-        "huxishu": "若脉数不解而下不止必协热便脓血也"
-      },
-      {
-        "order": 259,
-        "songben": "若脉数不解而下不止必协热便脓血也",
-        "huxishu": "伤寒发汗已身目为黄所以然者以寒湿在里不解故也以为不可下也"
-      },
-      {
-        "order": 260,
-        "songben": "伤寒发汗已身目为黄所以然者以寒湿在里不解故也以为不可下也",
-        "huxishu": "伤寒七八日身黄如橘子色小便不利腹微满者茵陈蒿汤主之这条也"
-      },
-      {
         "order": 261,
-        "songben": "伤寒七八日身黄如橘子色小便不利腹微满者茵陈蒿汤主之",
+        "songben": "伤寒身黄发热栀子柏皮汤主之",
         "huxishu": "伤寒身黄发热者栀子柏皮汤主之"
       },
       {
-        "order": 262,
-        "songben": "伤寒身黄发热栀子柏皮汤主之",
-        "huxishu": "伤寒瘀热在里身必黄麻黄连轺赤小豆汤主之伤寒瘀热在里身必发"
+        "order": 274,
+        "songben": "太阴中风四肢烦疼脉阳微阴涩而长者为欲愈",
+        "huxishu": "太阴中风四肢烦疼阳微阴涩而长者为欲愈太阴中风这"
       },
       {
-        "order": 263,
-        "songben": "伤寒瘀热在里身必黄麻黄连轺赤小豆汤主之",
-        "huxishu": "少阳之为病口苦咽干目眩也"
+        "order": 356,
+        "songben": "伤寒厥而心下悸宜先治水当服茯苓甘草汤却治其厥不尔水渍入胃",
+        "huxishu": "伤寒厥而心下悸者宜先治水当服茯苓甘草汤却治其厥不尔水渍入"
       },
       {
-        "order": 264,
-        "songben": "少阳之为病口苦咽干目眩也",
-        "huxishu": "少阳中风两耳无所闻目赤胸中满而烦者不可吐下吐下则悸而惊少"
+        "order": 392,
+        "songben": "伤寒阴阳易之为病其人身体重少气少腹里急或引阴中拘挛热上冲",
+        "huxishu": "伤寒阴易之为病其人身体重少气少腹里急或引阴中拘挛热上冲胸"
+      }
+    ],
+    "formulaAppendices": [
+      {
+        "ownerClauseId": "songben-233",
+        "formulaName": "猪胆汁",
+        "formulaId": "songben-formula-猪胆汁",
+        "text": "大猪胆一枚，泻汁，和少许法醋，以灌谷道内。如一食顷，当大便出宿食恶物，甚效。"
       },
       {
-        "order": 265,
-        "songben": "少阳中风两耳无所闻目赤胸中满而烦者不可吐下吐下则悸而惊",
-        "huxishu": "伤寒脉弦细头痛发热者属少阳少阳不可发汗发汗则谵语此属胃胃"
-      },
+        "ownerClauseId": "songben-392",
+        "formulaName": "烧裈散",
+        "formulaId": "songben-formula-烧裈散",
+        "text": "妇人中裈近隐处，取烧作灰。"
+      }
+    ],
+    "formulaNotes": [
       {
-        "order": 266,
-        "songben": "伤寒脉弦细头痛发热者属少阳少阳不可发汗发汗则谵语此属胃胃",
-        "huxishu": "本太阳病不解转入少阳者胁下硬满干呕不能食往来寒热尚未吐下"
-      },
-      {
-        "order": 267,
-        "songben": "本太阳病不解转入少阳者胁下鞕满干呕不能食往来寒热尚未吐下",
-        "huxishu": "若已吐下发汗温针谵语柴胡汤证罢此为坏病知犯何逆以法治之这"
-      },
-      {
-        "order": 268,
-        "songben": "若已吐下发汗温针谵语柴胡汤证罢此为坏病知犯何逆以法治之",
-        "huxishu": "三阳合病脉浮大上关上但欲眠睡目合则汗三阳合病"
-      },
-      {
-        "order": 269,
-        "songben": "三阳合病脉浮大上关上但欲眠睡目合则汗",
-        "huxishu": "伤寒六七日无大热其人躁烦者此为阳去入阴故也六七日是病自表"
-      },
-      {
-        "order": 270,
-        "songben": "伤寒六七日无大热其人躁烦者此为阳去入阴故也",
-        "huxishu": "伤寒三日三阳为尽三阴当受邪其人反能食而不呕此为三阴不受邪"
-      },
-      {
-        "order": 271,
-        "songben": "伤寒三日三阳为尽三阴当受邪其人反能食而不呕此为三阴不受邪",
-        "huxishu": "伤寒三日少阳脉小者欲已也伤寒三日理应转属少阳"
-      },
-      {
-        "order": 272,
-        "songben": "伤寒三日少阳脉小者欲已也",
-        "huxishu": "少阳病欲解时从寅至辰上每章后头都有这么一句话"
+        "formulaId": "songben-formula-土瓜根",
+        "formulaName": "土瓜根",
+        "note": "原方佚（小标题注「附方佚」）：组成不可考，herbs 留空"
       }
     ]
   },
   "jingui": {
     "chapterCount": 25,
-    "clauseCount": 189,
-    "formulaCount": 56
+    "clauseCount": 198,
+    "formulaCount": 85,
+    "emptyHerbFormulaCount": 0,
+    "unresolvedHerbTokenCount": 8,
+    "unresolvedHerbTokens": {
+      "四时加减柴胡饮子": [
+        "冬三月加柴胡八分",
+        "并皮子用",
+        "春三月加枳实",
+        "减白术共六味",
+        "夏三月加生姜三分",
+        "共八味",
+        "秋三月加陈皮三分",
+        "共六味"
+      ]
+    }
   },
   "guilin": {
     "chapterCount": 31,
     "clauseCount": 531,
-    "formulaCount": 319
+    "formulaCount": 321
   },
   "funvke": {
-    "chapterCount": 13,
-    "clauseCount": 139,
-    "formulaCount": 70
+    "chapterCount": 19,
+    "clauseCount": 145,
+    "formulaCount": 149
   },
   "funanke": {
     "chapterCount": 25,
     "clauseCount": 222,
-    "formulaCount": 201
+    "formulaCount": 202
   },
   "bianzheng": {
     "chapterCount": 126,
-    "clauseCount": 505,
-    "formulaCount": 792
+    "clauseCount": 506,
+    "formulaCount": 1369
   },
   "shishi": {
     "chapterCount": 131,
     "clauseCount": 215,
-    "formulaCount": 19
+    "formulaCount": 418
   },
   "bencao": {
-    "monographCount": 258
+    "monographCount": 252
+  },
+  "shennong": {
+    "monographCount": 352
+  },
+  "xinxiu": {
+    "monographCount": 708
+  },
+  "zhenglei": {
+    "monographCount": 1302
+  },
+  "wenbing": {
+    "chapterCount": 86,
+    "clauseCount": 958,
+    "formulaCount": 225
+  },
+  "wenre": {
+    "chapterCount": 152,
+    "clauseCount": 186,
+    "formulaCount": 135
+  },
+  "piwei": {
+    "chapterCount": 42,
+    "clauseCount": 273,
+    "formulaCount": 11
+  },
+  "danxi": {
+    "chapterCount": 110,
+    "clauseCount": 1541,
+    "formulaCount": 107
+  },
+  "rumen": {
+    "chapterCount": 15,
+    "clauseCount": 666,
+    "formulaCount": 19
+  },
+  "xiaoer": {
+    "chapterCount": 211,
+    "clauseCount": 374,
+    "formulaCount": 44
+  },
+  "jingyue": {
+    "chapterCount": 64,
+    "clauseCount": 4746,
+    "formulaCount": 1803,
+    "withHerbs": 1780,
+    "truncated": false
+  },
+  "zhongxi": {
+    "chapterCount": 535,
+    "clauseCount": 4211,
+    "formulaCount": 247,
+    "truncated": false
+  },
+  "linzheng": {
+    "chapterCount": 60,
+    "clauseCount": 266,
+    "formulaCount": 187,
+    "truncated": false
+  },
+  "mingyi": {
+    "chapterCount": 12,
+    "clauseCount": 1142,
+    "formulaCount": 68,
+    "truncated": false
+  },
+  "xumingyi": {
+    "chapterCount": 58,
+    "clauseCount": 1998,
+    "formulaCount": 182,
+    "truncated": false
+  },
+  "yizong": {
+    "chapterCount": 1,
+    "clauseCount": 186,
+    "formulaCount": 186,
+    "withHerbs": 186
+  },
+  "qianjin": {
+    "chapterCount": 1,
+    "clauseCount": 1254,
+    "formulaCount": 977,
+    "withHerbs": 977
+  },
+  "waitai": {
+    "chapterCount": 1,
+    "clauseCount": 726,
+    "formulaCount": 726,
+    "withHerbs": 726
   },
   "herbRoles": {
-    "rule": 258,
+    "rule": 349,
     "llm": 1963,
-    "merged": 1970
+    "merged": 2149
   },
+  "graph": {
+    "nodeCount": 38171,
+    "edgeCount": 152162,
+    "edgeCounts": {
+      "containsClause": 20742,
+      "mentionsConcept": 47443,
+      "citesFormula": 7893,
+      "treatsConcept": 14894,
+      "hasHerb": 55140,
+      "familyOf": 2650,
+      "derivedFrom": 2,
+      "herbRole": 2114,
+      "crossLink": 2,
+      "aligned": 319,
+      "parallel": 4,
+      "organRelation": 2,
+      "prerequisite": 3,
+      "commentsOn": 954
+    },
+    "skippedEdgeCount": 130,
+    "skippedEdgeCountsByType": {
+      "citesFormula": 25,
+      "treatsConcept": 70,
+      "herbRole": 35
+    }
+  },
+  "integration": {
+    "mode": "default",
+    "publishUnlicensedEnv": "TCM_PUBLISH_UNLICENSED",
+    "files": {
+      "evidence": [
+        "data/integration/evidence/collation-bianzheng.json",
+        "data/integration/evidence/collation-danxi.json",
+        "data/integration/evidence/collation-funvke.json",
+        "data/integration/evidence/collation-guilin.json",
+        "data/integration/evidence/collation-jingui.json",
+        "data/integration/evidence/collation-jingyue.json",
+        "data/integration/evidence/collation-linzheng.json",
+        "data/integration/evidence/collation-mingyi.json",
+        "data/integration/evidence/collation-piwei.json",
+        "data/integration/evidence/collation-qianjin.json",
+        "data/integration/evidence/collation-rumen.json",
+        "data/integration/evidence/collation-shishi.json",
+        "data/integration/evidence/collation-songben.json",
+        "data/integration/evidence/collation-waitai.json",
+        "data/integration/evidence/collation-wenbing.json",
+        "data/integration/evidence/collation-wenre.json",
+        "data/integration/evidence/collation-xiaoer.json",
+        "data/integration/evidence/collation-xumingyi.json",
+        "data/integration/evidence/collation-yizong.json",
+        "data/integration/evidence/collation-zhongxi.json",
+        "data/integration/evidence/shanghan-kb.json"
+      ],
+      "missing": [],
+      "invalid": []
+    },
+    "witnessCount": 35,
+    "records": {
+      "merged": 33345,
+      "invalid": 0,
+      "duplicate": 800,
+      "entities": 20712,
+      "orphanEntityCount": 0,
+      "orphanEntitySample": []
+    },
+    "clauseLevelsByBook": {
+      "songben": {
+        "single": 0,
+        "corroborated": 384,
+        "disputed": 14,
+        "unchecked": 0
+      },
+      "jingui": {
+        "single": 2,
+        "corroborated": 171,
+        "disputed": 25,
+        "unchecked": 0
+      },
+      "guilin": {
+        "single": 8,
+        "corroborated": 501,
+        "disputed": 22,
+        "unchecked": 0
+      },
+      "funvke": {
+        "single": 75,
+        "corroborated": 46,
+        "disputed": 24,
+        "unchecked": 0
+      },
+      "funanke": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 222
+      },
+      "bianzheng": {
+        "single": 0,
+        "corroborated": 506,
+        "disputed": 0,
+        "unchecked": 0
+      },
+      "shishi": {
+        "single": 0,
+        "corroborated": 215,
+        "disputed": 0,
+        "unchecked": 0
+      },
+      "wenbing": {
+        "single": 0,
+        "corroborated": 958,
+        "disputed": 0,
+        "unchecked": 0
+      },
+      "wenre": {
+        "single": 0,
+        "corroborated": 186,
+        "disputed": 0,
+        "unchecked": 0
+      },
+      "piwei": {
+        "single": 0,
+        "corroborated": 270,
+        "disputed": 3,
+        "unchecked": 0
+      },
+      "danxi": {
+        "single": 0,
+        "corroborated": 1541,
+        "disputed": 0,
+        "unchecked": 0
+      },
+      "rumen": {
+        "single": 1,
+        "corroborated": 603,
+        "disputed": 62,
+        "unchecked": 0
+      },
+      "xiaoer": {
+        "single": 1,
+        "corroborated": 373,
+        "disputed": 0,
+        "unchecked": 0
+      },
+      "jingyue": {
+        "single": 14,
+        "corroborated": 4327,
+        "disputed": 405,
+        "unchecked": 0
+      },
+      "zhongxi": {
+        "single": 0,
+        "corroborated": 4211,
+        "disputed": 0,
+        "unchecked": 0
+      },
+      "linzheng": {
+        "single": 0,
+        "corroborated": 266,
+        "disputed": 0,
+        "unchecked": 0
+      },
+      "mingyi": {
+        "single": 0,
+        "corroborated": 1080,
+        "disputed": 62,
+        "unchecked": 0
+      },
+      "xumingyi": {
+        "single": 1,
+        "corroborated": 1978,
+        "disputed": 19,
+        "unchecked": 0
+      },
+      "yizong": {
+        "single": 0,
+        "corroborated": 153,
+        "disputed": 33,
+        "unchecked": 0
+      },
+      "qianjin": {
+        "single": 3,
+        "corroborated": 1081,
+        "disputed": 170,
+        "unchecked": 0
+      },
+      "waitai": {
+        "single": 1,
+        "corroborated": 723,
+        "disputed": 2,
+        "unchecked": 0
+      }
+    },
+    "formulaLevelsByBook": {
+      "songben": {
+        "single": 0,
+        "corroborated": 98,
+        "disputed": 10,
+        "unchecked": 11
+      },
+      "jingui": {
+        "single": 0,
+        "corroborated": 28,
+        "disputed": 7,
+        "unchecked": 144
+      },
+      "guilin": {
+        "single": 0,
+        "corroborated": 44,
+        "disputed": 5,
+        "unchecked": 281
+      },
+      "funvke": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 165
+      },
+      "funanke": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 220
+      },
+      "bianzheng": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 1381
+      },
+      "shishi": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 441
+      },
+      "wenbing": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 235
+      },
+      "wenre": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 142
+      },
+      "piwei": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 11
+      },
+      "danxi": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 122
+      },
+      "rumen": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 21
+      },
+      "xiaoer": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 47
+      },
+      "jingyue": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 1822
+      },
+      "zhongxi": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 255
+      },
+      "linzheng": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 215
+      },
+      "mingyi": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 78
+      },
+      "xumingyi": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 203
+      },
+      "yizong": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 186
+      },
+      "qianjin": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 999
+      },
+      "waitai": {
+        "single": 0,
+        "corroborated": 0,
+        "disputed": 0,
+        "unchecked": 726
+      }
+    },
+    "disputed": {
+      "clauseCount": 841,
+      "formulaCount": 22,
+      "clauseIds": [
+        "songben-22",
+        "songben-75",
+        "songben-85",
+        "songben-97",
+        "songben-101",
+        "songben-131",
+        "songben-174",
+        "songben-185",
+        "songben-245",
+        "songben-261",
+        "songben-279",
+        "songben-301",
+        "songben-362",
+        "songben-384",
+        "jingui-2-7",
+        "jingui-3-8",
+        "jingui-3-10",
+        "jingui-5-1",
+        "jingui-9-2",
+        "jingui-9-4",
+        "jingui-9-6",
+        "jingui-10-6",
+        "jingui-10-9",
+        "jingui-12-6",
+        "jingui-12-13",
+        "jingui-13-2",
+        "jingui-14-11",
+        "jingui-14-13",
+        "jingui-15-6",
+        "jingui-17-6",
+        "jingui-17-7",
+        "jingui-17-8",
+        "jingui-17-9",
+        "jingui-18-4",
+        "jingui-21-2",
+        "jingui-22-17",
+        "jingui-24-1",
+        "jingui-24-3",
+        "jingui-25-2",
+        "guilin-98",
+        "guilin-164",
+        "guilin-207",
+        "guilin-236",
+        "guilin-251",
+        "guilin-347",
+        "guilin-373",
+        "guilin-467",
+        "guilin-472",
+        "guilin-474",
+        "guilin-480",
+        "guilin-496",
+        "guilin-500",
+        "guilin-502",
+        "guilin-503",
+        "guilin-506",
+        "guilin-517",
+        "guilin-525",
+        "guilin-526",
+        "guilin-527",
+        "guilin-528",
+        "guilin-529",
+        "funvke-0003",
+        "funvke-0008",
+        "funvke-0011",
+        "funvke-0022",
+        "funvke-0023",
+        "funvke-0029",
+        "funvke-0030",
+        "funvke-0032",
+        "funvke-0034",
+        "funvke-0037",
+        "funvke-0038",
+        "funvke-0039",
+        "funvke-0042",
+        "funvke-0045",
+        "funvke-0048",
+        "funvke-0049",
+        "funvke-0050",
+        "funvke-0051",
+        "funvke-0052",
+        "funvke-0054",
+        "funvke-0055",
+        "funvke-0061",
+        "funvke-0065",
+        "funvke-0070",
+        "piwei-006-0006",
+        "piwei-032-0012",
+        "piwei-036-0006",
+        "rumen-012-0002",
+        "rumen-012-0004",
+        "rumen-012-0008",
+        "rumen-012-0010",
+        "rumen-012-0016",
+        "rumen-012-0018",
+        "rumen-012-0023",
+        "rumen-012-0026",
+        "rumen-012-0027",
+        "rumen-012-0030",
+        "rumen-012-0032",
+        "rumen-012-0033",
+        "rumen-012-0038",
+        "rumen-012-0039",
+        "rumen-012-0040",
+        "rumen-012-0047",
+        "rumen-012-0048",
+        "rumen-012-0053",
+        "rumen-012-0055",
+        "rumen-012-0057",
+        "rumen-012-0058",
+        "rumen-012-0076",
+        "rumen-012-0077",
+        "rumen-012-0080",
+        "rumen-012-0082",
+        "rumen-012-0083",
+        "rumen-012-0086",
+        "rumen-012-0092",
+        "rumen-012-0095",
+        "rumen-012-0101",
+        "rumen-012-0107",
+        "rumen-012-0117",
+        "rumen-012-0119",
+        "rumen-012-0121",
+        "rumen-012-0122",
+        "rumen-012-0123",
+        "rumen-012-0124",
+        "rumen-012-0125",
+        "rumen-012-0126",
+        "rumen-013-0005",
+        "rumen-014-0014",
+        "rumen-014-0018",
+        "rumen-015-0006",
+        "rumen-015-0007",
+        "rumen-015-0011",
+        "rumen-015-0012",
+        "rumen-015-0017",
+        "rumen-015-0030",
+        "rumen-015-0049",
+        "rumen-015-0052",
+        "rumen-015-0055",
+        "rumen-015-0076",
+        "rumen-015-0086",
+        "rumen-015-0087",
+        "rumen-015-0093",
+        "rumen-015-0099",
+        "rumen-015-0101",
+        "rumen-015-0109",
+        "rumen-015-0116",
+        "rumen-015-0135",
+        "rumen-015-0137",
+        "rumen-015-0138",
+        "jingyue-012-0015",
+        "jingyue-015-0060",
+        "jingyue-018-0019",
+        "jingyue-019-0063",
+        "jingyue-019-0076",
+        "jingyue-023-0003",
+        "jingyue-027-0007",
+        "jingyue-027-0041",
+        "jingyue-028-0042",
+        "jingyue-032-0018",
+        "jingyue-032-0025",
+        "jingyue-035-0014",
+        "jingyue-039-0065",
+        "jingyue-042-0049",
+        "jingyue-043-0067",
+        "jingyue-046-0064",
+        "jingyue-046-0065",
+        "jingyue-046-0066",
+        "jingyue-047-0066",
+        "jingyue-047-0083",
+        "jingyue-051-0017",
+        "jingyue-051-0028",
+        "jingyue-051-0036",
+        "jingyue-051-0038",
+        "jingyue-051-0040",
+        "jingyue-051-0042",
+        "jingyue-051-0044",
+        "jingyue-051-0048",
+        "jingyue-051-0049",
+        "jingyue-051-0052",
+        "jingyue-051-0056",
+        "jingyue-051-0058",
+        "jingyue-051-0059",
+        "jingyue-051-0061",
+        "jingyue-051-0063",
+        "jingyue-051-0078",
+        "jingyue-051-0080",
+        "jingyue-051-0092",
+        "jingyue-051-0117",
+        "jingyue-051-0121",
+        "jingyue-051-0125",
+        "jingyue-051-0132",
+        "jingyue-051-0135",
+        "jingyue-051-0137",
+        "jingyue-051-0138",
+        "jingyue-051-0139",
+        "jingyue-051-0144",
+        "jingyue-051-0149",
+        "jingyue-051-0151",
+        "jingyue-051-0154"
+      ],
+      "formulaIds": [
+        "songben-formula-桂枝去桂加茯苓白术汤",
+        "songben-formula-茯苓桂枝白术甘草汤",
+        "songben-formula-栀子甘草豉汤",
+        "songben-formula-大柴胡汤",
+        "songben-formula-大陷胸丸",
+        "songben-formula-十枣汤",
+        "songben-formula-炙甘草汤",
+        "songben-formula-猪肤汤",
+        "songben-formula-四逆散",
+        "songben-formula-麻黄升麻汤",
+        "jingui-formula-麻黄加术汤",
+        "jingui-formula-越婢加术汤",
+        "jingui-formula-薯蓣丸",
+        "jingui-formula-薏苡附子败酱散",
+        "jingui-formula-排脓散",
+        "jingui-formula-葵子茯苓散",
+        "jingui-formula-当归散",
+        "guilin-formula-奔豚汤",
+        "guilin-formula-人参附子汤",
+        "guilin-formula-小柴胡加茯苓汤",
+        "guilin-formula-升麻鳖甲汤",
+        "guilin-formula-泽漆汤"
+      ]
+    },
+    "commentaries": {
+      "input": 1194,
+      "invalid": 0,
+      "published": 954,
+      "droppedNoVerifiedQuote": 240,
+      "droppedUnverifiedQuotes": 1037,
+      "orphanClauseCount": 0,
+      "summaryPublished": false
+    },
+    "syndromes": {
+      "input": 16,
+      "invalid": 0,
+      "published": 0,
+      "conceptIdConflicts": []
+    },
+    "kangpingLayer": {
+      "input": 398,
+      "invalid": 0,
+      "published": 0
+    }
+  },
+  "formulaBackfill": {
+    "eligibleDonors": 5505,
+    "backfilled": 817,
+    "unresolvedOwnReplaced": [
+      "bianzheng-formula-bianzheng-0101-5",
+      "bianzheng-formula-bianzheng-0147-2",
+      "bianzheng-formula-bianzheng-0336-2",
+      "bianzheng-formula-bianzheng-0448-2",
+      "wenbing-formula-东垣清心凉膈散",
+      "wenbing-formula-白虎加人参汤",
+      "wenbing-formula-香薷饮",
+      "wenbing-formula-正气散",
+      "wenbing-formula-泻心汤",
+      "wenbing-formula-白头翁汤",
+      "wenbing-formula-肾气丸",
+      "wenbing-formula-人参汤",
+      "wenbing-formula-葛根汤",
+      "wenre-formula-白虎加人参汤",
+      "wenre-formula-牛黄丸",
+      "wenre-formula-曰白虎加人参汤",
+      "wenre-formula-茯苓甘草汤",
+      "wenre-formula-升麻汤",
+      "piwei-formula-五苓散",
+      "piwei-formula-平胃散",
+      "danxi-formula-四物汤",
+      "danxi-formula-小续命汤",
+      "danxi-formula-清暑益气汤",
+      "danxi-formula-清肺汤",
+      "danxi-formula-清脾饮",
+      "danxi-formula-四苓散",
+      "danxi-formula-四君子汤",
+      "danxi-formula-消毒饮",
+      "xiaoer-formula-牛黄丸",
+      "jingyue-formula-地黄煎",
+      "jingyue-formula-六一散",
+      "zhongxi-formula-人参清肺汤",
+      "zhongxi-formula-调胃承气汤",
+      "zhongxi-formula-越婢加半夏汤",
+      "zhongxi-formula-仲景竹叶石膏汤",
+      "zhongxi-formula-四物汤",
+      "zhongxi-formula-大半夏汤",
+      "zhongxi-formula-小青龙加石膏汤",
+      "zhongxi-formula-猪肤汤",
+      "zhongxi-formula-术附汤",
+      "zhongxi-formula-来复汤",
+      "linzheng-formula-猪肤汤",
+      "yizong-formula-桂枝加芍药汤",
+      "yizong-formula-桂枝加大黄汤",
+      "qianjin-formula-百合鸡子汤",
+      "qianjin-formula-巴豆丸",
+      "waitai-formula-竹皮汤",
+      "waitai-formula-黄连散",
+      "waitai-formula-皂荚丸",
+      "waitai-formula-大枣煎"
+    ],
+    "unresolvedOwnKept": [
+      "funanke-formula-funanke-0078-1",
+      "funanke-formula-funanke-0182-1",
+      "funanke-formula-funanke-0194-1",
+      "funanke-formula-funanke-0196-1",
+      "bianzheng-formula-bianzheng-0001-10",
+      "bianzheng-formula-bianzheng-0032-2",
+      "bianzheng-formula-bianzheng-0130-2",
+      "bianzheng-formula-bianzheng-0264-4",
+      "bianzheng-formula-bianzheng-0288-2",
+      "bianzheng-formula-bianzheng-0359-1",
+      "shishi-formula-shishi-0035-2",
+      "shishi-formula-shishi-0038-1",
+      "shishi-formula-shishi-0083-2",
+      "shishi-formula-shishi-0147-1",
+      "wenbing-formula-清宫汤",
+      "wenbing-formula-五汁饮",
+      "wenbing-formula-牛黄承气汤",
+      "wenbing-formula-牛乳饮",
+      "wenbing-formula-枣变百祥丸",
+      "wenbing-formula-水仙膏",
+      "wenbing-formula-独胜散",
+      "wenbing-formula-茵陈五苓散",
+      "danxi-formula-快脾汤",
+      "danxi-formula-五花散",
+      "danxi-formula-与点丸",
+      "danxi-formula-木香流气饮",
+      "danxi-formula-减桂五苓散",
+      "danxi-formula-珍珠粉丸",
+      "danxi-formula-疏风丸",
+      "xiaoer-formula-青金膏",
+      "xiaoer-formula-熟枣肉剂为膏",
+      "jingyue-formula-独圣散",
+      "jingyue-formula-苦楝汤",
+      "jingyue-formula-加味小柴胡汤",
+      "jingyue-formula-宁肺散",
+      "jingyue-formula-苍术散",
+      "jingyue-formula-百草煎",
+      "jingyue-formula-麋茸丸",
+      "jingyue-formula-人参膏",
+      "jingyue-formula-二汁饮",
+      "jingyue-formula-萝卜子汤",
+      "jingyue-formula-双荷散",
+      "jingyue-formula-稀莶丸",
+      "jingyue-formula-稀涎散",
+      "jingyue-formula-二味消风散",
+      "jingyue-formula-益丸散",
+      "jingyue-formula-天水散",
+      "jingyue-formula-真珠粉丸",
+      "jingyue-formula-三妙汤",
+      "jingyue-formula-经验水陆二仙丹",
+      "jingyue-formula-神愈散",
+      "jingyue-formula-圣金散",
+      "jingyue-formula-黄蘗散",
+      "jingyue-formula-香盐散",
+      "jingyue-formula-靛花丸",
+      "jingyue-formula-烧盐散",
+      "jingyue-formula-破关丹",
+      "jingyue-formula-蜜髓煎",
+      "jingyue-formula-伏龙肝散",
+      "jingyue-formula-滑胎枳壳散",
+      "jingyue-formula-乌贼鱼骨丸",
+      "jingyue-formula-七灰散",
+      "jingyue-formula-塌气丸",
+      "jingyue-formula-枣变百祥丸",
+      "jingyue-formula-辰砂散",
+      "jingyue-formula-水杨汤",
+      "jingyue-formula-䕶心散",
+      "jingyue-formula-上红丹",
+      "jingyue-formula-桑枝煎",
+      "jingyue-formula-三合散",
+      "jingyue-formula-如圣柘黄丸",
+      "jingyue-formula-羊胆膏",
+      "jingyue-formula-熊胆膏",
+      "jingyue-formula-蜗牛膏",
+      "jingyue-formula-金疮灰蛋散",
+      "jingyue-formula-汤火止痛散",
+      "zhongxi-formula-一味薯蓣饮",
+      "zhongxi-formula-参赭镇气汤",
+      "zhongxi-formula-参赭培气汤",
+      "zhongxi-formula-荡胸汤",
+      "zhongxi-formula-蒲灰散",
+      "zhongxi-formula-补阳还五汤",
+      "zhongxi-formula-辟秽驱毒饮",
+      "zhongxi-formula-妙化丹",
+      "zhongxi-formula-白虎加入参汤",
+      "zhongxi-formula-十全育真汤",
+      "zhongxi-formula-既济汤",
+      "zhongxi-formula-镇摄汤",
+      "zhongxi-formula-敦复汤",
+      "zhongxi-formula-清金解毒汤",
+      "zhongxi-formula-安魂汤",
+      "zhongxi-formula-调气养神汤",
+      "zhongxi-formula-通变黑锡丹",
+      "zhongxi-formula-镇风汤",
+      "zhongxi-formula-姜胶膏",
+      "zhongxi-formula-卫生防疫宝丹",
+      "zhongxi-formula-加味苓桂术甘汤",
+      "zhongxi-formula-秘真丹",
+      "zhongxi-formula-清毒二仙丹",
+      "zhongxi-formula-鲜小蓟根汤",
+      "zhongxi-formula-升降汤",
+      "zhongxi-formula-振中汤",
+      "zhongxi-formula-加味麦门冬汤",
+      "zhongxi-formula-蒲公英汤",
+      "zhongxi-formula-洗髓丹",
+      "linzheng-formula-大针砂丸",
+      "yizong-formula-独圣散",
+      "qianjin-formula-真珠汤",
+      "qianjin-formula-单行鬼箭汤",
+      "qianjin-formula-鲫鱼汤",
+      "qianjin-formula-大豆紫汤",
+      "qianjin-formula-鸡粪酒",
+      "qianjin-formula-浴汤",
+      "qianjin-formula-麻子酒",
+      "qianjin-formula-一物猪蹄散",
+      "qianjin-formula-一物马通浴汤",
+      "qianjin-formula-一物猪通浴汤",
+      "qianjin-formula-李叶浴汤",
+      "qianjin-formula-柳枝浴汤",
+      "qianjin-formula-紫双丸",
+      "qianjin-formula-白石脂散",
+      "qianjin-formula-雀屎丸",
+      "qianjin-formula-补肝芜菁子散",
+      "qianjin-formula-白杨皮散",
+      "qianjin-formula-乌麻酒",
+      "qianjin-formula-虎骨酒",
+      "qianjin-formula-蓼酒",
+      "qianjin-formula-松叶酒",
+      "qianjin-formula-松膏",
+      "qianjin-formula-松节酒",
+      "qianjin-formula-松膏酒",
+      "qianjin-formula-桂汤",
+      "qianjin-formula-枳茹酒",
+      "qianjin-formula-预备一物柏枝散",
+      "qianjin-formula-赤小豆当归散",
+      "qianjin-formula-补肝酒",
+      "qianjin-formula-小鹿骨煎",
+      "qianjin-formula-膏煎",
+      "qianjin-formula-大豆酒",
+      "qianjin-formula-沐头汤",
+      "qianjin-formula-四物鸢头散",
+      "qianjin-formula-麻豆散",
+      "qianjin-formula-松皮散",
+      "qianjin-formula-四物粱米汤",
+      "qianjin-formula-墨奴散",
+      "qianjin-formula-蒴蒸汤",
+      "qianjin-formula-杜蘅汤",
+      "qianjin-formula-中军候黑丸",
+      "qianjin-formula-苦瓠丸",
+      "qianjin-formula-大豆煎",
+      "qianjin-formula-蒺藜散",
+      "qianjin-formula-乌麻膏",
+      "qianjin-formula-五白膏",
+      "qianjin-formula-赤龙皮汤",
+      "qianjin-formula-天麻汤",
+      "qianjin-formula-槐子酒",
+      "qianjin-formula-锻石酒",
+      "qianjin-formula-大麦汤",
+      "qianjin-formula-寒食散",
+      "qianjin-formula-五瘿丸",
+      "qianjin-formula-二物汤",
+      "qianjin-formula-黄精膏",
+      "waitai-formula-赤苏汤",
+      "waitai-formula-治瘴气竹茹汤",
+      "waitai-formula-蒿五苓散",
+      "waitai-formula-黄蒸汤",
+      "waitai-formula-水所致黄耆散",
+      "waitai-formula-子常山丸",
+      "waitai-formula-嶂气常山汤",
+      "waitai-formula-鹤虱丸",
+      "waitai-formula-胡粉丸",
+      "waitai-formula-鬼魅四物鸢头散",
+      "waitai-formula-大豆紫汤",
+      "waitai-formula-洗脚渍汤",
+      "waitai-formula-莨菪丸",
+      "waitai-formula-大豆煎",
+      "waitai-formula-齿石黛散",
+      "waitai-formula-齿虫腐棘刺潄汤",
+      "waitai-formula-肉黄耆膏",
+      "waitai-formula-牛角鳃灰散",
+      "waitai-formula-壁土散",
+      "waitai-formula-牛膝饮",
+      "waitai-formula-黒子去疣等五灰煎",
+      "waitai-formula-结癅等神効灰煎",
+      "waitai-formula-恶疾狼毒散",
+      "waitai-formula-瘑疮螺壳膏",
+      "waitai-formula-毒药散",
+      "waitai-formula-木兰散",
+      "waitai-formula-子沐汤",
+      "waitai-formula-发墙衣散",
+      "waitai-formula-肿地肤饮",
+      "waitai-formula-产飞生丸",
+      "waitai-formula-二斛为佳蔷薇根煎",
+      "waitai-formula-恶肉敷耳雄黄散",
+      "waitai-formula-冷石汤"
+    ],
+    "unresolvedOwnKeptCount": 195
+  },
+  "unmappedCount": 0,
   "note": "证候标签与方解作用含规则/大模型草稿（ai-draft），需人工校对"
 }

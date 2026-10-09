@@ -1,0 +1,38 @@
+[
+  {
+    "id": "prerequisite:songben-formula-桂枝汤->songben-formula-桂枝加葛根汤:prereq.guizhi->guizhi-gegen",
+    "type": "prerequisite",
+    "from": "songben-formula-桂枝汤",
+    "to": "songben-formula-桂枝加葛根汤",
+    "method": "manual",
+    "reviewStatus": "reviewed",
+    "attributes": {
+      "reason": "先理解桂枝汤表虚自汗，再学项背强几几之加葛根",
+      "curriculumId": "prereq.guizhi->guizhi-gegen"
+    }
+  },
+  {
+    "id": "prerequisite:songben-formula-桂枝汤->songben-formula-桂枝加附子汤:prereq.guizhi->guizhi-fuzi",
+    "type": "prerequisite",
+    "from": "songben-formula-桂枝汤",
+    "to": "songben-formula-桂枝加附子汤",
+    "method": "manual",
+    "reviewStatus": "reviewed",
+    "attributes": {
+      "reason": "先掌握桂枝汤，再学漏汗亡阳之加附子",
+      "curriculumId": "prereq.guizhi->guizhi-fuzi"
+    }
+  },
+  {
+    "id": "prerequisite:songben-formula-麻黄汤->songben-formula-葛根汤:prereq.mahuang->gegen",
+    "type": "prerequisite",
+    "from": "songben-formula-麻黄汤",
+    "to": "songben-formula-葛根汤",
+    "method": "manual",
+    "reviewStatus": "reviewed",
+    "attributes": {
+      "reason": "葛根汤由麻桂合方加葛根，宜先识麻黄汤",
+      "curriculumId": "prereq.mahuang->gegen"
+    }
+  }
+]

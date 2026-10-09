@@ -1,32 +1,5 @@
 [
   {
-    "id": "funvke-formula-funvke-0002-1__茵陈__rule__0",
-    "formulaId": "funvke-formula-funvke-0002-1",
-    "herbId": "茵陈",
-    "roleText": "利湿",
-    "sourceSentence": "郁逆之气既解，则湿热难留，而又益之以茵陈之利湿，栀子之清热，肝气得清，而青绿之带又何自来！此方之所以奇而效捷也",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0002-1__栀子__rule__1",
-    "formulaId": "funvke-formula-funvke-0002-1",
-    "herbId": "栀子",
-    "roleText": "清热",
-    "sourceSentence": "郁逆之气既解，则湿热难留，而又益之以茵陈之利湿，栀子之清热，肝气得清，而青绿之带又何自来！此方之所以奇而效捷也",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0005-1__白芍__rule__0",
-    "formulaId": "funvke-formula-funvke-0005-1",
-    "herbId": "白芍",
-    "roleText": "平肝",
-    "sourceSentence": "或问曰：先生前言助其脾土之气，今但补其肝木之血何也？不知用芍药以平肝，则肝气行得舒，肝气舒自不尅土，脾不受尅，则脾土自旺，是平肝正所以扶脾耳，又何必加人参、白术之品，以致累事哉！=== 血崩 ======= 血崩昏暗（六） ====",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
     "id": "funvke-formula-funvke-0006-1__人参__rule__0",
     "formulaId": "funvke-formula-funvke-0006-1",
     "herbId": "人参",
@@ -36,146 +9,29 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "funvke-formula-funvke-0009-1__车前子__rule__0",
-    "formulaId": "funvke-formula-funvke-0009-1",
-    "herbId": "车前子",
-    "roleText": "利水与窍",
-    "sourceSentence": "加入茯苓、车前以利水与窍，水利则血管亦利",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0009-1__黑姜__rule__1",
-    "formulaId": "funvke-formula-funvke-0009-1",
-    "herbId": "黑姜",
-    "roleText": "止血管之口",
-    "sourceSentence": "黑姜以止血管之口",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0013-1__雷丸__rule__0",
-    "formulaId": "funvke-formula-funvke-0013-1",
-    "herbId": "雷丸",
-    "roleText": "祛秽",
-    "sourceSentence": "此方用雷丸以祛秽，又得大黄之扫除，用佐以厚朴、红花、桃仁等味，皆善行善攻之品，何邪之尚能留腹中而不尽逐下也哉！尤妙在用参、当以补气血，则邪去而正不伤",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0013-1__雷丸__rule__1",
-    "formulaId": "funvke-formula-funvke-0013-1",
-    "herbId": "雷丸",
-    "roleText": "迅下",
-    "sourceSentence": "若单用雷丸、大黄以迅下，必有气脱血崩之患矣",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0013-1__大黄__rule__2",
-    "formulaId": "funvke-formula-funvke-0013-1",
-    "herbId": "大黄",
-    "roleText": "迅下",
-    "sourceSentence": "若单用雷丸、大黄以迅下，必有气脱血崩之患矣",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0016-1__肉桂__rule__0",
-    "formulaId": "funvke-formula-funvke-0016-1",
-    "herbId": "肉桂",
-    "roleText": "祛其寒",
-    "sourceSentence": "此方大补肝、肾、脾之精与血，加肉桂以祛其寒，柴胡以解其郁，是补中有散，而散不耗气",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0020-1__柴胡__rule__0",
-    "formulaId": "funvke-formula-funvke-0020-1",
-    "herbId": "柴胡",
-    "roleText": "宣肝经之风郁",
-    "sourceSentence": "用柴胡、白芍、丹皮以宣肝经之风郁",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0020-1__白芍__rule__1",
-    "formulaId": "funvke-formula-funvke-0020-1",
-    "herbId": "白芍",
-    "roleText": "宣肝经之风郁",
-    "sourceSentence": "用柴胡、白芍、丹皮以宣肝经之风郁",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0020-1__牡丹皮__rule__2",
-    "formulaId": "funvke-formula-funvke-0020-1",
-    "herbId": "牡丹皮",
-    "roleText": "宣肝经之风郁",
-    "sourceSentence": "用柴胡、白芍、丹皮以宣肝经之风郁",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0020-1__延胡索__rule__3",
-    "formulaId": "funvke-formula-funvke-0020-1",
-    "herbId": "延胡索",
-    "roleText": "利腰脐而和腹疼",
-    "sourceSentence": "用甘草．白术，元胡以利腰脐而和腹疼，入于表里之间，通乎经络之内，用之得宜，自奏功如响也",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0024-1__巴戟肉__rule__0",
-    "formulaId": "funvke-formula-funvke-0024-1",
-    "herbId": "巴戟肉",
-    "roleText": "通任脉",
-    "sourceSentence": "用巴戟、白果以通任脉",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0024-1__白果__rule__1",
-    "formulaId": "funvke-formula-funvke-0024-1",
-    "herbId": "白果",
-    "roleText": "通任脉",
-    "sourceSentence": "用巴戟、白果以通任脉",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0037-1__荸荠粉__rule__0",
-    "formulaId": "funvke-formula-funvke-0037-1",
-    "herbId": "荸荠粉",
-    "roleText": "祛积",
-    "sourceSentence": "况方中有肉桂以散寒，荸荠以祛积，鳖甲之攻坚，茯苓之利湿，有形自化于无形，满腹皆升腾之气矣",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0037-1__北沙参__rule__1",
+    "id": "funvke-formula-funvke-0037-1__北沙参__rule__0",
     "formulaId": "funvke-formula-funvke-0037-1",
     "herbId": "北沙参",
     "roleText": "破坚理气",
-    "sourceSentence": "何至受精而再坠乎哉！（此方为有疝瘕而设，故用沙参、荸荠粉，鳖甲以破坚理气",
+    "sourceSentence": "（此方为有疝瘕而设，故用沙参、荸荠粉，鳖甲以破坚理气",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "funvke-formula-funvke-0037-1__荸荠粉__rule__2",
+    "id": "funvke-formula-funvke-0037-1__荸荠粉__rule__1",
     "formulaId": "funvke-formula-funvke-0037-1",
     "herbId": "荸荠粉",
     "roleText": "破坚理气",
-    "sourceSentence": "何至受精而再坠乎哉！（此方为有疝瘕而设，故用沙参、荸荠粉，鳖甲以破坚理气",
+    "sourceSentence": "（此方为有疝瘕而设，故用沙参、荸荠粉，鳖甲以破坚理气",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "funvke-formula-funvke-0037-1__鳖甲__rule__3",
+    "id": "funvke-formula-funvke-0037-1__鳖甲__rule__2",
     "formulaId": "funvke-formula-funvke-0037-1",
     "herbId": "鳖甲",
     "roleText": "破坚理气",
-    "sourceSentence": "何至受精而再坠乎哉！（此方为有疝瘕而设，故用沙参、荸荠粉，鳖甲以破坚理气",
+    "sourceSentence": "（此方为有疝瘕而设，故用沙参、荸荠粉，鳖甲以破坚理气",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
@@ -185,168 +41,6 @@
     "herbId": "白术",
     "roleText": "白扁豆代之",
     "sourceSentence": "用者若有真药固妙，如无真药，白术以白扁豆代之，肉桂以破故纸代之",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0046-1__人参__rule__0",
-    "formulaId": "funvke-formula-funvke-0046-1",
-    "herbId": "人参",
-    "roleText": "补阳气",
-    "sourceSentence": "此方用人参以补阳气，用黄芩以泄阴火",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0047-1__人参__rule__0",
-    "formulaId": "funvke-formula-funvke-0047-1",
-    "herbId": "人参",
-    "roleText": "补肺气",
-    "sourceSentence": "此方用人参、黄耆、麦冬以补肺气，使肺气旺，则胞胎之气亦旺，胞胎之气旺，则胞中之子气有不随母之气以为呼吸者，未之有也",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0047-1__黄芪__rule__1",
-    "formulaId": "funvke-formula-funvke-0047-1",
-    "herbId": "黄芪",
-    "roleText": "补肺气",
-    "sourceSentence": "此方用人参、黄耆、麦冬以补肺气，使肺气旺，则胞胎之气亦旺，胞胎之气旺，则胞中之子气有不随母之气以为呼吸者，未之有也",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0047-1__麦冬__rule__2",
-    "formulaId": "funvke-formula-funvke-0047-1",
-    "herbId": "麦冬",
-    "roleText": "补肺气",
-    "sourceSentence": "此方用人参、黄耆、麦冬以补肺气，使肺气旺，则胞胎之气亦旺，胞胎之气旺，则胞中之子气有不随母之气以为呼吸者，未之有也",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0052-1__人参__rule__0",
-    "formulaId": "funvke-formula-funvke-0052-1",
-    "herbId": "人参",
-    "roleText": "补气",
-    "sourceSentence": "此方用人参、黄耆以补气，气旺则血可摄也",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0052-1__黄芪__rule__1",
-    "formulaId": "funvke-formula-funvke-0052-1",
-    "herbId": "黄芪",
-    "roleText": "补气",
-    "sourceSentence": "此方用人参、黄耆以补气，气旺则血可摄也",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0052-1__当归__rule__2",
-    "formulaId": "funvke-formula-funvke-0052-1",
-    "herbId": "当归",
-    "roleText": "生血",
-    "sourceSentence": "用当归，丹皮以生血，血生则瘀难留也",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0052-1__牡丹皮__rule__3",
-    "formulaId": "funvke-formula-funvke-0052-1",
-    "herbId": "牡丹皮",
-    "roleText": "生血",
-    "sourceSentence": "用当归，丹皮以生血，血生则瘀难留也",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0052-1__红花__rule__4",
-    "formulaId": "funvke-formula-funvke-0052-1",
-    "herbId": "红花",
-    "roleText": "活血",
-    "sourceSentence": "用红花、黑姜以活血，血活则晕可除也",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0052-1__茯苓__rule__5",
-    "formulaId": "funvke-formula-funvke-0052-1",
-    "herbId": "茯苓",
-    "roleText": "利水",
-    "sourceSentence": "用茯苓以利水，水利则血易归经也",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0057-1__人参__rule__0",
-    "formulaId": "funvke-formula-funvke-0057-1",
-    "herbId": "人参",
-    "roleText": "补气",
-    "sourceSentence": "此方用人参以补气，芎、归以补血，红花以活血，牛膝以降下，柞木枝以开关解骨，君臣左使同心协力，所以取效如神，在用开于补之中也",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0057-1__柞木枝__rule__1",
-    "formulaId": "funvke-formula-funvke-0057-1",
-    "herbId": "柞木枝",
-    "roleText": "开其门",
-    "sourceSentence": "至于儿未临门之时万不可先用柞木以开其门",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0063-1__当归__rule__0",
-    "formulaId": "funvke-formula-funvke-0063-1",
-    "herbId": "当归",
-    "roleText": "补血",
-    "sourceSentence": "用当归以补血，使血旺而养气也",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0065-1__川芎__rule__0",
-    "formulaId": "funvke-formula-funvke-0065-1",
-    "herbId": "川芎",
-    "roleText": "养血",
-    "sourceSentence": "此方用芎、归以养血，何以又用生地、丹皮之凉血，似非产后所宜？不知恶露所以奔心，原因虚热相犯，于补中凉之，而凉不为害，况益之以荷叶，七窍相通，引邪外出，不惟内不害心，且佐蒲黄以分解乎恶露也",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0068-1__人参__rule__0",
-    "formulaId": "funvke-formula-funvke-0068-1",
-    "herbId": "人参",
-    "roleText": "接续元阳",
-    "sourceSentence": "此方用人参以接续元阳，然徒补其气而不补其血，则阳燥而狂，虽回生于一时，亦旋得旋失之道",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0068-1__熟地黄__rule__1",
-    "formulaId": "funvke-formula-funvke-0068-1",
-    "herbId": "熟地黄",
-    "roleText": "大补其肝肾之精",
-    "sourceSentence": "即补血而不补其肝肾之精，则本原不固，阳气又安得而续乎！所以又用熟地、山萸、枸杞之类，以大补其肝肾之精，而后大益其肺气，则肺气健旺，升提有力矣",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0068-1__山萸__rule__2",
-    "formulaId": "funvke-formula-funvke-0068-1",
-    "herbId": "山萸",
-    "roleText": "大补其肝肾之精",
-    "sourceSentence": "即补血而不补其肝肾之精，则本原不固，阳气又安得而续乎！所以又用熟地、山萸、枸杞之类，以大补其肝肾之精，而后大益其肺气，则肺气健旺，升提有力矣",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "funvke-formula-funvke-0068-1__荆芥穗__rule__3",
-    "formulaId": "funvke-formula-funvke-0068-1",
-    "herbId": "荆芥穗",
-    "roleText": "引血归经",
-    "sourceSentence": "若过于助阳，万一血随阳动瘀而上行，亦非保全之策，更加荆芥以引血归经，则肺气安而喘速定，治几其神乎",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
@@ -382,7 +76,7 @@
     "formulaId": "funanke-formula-funanke-0019-1",
     "herbId": "甘草",
     "roleText": "和之",
-    "sourceSentence": "瓜蒌乃结胸之圣药，常人服之，必至心如遗若，病人服之，不畏其虚乎,不知结胸之症，是食在胸中，非大黄枳壳槟榔厚朴所能袪逐，必得瓜蒌,始得推荡辟脾，少加甘草以和之，不致十分猛烈也.==== 扶正散邪汤 ====",
+    "sourceSentence": "瓜蒌乃结胸之圣药，常人服之，必至心如遗若，病人服之，不畏其虚乎,不知结胸之症，是食在胸中，非大黄枳壳槟榔厚朴所能袪逐，必得瓜蒌,始得推荡辟脾，少加甘草以和之，不致十分猛烈也.",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
@@ -391,7 +85,7 @@
     "formulaId": "funanke-formula-funanke-0023-1",
     "herbId": "青蒿",
     "roleText": "群药重剂",
-    "sourceSentence": "此方妙在用青蒿，肝胃之火俱平，又佐以群药重剂,而火安有不灭者乎，（ 治小儿亦效）==== 燥症 ====",
+    "sourceSentence": "此方妙在用青蒿，肝胃之火俱平，又佐以群药重剂,而火安有不灭者乎，（ 治小儿亦效）",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
@@ -477,11 +171,83 @@
     "reviewStatus": "ai-draft"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0001-1__石膏__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0001-1",
+    "herbId": "石膏",
+    "roleText": "泻其阳明之火邪",
+    "sourceSentence": "此即白虎汤变方，用石膏、知母以泻其阳明之火邪",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0001-1__知母__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0001-1",
+    "herbId": "知母",
+    "roleText": "泻其阳明之火邪",
+    "sourceSentence": "此即白虎汤变方，用石膏、知母以泻其阳明之火邪",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0001-1__柴胡__rule__2",
+    "formulaId": "bianzheng-formula-bianzheng-0001-1",
+    "herbId": "柴胡",
+    "roleText": "断其少阳之路径",
+    "sourceSentence": "用柴胡、栀子以断其少阳之路径",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0001-1__栀子__rule__3",
+    "formulaId": "bianzheng-formula-bianzheng-0001-1",
+    "herbId": "栀子",
+    "roleText": "断其少阳之路径",
+    "sourceSentence": "用柴胡、栀子以断其少阳之路径",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0001-1__麦冬__rule__4",
+    "formulaId": "bianzheng-formula-bianzheng-0001-1",
+    "herbId": "麦冬",
+    "roleText": "清补其肺金之气",
+    "sourceSentence": "用麦冬以清补其肺金之气，使火邪不能上逼",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0001-4__玄参__rule__0",
     "formulaId": "bianzheng-formula-bianzheng-0001-4",
     "herbId": "玄参",
     "roleText": "散其脾胃浮游之火",
     "sourceSentence": "用玄参以散其脾胃浮游之火，甘菊以消其胃中之邪，麦冬以滋其肺中之液，助熟地以生肾水，庶几滂沱大雨，自天而降，而大地焦枯，立时优渥，何旱魃之作祟乎",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0001-6__人参__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0001-6",
+    "herbId": "人参",
+    "roleText": "补气",
+    "sourceSentence": "此方用参、以补气，使阳回于阴之内",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0001-6__当归__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0001-6",
+    "herbId": "当归",
+    "roleText": "补血",
+    "sourceSentence": "用当归、熟地以补血，使阴摄于阳之中",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0001-6__熟地黄__rule__2",
+    "formulaId": "bianzheng-formula-bianzheng-0001-6",
+    "herbId": "熟地黄",
+    "roleText": "补血",
+    "sourceSentence": "用当归、熟地以补血，使阴摄于阳之中",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
@@ -513,6 +279,15 @@
     "reviewStatus": "ai-draft"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0007-5__甘草__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0007-5",
+    "herbId": "甘草",
+    "roleText": "和缓之",
+    "sourceSentence": "今用甘草以和缓之，则少阴之火不上炎，而后以赤石脂固其滑脱",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0009-1__人参__rule__0",
     "formulaId": "bianzheng-formula-bianzheng-0009-1",
     "herbId": "人参",
@@ -522,8 +297,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0011-2__石膏__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0011-2",
+    "id": "bianzheng-formula-bianzheng-0011-3__石膏__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0011-3",
     "herbId": "石膏",
     "roleText": "治阳明之火",
     "sourceSentence": "此方用石膏、玄参以治阳明之火，用麦冬以滋肺中之燥",
@@ -531,11 +306,20 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0011-2__玄参__rule__1",
-    "formulaId": "bianzheng-formula-bianzheng-0011-2",
+    "id": "bianzheng-formula-bianzheng-0011-3__玄参__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0011-3",
     "herbId": "玄参",
     "roleText": "治阳明之火",
     "sourceSentence": "此方用石膏、玄参以治阳明之火，用麦冬以滋肺中之燥",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0011-9__山茱萸__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0011-9",
+    "herbId": "山茱萸",
+    "roleText": "生水",
+    "sourceSentence": "且当归善助熟地、山萸以生水，生水以滋肝，即补肾以制肝也",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
@@ -585,8 +369,35 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0020-5__肉桂__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0020-5",
+    "id": "bianzheng-formula-bianzheng-0018-7__人参__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0018-7",
+    "herbId": "人参",
+    "roleText": "救心气之绝",
+    "sourceSentence": "此方用参、术以救心气之绝，然非假附子之力，断不能破围而直入，即用附子而不用竹沥、姜汁，则痰涎间隔，恐附子孤军难于斩杀耳",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0019-5__当归__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0019-5",
+    "herbId": "当归",
+    "roleText": "平其肝木",
+    "sourceSentence": "夫六味地黄丸，料非治中风之药也，今用之以滋其肾水，又用芍药、当归以平其肝木",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0019-5__白芥子__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0019-5",
+    "herbId": "白芥子",
+    "roleText": "疏通肝气",
+    "sourceSentence": "柴胡、白芥子以疏通肝气，而消其两胁之痰",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0020-9__肉桂__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0020-9",
     "herbId": "肉桂",
     "roleText": "助火",
     "sourceSentence": "或疑既是气虚，补气可矣，何以必多加消痰之药，岂气旺而不能摄水，气盛而不能化水耶?至加肉桂以助火，不更多事乎?不知气虚者，未有不脾胃寒也",
@@ -594,8 +405,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0020-5__人参__rule__1",
-    "formulaId": "bianzheng-formula-bianzheng-0020-5",
+    "id": "bianzheng-formula-bianzheng-0020-9__人参__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0020-9",
     "herbId": "人参",
     "roleText": "补气",
     "sourceSentence": "乃用参、以补气，复用苓术以健土，治湿则痰无可藏之经，更加半夏、薏仁，以逐其已成之痰，则未成痰涎，又安能再化哉",
@@ -630,8 +441,35 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0027-2__玄参__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0027-2",
+    "id": "bianzheng-formula-bianzheng-0024-2__防风__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0024-2",
+    "herbId": "防风",
+    "roleText": "散风",
+    "sourceSentence": "方中补多于攻，用防风以散风，而不用泽泻、猪苓以利水",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0024-2__防风__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0024-2",
+    "herbId": "防风",
+    "roleText": "表邪",
+    "sourceSentence": "水湿既去，而风难独留，故少用防风以表邪，而孤子之风邪，无水艰于作浪，不必多用风药，而风无不除也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0027-3__人参__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0027-3",
+    "herbId": "人参",
+    "roleText": "健土而利湿",
+    "sourceSentence": "惟是既用参、术、薏、苓以健土而利湿，尚何虑痰哉",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0027-5__玄参__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0027-5",
     "herbId": "玄参",
     "roleText": "肺主皮毛也",
     "sourceSentence": "方中用玄参、菊花、生地、麦冬解其阳明之火，而更退其肺金之炎者，以肺主皮毛也",
@@ -639,8 +477,17 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0027-2__生地黄__rule__1",
-    "formulaId": "bianzheng-formula-bianzheng-0027-2",
+    "id": "bianzheng-formula-bianzheng-0027-5__菊花__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0027-5",
+    "herbId": "菊花",
+    "roleText": "肺主皮毛也",
+    "sourceSentence": "方中用玄参、菊花、生地、麦冬解其阳明之火，而更退其肺金之炎者，以肺主皮毛也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0027-5__生地黄__rule__2",
+    "formulaId": "bianzheng-formula-bianzheng-0027-5",
     "herbId": "生地黄",
     "roleText": "肺主皮毛也",
     "sourceSentence": "方中用玄参、菊花、生地、麦冬解其阳明之火，而更退其肺金之炎者，以肺主皮毛也",
@@ -648,8 +495,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0027-2__升麻__rule__2",
-    "formulaId": "bianzheng-formula-bianzheng-0027-2",
+    "id": "bianzheng-formula-bianzheng-0027-5__升麻__rule__3",
+    "formulaId": "bianzheng-formula-bianzheng-0027-5",
     "herbId": "升麻",
     "roleText": "乱心君之神明",
     "sourceSentence": "故又多用升麻、荆芥导之出外，而不使其内留以乱心君之神明",
@@ -702,6 +549,33 @@
     "reviewStatus": "ai-draft"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0028-3__半夏__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0028-3",
+    "herbId": "半夏",
+    "roleText": "消湿",
+    "sourceSentence": "人参畏实不畏虚，况又有苏叶以治风，半夏以消湿，肉桂以祛寒，则邪何能作祟哉",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0028-3__茯苓__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0028-3",
+    "herbId": "茯苓",
+    "roleText": "健脾开胃",
+    "sourceSentence": "而且白术、茯苓以健脾开胃，白芍以平肝，黄连、肉桂以交心肾，则肺气自宁，自然下降，正不必陈皮之助矣",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0028-3__白芍__rule__2",
+    "formulaId": "bianzheng-formula-bianzheng-0028-3",
+    "herbId": "白芍",
+    "roleText": "平肝",
+    "sourceSentence": "而且白术、茯苓以健脾开胃，白芍以平肝，黄连、肉桂以交心肾，则肺气自宁，自然下降，正不必陈皮之助矣",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0033-1__黄连__rule__0",
     "formulaId": "bianzheng-formula-bianzheng-0033-1",
     "herbId": "黄连",
@@ -729,8 +603,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0036-4__香附__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0036-4",
+    "id": "bianzheng-formula-bianzheng-0036-7__香附__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0036-7",
     "herbId": "香附",
     "roleText": "开郁",
     "sourceSentence": "况又益之柴胡、香附以开郁，白芥子以消痰，甘草以调和其滞气，则肝胆尽舒而风于何藏?故头痛顿除也",
@@ -738,8 +612,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0036-4__白芥子__rule__1",
-    "formulaId": "bianzheng-formula-bianzheng-0036-4",
+    "id": "bianzheng-formula-bianzheng-0036-7__白芥子__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0036-7",
     "herbId": "白芥子",
     "roleText": "消痰",
     "sourceSentence": "况又益之柴胡、香附以开郁，白芥子以消痰，甘草以调和其滞气，则肝胆尽舒而风于何藏?故头痛顿除也",
@@ -747,8 +621,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0036-4__甘草__rule__2",
-    "formulaId": "bianzheng-formula-bianzheng-0036-4",
+    "id": "bianzheng-formula-bianzheng-0036-7__甘草__rule__2",
+    "formulaId": "bianzheng-formula-bianzheng-0036-7",
     "herbId": "甘草",
     "roleText": "调和其滞气",
     "sourceSentence": "况又益之柴胡、香附以开郁，白芥子以消痰，甘草以调和其滞气，则肝胆尽舒而风于何藏?故头痛顿除也",
@@ -756,11 +630,29 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0037-2__人参__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0037-2",
+    "id": "bianzheng-formula-bianzheng-0037-4__人参__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0037-4",
     "herbId": "人参",
     "roleText": "升其阳气",
     "sourceSentence": "方中用人参、白术为君，以升其阳气",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0040-3__茯苓__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0040-3",
+    "herbId": "茯苓",
+    "roleText": "利膀胱之水",
+    "sourceSentence": "夫车前、茯苓以利膀胱之水，薏仁、白术以利腰脐之气，则膀胱与肾气内外相通",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0040-3__白术__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0040-3",
+    "herbId": "白术",
+    "roleText": "利腰脐之气",
+    "sourceSentence": "夫车前、茯苓以利膀胱之水，薏仁、白术以利腰脐之气，则膀胱与肾气内外相通",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
@@ -801,8 +693,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0055-3__白芍__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0055-3",
+    "id": "bianzheng-formula-bianzheng-0055-4__白芍__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0055-4",
     "herbId": "白芍",
     "roleText": "补肝",
     "sourceSentence": "盖葳蕤最善止泪，加之当归、白芍以补肝，熟地以滋肾，益之麦冬以补心，佐之甘菊、菖蒲、柴胡以舒其风火，而引诸经之药以塞其泪窍，此固其根本而末症自愈也",
@@ -810,8 +702,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0055-3__熟地黄__rule__1",
-    "formulaId": "bianzheng-formula-bianzheng-0055-3",
+    "id": "bianzheng-formula-bianzheng-0055-4__熟地黄__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0055-4",
     "herbId": "熟地黄",
     "roleText": "滋肾",
     "sourceSentence": "盖葳蕤最善止泪，加之当归、白芍以补肝，熟地以滋肾，益之麦冬以补心，佐之甘菊、菖蒲、柴胡以舒其风火，而引诸经之药以塞其泪窍，此固其根本而末症自愈也",
@@ -819,11 +711,20 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0055-3__柴胡__rule__2",
-    "formulaId": "bianzheng-formula-bianzheng-0055-3",
+    "id": "bianzheng-formula-bianzheng-0055-4__柴胡__rule__2",
+    "formulaId": "bianzheng-formula-bianzheng-0055-4",
     "herbId": "柴胡",
     "roleText": "舒其风火",
     "sourceSentence": "盖葳蕤最善止泪，加之当归、白芍以补肝，熟地以滋肾，益之麦冬以补心，佐之甘菊、菖蒲、柴胡以舒其风火，而引诸经之药以塞其泪窍，此固其根本而末症自愈也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0059-1__青蒿__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0059-1",
+    "herbId": "青蒿",
+    "roleText": "泻胃脾之热",
+    "sourceSentence": "况益之茯苓以泻膀胱之火，用青蒿以泻胃脾之热，白芍以平肝胆之气，丹参以清心内之炎，是脏腑无非清凉，而肾脏邪火安能作祟",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
@@ -891,8 +792,17 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0078-3__人参__rule__0",
+    "id": "bianzheng-formula-bianzheng-0078-3__羌活__rule__0",
     "formulaId": "bianzheng-formula-bianzheng-0078-3",
+    "herbId": "羌活",
+    "roleText": "疏经络",
+    "sourceSentence": "血足而气自流通，复加羌活以疏经络，自然火散而痛除耳",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0078-5__人参__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0078-5",
     "herbId": "人参",
     "roleText": "补其气",
     "sourceSentence": "气虚则痰结，吾用人参、、术以补其气，而痰之势衰矣",
@@ -900,8 +810,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0078-3__薏苡仁__rule__1",
-    "formulaId": "bianzheng-formula-bianzheng-0078-3",
+    "id": "bianzheng-formula-bianzheng-0078-5__薏苡仁__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0078-5",
     "herbId": "薏苡仁",
     "roleText": "利湿",
     "sourceSentence": "况益之茯苓、薏仁以利湿，半夏以消痰，防风、羌活以去风，桂枝以逐邪，则痰之党羽既孤，而不能留其块垒矣",
@@ -909,8 +819,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0078-3__半夏__rule__2",
-    "formulaId": "bianzheng-formula-bianzheng-0078-3",
+    "id": "bianzheng-formula-bianzheng-0078-5__半夏__rule__2",
+    "formulaId": "bianzheng-formula-bianzheng-0078-5",
     "herbId": "半夏",
     "roleText": "消痰",
     "sourceSentence": "况益之茯苓、薏仁以利湿，半夏以消痰，防风、羌活以去风，桂枝以逐邪，则痰之党羽既孤，而不能留其块垒矣",
@@ -918,8 +828,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0078-3__羌活__rule__3",
-    "formulaId": "bianzheng-formula-bianzheng-0078-3",
+    "id": "bianzheng-formula-bianzheng-0078-5__羌活__rule__3",
+    "formulaId": "bianzheng-formula-bianzheng-0078-5",
     "herbId": "羌活",
     "roleText": "去风",
     "sourceSentence": "况益之茯苓、薏仁以利湿，半夏以消痰，防风、羌活以去风，桂枝以逐邪，则痰之党羽既孤，而不能留其块垒矣",
@@ -927,8 +837,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0078-3__桂枝__rule__4",
-    "formulaId": "bianzheng-formula-bianzheng-0078-3",
+    "id": "bianzheng-formula-bianzheng-0078-5__桂枝__rule__4",
+    "formulaId": "bianzheng-formula-bianzheng-0078-5",
     "herbId": "桂枝",
     "roleText": "逐邪",
     "sourceSentence": "况益之茯苓、薏仁以利湿，半夏以消痰，防风、羌活以去风，桂枝以逐邪，则痰之党羽既孤，而不能留其块垒矣",
@@ -981,6 +891,24 @@
     "reviewStatus": "ai-draft"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0095-3__生枣仁__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0095-3",
+    "herbId": "生枣仁",
+    "roleText": "安其心",
+    "sourceSentence": "此方多用生枣仁以安其心，用人参、巴戟天以通心肾",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0097-1__山茱萸__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0097-1",
+    "herbId": "山茱萸",
+    "roleText": "相益",
+    "sourceSentence": "得熟地、人参、白术、山萸以相益，则交接之时，既无刻削之苦，自有欢愉之庆",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0097-3__白芍__rule__0",
     "formulaId": "bianzheng-formula-bianzheng-0097-3",
     "herbId": "白芍",
@@ -1008,8 +936,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0104-2__白薇__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0104-2",
+    "id": "bianzheng-formula-bianzheng-0104-3__白薇__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0104-3",
     "herbId": "白薇",
     "roleText": "收其神魂",
     "sourceSentence": "况加附子无经不达，而更能直补命门膻中之火，以生脾胃二经之土，则土更易旺，而痰更易消，益之半夏以逐其败浊，白薇以收其神魂，安得而癫哉",
@@ -1044,8 +972,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0129-2__枳壳__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0129-2",
+    "id": "bianzheng-formula-bianzheng-0129-3__枳壳__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0129-3",
     "herbId": "枳壳",
     "roleText": "消食",
     "sourceSentence": "瓜蒂散原是吐药，得萝卜子、枳壳以消食，得半夏、天花粉以荡痰，得韭汁以逐血",
@@ -1053,8 +981,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0129-2__天花粉__rule__1",
-    "formulaId": "bianzheng-formula-bianzheng-0129-2",
+    "id": "bianzheng-formula-bianzheng-0129-3__天花粉__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0129-3",
     "herbId": "天花粉",
     "roleText": "荡痰",
     "sourceSentence": "瓜蒂散原是吐药，得萝卜子、枳壳以消食，得半夏、天花粉以荡痰，得韭汁以逐血",
@@ -1062,8 +990,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0129-2__甘草__rule__2",
-    "formulaId": "bianzheng-formula-bianzheng-0129-2",
+    "id": "bianzheng-formula-bianzheng-0129-3__甘草__rule__2",
+    "formulaId": "bianzheng-formula-bianzheng-0129-3",
     "herbId": "甘草",
     "roleText": "调和之",
     "sourceSentence": "诚恐过于祛除，未免因吐而伤气，又加入人参、甘草以调和之，使胃气无损，则积滞易扫，何至恶食而再吐哉",
@@ -1071,8 +999,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0131-2__茯苓__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0131-2",
+    "id": "bianzheng-formula-bianzheng-0131-3__茯苓__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0131-3",
     "herbId": "茯苓",
     "roleText": "健其脾土",
     "sourceSentence": "方中白术、茯苓以健其脾土，麦冬、苏子以益其肺金，熟地、山药、芡实以滋其肾水，自然脾气旺而不至健运之失职，肺气旺而不至治节之不行，肾气旺而不至关门之不开，水自从膀胱之府而尽出于小肠矣，安得而再胀哉",
@@ -1080,8 +1008,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0131-2__紫苏子__rule__1",
-    "formulaId": "bianzheng-formula-bianzheng-0131-2",
+    "id": "bianzheng-formula-bianzheng-0131-3__紫苏子__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0131-3",
     "herbId": "紫苏子",
     "roleText": "益其肺金",
     "sourceSentence": "方中白术、茯苓以健其脾土，麦冬、苏子以益其肺金，熟地、山药、芡实以滋其肾水，自然脾气旺而不至健运之失职，肺气旺而不至治节之不行，肾气旺而不至关门之不开，水自从膀胱之府而尽出于小肠矣，安得而再胀哉",
@@ -1089,8 +1017,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0131-2__芡实__rule__2",
-    "formulaId": "bianzheng-formula-bianzheng-0131-2",
+    "id": "bianzheng-formula-bianzheng-0131-3__芡实__rule__2",
+    "formulaId": "bianzheng-formula-bianzheng-0131-3",
     "herbId": "芡实",
     "roleText": "滋其肾水",
     "sourceSentence": "方中白术、茯苓以健其脾土，麦冬、苏子以益其肺金，熟地、山药、芡实以滋其肾水，自然脾气旺而不至健运之失职，肺气旺而不至治节之不行，肾气旺而不至关门之不开，水自从膀胱之府而尽出于小肠矣，安得而再胀哉",
@@ -1098,8 +1026,17 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0137-2__茯苓__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0137-2",
+    "id": "bianzheng-formula-bianzheng-0132-1__牡丹皮__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0132-1",
+    "herbId": "牡丹皮",
+    "roleText": "佐之",
+    "sourceSentence": "又恐水过于利，未免损伤阴气，得熟地、山药、丹皮以佐之，则利中有补，阳得阴而生",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0137-3__茯苓__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0137-3",
     "herbId": "茯苓",
     "roleText": "辅助柴胡",
     "sourceSentence": "方中所以多用茯苓、白术以辅助柴胡、白芍者，正此意也",
@@ -1107,8 +1044,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0137-2__白术__rule__1",
-    "formulaId": "bianzheng-formula-bianzheng-0137-2",
+    "id": "bianzheng-formula-bianzheng-0137-3__白术__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0137-3",
     "herbId": "白术",
     "roleText": "辅助柴胡",
     "sourceSentence": "方中所以多用茯苓、白术以辅助柴胡、白芍者，正此意也",
@@ -1152,8 +1089,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0147-3__生地黄__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0147-3",
+    "id": "bianzheng-formula-bianzheng-0147-4__生地黄__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0147-4",
     "herbId": "生地黄",
     "roleText": "解其胃中之炎热",
     "sourceSentence": "此方玄参、生地以解其胃中之炎热，泻之中仍是补之味",
@@ -1188,8 +1125,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0157-2__人参__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0157-2",
+    "id": "bianzheng-formula-bianzheng-0157-3__人参__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0157-3",
     "herbId": "人参",
     "roleText": "补气",
     "sourceSentence": "用参、、归、术以补气，用升麻、柴胡以提气，且二味升中带散，内伤而兼外感者，尤为相宜",
@@ -1233,8 +1170,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0167-4__白芍__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0167-4",
+    "id": "bianzheng-formula-bianzheng-0167-5__白芍__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0167-5",
     "herbId": "白芍",
     "roleText": "大舒其肝中之郁气",
     "sourceSentence": "方中虽止肾热而散心寒，倘肝气不通何能调剂？所以加入柴胡、白芍以大舒其肝中之郁气",
@@ -1287,8 +1224,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0180-2__五味子__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0180-2",
+    "id": "bianzheng-formula-bianzheng-0180-3__五味子__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0180-3",
     "herbId": "五味子",
     "roleText": "补肺",
     "sourceSentence": "此方专补肾水，加麦冬、五味以补肺，肺肾相资，则水尤易生，阳得阴而化，亦阳得阴而平",
@@ -1296,8 +1233,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0180-4__熟地黄__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0180-4",
+    "id": "bianzheng-formula-bianzheng-0180-5__熟地黄__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0180-5",
     "herbId": "熟地黄",
     "roleText": "大补其肾中之阴",
     "sourceSentence": "此方用熟地、沙参以大补其肾中之阴，用人参以急固其未脱之阳，用五味子以敛其耗散之气，用肉桂于纯阴之中，则引入于孤阳之内，令其已离者重合，已失者重归也",
@@ -1305,8 +1242,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0180-4__北沙参__rule__1",
-    "formulaId": "bianzheng-formula-bianzheng-0180-4",
+    "id": "bianzheng-formula-bianzheng-0180-5__北沙参__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0180-5",
     "herbId": "北沙参",
     "roleText": "大补其肾中之阴",
     "sourceSentence": "此方用熟地、沙参以大补其肾中之阴，用人参以急固其未脱之阳，用五味子以敛其耗散之气，用肉桂于纯阴之中，则引入于孤阳之内，令其已离者重合，已失者重归也",
@@ -1359,7 +1296,25 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0190-1__北沙参__rule__0",
+    "id": "bianzheng-formula-bianzheng-0187-1__五味子__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0187-1",
+    "herbId": "五味子",
+    "roleText": "治肺者",
+    "sourceSentence": "六味治肾，更加麦冬、五味以治肺者，非止清肺金之火也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0190-1__五味子__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0190-1",
+    "herbId": "五味子",
+    "roleText": "益心",
+    "sourceSentence": "况麦冬、五味以益心，熟地、沙参以滋肾，上下相资，水火既济，痿病岂不愈乎",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0190-1__北沙参__rule__1",
     "formulaId": "bianzheng-formula-bianzheng-0190-1",
     "herbId": "北沙参",
     "roleText": "滋肾",
@@ -1400,6 +1355,24 @@
     "herbId": "人参",
     "roleText": "平脾中之虚热",
     "sourceSentence": "酒果之毒既消，用参、苓、连、曲之类，以平脾中之虚热，则腹中清凉，何消渴之有哉",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0199-1__羌活__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0199-1",
+    "herbId": "羌活",
+    "roleText": "祛风",
+    "sourceSentence": "故少用羌活、桂枝以祛风，则风自易解",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0199-1__桂枝__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0199-1",
+    "herbId": "桂枝",
+    "roleText": "祛风",
+    "sourceSentence": "故少用羌活、桂枝以祛风，则风自易解",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
@@ -1584,8 +1557,17 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0239-3__白术__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0239-3",
+    "id": "bianzheng-formula-bianzheng-0238-1__白术__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0238-1",
+    "herbId": "白术",
+    "roleText": "健脾开胃",
+    "sourceSentence": "加白术以健脾开胃，则脾胃气旺，不畏肝气之克，则气自通，肝何阻滞之有",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0239-5__白术__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0239-5",
     "herbId": "白术",
     "roleText": "培土",
     "sourceSentence": "此方用白术以培土，何又用白芍以平肝？盖脾弱由于肝胆之相制，用白芍以平肝胆，正所以培脾胃之土也",
@@ -1629,6 +1611,15 @@
     "reviewStatus": "ai-draft"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0255-1__当归__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0255-1",
+    "herbId": "当归",
+    "roleText": "生其新血",
+    "sourceSentence": "重用白芍、当归以生其新血，轻用柴胡、半夏以解其逆气，所以两收其功也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0257-1__人参__rule__0",
     "formulaId": "bianzheng-formula-bianzheng-0257-1",
     "herbId": "人参",
@@ -1638,8 +1629,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0262-4__肉桂__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0262-4",
+    "id": "bianzheng-formula-bianzheng-0262-5__肉桂__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0262-5",
     "herbId": "肉桂",
     "roleText": "助其热者",
     "sourceSentence": "惟是酒性大热，今不特不解其热，并且用肉桂以助其热者，以湿之不行，由于命门之火衰也",
@@ -1741,7 +1732,7 @@
     "formulaId": "bianzheng-formula-bianzheng-0286-1",
     "herbId": "黄连",
     "roleText": "直解其心中之热",
-    "sourceSentence": "用黄连以直解其心中之热",
+    "sourceSentence": "此方用黄连以直解其心中之热",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
@@ -1773,11 +1764,20 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0333-3__参芦__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0333-3",
+    "id": "bianzheng-formula-bianzheng-0333-5__参芦__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0333-5",
     "herbId": "参芦",
     "roleText": "扶胃土",
-    "sourceSentence": "前方名为倒痰汤，用参芦以扶胃土，用白芍以平肝木，用白芥子、竹沥共入于瓜蒂之中，吐痰即用消痰之药，使余痰尽化，旧痰去而新痰不生，得治痰之益，又绝其伤气之忧也",
+    "sourceSentence": "前，用参芦以扶胃土，用白芍以平肝木，用白芥子、竹沥共入于瓜蒂之中，吐痰即用消痰之药，使余痰尽化，旧痰去而新痰不生，得治痰之益，又绝其伤气之忧也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0334-2__黄芪__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0334-2",
+    "herbId": "黄芪",
+    "roleText": "行其气",
+    "sourceSentence": "吾多用黄，正恐人之难受，加入防风，能于补中以行其气",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
@@ -1791,8 +1791,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0360-1__金银花__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0360-1",
+    "id": "bianzheng-formula-bianzheng-0360-3__金银花__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0360-3",
     "herbId": "金银花",
     "roleText": "解其毒",
     "sourceSentence": "此方用金银花、生甘草以解其毒，用大黄迅逐以通其气，毒解气通，断肠之草何能作祟哉",
@@ -1800,8 +1800,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0360-1__生甘草__rule__1",
-    "formulaId": "bianzheng-formula-bianzheng-0360-1",
+    "id": "bianzheng-formula-bianzheng-0360-3__生甘草__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0360-3",
     "herbId": "生甘草",
     "roleText": "解其毒",
     "sourceSentence": "此方用金银花、生甘草以解其毒，用大黄迅逐以通其气，毒解气通，断肠之草何能作祟哉",
@@ -1836,8 +1836,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0391-4__柴胡__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0391-4",
+    "id": "bianzheng-formula-bianzheng-0391-7__柴胡__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0391-7",
     "herbId": "柴胡",
     "roleText": "宣扬风郁",
     "sourceSentence": "用柴胡、白芍、丹皮以宣扬风郁",
@@ -1845,8 +1845,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0391-4__白芍__rule__1",
-    "formulaId": "bianzheng-formula-bianzheng-0391-4",
+    "id": "bianzheng-formula-bianzheng-0391-7__白芍__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0391-7",
     "herbId": "白芍",
     "roleText": "宣扬风郁",
     "sourceSentence": "用柴胡、白芍、丹皮以宣扬风郁",
@@ -1854,8 +1854,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0391-4__牡丹皮__rule__2",
-    "formulaId": "bianzheng-formula-bianzheng-0391-4",
+    "id": "bianzheng-formula-bianzheng-0391-7__牡丹皮__rule__2",
+    "formulaId": "bianzheng-formula-bianzheng-0391-7",
     "herbId": "牡丹皮",
     "roleText": "宣扬风郁",
     "sourceSentence": "用柴胡、白芍、丹皮以宣扬风郁",
@@ -1863,8 +1863,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0391-4__甘草__rule__3",
-    "formulaId": "bianzheng-formula-bianzheng-0391-4",
+    "id": "bianzheng-formula-bianzheng-0391-7__甘草__rule__3",
+    "formulaId": "bianzheng-formula-bianzheng-0391-7",
     "herbId": "甘草",
     "roleText": "和腹痛",
     "sourceSentence": "用甘草、白术、延胡利腰脐以和腹痛",
@@ -1872,8 +1872,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0391-4__白术__rule__4",
-    "formulaId": "bianzheng-formula-bianzheng-0391-4",
+    "id": "bianzheng-formula-bianzheng-0391-7__白术__rule__4",
+    "formulaId": "bianzheng-formula-bianzheng-0391-7",
     "herbId": "白术",
     "roleText": "和腹痛",
     "sourceSentence": "用甘草、白术、延胡利腰脐以和腹痛",
@@ -1908,8 +1908,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0405-4__人参__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0405-4",
+    "id": "bianzheng-formula-bianzheng-0405-5__人参__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0405-5",
     "herbId": "人参",
     "roleText": "补阳气",
     "sourceSentence": "此方用人参以补阳气，用黄芩以泻阴火，火泻则血不热，无欲动之机，气补则血能包，无可漏之窍，自然气摄血而血归经，宁有漏泄之患哉",
@@ -1917,8 +1917,17 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0409-2__人参__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0409-2",
+    "id": "bianzheng-formula-bianzheng-0406-1__人参__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0406-1",
+    "herbId": "人参",
+    "roleText": "补肺气",
+    "sourceSentence": "此方用参、、归、冬、以补肺气，以肺主气也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0409-3__人参__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0409-3",
     "herbId": "人参",
     "roleText": "补气",
     "sourceSentence": "此方用人参、黄以补气，气旺而血可摄也",
@@ -1926,17 +1935,17 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0409-2__黄__rule__1",
-    "formulaId": "bianzheng-formula-bianzheng-0409-2",
-    "herbId": "黄",
+    "id": "bianzheng-formula-bianzheng-0409-3__黄芪__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0409-3",
+    "herbId": "黄芪",
     "roleText": "补气",
     "sourceSentence": "此方用人参、黄以补气，气旺而血可摄也",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0409-2__当归__rule__2",
-    "formulaId": "bianzheng-formula-bianzheng-0409-2",
+    "id": "bianzheng-formula-bianzheng-0409-3__当归__rule__2",
+    "formulaId": "bianzheng-formula-bianzheng-0409-3",
     "herbId": "当归",
     "roleText": "补血",
     "sourceSentence": "用当归、丹皮以补血，血生而瘀难留也",
@@ -1944,8 +1953,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0409-2__牡丹皮__rule__3",
-    "formulaId": "bianzheng-formula-bianzheng-0409-2",
+    "id": "bianzheng-formula-bianzheng-0409-3__牡丹皮__rule__3",
+    "formulaId": "bianzheng-formula-bianzheng-0409-3",
     "herbId": "牡丹皮",
     "roleText": "补血",
     "sourceSentence": "用当归、丹皮以补血，血生而瘀难留也",
@@ -1953,8 +1962,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0409-2__红花__rule__4",
-    "formulaId": "bianzheng-formula-bianzheng-0409-2",
+    "id": "bianzheng-formula-bianzheng-0409-3__红花__rule__4",
+    "formulaId": "bianzheng-formula-bianzheng-0409-3",
     "herbId": "红花",
     "roleText": "活血",
     "sourceSentence": "用红花、黑姜以活血，血活而晕可除也",
@@ -1962,8 +1971,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0409-2__茯苓__rule__5",
-    "formulaId": "bianzheng-formula-bianzheng-0409-2",
+    "id": "bianzheng-formula-bianzheng-0409-3__茯苓__rule__5",
+    "formulaId": "bianzheng-formula-bianzheng-0409-3",
     "herbId": "茯苓",
     "roleText": "利水",
     "sourceSentence": "用茯苓以利水，水流而血易归经也",
@@ -1989,8 +1998,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0413-2__柞木枝__rule__0",
-    "formulaId": "bianzheng-formula-bianzheng-0413-2",
+    "id": "bianzheng-formula-bianzheng-0413-3__柞木枝__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0413-3",
     "herbId": "柞木枝",
     "roleText": "开其门",
     "sourceSentence": "至于儿未到门，万不可先用柞木以开其门，然用降子散亦正无碍，以其补气、补血耳",
@@ -1998,17 +2007,8 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0413-2__人参__rule__1",
-    "formulaId": "bianzheng-formula-bianzheng-0413-2",
-    "herbId": "人参",
-    "roleText": "补气血之亏",
-    "sourceSentence": "此方用人参、归、芎以补气血之亏，人尽知其义，乃用升麻，又用牛膝、附子，恐人未识其妙",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "bianzheng-formula-bianzheng-0413-2__川芎__rule__2",
-    "formulaId": "bianzheng-formula-bianzheng-0413-2",
+    "id": "bianzheng-formula-bianzheng-0413-4__川芎__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0413-4",
     "herbId": "川芎",
     "roleText": "补气血之亏",
     "sourceSentence": "此方用人参、归、芎以补气血之亏，人尽知其义，乃用升麻，又用牛膝、附子，恐人未识其妙",
@@ -2030,15 +2030,6 @@
     "herbId": "川芎",
     "roleText": "补血",
     "sourceSentence": "此方用归、芎以补血，何又用生地、丹皮之凉血，似非产后所宜，不知恶血奔心，未免因虚热而相犯，吾于补中凉之，则凉不为害，况益之干荷叶，则七窍相通，能引邪外出，不内害于心，转生蒲黄以分解恶露也",
-    "method": "rule",
-    "reviewStatus": "ai-draft"
-  },
-  {
-    "id": "bianzheng-formula-bianzheng-0418-1__一剂即定__rule__1",
-    "formulaId": "bianzheng-formula-bianzheng-0418-1",
-    "herbId": "一剂即定",
-    "roleText": "定狂",
-    "sourceSentence": "但此方止可暂用一剂以定狂，不可多用数剂以取胜，不可不慎也",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
@@ -2088,9 +2079,9 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0433-1__黄__rule__1",
+    "id": "bianzheng-formula-bianzheng-0433-1__黄芪__rule__1",
     "formulaId": "bianzheng-formula-bianzheng-0433-1",
-    "herbId": "黄",
+    "herbId": "黄芪",
     "roleText": "补气",
     "sourceSentence": "用人参、黄以补气，气旺则幽阴之毒不敢入心肺之间",
     "method": "rule",
@@ -2124,9 +2115,9 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0442-2__黄__rule__0",
+    "id": "bianzheng-formula-bianzheng-0442-2__黄芪__rule__0",
     "formulaId": "bianzheng-formula-bianzheng-0442-2",
-    "herbId": "黄",
+    "herbId": "黄芪",
     "roleText": "补脾胃之土",
     "sourceSentence": "此方六味以补肾水，加人参、麦冬、黄以补脾胃之土，土旺而肺气自旺",
     "method": "rule",
@@ -2151,6 +2142,15 @@
     "reviewStatus": "ai-draft"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0454-2__荆芥__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0454-2",
+    "herbId": "荆芥",
+    "roleText": "归其经络",
+    "sourceSentence": "用荆芥、益母草分解各脏腑以归其经络",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0456-1__茯苓__rule__0",
     "formulaId": "bianzheng-formula-bianzheng-0456-1",
     "herbId": "茯苓",
@@ -2165,6 +2165,15 @@
     "herbId": "车前子",
     "roleText": "利水",
     "sourceSentence": "此方用茯苓、车前以利水，紫花地丁以清热，又用金银花、牛膝补中散毒，安得不奏功哉",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0460-1__大黄__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0460-1",
+    "herbId": "大黄",
+    "roleText": "泄毒",
+    "sourceSentence": "此方用大黄以泄毒，用石膏以清毒，用甘草、金银花以化毒，用柴胡、天花粉以散毒，非多助之以大补气血之药，妙在用参、、归、术之类自获全胜",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
@@ -2201,6 +2210,24 @@
     "herbId": "夏枯草",
     "roleText": "解火毒",
     "sourceSentence": "此方用金银花、夏枯草以解火毒，用白芷、川芎以引入两鬓太阳之间，则金银花、夏枯草更得施其祛逐之功",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0480-1__木鳖子__rule__0",
+    "formulaId": "bianzheng-formula-bianzheng-0480-1",
+    "herbId": "木鳖子",
+    "roleText": "狗最畏二物也",
+    "sourceSentence": "是方用木鳖、斑猫者，以狗最畏二物也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0480-1__木鳖子__rule__1",
+    "formulaId": "bianzheng-formula-bianzheng-0480-1",
+    "herbId": "木鳖子",
+    "roleText": "毒攻毒耳",
+    "sourceSentence": "麝香虽亦走窍，然用之不过制斑蝥、木鳖，使之以毒攻毒耳，中有妙理，非漫然而用之也",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
@@ -2295,29 +2322,821 @@
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "shishi-formula-shishi-0215-1__半夏__rule__0",
-    "formulaId": "shishi-formula-shishi-0215-1",
+    "id": "shishi-formula-shishi-0005-1__半夏__rule__0",
+    "formulaId": "shishi-formula-shishi-0005-1",
     "herbId": "半夏",
-    "roleText": "清痰",
-    "sourceSentence": "且黄芩以清肺，浓朴以逐秽，半夏以清痰，又用之咸宜，五脏无非生气矣",
+    "roleText": "祛痰",
+    "sourceSentence": "用半夏、南星附子以祛痰，不用人参、白术之多，何以驱驾之而成功哉",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "shishi-formula-shishi-0215-1__茯苓__rule__1",
-    "formulaId": "shishi-formula-shishi-0215-1",
-    "herbId": "茯苓",
-    "roleText": "止脱泻",
-    "sourceSentence": "此方人参以固元阳，茯苓以止脱泻，白芍以生真阴，阴生而阳长，利止而脱固，则正气既强，虚者不虚",
+    "id": "shishi-formula-shishi-0007-1__人参__rule__0",
+    "formulaId": "shishi-formula-shishi-0007-1",
+    "herbId": "人参",
+    "roleText": "生胃土",
+    "sourceSentence": "胃为肾之关，关门不开，则上之饮食不能入，下之糟粕不能出，妙在用人参以生胃土，而茯苓、车前能分消水谷也",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
   {
-    "id": "shishi-formula-shishi-0215-7__荆芥__rule__0",
+    "id": "shishi-formula-shishi-0020-2__白术__rule__0",
+    "formulaId": "shishi-formula-shishi-0020-2",
+    "herbId": "白术",
+    "roleText": "去腰间之湿气",
+    "sourceSentence": "此方妙在用白术，以去腰间之湿气",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0027-8__玄参__rule__0",
+    "formulaId": "shishi-formula-shishi-0027-8",
+    "herbId": "玄参",
+    "roleText": "补肾水",
+    "sourceSentence": "此方妙在用元参、麦冬，滋肺金而去心间之游火，又妙在用熟地以补肾水，则水足而胃火自坚矣",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0027-8__麦冬__rule__1",
+    "formulaId": "shishi-formula-shishi-0027-8",
+    "herbId": "麦冬",
+    "roleText": "补肾水",
+    "sourceSentence": "此方妙在用元参、麦冬，滋肺金而去心间之游火，又妙在用熟地以补肾水，则水足而胃火自坚矣",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0031-4__半夏__rule__0",
+    "formulaId": "shishi-formula-shishi-0031-4",
+    "herbId": "半夏",
+    "roleText": "祛逐其痰",
+    "sourceSentence": "方中又用白芥子、半夏以祛逐其痰，痰祛则心自清，况又有竹叶以清心乎，则火易息而人易复也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0031-4__柴胡__rule__1",
+    "formulaId": "shishi-formula-shishi-0031-4",
+    "herbId": "柴胡",
+    "roleText": "舒泄其不得意之气",
+    "sourceSentence": "后呆病之方，妙在用柴胡以舒泄其不得意之气",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0032-2__半夏__rule__0",
+    "formulaId": "shishi-formula-shishi-0032-2",
+    "herbId": "半夏",
+    "roleText": "消痰",
+    "sourceSentence": "此方助其正气，以生心血，又加桂、附以祛寒邪，加半夏以消痰，逐去其水，自然气回而癫止也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0033-2__人参__rule__0",
+    "formulaId": "shishi-formula-shishi-0033-2",
+    "herbId": "人参",
+    "roleText": "助其正气",
+    "sourceSentence": "故用人参以助其正气，而以半夏、白芥子以祛邪与痰，天南星尤能入心而祛邪，用附子猛烈之将，单刀直入，邪自惊退",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0033-3__人参__rule__0",
+    "formulaId": "shishi-formula-shishi-0033-3",
+    "herbId": "人参",
+    "roleText": "补正",
+    "sourceSentence": "阴邪者，夜间遇之也，后方虽亦用人参以补正，而终不用南星之类直入其心中也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0035-1__白芷__rule__0",
+    "formulaId": "shishi-formula-shishi-0035-1",
+    "herbId": "白芷",
+    "roleText": "散之",
+    "sourceSentence": "盖风虽犯太阳，治法不可全治太阳，当上清其邪，故用白芷、川芎、细辛三味以散之",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0035-1__川芎__rule__1",
+    "formulaId": "shishi-formula-shishi-0035-1",
+    "herbId": "川芎",
+    "roleText": "散之",
+    "sourceSentence": "盖风虽犯太阳，治法不可全治太阳，当上清其邪，故用白芷、川芎、细辛三味以散之",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0043-3__当归__rule__0",
+    "formulaId": "shishi-formula-shishi-0043-3",
+    "herbId": "当归",
+    "roleText": "补其血",
+    "sourceSentence": "今用当归以补其血，血足水无所侵，而湿难以入，故用之合宜，而病可速效也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0049-1__柴胡__rule__0",
+    "formulaId": "shishi-formula-shishi-0049-1",
+    "herbId": "柴胡",
+    "roleText": "舒发肺金之气",
+    "sourceSentence": "此方妙在用柴胡、射干、桔梗，以舒发肺金之气，用半夏以祛痰，用黄芩以去火",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0049-1__射干__rule__1",
+    "formulaId": "shishi-formula-shishi-0049-1",
+    "herbId": "射干",
+    "roleText": "舒发肺金之气",
+    "sourceSentence": "此方妙在用柴胡、射干、桔梗，以舒发肺金之气，用半夏以祛痰，用黄芩以去火",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0049-1__桔梗__rule__2",
+    "formulaId": "shishi-formula-shishi-0049-1",
+    "herbId": "桔梗",
+    "roleText": "舒发肺金之气",
+    "sourceSentence": "此方妙在用柴胡、射干、桔梗，以舒发肺金之气，用半夏以祛痰，用黄芩以去火",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0049-1__黄芩__rule__3",
+    "formulaId": "shishi-formula-shishi-0049-1",
+    "herbId": "黄芩",
+    "roleText": "清解之",
+    "sourceSentence": "盖外感寒邪，则内必变为热症，今用黄芩以清解之",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0049-1__黄芩__rule__4",
+    "formulaId": "shishi-formula-shishi-0049-1",
+    "herbId": "黄芩",
+    "roleText": "抑遏其火气",
+    "sourceSentence": "然徒用黄芩，虽曰清火，转足以抑遏其火气",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0049-1__桔梗__rule__5",
+    "formulaId": "shishi-formula-shishi-0049-1",
+    "herbId": "桔梗",
+    "roleText": "消火灭邪",
+    "sourceSentence": "妙在用桔梗、射干、柴胡，一派辛散之品，转足以消火灭邪",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0049-1__射干__rule__6",
+    "formulaId": "shishi-formula-shishi-0049-1",
+    "herbId": "射干",
+    "roleText": "消火灭邪",
+    "sourceSentence": "妙在用桔梗、射干、柴胡，一派辛散之品，转足以消火灭邪",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0049-1__柴胡__rule__7",
+    "formulaId": "shishi-formula-shishi-0049-1",
+    "herbId": "柴胡",
+    "roleText": "消火灭邪",
+    "sourceSentence": "妙在用桔梗、射干、柴胡，一派辛散之品，转足以消火灭邪",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0049-2__人参__rule__0",
+    "formulaId": "shishi-formula-shishi-0049-2",
+    "herbId": "人参",
+    "roleText": "救之",
+    "sourceSentence": "不知寒邪直犯肾宫，元阳遁出于脾胃之间，止此一线之微气在焉，若不用人参以救之，何能唤回于无何有之处，不多加白术，何能利其腰脐而回其元气",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0049-3__栀子__rule__0",
+    "formulaId": "shishi-formula-shishi-0049-3",
+    "herbId": "栀子",
+    "roleText": "清火",
+    "sourceSentence": "此方妙在用栀子以清火",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0049-6__陈皮__rule__0",
+    "formulaId": "shishi-formula-shishi-0049-6",
+    "herbId": "陈皮",
+    "roleText": "消中和内也",
+    "sourceSentence": "此方与中痰方相仿佛，而此方胜于前者，以分两之多，而又多甘草、陈皮以消中和内也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0052-1__当归__rule__0",
+    "formulaId": "shishi-formula-shishi-0052-1",
+    "herbId": "当归",
+    "roleText": "反用熟地",
+    "sourceSentence": "此方乃治心之惊与不寐耳，宜用参、苓、当归，麦冬足矣，即或为火起不寐，加黄连亦足矣，何以反用熟地、山茱萸补肾之药，又加肉桂以助火",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0052-1__熟地黄__rule__1",
+    "formulaId": "shishi-formula-shishi-0052-1",
+    "herbId": "熟地黄",
+    "roleText": "补肾",
+    "sourceSentence": "今用熟地，山茱萸以补肾，则肾气有根，自然上通于心矣",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0052-1__山茱萸__rule__2",
+    "formulaId": "shishi-formula-shishi-0052-1",
+    "herbId": "山茱萸",
+    "roleText": "补肾",
+    "sourceSentence": "今用熟地，山茱萸以补肾，则肾气有根，自然上通于心矣",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0052-1__肉桂__rule__3",
+    "formulaId": "shishi-formula-shishi-0052-1",
+    "herbId": "肉桂",
+    "roleText": "补命门之火",
+    "sourceSentence": "肉桂以补命门之火，则肾气既温，相火有权，则心气下行，君火相得，自然上下同心，君臣合德矣",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0054-1__玄参__rule__0",
+    "formulaId": "shishi-formula-shishi-0054-1",
+    "herbId": "玄参",
+    "roleText": "生阴血",
+    "sourceSentence": "此方妙在用熟地、元参、当归以生阴血，少加麻仁，大黄以润肠下行",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0054-1__当归__rule__1",
+    "formulaId": "shishi-formula-shishi-0054-1",
+    "herbId": "当归",
+    "roleText": "生阴血",
+    "sourceSentence": "此方妙在用熟地、元参、当归以生阴血，少加麻仁，大黄以润肠下行",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0054-3__鳖甲__rule__0",
+    "formulaId": "shishi-formula-shishi-0054-3",
+    "herbId": "鳖甲",
+    "roleText": "入阴分",
+    "sourceSentence": "此方妙在熟地、山茱萸、当归之品以补阴血，加人参、白术以健脾，加鳖甲以入阴分，加何首乌以补阴气，加半夏、柴胡，少少去其痰与邪，则正气有余，邪自退舍",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0054-3__何首乌__rule__1",
+    "formulaId": "shishi-formula-shishi-0054-3",
+    "herbId": "何首乌",
+    "roleText": "补阴气",
+    "sourceSentence": "此方妙在熟地、山茱萸、当归之品以补阴血，加人参、白术以健脾，加鳖甲以入阴分，加何首乌以补阴气，加半夏、柴胡，少少去其痰与邪，则正气有余，邪自退舍",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0057-2__石膏__rule__0",
+    "formulaId": "shishi-formula-shishi-0057-2",
+    "herbId": "石膏",
+    "roleText": "平泻其胃中之邪火",
+    "sourceSentence": "用石膏以平泻其胃中之邪火，邪火一去，胃气始转，水能下行，不蓄停于膀胱之内，而散逸于四肢",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0057-2__黄连__rule__1",
+    "formulaId": "shishi-formula-shishi-0057-2",
+    "herbId": "黄连",
+    "roleText": "救心",
+    "sourceSentence": "又虑火气伤心，复加黄连以救心",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0057-2__人参__rule__2",
+    "formulaId": "shishi-formula-shishi-0057-2",
+    "herbId": "人参",
+    "roleText": "救肺",
+    "sourceSentence": "人参以救肺",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0059-2__熟地黄__rule__0",
+    "formulaId": "shishi-formula-shishi-0059-2",
+    "herbId": "熟地黄",
+    "roleText": "济火",
+    "sourceSentence": "方中妙在用熟地、山茱萸之类，使足以济火",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0061-1__玄参__rule__0",
+    "formulaId": "shishi-formula-shishi-0061-1",
+    "herbId": "玄参",
+    "roleText": "泻肾中浮游之火",
+    "sourceSentence": "此方妙在用元参以泻肾中浮游之火，尤妙肉桂三分，引其入宅，而招散其沸越之火，同气相求，火自回合",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0065-1__桑叶__rule__0",
+    "formulaId": "shishi-formula-shishi-0065-1",
+    "herbId": "桑叶",
+    "roleText": "补阴而生血",
+    "sourceSentence": "此方妙在用桑叶以补阴而生血，又妙加入茜草，则血得活而益生，又况济之熟地、麦冬、当归，大剂以共生之，则血足色润而筋舒也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0071-1__甘草__rule__0",
+    "formulaId": "shishi-formula-shishi-0071-1",
+    "herbId": "甘草",
+    "roleText": "和中",
+    "sourceSentence": "少加甘草以和中，则无过烈之患",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0071-2__人参__rule__0",
+    "formulaId": "shishi-formula-shishi-0071-2",
+    "herbId": "人参",
+    "roleText": "补气",
+    "sourceSentence": "第大泻之后，自然亡阴，又用人参以补气，则气足而阴自生",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0071-2__甘草__rule__1",
+    "formulaId": "shishi-formula-shishi-0071-2",
+    "herbId": "甘草",
+    "roleText": "和之",
+    "sourceSentence": "又虑久泻自然亏中，又加甘草以和之",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0071-3__熟地黄__rule__0",
+    "formulaId": "shishi-formula-shishi-0071-3",
+    "herbId": "熟地黄",
+    "roleText": "生新血",
+    "sourceSentence": "方中妙在用熟地、当归、芍药以生新血，新血生则旧血必去",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0071-3__当归__rule__1",
+    "formulaId": "shishi-formula-shishi-0071-3",
+    "herbId": "当归",
+    "roleText": "生新血",
+    "sourceSentence": "方中妙在用熟地、当归、芍药以生新血，新血生则旧血必去",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0071-3__白芍__rule__2",
+    "formulaId": "shishi-formula-shishi-0071-3",
+    "herbId": "白芍",
+    "roleText": "生新血",
+    "sourceSentence": "方中妙在用熟地、当归、芍药以生新血，新血生则旧血必去",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0078-1__麦芽__rule__0",
+    "formulaId": "shishi-formula-shishi-0078-1",
+    "herbId": "麦芽",
+    "roleText": "又加白术与白芍",
+    "sourceSentence": "论理，胸中既然伤食，但用麦芽、浓朴、山楂、枳壳消之足矣，何以又加白术与白芍？盖伤食而食不能化，所以结在心胸，以致作痛，若徒消食而不健脾胃之气，则土亏而物难速腐",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0078-1__厚朴__rule__1",
+    "formulaId": "shishi-formula-shishi-0078-1",
+    "herbId": "厚朴",
+    "roleText": "又加白术与白芍",
+    "sourceSentence": "论理，胸中既然伤食，但用麦芽、浓朴、山楂、枳壳消之足矣，何以又加白术与白芍？盖伤食而食不能化，所以结在心胸，以致作痛，若徒消食而不健脾胃之气，则土亏而物难速腐",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0078-1__山楂__rule__2",
+    "formulaId": "shishi-formula-shishi-0078-1",
+    "herbId": "山楂",
+    "roleText": "又加白术与白芍",
+    "sourceSentence": "论理，胸中既然伤食，但用麦芽、浓朴、山楂、枳壳消之足矣，何以又加白术与白芍？盖伤食而食不能化，所以结在心胸，以致作痛，若徒消食而不健脾胃之气，则土亏而物难速腐",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0078-1__白术__rule__3",
+    "formulaId": "shishi-formula-shishi-0078-1",
+    "herbId": "白术",
+    "roleText": "健其胃口之气",
+    "sourceSentence": "故必用白术以健其胃口之气，以生其脾内之阴，则土气有余，何难消食",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0078-1__白芍__rule__4",
+    "formulaId": "shishi-formula-shishi-0078-1",
+    "herbId": "白芍",
+    "roleText": "平肝木",
+    "sourceSentence": "然而心胸饱闷，则肝经乘我之困，来侵脾胃之土，又加白芍以平肝木，则木弱而脾胃之土自安，自可顺还以化糟粕矣",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0078-2__柴胡__rule__0",
+    "formulaId": "shishi-formula-shishi-0078-2",
+    "herbId": "柴胡",
+    "roleText": "舒其肝经之邪气",
+    "sourceSentence": "尤妙仍用柴胡，以舒其肝经之邪气",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0086-1__白术__rule__0",
+    "formulaId": "shishi-formula-shishi-0086-1",
+    "herbId": "白术",
+    "roleText": "健土去湿而利腰脐",
+    "sourceSentence": "盖人之脾气健，而皮毛腠理始得开合自如，今用白术以健土去湿而利腰脐，邪已难于久住，况有防风、荆芥、苏叶之品，尽散外邪，何敢再居营卫，又有甘草从中调治，则邪不必攻而自散矣",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0089-2__大黄__rule__0",
+    "formulaId": "shishi-formula-shishi-0089-2",
+    "herbId": "大黄",
+    "roleText": "利之也",
+    "sourceSentence": "既已火泻，何反助其威？不知火泻之症，乃火留于肠胃之间，若不因势利导，则火不去而水不流，故必用大黄以利之也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0089-4__泽泻__rule__0",
+    "formulaId": "shishi-formula-shishi-0089-4",
+    "herbId": "泽泻",
+    "roleText": "分消其水势乎",
+    "sourceSentence": "况又有猪苓、泽泻以分消其水势乎，自然大便实而寒邪去也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0108-1__牛膝__rule__0",
+    "formulaId": "shishi-formula-shishi-0108-1",
+    "herbId": "牛膝",
+    "roleText": "坚膝胫",
+    "sourceSentence": "肾水一生，则胃火自然息焰，况又有麦冬以清肺气，牛膝以坚膝胫，故以此方长治之，则痿废之状可免",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0122-3__肉桂__rule__0",
+    "formulaId": "shishi-formula-shishi-0122-3",
+    "herbId": "肉桂",
+    "roleText": "入肝",
+    "sourceSentence": "又妙在用肉桂以入肝，如人得勇往之人，自然顷刻胆壮矣",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0125-3__附子__rule__0",
+    "formulaId": "shishi-formula-shishi-0125-3",
+    "herbId": "附子",
+    "roleText": "热之",
+    "sourceSentence": "又不应，乃改用桂枝、白果、肉桂、附子、干姜、吴茱萸之类以热之",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0129-2__五味子__rule__0",
+    "formulaId": "shishi-formula-shishi-0129-2",
+    "herbId": "五味子",
+    "roleText": "养肺金",
+    "sourceSentence": "此方即四物汤也，妙在全是阴经之药，又加之麦冬、五味以养肺金",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0131-1__香薷__rule__0",
+    "formulaId": "shishi-formula-shishi-0131-1",
+    "herbId": "香薷",
+    "roleText": "追热",
+    "sourceSentence": "方中况有白术以健脾，香薷以追热，又用之咸宜乎",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0139-1__栀子__rule__0",
+    "formulaId": "shishi-formula-shishi-0139-1",
+    "herbId": "栀子",
+    "roleText": "清火",
+    "sourceSentence": "方中用栀子以清火，用薏仁以去湿，故虽治肝经之一经，而诸经无不奏效也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0151-1__白术__rule__0",
+    "formulaId": "shishi-formula-shishi-0151-1",
+    "herbId": "白术",
+    "roleText": "利腰脐",
+    "sourceSentence": "此方妙在用白术以利腰脐，用熟地以固根本，药品少而功用专，所以取效神也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0160-1__柴胡__rule__0",
+    "formulaId": "shishi-formula-shishi-0160-1",
+    "herbId": "柴胡",
+    "roleText": "发之",
+    "sourceSentence": "此方妙在补气补血之药，而略用柴胡、荆芥以发之",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0161-1__柴胡__rule__0",
+    "formulaId": "shishi-formula-shishi-0161-1",
+    "herbId": "柴胡",
+    "roleText": "舒散之",
+    "sourceSentence": "何以又用柴胡以舒散之？不知筋乃肝之余，肝气不顺，筋乃缩急，甚而伛偻",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0165-2__五味子__rule__0",
+    "formulaId": "shishi-formula-shishi-0165-2",
+    "herbId": "五味子",
+    "roleText": "收汗",
+    "sourceSentence": "况方中加五味子以收汗，加桑叶以止汗，有不相得益彰者乎",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0167-2__地粟粉__rule__0",
+    "formulaId": "shishi-formula-shishi-0167-2",
+    "herbId": "地粟粉",
+    "roleText": "攻邪",
+    "sourceSentence": "尤妙用地粟粉，佐鳖甲以攻邪，又不耗散真气",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0169-4__白芍__rule__0",
+    "formulaId": "shishi-formula-shishi-0169-4",
+    "herbId": "白芍",
+    "roleText": "清肝木之火",
+    "sourceSentence": "更妙用白芍、栀子以清肝木之火，火去而木衰，此善于抑之也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0173-1__麦冬__rule__0",
+    "formulaId": "shishi-formula-shishi-0173-1",
+    "herbId": "麦冬",
+    "roleText": "平肺金之气",
+    "sourceSentence": "又加麦冬以平肺金之气，则金有水润，不必取给于胃土，而胃土可以自救，况又有石膏、知母之降火哉",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0184-4__茯神__rule__0",
+    "formulaId": "shishi-formula-shishi-0184-4",
+    "herbId": "茯神",
+    "roleText": "安其心",
+    "sourceSentence": "盖甘草消毒，人参、茯神以安其心，白矾以止其鸣，金银花以解其火热，故易于奏功也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0184-4__白矾__rule__1",
+    "formulaId": "shishi-formula-shishi-0184-4",
+    "herbId": "白矾",
+    "roleText": "止其鸣",
+    "sourceSentence": "盖甘草消毒，人参、茯神以安其心，白矾以止其鸣，金银花以解其火热，故易于奏功也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0184-4__金银花__rule__2",
+    "formulaId": "shishi-formula-shishi-0184-4",
+    "herbId": "金银花",
+    "roleText": "解其火热",
+    "sourceSentence": "盖甘草消毒，人参、茯神以安其心，白矾以止其鸣，金银花以解其火热，故易于奏功也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0196-5__人参__rule__0",
+    "formulaId": "shishi-formula-shishi-0196-5",
+    "herbId": "人参",
+    "roleText": "治心",
+    "sourceSentence": "故用人参以治心，加附子、菖蒲、肉桂温中以祛邪，加柴胡舒肝平木，加南星、鬼箭、半夏逐痰荡邪，加丹砂定魂镇魄，自然邪气少而正气多也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0205-1__大黄__rule__0",
+    "formulaId": "shishi-formula-shishi-0205-1",
+    "herbId": "大黄",
+    "roleText": "荡涤胸腹之邪",
+    "sourceSentence": "此方之妙，用大黄以荡涤胸腹之邪，用荆芥、柴胡以散其半表半里之邪气，用天花粉以消痰去结，用石膏以逐其胃中之火，用芍药以平肝木，不使来克脾气，则正气自存，而邪气自出",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-7__黄檗__rule__0",
     "formulaId": "shishi-formula-shishi-0215-7",
+    "herbId": "黄檗",
+    "roleText": "去火",
+    "sourceSentence": "小儿之疳，皆虚热也，用黄柏以去火，人参以健脾土也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-9__白芍__rule__0",
+    "formulaId": "shishi-formula-shishi-0215-9",
+    "herbId": "白芍",
+    "roleText": "平肝",
+    "sourceSentence": "车前、茯苓、泽泻，猪苓，皆止泻分水之圣药，白芍以平肝，使不来克脾，黄连清心火，不来助脾之热，而麦芽、枳壳消滞气以通水道，不必止泻，泻自止也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-10__干姜__rule__0",
+    "formulaId": "shishi-formula-shishi-0215-10",
+    "herbId": "干姜",
+    "roleText": "祛寒",
+    "sourceSentence": "此方参、苓、白术乃健脾补气之神品，分湿利水之圣药也，又加肉桂、干姜以祛寒，砂仁、甘草、神曲以调和之，则寒风自然越出，而泄泻立止矣",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-10__神曲__rule__1",
+    "formulaId": "shishi-formula-shishi-0215-10",
+    "herbId": "神曲",
+    "roleText": "调和之",
+    "sourceSentence": "此方参、苓、白术乃健脾补气之神品，分湿利水之圣药也，又加肉桂、干姜以祛寒，砂仁、甘草、神曲以调和之，则寒风自然越出，而泄泻立止矣",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-12__人参__rule__0",
+    "formulaId": "shishi-formula-shishi-0215-12",
+    "herbId": "人参",
+    "roleText": "追其散失",
+    "sourceSentence": "此方用人参、附子，回元阳于顷刻，以追其散失，祛其阴寒之气，用白术，茯苓以分消水湿，而仍固其元阳",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-12__附子__rule__1",
+    "formulaId": "shishi-formula-shishi-0215-12",
+    "herbId": "附子",
+    "roleText": "追其散失",
+    "sourceSentence": "此方用人参、附子，回元阳于顷刻，以追其散失，祛其阴寒之气，用白术，茯苓以分消水湿，而仍固其元阳",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-14__人参__rule__0",
+    "formulaId": "shishi-formula-shishi-0215-14",
+    "herbId": "人参",
+    "roleText": "救绝",
+    "sourceSentence": "此方用人参以救绝，用白术、茯神以分消水湿而止下利",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-14__肉桂__rule__1",
+    "formulaId": "shishi-formula-shishi-0215-14",
+    "herbId": "肉桂",
+    "roleText": "温中而去寒",
+    "sourceSentence": "又用肉桂以温中而去寒，加枣仁以安心而解躁，用之得宜，自然奏功如响也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-18__当归__rule__0",
+    "formulaId": "shishi-formula-shishi-0215-18",
+    "herbId": "当归",
+    "roleText": "补血",
+    "sourceSentence": "盖少阴之邪，敢上侵于心者，欺心中之无血也，用当归以补血，助人参之力以援心，则心中有养，而肉桂",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-18__人参__rule__1",
+    "formulaId": "shishi-formula-shishi-0215-18",
+    "herbId": "人参",
+    "roleText": "回元气于无何有之乡",
+    "sourceSentence": "我用人参以回元气于无何有之乡，用当归以生血于败瘀未复之后，用附子以祛除外来之邪",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-18__人参__rule__2",
+    "formulaId": "shishi-formula-shishi-0215-18",
+    "herbId": "人参",
+    "roleText": "生新",
+    "sourceSentence": "用参，归补气血以生新，则旧血可止，旧血止而新血益生，自然有血以养心，厥可定而心可安，躁可释也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-18__人参__rule__3",
+    "formulaId": "shishi-formula-shishi-0215-18",
+    "herbId": "人参",
+    "roleText": "救其亡阳之脱",
+    "sourceSentence": "吾以黄连平其心火，石膏除其胃火，而大加人参以救其亡阳之脱，庶几火散而正气独存，神存而外邪皆失也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-19__白术__rule__0",
+    "formulaId": "shishi-formula-shishi-0215-19",
+    "herbId": "白术",
+    "roleText": "健脾胃之气",
+    "sourceSentence": "尤妙少用白术以健脾胃之气，则暑热退而胃气不伤，胜于香薷饮多矣",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-19__茯苓__rule__1",
+    "formulaId": "shishi-formula-shishi-0215-19",
+    "herbId": "茯苓",
+    "roleText": "解湿热",
+    "sourceSentence": "吾用茯苓、薏仁、车前大剂为君，分消水湿，仍是健脾固气之药，少用茵陈以解湿热，用肉桂引入膀胱，尽从小便而出",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-19__白术__rule__2",
+    "formulaId": "shishi-formula-shishi-0215-19",
+    "herbId": "白术",
+    "roleText": "消湿热",
+    "sourceSentence": "此方妙在用白术、茯苓、薏仁之多，使健脾又复利水，助茵陈、栀子以消湿热，尽从膀胱内消，不必又去退皮肤之湿，而皮肤之湿自消",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-19__茯苓__rule__3",
+    "formulaId": "shishi-formula-shishi-0215-19",
+    "herbId": "茯苓",
+    "roleText": "消湿热",
+    "sourceSentence": "此方妙在用白术、茯苓、薏仁之多，使健脾又复利水，助茵陈、栀子以消湿热，尽从膀胱内消，不必又去退皮肤之湿，而皮肤之湿自消",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-20__人参__rule__0",
+    "formulaId": "shishi-formula-shishi-0215-20",
+    "herbId": "人参",
+    "roleText": "健脾",
+    "sourceSentence": "此方用人参、山药生胃以健脾、归、芍平肝以生血，麦冬以生肺气，元参、炒栀子清火去风，兼且解燥，内热既除，外症牵掣自愈，死症可望生也",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-20__人参__rule__1",
+    "formulaId": "shishi-formula-shishi-0215-20",
+    "herbId": "人参",
+    "roleText": "救脱",
+    "sourceSentence": "人参以救脱",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-20__五味子__rule__2",
+    "formulaId": "shishi-formula-shishi-0215-20",
+    "herbId": "五味子",
+    "roleText": "止脱",
+    "sourceSentence": "此方大用参、 ，补元阳于无何有之乡，加熟地、麦冬以生精，加五味以止脱，加附子温经以走经络",
+    "method": "rule",
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-23__荆芥__rule__0",
+    "formulaId": "shishi-formula-shishi-0215-23",
     "herbId": "荆芥",
-    "roleText": "奏功甚速",
-    "sourceSentence": "方中芍药多用之妙，竟去平肝，又能舒气，荆芥、柴胡皆引血归经之味，又适是开郁宽胁之剂，所以奏功甚速，而止血实神，全非用当归补血之故，当归不过佐芍药以成功耳",
+    "roleText": "逐瘀",
+    "sourceSentence": "尤妙用荆芥、防风，引黄、当归之补气血，生新以逐瘀",
     "method": "rule",
     "reviewStatus": "ai-draft"
   },
@@ -2416,6 +3235,28 @@
     "roleText": "疏肝",
     "mechanism": "解肝之郁与逆",
     "sourceSentence": "道遥散最能解肝之郁与逆",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0002-1__茵陈__llm",
+    "formulaId": "funvke-formula-funvke-0002-1",
+    "herbId": "茵陈",
+    "roleText": "利湿",
+    "mechanism": "利湿",
+    "sourceSentence": "而又益之以茵陈之利湿，栀子之清热",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0002-1__栀子__llm",
+    "formulaId": "funvke-formula-funvke-0002-1",
+    "herbId": "栀子",
+    "roleText": "清热",
+    "mechanism": "清热",
+    "sourceSentence": "而又益之以茵陈之利湿，栀子之清热",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -2581,6 +3422,17 @@
     "roleText": "利湿",
     "mechanism": "利水",
     "sourceSentence": "佐白亢以辅土，茯苓以渗湿，车前以利水",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0005-1__白芍__llm",
+    "formulaId": "funvke-formula-funvke-0005-1",
+    "herbId": "白芍",
+    "roleText": "平肝",
+    "mechanism": "平肝则肝气舒，不尅土",
+    "sourceSentence": "不知用芍药以平肝，则肝气行得舒，肝气舒自不尅土",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -2861,6 +3713,17 @@
     "model": "grok-4.5"
   },
   {
+    "id": "funvke-formula-funvke-0009-1__车前子__llm",
+    "formulaId": "funvke-formula-funvke-0009-1",
+    "herbId": "车前子",
+    "roleText": "利湿",
+    "mechanism": "利水与窍",
+    "sourceSentence": "加入茯苓、车前以利水与窍，水利则血管亦利",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "funvke-formula-funvke-0009-1__黄檗__llm",
     "formulaId": "funvke-formula-funvke-0009-1",
     "herbId": "黄檗",
@@ -2878,6 +3741,17 @@
     "roleText": "活血",
     "mechanism": "引败血出于血管之内",
     "sourceSentence": "芥穗引败血出于血管之内",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0009-1__黑姜__llm",
+    "formulaId": "funvke-formula-funvke-0009-1",
+    "herbId": "黑姜",
+    "roleText": "止血",
+    "mechanism": "止血管之口",
+    "sourceSentence": "黑姜以止血管之口",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -3021,6 +3895,28 @@
     "roleText": "清热",
     "mechanism": "使子宫清凉而血海自固",
     "sourceSentence": "潜移默夺，子宫清凉，而血海自固",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0013-1__雷丸__llm",
+    "formulaId": "funvke-formula-funvke-0013-1",
+    "herbId": "雷丸",
+    "roleText": "其他",
+    "mechanism": "祛秽",
+    "sourceSentence": "此方用雷丸以祛秽，又得大黄之扫除",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0013-1__大黄__llm",
+    "formulaId": "funvke-formula-funvke-0013-1",
+    "herbId": "大黄",
+    "roleText": "化瘀",
+    "mechanism": "扫除",
+    "sourceSentence": "此方用雷丸以祛秽，又得大黄之扫除",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -3213,6 +4109,17 @@
     "model": "grok-4.5"
   },
   {
+    "id": "funvke-formula-funvke-0016-1__肉桂__llm",
+    "formulaId": "funvke-formula-funvke-0016-1",
+    "herbId": "肉桂",
+    "roleText": "散寒",
+    "mechanism": "祛其寒",
+    "sourceSentence": "加肉桂以祛其寒，柴胡以解其郁",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "funvke-formula-funvke-0016-1__柴胡__llm",
     "formulaId": "funvke-formula-funvke-0016-1",
     "herbId": "柴胡",
@@ -3378,6 +4285,17 @@
     "model": "grok-4.5"
   },
   {
+    "id": "funvke-formula-funvke-0020-1__白芍__llm",
+    "formulaId": "funvke-formula-funvke-0020-1",
+    "herbId": "白芍",
+    "roleText": "疏肝",
+    "mechanism": "宣肝经之风郁",
+    "sourceSentence": "用柴胡、白芍、丹皮以宣肝经之风郁",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "funvke-formula-funvke-0020-1__当归__llm",
     "formulaId": "funvke-formula-funvke-0020-1",
     "herbId": "当归",
@@ -3400,6 +4318,28 @@
     "model": "grok-4.5"
   },
   {
+    "id": "funvke-formula-funvke-0020-1__柴胡__llm",
+    "formulaId": "funvke-formula-funvke-0020-1",
+    "herbId": "柴胡",
+    "roleText": "疏肝",
+    "mechanism": "宣肝经之风郁",
+    "sourceSentence": "用柴胡、白芍、丹皮以宣肝经之风郁",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0020-1__牡丹皮__llm",
+    "formulaId": "funvke-formula-funvke-0020-1",
+    "herbId": "牡丹皮",
+    "roleText": "清热",
+    "mechanism": "宣肝经之风郁",
+    "sourceSentence": "用柴胡、白芍、丹皮以宣肝经之风郁",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "funvke-formula-funvke-0020-1__甘草__llm",
     "formulaId": "funvke-formula-funvke-0020-1",
     "herbId": "甘草",
@@ -3414,6 +4354,17 @@
     "id": "funvke-formula-funvke-0020-1__白术__llm",
     "formulaId": "funvke-formula-funvke-0020-1",
     "herbId": "白术",
+    "roleText": "利腰脐",
+    "mechanism": "利腰脐而和腹疼",
+    "sourceSentence": "用甘草．白术，元胡以利腰脐而和腹疼",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0020-1__延胡索__llm",
+    "formulaId": "funvke-formula-funvke-0020-1",
+    "herbId": "延胡索",
     "roleText": "利腰脐",
     "mechanism": "利腰脐而和腹疼",
     "sourceSentence": "用甘草．白术，元胡以利腰脐而和腹疼",
@@ -3659,6 +4610,28 @@
     "roleText": "利腰脐",
     "mechanism": "利腰脐之气",
     "sourceSentence": "此方君白术以利腰脐之气",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0024-1__巴戟肉__llm",
+    "formulaId": "funvke-formula-funvke-0024-1",
+    "herbId": "巴戟肉",
+    "roleText": "补阳",
+    "mechanism": "通任脉",
+    "sourceSentence": "用巴戟、白果以通任脉",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0024-1__白果__llm",
+    "formulaId": "funvke-formula-funvke-0024-1",
+    "herbId": "白果",
+    "roleText": "固涩",
+    "mechanism": "通任脉",
+    "sourceSentence": "用巴戟、白果以通任脉",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -5083,12 +6056,56 @@
     "model": "grok-4.5"
   },
   {
+    "id": "funvke-formula-funvke-0046-1__人参__llm",
+    "formulaId": "funvke-formula-funvke-0046-1",
+    "herbId": "人参",
+    "roleText": "补气",
+    "mechanism": "补阳气，气旺则血有依",
+    "sourceSentence": "此方用人参以补阳气，用黄芩以泄阴火",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "funvke-formula-funvke-0046-1__黄芩__llm",
     "formulaId": "funvke-formula-funvke-0046-1",
     "herbId": "黄芩",
     "roleText": "泻火",
     "mechanism": "泄阴火，火泄则血不热",
     "sourceSentence": "用黄芩以泄阴火。火泄则血不热而无欲动之机",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0047-1__人参__llm",
+    "formulaId": "funvke-formula-funvke-0047-1",
+    "herbId": "人参",
+    "roleText": "补气",
+    "mechanism": "补肺气，使胞胎之气亦旺",
+    "sourceSentence": "此方用人参、黄耆、麦冬以补肺气，使肺气旺，则胞胎之气亦旺",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0047-1__黄芪__llm",
+    "formulaId": "funvke-formula-funvke-0047-1",
+    "herbId": "黄芪",
+    "roleText": "补气",
+    "mechanism": "补肺气，使胞胎之气亦旺",
+    "sourceSentence": "此方用人参、黄耆、麦冬以补肺气，使肺气旺，则胞胎之气亦旺",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0047-1__麦冬__llm",
+    "formulaId": "funvke-formula-funvke-0047-1",
+    "herbId": "麦冬",
+    "roleText": "补阴",
+    "mechanism": "补肺气",
+    "sourceSentence": "此方用人参、黄耆、麦冬以补肺气，使肺气旺，则胞胎之气亦旺",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -5325,12 +6342,78 @@
     "model": "grok-4.5"
   },
   {
+    "id": "funvke-formula-funvke-0052-1__人参__llm",
+    "formulaId": "funvke-formula-funvke-0052-1",
+    "herbId": "人参",
+    "roleText": "补气",
+    "mechanism": "补气，气旺则血可摄",
+    "sourceSentence": "此方用人参、黄耆以补气，气旺则血可摄也",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0052-1__黄芪__llm",
+    "formulaId": "funvke-formula-funvke-0052-1",
+    "herbId": "黄芪",
+    "roleText": "补气",
+    "mechanism": "补气，气旺则血可摄",
+    "sourceSentence": "用人参、黄耆以补气，气旺则血可摄也",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0052-1__当归__llm",
+    "formulaId": "funvke-formula-funvke-0052-1",
+    "herbId": "当归",
+    "roleText": "补血",
+    "mechanism": "生血，血生则瘀难留",
+    "sourceSentence": "用当归，丹皮以生血，血生则瘀难留也",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0052-1__牡丹皮__llm",
+    "formulaId": "funvke-formula-funvke-0052-1",
+    "herbId": "牡丹皮",
+    "roleText": "活血",
+    "mechanism": "生血，血生则瘀难留",
+    "sourceSentence": "用当归，丹皮以生血，血生则瘀难留也",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0052-1__红花__llm",
+    "formulaId": "funvke-formula-funvke-0052-1",
+    "herbId": "红花",
+    "roleText": "活血",
+    "mechanism": "活血，血活则晕可除",
+    "sourceSentence": "用红花、黑姜以活血，血活则晕可除也",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "funvke-formula-funvke-0052-1__姜炭__llm",
     "formulaId": "funvke-formula-funvke-0052-1",
     "herbId": "姜炭",
     "roleText": "活血",
     "mechanism": "活血，血活则晕可除",
     "sourceSentence": "用红花、黑姜以活血，血活则晕可除也",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0052-1__茯苓__llm",
+    "formulaId": "funvke-formula-funvke-0052-1",
+    "herbId": "茯苓",
+    "roleText": "利湿",
+    "mechanism": "利水，水利则血易归经",
+    "sourceSentence": "用茯苓以利水，水利则血易归经也",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -5435,6 +6518,17 @@
     "model": "grok-4.5"
   },
   {
+    "id": "funvke-formula-funvke-0057-1__人参__llm",
+    "formulaId": "funvke-formula-funvke-0057-1",
+    "herbId": "人参",
+    "roleText": "补气",
+    "mechanism": "补气",
+    "sourceSentence": "此方用人参以补气",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "funvke-formula-funvke-0057-1__川芎__llm",
     "formulaId": "funvke-formula-funvke-0057-1",
     "herbId": "川芎",
@@ -5474,6 +6568,17 @@
     "roleText": "降逆",
     "mechanism": "降下",
     "sourceSentence": "牛膝以降下",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0057-1__柞木枝__llm",
+    "formulaId": "funvke-formula-funvke-0057-1",
+    "herbId": "柞木枝",
+    "roleText": "其他",
+    "mechanism": "开关解骨",
+    "sourceSentence": "柞木枝以开关解骨",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -5677,6 +6782,17 @@
     "model": "grok-4.5"
   },
   {
+    "id": "funvke-formula-funvke-0063-1__当归__llm",
+    "formulaId": "funvke-formula-funvke-0063-1",
+    "herbId": "当归",
+    "roleText": "补血",
+    "mechanism": "补血使血旺而养气",
+    "sourceSentence": "用当归以补血，使血旺而养气也",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "funvke-formula-funvke-0063-1__荆芥穗__llm",
     "formulaId": "funvke-formula-funvke-0063-1",
     "herbId": "荆芥穗",
@@ -5702,6 +6818,17 @@
     "id": "funvke-formula-funvke-0065-1__当归__llm",
     "formulaId": "funvke-formula-funvke-0065-1",
     "herbId": "当归",
+    "roleText": "补血",
+    "mechanism": "养血",
+    "sourceSentence": "此方用芎、归以养血",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0065-1__川芎__llm",
+    "formulaId": "funvke-formula-funvke-0065-1",
+    "herbId": "川芎",
     "roleText": "补血",
     "mechanism": "养血",
     "sourceSentence": "此方用芎、归以养血",
@@ -5798,6 +6925,39 @@
     "model": "grok-4.5"
   },
   {
+    "id": "funvke-formula-funvke-0068-1__人参__llm",
+    "formulaId": "funvke-formula-funvke-0068-1",
+    "herbId": "人参",
+    "roleText": "补阳",
+    "mechanism": "接续元阳",
+    "sourceSentence": "此方用人参以接续元阳",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0068-1__熟地黄__llm",
+    "formulaId": "funvke-formula-funvke-0068-1",
+    "herbId": "熟地黄",
+    "roleText": "益肾",
+    "mechanism": "大补肝肾之精",
+    "sourceSentence": "所以又用熟地、山萸、枸杞之类，以大补其肝肾之精",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0068-1__山萸__llm",
+    "formulaId": "funvke-formula-funvke-0068-1",
+    "herbId": "山萸",
+    "roleText": "益肾",
+    "mechanism": "大补肝肾之精",
+    "sourceSentence": "所以又用熟地、山萸、枸杞之类，以大补其肝肾之精",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "funvke-formula-funvke-0068-1__枸杞子__llm",
     "formulaId": "funvke-formula-funvke-0068-1",
     "herbId": "枸杞子",
@@ -5815,6 +6975,17 @@
     "roleText": "补阳",
     "mechanism": "补命门之火，助人参以生气，运化地黄以化精生血",
     "sourceSentence": "又加肉桂以补命门之火，使火气有根，助人参以生气，且能运化地黄之类，以化精生血",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "funvke-formula-funvke-0068-1__荆芥穗__llm",
+    "formulaId": "funvke-formula-funvke-0068-1",
+    "herbId": "荆芥穗",
+    "roleText": "引经",
+    "mechanism": "引血归经",
+    "sourceSentence": "更加荆芥以引血归经，则肺气安而喘速定",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -8185,6 +9356,28 @@
     "model": "grok-4.5"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0011-2__石膏__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0011-2",
+    "herbId": "石膏",
+    "roleText": "清热",
+    "mechanism": "治阳明之火",
+    "sourceSentence": "此方用石膏、玄参以治阳明之火",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0011-2__玄参__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0011-2",
+    "herbId": "玄参",
+    "roleText": "清热",
+    "mechanism": "治阳明之火",
+    "sourceSentence": "此方用石膏、玄参以治阳明之火",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0011-2__麦冬__llm",
     "formulaId": "bianzheng-formula-bianzheng-0011-2",
     "herbId": "麦冬",
@@ -8614,6 +9807,17 @@
     "model": "grok-4.5"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0020-5__人参__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0020-5",
+    "herbId": "人参",
+    "roleText": "补气",
+    "mechanism": "补气",
+    "sourceSentence": "乃用参、以补气",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0020-5__白术__llm",
     "formulaId": "bianzheng-formula-bianzheng-0020-5",
     "herbId": "白术",
@@ -8653,6 +9857,17 @@
     "roleText": "利湿",
     "mechanism": "逐其已成之痰",
     "sourceSentence": "更加半夏、薏仁，以逐其已成之痰",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0020-5__肉桂__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0020-5",
+    "herbId": "肉桂",
+    "roleText": "补阳",
+    "mechanism": "补其命门之火",
+    "sourceSentence": "增入肉桂以补其命门之火",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -8878,9 +10093,31 @@
     "model": "grok-4.5"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0027-2__玄参__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0027-2",
+    "herbId": "玄参",
+    "roleText": "清热",
+    "mechanism": "解阳明之火，退肺金之炎",
+    "sourceSentence": "方中用玄参、菊花、生地、麦冬解其阳明之火，而更退其肺金之炎者",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0027-2__甘菊花__llm",
     "formulaId": "bianzheng-formula-bianzheng-0027-2",
     "herbId": "甘菊花",
+    "roleText": "清热",
+    "mechanism": "解阳明之火，退肺金之炎",
+    "sourceSentence": "方中用玄参、菊花、生地、麦冬解其阳明之火，而更退其肺金之炎者",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0027-2__生地黄__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0027-2",
+    "herbId": "生地黄",
     "roleText": "清热",
     "mechanism": "解阳明之火，退肺金之炎",
     "sourceSentence": "方中用玄参、菊花、生地、麦冬解其阳明之火，而更退其肺金之炎者",
@@ -8895,6 +10132,17 @@
     "roleText": "清热",
     "mechanism": "解阳明之火，退肺金之炎",
     "sourceSentence": "方中用玄参、菊花、生地、麦冬解其阳明之火，而更退其肺金之炎者",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0027-2__升麻__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0027-2",
+    "herbId": "升麻",
+    "roleText": "升提",
+    "mechanism": "导热出外",
+    "sourceSentence": "故又多用升麻、荆芥导之出外",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -9252,6 +10500,39 @@
     "model": "grok-4.5"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0036-4__香附__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0036-4",
+    "herbId": "香附",
+    "roleText": "解郁",
+    "mechanism": "开郁",
+    "sourceSentence": "益之柴胡、香附以开郁",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0036-4__白芥子__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0036-4",
+    "herbId": "白芥子",
+    "roleText": "化痰",
+    "mechanism": "消痰",
+    "sourceSentence": "白芥子以消痰",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0036-4__甘草__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0036-4",
+    "herbId": "甘草",
+    "roleText": "调和",
+    "mechanism": "调和其滞气",
+    "sourceSentence": "甘草以调和其滞气",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0036-5__柴胡__llm",
     "formulaId": "bianzheng-formula-bianzheng-0036-5",
     "herbId": "柴胡",
@@ -9335,6 +10616,17 @@
     "roleText": "温中",
     "mechanism": "自暖其脾胃",
     "sourceSentence": "肉豆蔻复自暖其脾胃",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0037-2__人参__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0037-2",
+    "herbId": "人参",
+    "roleText": "补气",
+    "mechanism": "为君，以升其阳气",
+    "sourceSentence": "方中用人参、白术为君，以升其阳气",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -9923,6 +11215,28 @@
     "model": "grok-4.5"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0055-3__白芍__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0055-3",
+    "herbId": "白芍",
+    "roleText": "养肝",
+    "mechanism": "补肝",
+    "sourceSentence": "加之当归、白芍以补肝",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0055-3__熟地黄__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0055-3",
+    "herbId": "熟地黄",
+    "roleText": "益肾",
+    "mechanism": "滋肾",
+    "sourceSentence": "熟地以滋肾",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0055-3__麦冬__llm",
     "formulaId": "bianzheng-formula-bianzheng-0055-3",
     "herbId": "麦冬",
@@ -9949,6 +11263,17 @@
     "formulaId": "bianzheng-formula-bianzheng-0055-3",
     "herbId": "石菖蒲",
     "roleText": "其他",
+    "mechanism": "舒其风火",
+    "sourceSentence": "佐之甘菊、菖蒲、柴胡以舒其风火",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0055-3__柴胡__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0055-3",
+    "herbId": "柴胡",
+    "roleText": "疏肝",
     "mechanism": "舒其风火",
     "sourceSentence": "佐之甘菊、菖蒲、柴胡以舒其风火",
     "method": "llm",
@@ -10583,6 +11908,17 @@
     "model": "grok-4.5"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0078-3__人参__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0078-3",
+    "herbId": "人参",
+    "roleText": "补气",
+    "mechanism": "与耆术补气以衰痰势",
+    "sourceSentence": "吾用人参、、术以补其气，而痰之势衰矣",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0078-3__黄__llm",
     "formulaId": "bianzheng-formula-bianzheng-0078-3",
     "herbId": "黄",
@@ -10616,12 +11952,45 @@
     "model": "grok-4.5"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0078-3__薏苡仁__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0078-3",
+    "herbId": "薏苡仁",
+    "roleText": "利湿",
+    "mechanism": "利湿",
+    "sourceSentence": "况益之茯苓、薏仁以利湿",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0078-3__半夏__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0078-3",
+    "herbId": "半夏",
+    "roleText": "化痰",
+    "mechanism": "消痰",
+    "sourceSentence": "半夏以消痰",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0078-3__防风__llm",
     "formulaId": "bianzheng-formula-bianzheng-0078-3",
     "herbId": "防风",
     "roleText": "解表",
     "mechanism": "去风",
     "sourceSentence": "防风、羌活以去风",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0078-3__桂枝__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0078-3",
+    "herbId": "桂枝",
+    "roleText": "散寒",
+    "mechanism": "逐邪",
+    "sourceSentence": "桂枝以逐邪",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -11012,17 +12381,6 @@
     "model": "grok-4.5"
   },
   {
-    "id": "bianzheng-formula-bianzheng-0097-1__山茱萸__llm",
-    "formulaId": "bianzheng-formula-bianzheng-0097-1",
-    "herbId": "山茱萸",
-    "roleText": "益肾",
-    "mechanism": "补药相益以交心肾",
-    "sourceSentence": "得熟地、人参、白术、山萸以相益",
-    "method": "llm",
-    "reviewStatus": "ai-draft",
-    "model": "grok-4.5"
-  },
-  {
     "id": "bianzheng-formula-bianzheng-0097-3__熟地黄__llm",
     "formulaId": "bianzheng-formula-bianzheng-0097-3",
     "herbId": "熟地黄",
@@ -11139,6 +12497,17 @@
     "roleText": "化痰",
     "mechanism": "逐其败浊",
     "sourceSentence": "益之半夏以逐其败浊",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0104-2__白薇__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0104-2",
+    "herbId": "白薇",
+    "roleText": "安神",
+    "mechanism": "收其神魂",
+    "sourceSentence": "白薇以收其神魂",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -11540,9 +12909,31 @@
     "model": "grok-4.5"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0129-2__枳壳__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0129-2",
+    "herbId": "枳壳",
+    "roleText": "消食",
+    "mechanism": "消食",
+    "sourceSentence": "得萝卜子、枳壳以消食",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0129-2__半夏__llm",
     "formulaId": "bianzheng-formula-bianzheng-0129-2",
     "herbId": "半夏",
+    "roleText": "化痰",
+    "mechanism": "荡痰",
+    "sourceSentence": "得半夏、天花粉以荡痰",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0129-2__天花粉__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0129-2",
+    "herbId": "天花粉",
     "roleText": "化痰",
     "mechanism": "荡痰",
     "sourceSentence": "得半夏、天花粉以荡痰",
@@ -11566,6 +12957,17 @@
     "formulaId": "bianzheng-formula-bianzheng-0129-2",
     "herbId": "人参",
     "roleText": "补气",
+    "mechanism": "调和以防吐伤气",
+    "sourceSentence": "又加入人参、甘草以调和之，使胃气无损",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0129-2__甘草__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0129-2",
+    "herbId": "甘草",
+    "roleText": "调和",
     "mechanism": "调和以防吐伤气",
     "sourceSentence": "又加入人参、甘草以调和之，使胃气无损",
     "method": "llm",
@@ -11683,9 +13085,31 @@
     "model": "grok-4.5"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0131-2__茯苓__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0131-2",
+    "herbId": "茯苓",
+    "roleText": "健脾",
+    "mechanism": "健其脾土",
+    "sourceSentence": "方中白术、茯苓以健其脾土",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0131-2__麦冬__llm",
     "formulaId": "bianzheng-formula-bianzheng-0131-2",
     "herbId": "麦冬",
+    "roleText": "润燥",
+    "mechanism": "益其肺金",
+    "sourceSentence": "麦冬、苏子以益其肺金",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0131-2__紫苏子__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0131-2",
+    "herbId": "紫苏子",
     "roleText": "润燥",
     "mechanism": "益其肺金",
     "sourceSentence": "麦冬、苏子以益其肺金",
@@ -11708,6 +13132,17 @@
     "id": "bianzheng-formula-bianzheng-0131-2__山药__llm",
     "formulaId": "bianzheng-formula-bianzheng-0131-2",
     "herbId": "山药",
+    "roleText": "益肾",
+    "mechanism": "滋其肾水",
+    "sourceSentence": "熟地、山药、芡实以滋其肾水",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0131-2__芡实__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0131-2",
+    "herbId": "芡实",
     "roleText": "益肾",
     "mechanism": "滋其肾水",
     "sourceSentence": "熟地、山药、芡实以滋其肾水",
@@ -11788,6 +13223,28 @@
     "roleText": "化痰",
     "mechanism": "消痰",
     "sourceSentence": "加之白芥子以消痰",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0137-2__茯苓__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0137-2",
+    "herbId": "茯苓",
+    "roleText": "利湿",
+    "mechanism": "去湿使痰无党",
+    "sourceSentence": "方中所以多用茯苓、白术以辅助柴胡、白芍者，正此意也",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0137-2__白术__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0137-2",
+    "herbId": "白术",
+    "roleText": "健脾",
+    "mechanism": "去湿辅助柴芍",
+    "sourceSentence": "方中所以多用茯苓、白术以辅助柴胡、白芍者，正此意也",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -12145,6 +13602,17 @@
     "model": "grok-4.5"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0147-3__生地黄__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0147-3",
+    "herbId": "生地黄",
+    "roleText": "清热",
+    "mechanism": "解胃中炎热",
+    "sourceSentence": "此方玄参、生地以解其胃中之炎热，泻之中仍是补之味",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0147-3__青蒿__llm",
     "formulaId": "bianzheng-formula-bianzheng-0147-3",
     "herbId": "青蒿",
@@ -12338,6 +13806,17 @@
     "roleText": "健脾",
     "mechanism": "补阳气以祛邪",
     "sourceSentence": "今用参、、归、术以补阳气",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0157-2__人参__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0157-2",
+    "herbId": "人参",
+    "roleText": "补气",
+    "mechanism": "补气",
+    "sourceSentence": "用参、、归、术以补气",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -12698,6 +14177,17 @@
     "id": "bianzheng-formula-bianzheng-0167-4__柴胡__llm",
     "formulaId": "bianzheng-formula-bianzheng-0167-4",
     "herbId": "柴胡",
+    "roleText": "疏肝",
+    "mechanism": "大舒肝中郁气",
+    "sourceSentence": "所以加入柴胡、白芍以大舒其肝中之郁气",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0167-4__白芍__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0167-4",
+    "herbId": "白芍",
     "roleText": "疏肝",
     "mechanism": "大舒肝中郁气",
     "sourceSentence": "所以加入柴胡、白芍以大舒其肝中之郁气",
@@ -13086,6 +14576,39 @@
     "roleText": "润燥",
     "mechanism": "补肺",
     "sourceSentence": "加麦冬、五味以补肺",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0180-2__五味子__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0180-2",
+    "herbId": "五味子",
+    "roleText": "固涩",
+    "mechanism": "补肺",
+    "sourceSentence": "加麦冬、五味以补肺",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0180-4__熟地黄__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0180-4",
+    "herbId": "熟地黄",
+    "roleText": "补阴",
+    "mechanism": "大补肾中之阴",
+    "sourceSentence": "此方用熟地、沙参以大补其肾中之阴",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0180-4__北沙参__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0180-4",
+    "herbId": "北沙参",
+    "roleText": "补阴",
+    "mechanism": "大补肾中之阴",
+    "sourceSentence": "此方用熟地、沙参以大补其肾中之阴",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -15005,6 +16528,17 @@
     "model": "grok-4.5"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0239-3__白术__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0239-3",
+    "herbId": "白术",
+    "roleText": "健脾",
+    "mechanism": "培土",
+    "sourceSentence": "此方用白术以培土",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0239-3__白芍__llm",
     "formulaId": "bianzheng-formula-bianzheng-0239-3",
     "herbId": "白芍",
@@ -15539,6 +17073,17 @@
     "roleText": "补血",
     "mechanism": "与参术同用升举",
     "sourceSentence": "妙在用柴胡、升麻于参、术、、归之内",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0262-4__肉桂__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0262-4",
+    "herbId": "肉桂",
+    "roleText": "补阳",
+    "mechanism": "助其热，因命门之火衰",
+    "sourceSentence": "并且用肉桂以助其热者，以湿之不行，由于命门之火衰也",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -17007,6 +18552,17 @@
     "model": "grok-4.5"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0333-3__参芦__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0333-3",
+    "herbId": "参芦",
+    "roleText": "补气",
+    "mechanism": "扶胃土",
+    "sourceSentence": "用参芦以扶胃土",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0333-3__白芍__llm",
     "formulaId": "bianzheng-formula-bianzheng-0333-3",
     "herbId": "白芍",
@@ -17343,6 +18899,28 @@
     "roleText": "解表",
     "mechanism": "发散",
     "sourceSentence": "葱能发散",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0360-1__金银花__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0360-1",
+    "herbId": "金银花",
+    "roleText": "解毒",
+    "mechanism": "解毒",
+    "sourceSentence": "此方用金银花、生甘草以解其毒",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0360-1__生甘草__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0360-1",
+    "herbId": "生甘草",
+    "roleText": "解毒",
+    "mechanism": "解毒",
+    "sourceSentence": "此方用金银花、生甘草以解其毒",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -18701,6 +20279,61 @@
     "model": "grok-4.5"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0391-4__柴胡__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0391-4",
+    "herbId": "柴胡",
+    "roleText": "解郁",
+    "mechanism": "宣扬风郁",
+    "sourceSentence": "用柴胡、白芍、丹皮以宣扬风郁",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0391-4__白芍__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0391-4",
+    "herbId": "白芍",
+    "roleText": "解郁",
+    "mechanism": "宣扬风郁",
+    "sourceSentence": "用柴胡、白芍、丹皮以宣扬风郁",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0391-4__牡丹皮__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0391-4",
+    "herbId": "牡丹皮",
+    "roleText": "解郁",
+    "mechanism": "宣扬风郁",
+    "sourceSentence": "用柴胡、白芍、丹皮以宣扬风郁",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0391-4__甘草__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0391-4",
+    "herbId": "甘草",
+    "roleText": "利腰脐",
+    "mechanism": "利腰脐以和腹痛",
+    "sourceSentence": "用甘草、白术、延胡利腰脐以和腹痛",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0391-4__白术__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0391-4",
+    "herbId": "白术",
+    "roleText": "利腰脐",
+    "mechanism": "利腰脐以和腹痛",
+    "sourceSentence": "用甘草、白术、延胡利腰脐以和腹痛",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0391-4__延胡索__llm",
     "formulaId": "bianzheng-formula-bianzheng-0391-4",
     "herbId": "延胡索",
@@ -18965,6 +20598,17 @@
     "model": "grok-4.5"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0405-4__人参__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0405-4",
+    "herbId": "人参",
+    "roleText": "补气",
+    "mechanism": "补阳气",
+    "sourceSentence": "此方用人参以补阳气",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0405-4__黄芩__llm",
     "formulaId": "bianzheng-formula-bianzheng-0405-4",
     "herbId": "黄芩",
@@ -19031,12 +20675,78 @@
     "model": "grok-4.5"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0409-2__人参__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0409-2",
+    "herbId": "人参",
+    "roleText": "补气",
+    "mechanism": "补气，气旺而血可摄",
+    "sourceSentence": "此方用人参、黄以补气，气旺而血可摄也",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0409-2__黄__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0409-2",
+    "herbId": "黄",
+    "roleText": "补气",
+    "mechanism": "补气，气旺而血可摄",
+    "sourceSentence": "此方用人参、黄以补气，气旺而血可摄也",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0409-2__当归__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0409-2",
+    "herbId": "当归",
+    "roleText": "补血",
+    "mechanism": "补血，血生而瘀难留",
+    "sourceSentence": "用当归、丹皮以补血，血生而瘀难留也",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0409-2__牡丹皮__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0409-2",
+    "herbId": "牡丹皮",
+    "roleText": "补血",
+    "mechanism": "补血，血生而瘀难留",
+    "sourceSentence": "用当归、丹皮以补血，血生而瘀难留也",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0409-2__红花__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0409-2",
+    "herbId": "红花",
+    "roleText": "活血",
+    "mechanism": "活血，血活而晕可除",
+    "sourceSentence": "用红花、黑姜以活血，血活而晕可除也",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0409-2__炒黑干姜__llm",
     "formulaId": "bianzheng-formula-bianzheng-0409-2",
     "herbId": "炒黑干姜",
     "roleText": "活血",
     "mechanism": "活血，血活而晕可除",
     "sourceSentence": "用红花、黑姜以活血，血活而晕可除也",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0409-2__茯苓__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0409-2",
+    "herbId": "茯苓",
+    "roleText": "利湿",
+    "mechanism": "利水，水流而血易归经",
+    "sourceSentence": "用茯苓以利水，水流而血易归经也",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -19141,9 +20851,31 @@
     "model": "grok-4.5"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0413-2__人参__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0413-2",
+    "herbId": "人参",
+    "roleText": "补气",
+    "mechanism": "补气",
+    "sourceSentence": "此方用人参补气",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0413-2__当归__llm",
     "formulaId": "bianzheng-formula-bianzheng-0413-2",
     "herbId": "当归",
+    "roleText": "补血",
+    "mechanism": "补血",
+    "sourceSentence": "用归、芎补血",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0413-2__川芎__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0413-2",
+    "herbId": "川芎",
     "roleText": "补血",
     "mechanism": "补血",
     "sourceSentence": "用归、芎补血",
@@ -19169,6 +20901,17 @@
     "roleText": "其他",
     "mechanism": "下降",
     "sourceSentence": "用牛膝下降",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0413-2__柞木枝__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0413-2",
+    "herbId": "柞木枝",
+    "roleText": "其他",
+    "mechanism": "开关",
+    "sourceSentence": "用柞木开关",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"
@@ -19471,6 +21214,17 @@
     "model": "grok-4.5"
   },
   {
+    "id": "bianzheng-formula-bianzheng-0433-1__黄__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0433-1",
+    "herbId": "黄",
+    "roleText": "补气",
+    "mechanism": "补气使幽阴之毒不敢入心肺",
+    "sourceSentence": "用人参、黄以补气，气旺则幽阴之毒不敢入心肺之间",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "bianzheng-formula-bianzheng-0433-1__金银花__llm",
     "formulaId": "bianzheng-formula-bianzheng-0433-1",
     "herbId": "金银花",
@@ -19662,6 +21416,17 @@
     "formulaId": "bianzheng-formula-bianzheng-0442-2",
     "herbId": "麦冬",
     "roleText": "补阴",
+    "mechanism": "补脾胃之土",
+    "sourceSentence": "加人参、麦冬、黄以补脾胃之土",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "bianzheng-formula-bianzheng-0442-2__黄__llm",
+    "formulaId": "bianzheng-formula-bianzheng-0442-2",
+    "herbId": "黄",
+    "roleText": "补气",
     "mechanism": "补脾胃之土",
     "sourceSentence": "加人参、麦冬、黄以补脾胃之土",
     "method": "llm",
@@ -21099,6 +22864,17 @@
     "model": "grok-4.5"
   },
   {
+    "id": "shishi-formula-shishi-0215-1__茯苓__llm",
+    "formulaId": "shishi-formula-shishi-0215-1",
+    "herbId": "茯苓",
+    "roleText": "利湿",
+    "mechanism": "止泻分水",
+    "sourceSentence": "车前、茯苓、泽泻，猪苓，皆止泻分水之圣药",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
     "id": "shishi-formula-shishi-0215-1__黄连__llm",
     "formulaId": "shishi-formula-shishi-0215-1",
     "herbId": "黄连",
@@ -21127,6 +22903,17 @@
     "roleText": "平肝",
     "mechanism": "平肝又能舒气",
     "sourceSentence": "方中芍药多用之妙，竟去平肝，又能舒气",
+    "method": "llm",
+    "reviewStatus": "ai-draft",
+    "model": "grok-4.5"
+  },
+  {
+    "id": "shishi-formula-shishi-0215-7__荆芥__llm",
+    "formulaId": "shishi-formula-shishi-0215-7",
+    "herbId": "荆芥",
+    "roleText": "引经",
+    "mechanism": "引血归经，开郁宽胁",
+    "sourceSentence": "荆芥、柴胡皆引血归经之味，又适是开郁宽胁之剂",
     "method": "llm",
     "reviewStatus": "ai-draft",
     "model": "grok-4.5"

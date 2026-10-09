@@ -1,0 +1,103 @@
+[
+  {
+    "id": "organ.膀胱",
+    "type": "organ",
+    "prefLabel": "膀胱",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.大肠",
+    "type": "organ",
+    "prefLabel": "大肠",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.胆",
+    "type": "organ",
+    "prefLabel": "胆",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.肺",
+    "type": "organ",
+    "prefLabel": "肺",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.肝",
+    "type": "organ",
+    "prefLabel": "肝",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.命门",
+    "type": "organ",
+    "prefLabel": "命门",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.脾",
+    "type": "organ",
+    "prefLabel": "脾",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.三焦",
+    "type": "organ",
+    "prefLabel": "三焦",
+    "altLabels": [],
+    "schoolNotes": [
+      {
+        "school": "jingfang",
+        "note": "《伤寒》《金匮》中三焦多指决渎水道与气化通路。"
+      },
+      {
+        "school": "chenfu",
+        "note": "陈士铎常以相火/命门联系论三焦，与温病三焦辨证不宜混并。"
+      }
+    ],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.肾",
+    "type": "organ",
+    "prefLabel": "肾",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.胃",
+    "type": "organ",
+    "prefLabel": "胃",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.小肠",
+    "type": "organ",
+    "prefLabel": "小肠",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.心",
+    "type": "organ",
+    "prefLabel": "心",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "organ.心包",
+    "type": "organ",
+    "prefLabel": "心包",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  }
+]

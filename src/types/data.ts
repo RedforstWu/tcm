@@ -1,43 +1,87 @@
-export type BookId =
-  | 'songben'
-  | 'jingui'
-  | 'guilin'
-  | 'bianzheng'
-  | 'shishi'
+export type Corpus =
+  | 'jingfang'
+  | 'chenfu'
   | 'bencao'
-  | 'funvke'
-  | 'funanke'
-
-export type Corpus = 'jingfang' | 'chenfu'
+  | 'wenbing'
+  | 'jinyuan'
+  | 'mingqing'
+  | 'yian'
+  | 'modern'
+  | 'fangshu'
 
 export type ReviewStatus = 'ai-draft' | 'reviewed'
 
-export type DoseSystem = 'han' | 'qing'
+/** 独立来源组：「互证」须来自两个不同组 */
+export type SourceGroup = 'wikisource' | 'kanripo' | 'web-simplified' | 'derived'
 
-export const BOOK_CORPUS: Record<BookId, Corpus> = {
-  songben: 'jingfang',
-  jingui: 'jingfang',
-  guilin: 'jingfang',
-  bianzheng: 'chenfu',
-  shishi: 'chenfu',
-  bencao: 'chenfu',
-  funvke: 'chenfu',
-  funanke: 'chenfu',
+/** single：仅一个来源；corroborated：两个不同组来源一致；disputed：来源冲突待人工 */
+export type EvidenceLevel = 'single' | 'corroborated' | 'disputed'
+
+export interface Evidence {
+  /** 如 `kanripo:KR3e0007@SBCK`、`shanghan-kb@<commit>`、`jobkoko@<commit>` */
+  sourceId: string
+  group: SourceGroup
+  /** 如 `KR3e0007_SBCK_001-1a`、`01_条文/太阳病/条文-012.md` */
+  locator: string
+  quote?: string
+  license: string
+  /** 以下为交叉比对证据的元数据（构建合并 data/integration/evidence 时写入） */
+  field?: EvidenceField
+  verdict?: EvidenceVerdict
+  /** 0..1 文本相似度 */
+  ratio?: number
+  /** 仅 verdict=variant；未授权来源组默认不发布 */
+  variants?: EvidenceVariantSegment[]
+  /** 未授权来源组默认不发布 */
+  note?: string
 }
 
-export const CHENFU_BOOKS: BookId[] = [
-  'bianzheng',
-  'shishi',
-  'bencao',
-  'funvke',
-  'funanke',
-]
+/** 与 scripts/lib/integration-contract.ts 的 EvidenceField 一致 */
+export type EvidenceField =
+  | 'text'
+  | 'herbs'
+  | 'doses'
+  | 'preparation'
+  | 'formulaLink'
+  | 'quote'
+  | 'kangpingLayer'
 
-export const JINGFANG_BOOKS: BookId[] = ['songben', 'jingui', 'guilin']
+/** missing 表示见证本中找不到该段，不参与判级 */
+export type EvidenceVerdict = 'agree' | 'variant' | 'mismatch' | 'missing'
+
+export interface EvidenceVariantSegment {
+  op: 'equal' | 'insert' | 'delete' | 'replace'
+  local: string
+  witness: string
+}
+
+export type DoseSystem = 'han' | 'qing'
+
+export type {
+  BookId,
+  BookMeta,
+} from './books.generated'
+
+export {
+  BOOKS,
+  BOOK_BY_ID,
+  BOOK_CORPUS,
+  JINGFANG_BOOKS,
+  CHENFU_BOOKS,
+  CLAUSE_BOOKS,
+} from './books.generated'
+
+import type { BookId } from './books.generated'
 
 export interface Misjudgment {
   commonView: string
   trueView: string
+}
+
+export interface Mention {
+  surface: string
+  conceptId: string
+  offset?: number
 }
 
 export interface Clause {
@@ -52,6 +96,9 @@ export interface Clause {
   pulseTags: string[]
   channelTags: string[]
   pathogenesisTags: string[]
+  /** 规范概念 id（与 tags 的 prefLabel 对应） */
+  conceptIds?: string[]
+  mentions?: Mention[]
   reviewStatus: ReviewStatus
   alignedGuilinId?: string
   variants?: TextVariant[]
@@ -61,6 +108,10 @@ export interface Clause {
   misjudgment?: Misjudgment
   /** 陈傅：女科/辨证录等对照条目 */
   parallelIds?: string[]
+  /** 康平本分层：原文 / 追文 / 注文 */
+  kangpingLayer?: '原文' | '追文' | '注文'
+  evidence?: Evidence[]
+  evidenceLevel?: EvidenceLevel
 }
 
 export interface TextVariant {
@@ -111,6 +162,10 @@ export interface Formula {
   derivedFrom?: DerivedFrom[]
   fangjie?: string
   anonymous?: boolean
+  evidence?: Evidence[]
+  evidenceLevel?: EvidenceLevel
+  /** 原书无组成、药味由他书同名方回填时，记录供药方剂 id */
+  herbsBackfilledFrom?: string
 }
 
 export interface Herb {
@@ -196,7 +251,7 @@ export interface HerbMonograph {
   summary: string
   qa: HerbMonographQa[]
   rawText: string
-  sourceBook: 'bencao'
+  sourceBook: BookId
 }
 
 export interface CrossLink {
@@ -275,7 +330,7 @@ export interface ReasoningIndication {
 }
 
 export interface ReasoningClauseRef {
-  book: 'songben' | 'jingui'
+  book: BookId
   number: number
   excerpt: string
 }

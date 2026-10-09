@@ -6,7 +6,15 @@ import {
   extractBencaoHerbNames,
 } from '../lib/herb-lexicon.ts'
 import { ensureDir, projectRoot, readText, writeJson } from '../lib/fs-utils.ts'
+import { listWikiHeadings, splitHeadingUnits } from '../lib/generic-wiki-parse.ts'
 import { toSimplifiedChinese } from '../lib/wiki.ts'
+
+const MAX_CLAUSE_TEXT_LENGTH = 2000
+/** 门外小节正文短于此不单列（与则的最短长度一致） */
+const MIN_SECTION_BODY_LENGTH = 30
+/** splitHeadingUnits 的条文级：取不存在的级别，使每个带正文的标题都成小节 */
+const NO_CLAUSE_HEADING_LEVEL = 0
+const DOOR_TITLE_RE = /门/
 
 function extractMisjudgment(text: string): Clause['misjudgment'] | undefined {
   const simplified = toSimplifiedChinese(text)
@@ -44,12 +52,18 @@ export async function runBianzhengParse(): Promise<{
   const clauses: Clause[] = []
   const formulas: Formula[] = []
 
-  // 切门
+  // 切门：门内正文止于下一个任意级标题（下一门、== 卷 ==、== 跋 ==），标题行不得并入末则
   const doorRe = /^===\s*(.+?门[^=\n]*)\s*===\s*$/gm
-  const doors: Array<{ title: string; index: number }> = []
+  const headingStarts = listWikiHeadings(text).map((heading) => heading.start)
+  const doors: Array<{ title: string; index: number; bodyEnd: number }> = []
   let match: RegExpExecArray | null
   while ((match = doorRe.exec(text)) !== null) {
-    doors.push({ title: match[1]!.trim(), index: match.index + match[0].length })
+    const index = match.index + match[0].length
+    doors.push({
+      title: match[1]!.trim(),
+      index,
+      bodyEnd: headingStarts.find((start) => start >= index) ?? text.length,
+    })
   }
 
   // 卷
@@ -128,12 +142,7 @@ export async function runBianzhengParse(): Promise<{
 
   for (let di = 0; di < doors.length; di += 1) {
     const door = doors[di]!
-    const doorEnd = di + 1 < doors.length ? doors[di + 1]!.index : text.length
-    // 去掉下一门标题前的内容
-    let doorBody = text.slice(door.index, doorEnd)
-    // 截到下一个 == 卷
-    const nextJuan = doorBody.search(/\n==\s*卷/)
-    if (nextJuan > 0) doorBody = doorBody.slice(0, nextJuan)
+    const doorBody = text.slice(door.index, door.bodyEnd)
 
     const doorTitle = door.title.replace(/（[^）]+）/g, '').trim()
     const juan = juanAt(door.index)
@@ -177,7 +186,7 @@ export async function runBianzhengParse(): Promise<{
         chapter: `${juan}·${doorTitle}`,
         chapterOrder: di + 1,
         order: ci + 1,
-        text: body.slice(0, 2000),
+        text: body.slice(0, MAX_CLAUSE_TEXT_LENGTH),
         formulaIds,
         symptomTags: [],
         pulseTags: [],
@@ -188,6 +197,31 @@ export async function runBianzhengParse(): Promise<{
         misjudgment: extractMisjudgment(body),
       })
     }
+  }
+
+  // 首门之后、门外自带正文的小节（== 跋 ==）：原先并在末门末则里，现单列并排在所有门之后，不挤占既有 id。
+  // 首门之前的序、凡例向来不入条文，保持不变。
+  const firstDoorIndex = doors[0]?.index ?? text.length
+  const nonDoorSections = splitHeadingUnits(text, NO_CLAUSE_HEADING_LEVEL, MIN_SECTION_BODY_LENGTH).filter(
+    (unit) => unit.start > firstDoorIndex && !DOOR_TITLE_RE.test(unit.title),
+  )
+  for (let si = 0; si < nonDoorSections.length; si += 1) {
+    const section = nonDoorSections[si]!
+    clauses.push({
+      id: `bianzheng-${String(clauses.length + 1).padStart(4, '0')}`,
+      book: 'bianzheng',
+      chapter: section.title,
+      chapterOrder: doors.length + si + 1,
+      order: 1,
+      text: section.body.slice(0, MAX_CLAUSE_TEXT_LENGTH),
+      formulaIds: [],
+      symptomTags: [],
+      pulseTags: [],
+      channelTags: [],
+      pathogenesisTags: [],
+      reviewStatus: 'ai-draft',
+      heading: section.title,
+    })
   }
 
   const outDir = path.join(root, 'data', 'parsed')

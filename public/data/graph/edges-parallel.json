@@ -1,0 +1,46 @@
+[
+  {
+    "id": "parallel:funvke-0015->bianzheng-0388",
+    "type": "parallel",
+    "from": "funvke-0015",
+    "to": "bianzheng-0388",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.428
+    }
+  },
+  {
+    "id": "parallel:funvke-0067->bianzheng-0421",
+    "type": "parallel",
+    "from": "funvke-0067",
+    "to": "bianzheng-0421",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.434
+    }
+  },
+  {
+    "id": "parallel:funanke-0042->shishi-0066",
+    "type": "parallel",
+    "from": "funanke-0042",
+    "to": "shishi-0066",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.525
+    }
+  },
+  {
+    "id": "parallel:funanke-0073->shishi-0116",
+    "type": "parallel",
+    "from": "funanke-0073",
+    "to": "shishi-0116",
+    "method": "rule",
+    "reviewStatus": "ai-draft",
+    "attributes": {
+      "score": 0.474
+    }
+  }
+]

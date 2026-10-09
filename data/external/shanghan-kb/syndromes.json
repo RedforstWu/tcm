@@ -1,0 +1,541 @@
+[
+  {
+    "name": "厥阴寒厥证",
+    "sixChannel": "厥阴病",
+    "nature": [
+      "里",
+      "虚",
+      "寒凝经脉"
+    ],
+    "mainFormulas": [
+      "当归四逆汤"
+    ],
+    "clauseNumbers": [
+      351
+    ],
+    "mainSymptoms": [
+      "手足厥寒"
+    ],
+    "tongueAndPulse": {
+      "pulse": "细欲绝",
+      "tongue": "淡白"
+    },
+    "differentials": [
+      {
+        "target": "厥阴蛔厥证",
+        "note": "厥阴寒厥证以手足厥寒、脉细欲绝为主；厥阴蛔厥证兼吐蛔、时烦、得食而呕。"
+      }
+    ],
+    "definition": "营血不足，寒凝经脉，四末失温，故见手足厥寒、脉细欲绝之当归四逆汤证。",
+    "locator": "04_证型/厥阴病/厥阴寒厥证.md"
+  },
+  {
+    "name": "厥阴蛔厥证",
+    "sixChannel": "厥阴病",
+    "nature": [
+      "寒热错杂",
+      "上热下寒",
+      "虫扰"
+    ],
+    "mainFormulas": [
+      "乌梅丸"
+    ],
+    "clauseNumbers": [
+      338
+    ],
+    "mainSymptoms": [
+      "厥",
+      "吐蛔",
+      "时烦",
+      "得食而呕",
+      "久利"
+    ],
+    "tongueAndPulse": {
+      "pulse": "微",
+      "tongue": "苔杂或上热下寒之象"
+    },
+    "differentials": [
+      {
+        "target": "厥阴寒厥证",
+        "note": "厥阴蛔厥证有吐蛔、时烦、得食而呕的虫扰特征；厥阴寒厥证以手足厥寒、脉细欲绝为主。"
+      }
+    ],
+    "definition": "厥阴病上热下寒，蛔虫内扰，故见厥逆、吐蛔、时烦、得食而呕。",
+    "locator": "04_证型/厥阴病/厥阴蛔厥证.md"
+  },
+  {
+    "name": "厥阴热利证",
+    "sixChannel": "厥阴病",
+    "nature": [
+      "里",
+      "热",
+      "湿热下迫"
+    ],
+    "mainFormulas": [
+      "白头翁汤"
+    ],
+    "clauseNumbers": [
+      371,
+      372
+    ],
+    "mainSymptoms": [
+      "下利",
+      "下重",
+      "欲饮水"
+    ],
+    "tongueAndPulse": {
+      "pulse": "数或滑数",
+      "tongue": "红苔黄腻"
+    },
+    "differentials": [
+      {
+        "target": "太阴虚寒证",
+        "note": "厥阴热利证为热利下重，或渴欲饮水；太阴虚寒证为自利不渴，腹满时痛，属里虚寒。"
+      }
+    ],
+    "definition": "热邪下注于肠，迫津下利，故见热利下重、或下利欲饮水之白头翁汤证。",
+    "locator": "04_证型/厥阴病/厥阴热利证.md"
+  },
+  {
+    "name": "少阳枢机不利证",
+    "sixChannel": "少阳病",
+    "nature": [
+      "半表半里",
+      "郁",
+      "枢机不利"
+    ],
+    "mainFormulas": [
+      "小柴胡汤"
+    ],
+    "clauseNumbers": [
+      96,
+      266
+    ],
+    "mainSymptoms": [
+      "往来寒热",
+      "胸胁苦满",
+      "默默不欲饮食",
+      "心烦喜呕"
+    ],
+    "tongueAndPulse": {
+      "pulse": "弦",
+      "tongue": "苔薄白或薄黄"
+    },
+    "differentials": [
+      {
+        "target": "太阳结胸证",
+        "note": "少阳枢机不利证以往来寒热、胸胁苦满、喜呕为主；太阳结胸证以心下痛、按之石硬为主。"
+      }
+    ],
+    "definition": "邪在半表半里，少阳枢机失和，故见往来寒热、胸胁苦满、心烦喜呕等小柴胡汤证。",
+    "locator": "04_证型/少阳病/少阳枢机不利证.md"
+  },
+  {
+    "name": "少阴表寒证",
+    "sixChannel": "少阴病",
+    "nature": [
+      "表里",
+      "阳虚",
+      "寒"
+    ],
+    "mainFormulas": [
+      "麻黄附子甘草汤"
+    ],
+    "clauseNumbers": [
+      302
+    ],
+    "mainSymptoms": [
+      "身无大热",
+      "少阴病二三日"
+    ],
+    "tongueAndPulse": {
+      "pulse": "沉微",
+      "tongue": "苔白"
+    },
+    "differentials": [
+      {
+        "target": "太阳伤寒证",
+        "note": "少阴表寒证见脉沉微、身无大热、治宜微汗；太阳伤寒证属表实，发热身痛更著，脉多浮紧。"
+      }
+    ],
+    "definition": "少阴病初起，阳虚而外感寒邪，表证仍在，但里证未成，故宜微发其汗。",
+    "locator": "04_证型/少阴病/少阴表寒证.md"
+  },
+  {
+    "name": "少阴寒化证",
+    "sixChannel": "少阴病",
+    "nature": [
+      "里",
+      "虚",
+      "寒"
+    ],
+    "mainFormulas": [
+      "附子汤"
+    ],
+    "clauseNumbers": [
+      304,
+      305
+    ],
+    "mainSymptoms": [
+      "背恶寒",
+      "身体痛",
+      "手足寒",
+      "骨节痛"
+    ],
+    "tongueAndPulse": {
+      "pulse": "沉",
+      "tongue": "淡胖苔白"
+    },
+    "differentials": [
+      {
+        "target": "少阴热化证",
+        "note": "少阴寒化证以背恶寒、手足寒、骨节痛为主；少阴热化证以心烦不得卧、阴虚热扰为主。"
+      }
+    ],
+    "definition": "少阴阳虚，寒从内生，故见背恶寒、手足寒、骨节痛等附子汤证。",
+    "locator": "04_证型/少阴病/少阴寒化证.md"
+  },
+  {
+    "name": "少阴热化证",
+    "sixChannel": "少阴病",
+    "nature": [
+      "里",
+      "虚",
+      "热"
+    ],
+    "mainFormulas": [
+      "黄连阿胶汤"
+    ],
+    "clauseNumbers": [
+      303
+    ],
+    "mainSymptoms": [
+      "心烦",
+      "不得卧"
+    ],
+    "tongueAndPulse": {
+      "pulse": "细数或虚数",
+      "tongue": "红少苔"
+    },
+    "differentials": [
+      {
+        "target": "少阴寒化证",
+        "note": "少阴热化证以心烦不得卧、阴虚热扰为主；少阴寒化证以背恶寒、手足寒、骨节痛为主。"
+      }
+    ],
+    "definition": "少阴阴液不足，虚热内扰，心肾不交，故见心中烦、不得卧之黄连阿胶汤证。",
+    "locator": "04_证型/少阴病/少阴热化证.md"
+  },
+  {
+    "name": "少阴阳虚水泛证",
+    "sixChannel": "少阴病",
+    "nature": [
+      "里",
+      "虚",
+      "水停"
+    ],
+    "mainFormulas": [
+      "真武汤"
+    ],
+    "clauseNumbers": [
+      316
+    ],
+    "mainSymptoms": [
+      "腹痛",
+      "小便不利",
+      "四肢沉重",
+      "下利",
+      "呕",
+      "咳"
+    ],
+    "tongueAndPulse": {
+      "pulse": "沉",
+      "tongue": "淡胖苔白滑"
+    },
+    "differentials": [
+      {
+        "target": "少阴寒化证",
+        "note": "少阴阳虚水泛证以小便不利、四肢沉重、下利、或咳或呕为主；少阴寒化证以背恶寒、骨节痛、手足寒为主。"
+      }
+    ],
+    "definition": "少阴阳虚，水气内停，泛溢肢体与中焦，故见腹痛、小便不利、四肢沉重、下利等真武汤证。",
+    "locator": "04_证型/少阴病/少阴阳虚水泛证.md"
+  },
+  {
+    "name": "太阳结胸证",
+    "sixChannel": "太阳病",
+    "nature": [
+      "里",
+      "实",
+      "水热互结"
+    ],
+    "mainFormulas": [
+      "大陷胸汤"
+    ],
+    "clauseNumbers": [
+      128,
+      134,
+      135,
+      137
+    ],
+    "mainSymptoms": [
+      "心下痛",
+      "按之石硬",
+      "烦躁",
+      "短气"
+    ],
+    "tongueAndPulse": {
+      "pulse": "沉紧或关沉",
+      "tongue": "苔黄或黄厚"
+    },
+    "differentials": [
+      {
+        "target": "少阳枢机不利证",
+        "note": "太阳结胸证以心下硬痛、按之石硬为主；少阳枢机不利证以胸胁苦满、往来寒热、喜呕为主。"
+      }
+    ],
+    "definition": "误下之后，邪热内陷，水热结于胸膈心下，故成结胸。",
+    "locator": "04_证型/太阳病/太阳结胸证.md"
+  },
+  {
+    "name": "太阳伤寒证",
+    "sixChannel": "太阳病",
+    "nature": [
+      "表",
+      "实",
+      "寒"
+    ],
+    "mainFormulas": [
+      "麻黄汤"
+    ],
+    "clauseNumbers": [
+      3,
+      35
+    ],
+    "mainSymptoms": [
+      "恶寒",
+      "发热",
+      "无汗",
+      "身痛",
+      "喘"
+    ],
+    "tongueAndPulse": {
+      "pulse": "浮紧",
+      "tongue": "苔薄白"
+    },
+    "differentials": [
+      {
+        "target": "太阳中风证",
+        "note": "太阳伤寒证以无汗、身疼腰痛、骨节疼痛、脉浮紧为主；太阳中风证以汗出、恶风、脉浮缓为主。"
+      }
+    ],
+    "definition": "风寒束表，卫闭营郁，故见恶寒发热、无汗身痛而喘之麻黄汤证。",
+    "locator": "04_证型/太阳病/太阳伤寒证.md"
+  },
+  {
+    "name": "太阳蓄水证",
+    "sixChannel": "太阳病",
+    "nature": [
+      "表里",
+      "水停",
+      "气化不利"
+    ],
+    "mainFormulas": [
+      "五苓散"
+    ],
+    "clauseNumbers": [
+      71,
+      72,
+      74
+    ],
+    "mainSymptoms": [
+      "小便不利",
+      "烦渴",
+      "消渴",
+      "水逆"
+    ],
+    "tongueAndPulse": {
+      "pulse": "浮",
+      "tongue": "苔白或白滑"
+    },
+    "differentials": [
+      {
+        "target": "阳明经热津伤证",
+        "note": "太阳蓄水证虽渴而小便不利，或水入即吐；阳明经热津伤证以大渴、口干舌燥、热盛伤津为主。"
+      }
+    ],
+    "definition": "太阳病汗后，膀胱气化不利，水饮内停，故见小便不利、烦渴、水逆等五苓散证。",
+    "locator": "04_证型/太阳病/太阳蓄水证.md"
+  },
+  {
+    "name": "太阳蓄血证",
+    "sixChannel": "太阳病",
+    "nature": [
+      "里",
+      "瘀热",
+      "血结下焦"
+    ],
+    "mainFormulas": [
+      "抵当汤"
+    ],
+    "clauseNumbers": [
+      124,
+      125
+    ],
+    "mainSymptoms": [
+      "少腹硬满",
+      "如狂",
+      "发狂",
+      "小便自利"
+    ],
+    "tongueAndPulse": {
+      "pulse": "微沉或沉结",
+      "tongue": "紫暗或有瘀象"
+    },
+    "differentials": [
+      {
+        "target": "太阳蓄水证",
+        "note": "太阳蓄血证重在少腹硬满、如狂或发狂、小便自利；太阳蓄水证重在小便不利、烦渴、水逆。"
+      }
+    ],
+    "definition": "太阳邪热随经入里，与血相结于下焦，故见少腹硬满、如狂发狂、小便自利等瘀热蓄血证。",
+    "locator": "04_证型/太阳病/太阳蓄血证.md"
+  },
+  {
+    "name": "太阳中风证",
+    "sixChannel": "太阳病",
+    "nature": [
+      "表",
+      "虚",
+      "风寒"
+    ],
+    "mainFormulas": [
+      "桂枝汤"
+    ],
+    "clauseNumbers": [
+      12,
+      13
+    ],
+    "mainSymptoms": [
+      "发热",
+      "汗出",
+      "恶风",
+      "鼻鸣",
+      "干呕"
+    ],
+    "tongueAndPulse": {
+      "pulse": "浮缓或阳浮阴弱",
+      "tongue": "苔薄白"
+    },
+    "differentials": [
+      {
+        "target": "太阳伤寒证",
+        "note": "太阳中风证以汗出、恶风、脉浮缓为主；太阳伤寒证以无汗、身痛、脉浮紧为主。"
+      }
+    ],
+    "definition": "太阳表虚，营卫不和，故见发热、汗出、恶风等桂枝汤证。",
+    "locator": "04_证型/太阳病/太阳中风证.md"
+  },
+  {
+    "name": "太阴虚寒证",
+    "sixChannel": "太阴病",
+    "nature": [
+      "里",
+      "虚",
+      "寒"
+    ],
+    "mainFormulas": [
+      "理中汤"
+    ],
+    "clauseNumbers": [
+      273,
+      277
+    ],
+    "mainSymptoms": [
+      "腹满",
+      "自利",
+      "不渴",
+      "腹痛",
+      "食不下"
+    ],
+    "tongueAndPulse": {
+      "pulse": "沉缓或弱",
+      "tongue": "苔白润"
+    },
+    "differentials": [
+      {
+        "target": "阳明腑实证",
+        "note": "太阴虚寒证以下利不渴、腹满时痛、喜温为主；阳明腑实证以腹满拒按、潮热、大便硬为主。"
+      }
+    ],
+    "definition": "脾阳不足，中焦虚寒，故见腹满、食不下、自利不渴、时腹自痛等太阴寒证。",
+    "locator": "04_证型/太阴病/太阴虚寒证.md"
+  },
+  {
+    "name": "阳明腑实证",
+    "sixChannel": "阳明病",
+    "nature": [
+      "里",
+      "实",
+      "热结"
+    ],
+    "mainFormulas": [
+      "大承气汤"
+    ],
+    "clauseNumbers": [
+      208,
+      212
+    ],
+    "mainSymptoms": [
+      "腹满",
+      "潮热",
+      "大便硬",
+      "谵语",
+      "喘"
+    ],
+    "tongueAndPulse": {
+      "pulse": "迟实或沉实",
+      "tongue": "苔黄燥"
+    },
+    "differentials": [
+      {
+        "target": "阳明经热津伤证",
+        "note": "阳明腑实证重在腹满、潮热、大便硬、谵语；阳明经热津伤证重在大渴、口干舌燥而无腑实硬满。"
+      }
+    ],
+    "definition": "阳明邪热内结于腑，燥屎内成，故见腹满、潮热、大便硬、谵语等承气证。",
+    "locator": "04_证型/阳明病/阳明腑实证.md"
+  },
+  {
+    "name": "阳明经热津伤证",
+    "sixChannel": "阳明病",
+    "nature": [
+      "里",
+      "热",
+      "伤津"
+    ],
+    "mainFormulas": [
+      "白虎加人参汤"
+    ],
+    "clauseNumbers": [
+      222
+    ],
+    "mainSymptoms": [
+      "大渴",
+      "口干舌燥",
+      "烦"
+    ],
+    "tongueAndPulse": {
+      "pulse": "洪大",
+      "tongue": "舌燥苔黄"
+    },
+    "differentials": [
+      {
+        "target": "阳明腑实证",
+        "note": "阳明经热津伤证以大渴、口干舌燥、热盛伤津为主；阳明腑实证以腹满、潮热、大便硬、谵语为主。"
+      }
+    ],
+    "definition": "阳明热盛而津液受伤，故见大渴、口干舌燥之白虎加人参汤证。",
+    "locator": "04_证型/阳明病/阳明经热津伤证.md"
+  }
+]

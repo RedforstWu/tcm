@@ -1,0 +1,12 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 新編金匱要畧方論
+#+DATE: 2015-09-11 03:53:33.110000
+#+PROPERTY: ID KR3e0007
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB03n0126-002金匱要略-卷中.
+<pb:KR3e0007_SBCK_002-1a>¶
+新編金匱要畧方論卷之中¶
+　　　五臟風寒積聚病脉證并治第十一¶
+　肺中風者口燥而喘身運而重¶

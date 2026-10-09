@@ -1,0 +1,240 @@
+[
+  {
+    "id": "method.安神",
+    "type": "method",
+    "prefLabel": "安神",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.补气",
+    "type": "method",
+    "prefLabel": "补气",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.补血",
+    "type": "method",
+    "prefLabel": "补血",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.补阳",
+    "type": "method",
+    "prefLabel": "补阳",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.补阴",
+    "type": "method",
+    "prefLabel": "补阴",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.调和",
+    "type": "method",
+    "prefLabel": "调和",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.固涩",
+    "type": "method",
+    "prefLabel": "固涩",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.化痰",
+    "type": "method",
+    "prefLabel": "化痰",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.化瘀",
+    "type": "method",
+    "prefLabel": "化瘀",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.活血",
+    "type": "method",
+    "prefLabel": "活血",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.健脾",
+    "type": "method",
+    "prefLabel": "健脾",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.降逆",
+    "type": "method",
+    "prefLabel": "降逆",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.解表",
+    "type": "method",
+    "prefLabel": "解表",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.解毒",
+    "type": "method",
+    "prefLabel": "解毒",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.解郁",
+    "type": "method",
+    "prefLabel": "解郁",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.理气",
+    "type": "method",
+    "prefLabel": "理气",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.利湿",
+    "type": "method",
+    "prefLabel": "利湿",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.利腰脐",
+    "type": "method",
+    "prefLabel": "利腰脐",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.平肝",
+    "type": "method",
+    "prefLabel": "平肝",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.其他",
+    "type": "method",
+    "prefLabel": "其他",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.清热",
+    "type": "method",
+    "prefLabel": "清热",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.润燥",
+    "type": "method",
+    "prefLabel": "润燥",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.散寒",
+    "type": "method",
+    "prefLabel": "散寒",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.升提",
+    "type": "method",
+    "prefLabel": "升提",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.疏肝",
+    "type": "method",
+    "prefLabel": "疏肝",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.温中",
+    "type": "method",
+    "prefLabel": "温中",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.消食",
+    "type": "method",
+    "prefLabel": "消食",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.泻火",
+    "type": "method",
+    "prefLabel": "泻火",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.养肝",
+    "type": "method",
+    "prefLabel": "养肝",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.益肾",
+    "type": "method",
+    "prefLabel": "益肾",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.引经",
+    "type": "method",
+    "prefLabel": "引经",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.燥湿",
+    "type": "method",
+    "prefLabel": "燥湿",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.止咳",
+    "type": "method",
+    "prefLabel": "止咳",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "method.止血",
+    "type": "method",
+    "prefLabel": "止血",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  }
+]

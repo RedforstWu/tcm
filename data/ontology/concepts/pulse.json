@@ -1,0 +1,128 @@
+[
+  {
+    "id": "pulse.脉沉",
+    "type": "pulse",
+    "prefLabel": "脉沉",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉沉迟",
+    "type": "pulse",
+    "prefLabel": "脉沉迟",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉沉紧",
+    "type": "pulse",
+    "prefLabel": "脉沉紧",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉迟",
+    "type": "pulse",
+    "prefLabel": "脉迟",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉浮",
+    "type": "pulse",
+    "prefLabel": "脉浮",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉浮缓",
+    "type": "pulse",
+    "prefLabel": "脉浮缓",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉浮紧",
+    "type": "pulse",
+    "prefLabel": "脉浮紧",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉浮数",
+    "type": "pulse",
+    "prefLabel": "脉浮数",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉洪大",
+    "type": "pulse",
+    "prefLabel": "脉洪大",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉缓",
+    "type": "pulse",
+    "prefLabel": "脉缓",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉紧",
+    "type": "pulse",
+    "prefLabel": "脉紧",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉弱",
+    "type": "pulse",
+    "prefLabel": "脉弱",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉涩",
+    "type": "pulse",
+    "prefLabel": "脉涩",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉数",
+    "type": "pulse",
+    "prefLabel": "脉数",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉微",
+    "type": "pulse",
+    "prefLabel": "脉微",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉微细",
+    "type": "pulse",
+    "prefLabel": "脉微细",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉弦",
+    "type": "pulse",
+    "prefLabel": "脉弦",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  },
+  {
+    "id": "pulse.脉阴阳俱紧",
+    "type": "pulse",
+    "prefLabel": "脉阴阳俱紧",
+    "altLabels": [],
+    "reviewStatus": "ai-draft"
+  }
+]

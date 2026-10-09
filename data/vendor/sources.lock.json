@@ -1,0 +1,319 @@
+{
+  "version": 1,
+  "note": "外部古籍来源锁定清单：按 commit 固定，由 scripts/vendor-sources.ts 下载到 data/vendor/<dir>/。commit 由 gh api 解析后写死；单文件记录 sha256（首次用 --pin 写入，写入前以 GitHub 给出的 gitBlobSha 交叉校验）。",
+  "sources": [
+    {
+      "id": "shanghan-kb",
+      "title": "伤寒论知识库（yanghuide13350）",
+      "kind": "git-repo",
+      "repo": "yanghuide13350/shanghan-lun-knowledge-base",
+      "branch": "main",
+      "commit": "e184b49121d290950abdc80b98c9de4b23de7b86",
+      "dir": "data/vendor/shanghan-lun-knowledge-base",
+      "license": "none-declared",
+      "sourceGroup": "derived"
+    },
+    {
+      "id": "kanripo-KR3e0007",
+      "title": "新編金匱要略方論（Kanripo SBCK）",
+      "kind": "git-repo",
+      "repo": "kanripo/KR3e0007",
+      "branch": "SBCK",
+      "commit": "d4c00946ea65844c400f125cc2905eef0db92cfc",
+      "dir": "data/vendor/kanripo/KR3e0007@SBCK",
+      "license": "CC-BY-SA-4.0",
+      "sourceGroup": "kanripo"
+    },
+    {
+      "id": "kanripo-KR3e0008",
+      "title": "傷寒論注釋（成无己注本，Kanripo SBCK）",
+      "kind": "git-repo",
+      "repo": "kanripo/KR3e0008",
+      "branch": "SBCK",
+      "commit": "05c2c9327dc695964930c81437d873a142acd1a9",
+      "dir": "data/vendor/kanripo/KR3e0008@SBCK",
+      "license": "CC-BY-SA-4.0",
+      "sourceGroup": "kanripo"
+    },
+    {
+      "id": "kanripo-KR3e0013",
+      "title": "備急千金要方（Kanripo WYG）",
+      "kind": "git-repo",
+      "repo": "kanripo/KR3e0013",
+      "branch": "WYG",
+      "commit": "0f355bbb8d8d03fe5792065fd21b95df64cefb29",
+      "dir": "data/vendor/kanripo/KR3e0013@WYG",
+      "license": "CC-BY-SA-4.0",
+      "sourceGroup": "kanripo"
+    },
+    {
+      "id": "kanripo-KR3e0015",
+      "title": "外臺秘要方（Kanripo WYG）",
+      "kind": "git-repo",
+      "repo": "kanripo/KR3e0015",
+      "branch": "WYG",
+      "commit": "b851c7b6b56064d7f10038b0491f3067eeb67dd2",
+      "dir": "data/vendor/kanripo/KR3e0015@WYG",
+      "license": "CC-BY-SA-4.0",
+      "sourceGroup": "kanripo"
+    },
+    {
+      "id": "kanripo-KR3e0029",
+      "title": "重修政和證類本草（Kanripo SBCK）",
+      "kind": "git-repo",
+      "repo": "kanripo/KR3e0029",
+      "branch": "SBCK",
+      "commit": "0d53fa3ce1ef570f4163603ec211ccbf82b10cf3",
+      "dir": "data/vendor/kanripo/KR3e0029@SBCK",
+      "license": "CC-BY-SA-4.0",
+      "sourceGroup": "kanripo"
+    },
+    {
+      "id": "kanripo-KR3e0051",
+      "title": "儒門事親（Kanripo WYG）",
+      "kind": "git-repo",
+      "repo": "kanripo/KR3e0051",
+      "branch": "WYG",
+      "commit": "cdf25582a99832e9ea4f0d7185fd038727eed802",
+      "dir": "data/vendor/kanripo/KR3e0051@WYG",
+      "license": "CC-BY-SA-4.0",
+      "sourceGroup": "kanripo"
+    },
+    {
+      "id": "kanripo-KR3e0053",
+      "title": "脾胃論（Kanripo WYG）",
+      "kind": "git-repo",
+      "repo": "kanripo/KR3e0053",
+      "branch": "WYG",
+      "commit": "29070fac5031554de5a806763bbdd63d80501167",
+      "dir": "data/vendor/kanripo/KR3e0053@WYG",
+      "license": "CC-BY-SA-4.0",
+      "sourceGroup": "kanripo"
+    },
+    {
+      "id": "kanripo-KR3e0075",
+      "title": "名醫類案（Kanripo WYG）",
+      "kind": "git-repo",
+      "repo": "kanripo/KR3e0075",
+      "branch": "WYG",
+      "commit": "d21726753637572fb4e9442e3b70da5f01553012",
+      "dir": "data/vendor/kanripo/KR3e0075@WYG",
+      "license": "CC-BY-SA-4.0",
+      "sourceGroup": "kanripo"
+    },
+    {
+      "id": "kanripo-KR3e0086",
+      "title": "景岳全書（Kanripo WYG）",
+      "kind": "git-repo",
+      "repo": "kanripo/KR3e0086",
+      "branch": "WYG",
+      "commit": "2f0c07f83ef433bb7513f730038a4c69001f0991",
+      "dir": "data/vendor/kanripo/KR3e0086@WYG",
+      "license": "CC-BY-SA-4.0",
+      "sourceGroup": "kanripo"
+    },
+    {
+      "id": "kanripo-KR3e0090",
+      "title": "御纂醫宗金鑑（Kanripo WYG）",
+      "kind": "git-repo",
+      "repo": "kanripo/KR3e0090",
+      "branch": "WYG",
+      "commit": "114fa2cf8ba42d58e82116f77b16c93c5035bf90",
+      "dir": "data/vendor/kanripo/KR3e0090@WYG",
+      "license": "CC-BY-SA-4.0",
+      "sourceGroup": "kanripo"
+    },
+    {
+      "id": "kanripo-KR3e0096",
+      "title": "續名醫類案（Kanripo WYG）",
+      "kind": "git-repo",
+      "repo": "kanripo/KR3e0096",
+      "branch": "WYG",
+      "commit": "8716eeefa67c1372186d2e803dbf2ad76aedd4ba",
+      "dir": "data/vendor/kanripo/KR3e0096@WYG",
+      "license": "CC-BY-SA-4.0",
+      "sourceGroup": "kanripo"
+    },
+    {
+      "id": "jobkoko",
+      "title": "jobkoko/tcm-database（简体网络文本，按文件抓取）",
+      "kind": "git-files",
+      "repo": "jobkoko/tcm-database",
+      "branch": "main",
+      "commit": "4d4aefd805604176541052ae0d8f6f8b0a17a314",
+      "dir": "data/vendor/jobkoko",
+      "license": "none-declared",
+      "sourceGroup": "web-simplified",
+      "files": [
+        {
+          "path": "tcm/S-003-伤寒论宋版.txt",
+          "bytes": 131712,
+          "gitBlobSha": "7c011960f8c41866d6ac244f48b61060f2f41c34",
+          "sha256": "7afa092ea564300ff2918b29f112d1f3e4057c541f438eaf7c9d9896dec0b8e8"
+        },
+        {
+          "path": "tcm/J-001-金匮要略方论.txt",
+          "bytes": 122180,
+          "gitBlobSha": "d63f3f553b46667327577290e2275d164906869a",
+          "sha256": "879b29123457b99cd8278a3ea8c0c5f287b4f27eb0af49d44ba3a3146e62419d"
+        },
+        {
+          "path": "tcm/S-017-注解伤寒论.txt",
+          "bytes": 356585,
+          "gitBlobSha": "54b2c22b4893edd9b4ce3e11791a88c4d830da40",
+          "sha256": "951d3c497aaac7cd81eb9d18f67334e801e56e4dbd168aa87d97304b1a5f5226"
+        },
+        {
+          "path": "tcm/S-047-伤寒来苏集.txt",
+          "bytes": 316881,
+          "gitBlobSha": "16d293a66de3c3d5c16c42c45bdd2a06c9eb3ed8",
+          "sha256": "8da626d5b1ea28963530e922f02f93e8dc9bcc1810762ab910897036e84af58e"
+        },
+        {
+          "path": "tcm/S-049-伤寒贯珠集.txt",
+          "bytes": 270224,
+          "gitBlobSha": "adad40a642767f828db971da0b8b9cbf7cf5d410",
+          "sha256": "80061851e6eff6d9e77705d72d00c1e84ac90e3a407129741bb990a7dc78a042"
+        },
+        {
+          "path": "tcm/F-009-备急千金要方.txt",
+          "bytes": 1657764,
+          "gitBlobSha": "54a15a57c89227d8e6098b660b383c28f9af36f5",
+          "sha256": "e9e0430360ae96fcf35a7126493412eed8334255ddb70b5b340f874a06d739e6"
+        },
+        {
+          "path": "tcm/F-012-外台秘要方.txt",
+          "bytes": 2360174,
+          "gitBlobSha": "40e933b5497d1f6068ca99982a927ac5887b1405",
+          "sha256": "41d930cb31d55b0c780dd91f46ea60ceecdb9877d805138922c370fa11848467"
+        },
+        {
+          "path": "tcm/B-010-证类本草.txt",
+          "bytes": 2499249,
+          "gitBlobSha": "b310e7c1c297e7d3d2edaa2b08a721182c29df44",
+          "sha256": "2eb64944d37f9018d7389f52320259fff1f10e3f3d28026a11a147378a2c2eed"
+        },
+        {
+          "path": "tcm/O-020-儒门事亲.txt",
+          "bytes": 545441,
+          "gitBlobSha": "0cb1ed76df6700993d0625ef3825f7ad7703e059",
+          "sha256": "774acd1a71f6f3bd194dbe9a2898bd64bf96cd2183ccbb16d008c930218cdc13"
+        },
+        {
+          "path": "tcm/O-030-脾胃论.txt",
+          "bytes": 134171,
+          "gitBlobSha": "3ba2ada387e33932d952d91ee0e13f7b80095719",
+          "sha256": "66ae416bc8f9eded595c261d57afbaeb8d0c2e90415af1ca7ac6f6c5c45af008"
+        },
+        {
+          "path": "tcm/O-070-名医类案.txt",
+          "bytes": 923758,
+          "gitBlobSha": "8f1a84d1abd7b16aa568b478a92b560a121822c6",
+          "sha256": "92287d0d8d6baf67ca953ecbc400ec61615d718b9fb3ae3e8a2eb5c5b0b8ca57"
+        },
+        {
+          "path": "tcm/O-090-景岳全书.txt",
+          "bytes": 3269332,
+          "gitBlobSha": "81a9e433b96653072e46a0ee6e0b1080c4dd5e0f",
+          "sha256": "22d77baaedb4bf63be11855523e6bd2ac352c334a7d6a7fd60f3cdb0107281da"
+        },
+        {
+          "path": "tcm/F-066-删补名医方论.txt",
+          "bytes": 231300,
+          "gitBlobSha": "f5f37e9cb3065aac829957e36ec0f72eae8fa5ec",
+          "sha256": "e764066d595285a9d346ce110374509d9e17eda41e279e7afd97684132e92dfe"
+        },
+        {
+          "path": "tcm/O-140-续名医类案.txt",
+          "bytes": 2822380,
+          "gitBlobSha": "9e77da41c2dcf971c1266fa7472903a375c70d04",
+          "sha256": "a58921e2b54e1c0985f99d7bea1910576fa9f4287790c82651fbc2dbce1dad33"
+        },
+        {
+          "path": "tcm/G-026-傅青主女科.txt",
+          "bytes": 127379,
+          "gitBlobSha": "1a61ac6b12827421f793e03885683f6abb73ff1e",
+          "sha256": "238cc5afdc38313b4a2c2b894ff8cb9102641f02e073b362a5a0923e0e6ff586"
+        },
+        {
+          "path": "tcm/O-146-辨证录.txt",
+          "bytes": 1112059,
+          "gitBlobSha": "a69c8fb3ce9a4533645f59f46f6422979582b1e3",
+          "sha256": "34271e8bc6e9637d3d7f16841cd5b811c1fac3fab154c178b05327dd67c63bc9"
+        },
+        {
+          "path": "tcm/O-135-石室秘录.txt",
+          "bytes": 563050,
+          "gitBlobSha": "642d78a19b7f02e41a8b2ed7ac742ca34bff7873",
+          "sha256": "56da0aa75653ad795efb31f89d5be3300bb5a5e8b2f60fde7a43fb1759963c6d"
+        },
+        {
+          "path": "tcm/B-056-本草新编.txt",
+          "bytes": 615328,
+          "gitBlobSha": "b7144659e09d37e8572c7c353d15258388ced978",
+          "sha256": "4e38d4e537c0e806e3918153665b8137b6ce3db1ae46bb1a6e165262514bfa84"
+        },
+        {
+          "path": "tcm/B-001-神农本草经.txt",
+          "bytes": 256486,
+          "gitBlobSha": "b601697a4e77ffa69931934afb8cda509654e469",
+          "sha256": "e5eba9a624495af43ee1580a3e76ca2fb9352ddb4ed88ca38a8ccd3afc9ee540"
+        },
+        {
+          "path": "tcm/B-007-新修本草.txt",
+          "bytes": 517693,
+          "gitBlobSha": "c1e9fe3b0d6b1a65d3cc7f1d2345d5c5b36c61b9",
+          "sha256": "4d176cd1949adaa477ef23682ce2d5a6e6be633104cc4a1ca22384fdab6cfe3e"
+        },
+        {
+          "path": "tcm/N-009-温病条辨.txt",
+          "bytes": 357098,
+          "gitBlobSha": "2401aa47552a4e1678f20c2919b2656544bbcc1f",
+          "sha256": "c92f353cdb560629d032796e9d910d61aa9119e1fb6731c2889caef270b88950"
+        },
+        {
+          "path": "tcm/N-005-温热经纬.txt",
+          "bytes": 403182,
+          "gitBlobSha": "3e4fdab0c3dd1ee84a8b125f04c7b5f332ace13b",
+          "sha256": "d7003bf56d6ae4d6eb38d96e49ca254e732825c17f9d05d30caf7e6fd8d24b56"
+        },
+        {
+          "path": "tcm/O-042-丹溪心法.txt",
+          "bytes": 456403,
+          "gitBlobSha": "41abe47fa03ea5c85624ff3fe847f9111f17cc36",
+          "sha256": "7cc7a4bdaa1dd35f502cf244f2edbd738d00971e428bd064b52bab56b946ccd7"
+        },
+        {
+          "path": "tcm/E-003-小儿药证直诀.txt",
+          "bytes": 106527,
+          "gitBlobSha": "abd1da80b3630bd8d180178752bdc0aaf7a9f3ad",
+          "sha256": "db14e47215a5f2044d05a2eb64f42edb03bb7fa89bf076ed1072d8f2227a7db8"
+        },
+        {
+          "path": "tcm/O-207-医学衷中参西录.txt",
+          "bytes": 1698365,
+          "gitBlobSha": "a2db0427bd4fe5bea6f4452324d13ea8e560e737",
+          "sha256": "617b46f073797d33e773451e8c47374a875d404921dc130167bd5043a0aa0f72"
+        },
+        {
+          "path": "tcm/A-029-临证指南医案.txt",
+          "bytes": 943695,
+          "gitBlobSha": "9dc8b0dec006e10d2706e8f00632acf8cd3402d6",
+          "sha256": "ba273dacd7c0189e2e46eec3d400f3312962999ef8b79082f5786d18cfdca33c"
+        },
+        {
+          "path": "tcm/S-006-桂林古本伤寒杂病论.txt",
+          "bytes": 249448,
+          "gitBlobSha": "463eab407855e8bca2473770a2220fa0a8c61c43",
+          "sha256": "a7bc4d322ea4407a5cea658591ba3fced9ef9f39a400882a5de42848184e4df1"
+        },
+        {
+          "path": "古籍目录.csv",
+          "bytes": 46755,
+          "gitBlobSha": "1b24f7a81a382c1208226503149f38bbc54d50c1",
+          "sha256": "819d3d32be56ac86ded268bc132697590c8926a43ac0015b02cfe9a2ef9f62b0"
+        }
+      ]
+    }
+  ]
+}

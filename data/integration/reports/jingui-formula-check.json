@@ -1,0 +1,794 @@
+{
+  "generatedAt": "2026-10-09T03:37:44.293Z",
+  "kbSourceFilter": "出处以「金匮要略」开头",
+  "kbFormulaCount": 100,
+  "compared": 36,
+  "equal": 30,
+  "verdictCounts": {
+    "naming-only": 3,
+    "needs-review": 1,
+    "kb-error": 2,
+    "local-fixed": 1
+  },
+  "differ": [
+    {
+      "name": "鳖甲煎丸",
+      "kbOnly": [
+        "石韦",
+        "虫",
+        "蜂巢"
+      ],
+      "localOnly": [
+        "石苇",
+        "䗪虫",
+        "蜂窝"
+      ],
+      "verdict": "naming-only",
+      "note": "KB「石韦」=原文「石苇」，KB「虫」=原文「䗪虫」，KB「蜂巢」=原文「蜂窝」。原文组成「鳖甲十二分（炙） 乌扇三分（烧） 黄芩三分 柴胡六分 鼠妇三分（熬） 干姜三分 大黄三分 芍药五分 桂枝三分 葶苈一分（熬） 石苇三分（去毛） 厚朴三分 牡丹五分（去心） 瞿麦二分 紫葳三分 半夏一分 人参一分 䗪虫五分（熬） 阿胶三分（炙） 蜂窝四分（炙） 赤硝十二分 蜣螂六分（熬） 桃仁二分」；煎服法「上二十三味，为末，取锻灶下灰一斗，清酒一斛五斗，」"
+    },
+    {
+      "name": "大黄牡丹汤",
+      "kbOnly": [
+        "冬瓜子"
+      ],
+      "localOnly": [
+        "瓜子"
+      ],
+      "verdict": "naming-only",
+      "note": "KB「冬瓜子」=原文「瓜子」。原文组成「大黄四两 牡丹一两 桃仁五十个 瓜子半升 芒消三合。」；煎服法「右五味，以水六升，煮取一升，去滓，内芒消再煎沸，」"
+    },
+    {
+      "name": "大黄䗪虫丸",
+      "kbOnly": [
+        "虫"
+      ],
+      "localOnly": [
+        "䗪虫"
+      ],
+      "verdict": "naming-only",
+      "note": "KB「虫」=原文「䗪虫」。原文组成「大黄十分（蒸） 黄芩二两 甘草三两 桃仁一升 杏仁一升 芍药四两 干地黄十两 干漆一两 虻虫一升 水蛭百枚 蛴螬一升 䗪虫半升」；煎服法「上十二味，末之，炼蜜和丸小豆大，酒饮服五丸，日三」"
+    },
+    {
+      "name": "暮蓣丸",
+      "kbOnly": [
+        "曲"
+      ],
+      "localOnly": [],
+      "verdict": "needs-review",
+      "note": "KB 方名「暮蓣丸」为「薯蓣丸」之讹。原文作「当归 桂枝 条 干地黄 豆黄卷各十分」「上二十一味」，本地只得二十味：单字「条」不是药名，疑为「曲」之讹（KB 作曲），需对校他本后再决定是否在 lexicon 补讹字。"
+    },
+    {
+      "name": "排脓散",
+      "kbOnly": [
+        "鸡子黄"
+      ],
+      "localOnly": [],
+      "verdict": "kb-error",
+      "note": "原文「枳实十六枚，芍药六分，桔梗一分」「右三味，杵为散，取鸡子黄一枚，以药散与鸡黄相等，揉和」：鸡子黄为服法调和之物，不在三味之内。"
+    },
+    {
+      "name": "乌头汤",
+      "kbOnly": [
+        "蜜"
+      ],
+      "localOnly": [],
+      "verdict": "kb-error",
+      "note": "原文「川乌五枚（㕮咀，以蜜二升，煎取一升，即出乌头）」「上五味」：蜜是煎乌头的辅料，不计入五味；KB 把蜜列入组成。（修复前：KB 多「麻黄、芍药、黄芪、甘草、川乌、蜜」，本地多「不可屈伸」）"
+    },
+    {
+      "name": "蜘蛛散",
+      "kbOnly": [],
+      "localOnly": [
+        "熬焦"
+      ],
+      "verdict": "local-fixed",
+      "note": "修复前本地与 KB 不一致，修复后一致。原文组成「蜘蛛十四枚（熬焦） 桂枝半两。」；煎服法「右二味，为散，取八分一匕，饮和服，日再服，蜜丸亦」"
+    }
+  ],
+  "notFound": [
+    {
+      "name": "白头翁加甘草阿胶汤",
+      "note": "维基文库原文只在条文中出现「白头翁加甘草阿胶汤」，未以药味行载组成"
+    },
+    {
+      "name": "百合洗方",
+      "note": "维基文库原文只在条文中出现「百合洗方」，未以药味行载组成"
+    },
+    {
+      "name": "半夏干姜散",
+      "note": "维基文库原文只在条文中出现「半夏干姜散」，未以药味行载组成"
+    },
+    {
+      "name": "半夏厚朴汤",
+      "note": "维基文库原文只在条文中出现「半夏厚朴汤」，未以药味行载组成"
+    },
+    {
+      "name": "半夏麻黄丸",
+      "note": "维基文库原文只在条文中出现「半夏麻黄丸」，未以药味行载组成"
+    },
+    {
+      "name": "半夏泻心汤",
+      "note": "维基文库原文只在条文中出现「半夏泻心汤」，未以药味行载组成"
+    },
+    {
+      "name": "大半夏汤",
+      "note": "维基文库原文只在条文中出现「大半夏汤」，未以药味行载组成"
+    },
+    {
+      "name": "大黄附子汤",
+      "note": "维基文库原文只在条文中出现「大黄附子汤」，未以药味行载组成"
+    },
+    {
+      "name": "大黄甘草汤",
+      "note": "维基文库原文只在条文中出现「大黄甘草汤」，未以药味行载组成"
+    },
+    {
+      "name": "大黄甘遂汤",
+      "note": "维基文库原文只在条文中出现「大黄甘遂汤」，未以药味行载组成"
+    },
+    {
+      "name": "大黄硝石汤",
+      "note": "维基文库原文只在条文中出现「大黄硝石汤」，未以药味行载组成"
+    },
+    {
+      "name": "大建中汤",
+      "note": "维基文库原文只在条文中出现「大建中汤」，未以药味行载组成"
+    },
+    {
+      "name": "当归生姜羊肉汤",
+      "note": "维基文库原文只在条文中出现「当归生姜羊肉汤」，未以药味行载组成"
+    },
+    {
+      "name": "矾石丸",
+      "note": "维基文库原文只在条文中出现「矾石丸」，未以药味行载组成"
+    },
+    {
+      "name": "茯苓戎盐汤",
+      "note": "维基文库原文只在条文中出现「茯苓戎盐汤」，未以药味行载组成"
+    },
+    {
+      "name": "茯苓杏仁甘草汤",
+      "note": "维基文库原文只在条文中出现「茯苓杏仁甘草汤」，未以药味行载组成"
+    },
+    {
+      "name": "茯苓泽泻汤",
+      "note": "维基文库原文只在条文中出现「茯苓泽泻汤」，未以药味行载组成"
+    },
+    {
+      "name": "附子粳米汤",
+      "note": "维基文库原文只在条文中出现「附子粳米汤」，未以药味行载组成"
+    },
+    {
+      "name": "甘草干姜茯苓白术汤",
+      "note": "维基文库原文只在条文中出现「甘姜苓术汤」，未以药味行载组成"
+    },
+    {
+      "name": "甘草小麦大枣汤",
+      "note": "维基文库原文只在条文中出现「甘麦大枣汤」，未以药味行载组成"
+    },
+    {
+      "name": "甘遂半夏汤",
+      "note": "维基文库原文只在条文中出现「甘遂半夏汤」，未以药味行载组成"
+    },
+    {
+      "name": "栝蒌薤白白酒汤",
+      "note": "维基文库原文只在条文中出现「栝蒌薤白白酒汤」，未以药味行载组成"
+    },
+    {
+      "name": "栝蒌薤白半夏汤",
+      "note": "维基文库原文只在条文中出现「栝蒌薤白半夏汤」，未以药味行载组成"
+    },
+    {
+      "name": "桂枝加黄芪汤",
+      "note": "维基文库原文只在条文中出现「桂枝加黄耆汤」，未以药味行载组成"
+    },
+    {
+      "name": "桂枝生姜枳实汤",
+      "note": "维基文库原文只在条文中出现「桂枝生姜枳实汤」，未以药味行载组成"
+    },
+    {
+      "name": "厚朴大黄汤",
+      "note": "维基文库原文只在条文中出现「厚朴大黄汤」，未以药味行载组成"
+    },
+    {
+      "name": "厚朴麻黄汤",
+      "note": "维基文库原文只在条文中出现「厚朴麻黄汤」，未以药味行载组成"
+    },
+    {
+      "name": "厚朴七物汤",
+      "note": "维基文库原文只在条文中出现「厚朴七物汤」，未以药味行载组成"
+    },
+    {
+      "name": "厚朴三物汤",
+      "note": "维基文库原文只在条文中出现「厚朴三物汤」，未以药味行载组成"
+    },
+    {
+      "name": "滑石白鱼散",
+      "note": "维基文库原文只在条文中出现「滑石白鱼散」，未以药味行载组成"
+    },
+    {
+      "name": "黄土汤",
+      "note": "维基文库原文只在条文中出现「黄土汤」，未以药味行载组成"
+    },
+    {
+      "name": "己椒苈黄丸",
+      "note": "维基文库原文只在条文中出现「己椒苈黄丸」，未以药味行载组成"
+    },
+    {
+      "name": "橘皮汤",
+      "note": "维基文库原文只在条文中出现「橘皮汤」，未以药味行载组成"
+    },
+    {
+      "name": "橘皮竹茹汤",
+      "note": "维基文库原文只在条文中出现「橘皮竹茹汤」，未以药味行载组成"
+    },
+    {
+      "name": "苦参汤",
+      "note": "维基文库原文只在条文中出现「苦参汤」，未以药味行载组成"
+    },
+    {
+      "name": "狼牙汤",
+      "note": "维基文库原文只在条文中出现「狼牙汤」，未以药味行载组成"
+    },
+    {
+      "name": "麦门冬汤",
+      "note": "维基文库原文只在条文中出现「麦门冬汤」，未以药味行载组成"
+    },
+    {
+      "name": "木防己去石膏加茯苓芒硝汤",
+      "note": "维基文库原文只在条文中出现「木防己汤去石膏加茯苓芒硝汤」，未以药味行载组成"
+    },
+    {
+      "name": "木防己汤",
+      "note": "维基文库原文只在条文中出现「木防己汤」，未以药味行载组成"
+    },
+    {
+      "name": "排脓汤",
+      "note": "维基文库原文未见此方名"
+    },
+    {
+      "name": "人参汤",
+      "note": "维基文库原文只在条文中出现「人参汤」，未以药味行载组成"
+    },
+    {
+      "name": "射干麻黄汤",
+      "note": "维基文库原文只在条文中出现「射干麻黄汤」，未以药味行载组成"
+    },
+    {
+      "name": "葶苈大枣泻肺汤",
+      "note": "维基文库原文只在条文中出现「葶苈大枣泻肺汤」，未以药味行载组成"
+    },
+    {
+      "name": "土瓜根散",
+      "note": "维基文库原文只在条文中出现「土瓜根散」，未以药味行载组成"
+    },
+    {
+      "name": "温经汤",
+      "note": "维基文库原文只在条文中出现「温经汤」，未以药味行载组成"
+    },
+    {
+      "name": "文蛤汤",
+      "note": "维基文库原文只在条文中出现「文蛤汤」，未以药味行载组成"
+    },
+    {
+      "name": "乌头桂枝汤",
+      "note": "维基文库原文只在条文中出现「乌头桂枝汤」，未以药味行载组成"
+    },
+    {
+      "name": "下瘀血汤",
+      "note": "维基文库原文只在条文中出现「下瘀血汤」，未以药味行载组成"
+    },
+    {
+      "name": "硝石矾石散",
+      "note": "维基文库原文只在条文中出现「硝石矾石散」，未以药味行载组成"
+    },
+    {
+      "name": "小半夏加茯苓汤",
+      "note": "维基文库原文只在条文中出现「小半夏加茯苓汤」，未以药味行载组成"
+    },
+    {
+      "name": "小半夏汤",
+      "note": "维基文库原文只在条文中出现「小半夏汤」，未以药味行载组成"
+    },
+    {
+      "name": "杏子汤",
+      "note": "维基文库原文只在条文中出现「杏子汤」，未以药味行载组成"
+    },
+    {
+      "name": "旋覆花汤",
+      "note": "维基文库原文只在条文中出现「旋覆花汤」，未以药味行载组成"
+    },
+    {
+      "name": "薏苡附子散",
+      "note": "维基文库原文只在条文中出现「薏苡附子散」，未以药味行载组成"
+    },
+    {
+      "name": "茵陈五苓散",
+      "note": "维基文库原文只在条文中出现「茵陈五苓散」，未以药味行载组成"
+    },
+    {
+      "name": "越婢加半夏汤",
+      "note": "维基文库原文只在条文中出现「越婢加半夏汤」，未以药味行载组成"
+    },
+    {
+      "name": "越婢汤",
+      "note": "维基文库原文只在条文中出现「越婢汤」，未以药味行载组成"
+    },
+    {
+      "name": "皂荚丸",
+      "note": "维基文库原文只在条文中出现「皂荚丸」，未以药味行载组成"
+    },
+    {
+      "name": "泽泻汤",
+      "note": "维基文库原文只在条文中出现「泽泻汤」，未以药味行载组成"
+    },
+    {
+      "name": "枳实芍药散",
+      "note": "维基文库原文只在条文中出现「枳实芍药散」，未以药味行载组成"
+    },
+    {
+      "name": "猪膏发煎",
+      "note": "维基文库原文只在条文中出现「猪膏发煎」，未以药味行载组成"
+    },
+    {
+      "name": "竹皮大丸",
+      "note": "维基文库原文只在条文中出现「竹皮大丸」，未以药味行载组成"
+    },
+    {
+      "name": "竹叶汤",
+      "note": "维基文库原文只在条文中出现「竹叶汤」，未以药味行载组成"
+    },
+    {
+      "name": "紫参汤",
+      "note": "维基文库原文只在条文中出现「紫参汤」，未以药味行载组成"
+    }
+  ],
+  "recoveredFormulas": [
+    "风引汤",
+    "九痛丸",
+    "越婢加术汤"
+  ],
+  "notes": [
+    "厚朴三物汤、大半夏汤在维基文库底本中只有「……主之」，没有组成行，jingui 解析不产出这两方；public/data 中这两方的空药味 / 注语药味来自 build-dataset 的空壳方与他书 donor 回填，不在 jingui 解析器内。",
+    "verdict 依据维基文库原文：kb-error 表示 KB 把煎服法中的辅料计入组成；naming-only 表示 KB 丢字（䗪→虫）或异写（石韦/石苇、蜂巢/蜂窝、冬瓜子/瓜子）。"
+  ],
+  "jinguiStats": {
+    "formulaCount": 85,
+    "emptyHerbFormulaCount": 0,
+    "unresolvedHerbTokenCount": 8,
+    "unresolvedHerbTokens": {
+      "四时加减柴胡饮子": [
+        "冬三月加柴胡八分",
+        "并皮子用",
+        "春三月加枳实",
+        "减白术共六味",
+        "夏三月加生姜三分",
+        "共八味",
+        "秋三月加陈皮三分",
+        "共六味"
+      ]
+    }
+  },
+  "regression": {
+    "method": "修改前（formula-parse.ts / jingui.ts 快照）与修改后，分别在内存中重跑各书 parser（写盘被拦截，不回写 data/parsed）；file 列为现有 data/parsed/*.json 基线；illegalHerbNames 以 resolveKnownHerbName 判定",
+    "rows": [
+      {
+        "book": "songben",
+        "file": {
+          "formulaCount": 111,
+          "herbTotal": 531,
+          "emptyHerbFormulas": 1,
+          "illegalHerbNames": 6
+        },
+        "before": {
+          "formulaCount": 111,
+          "herbTotal": 531,
+          "emptyHerbFormulas": 1,
+          "illegalHerbNames": 6
+        },
+        "after": {
+          "formulaCount": 111,
+          "herbTotal": 532,
+          "emptyHerbFormulas": 1,
+          "illegalHerbNames": 6
+        },
+        "clausesBefore": 398,
+        "clausesAfter": 398
+      },
+      {
+        "book": "jingui",
+        "file": {
+          "formulaCount": 85,
+          "herbTotal": 452,
+          "emptyHerbFormulas": 0,
+          "illegalHerbNames": 0
+        },
+        "before": {
+          "formulaCount": 60,
+          "herbTotal": 298,
+          "emptyHerbFormulas": 0,
+          "illegalHerbNames": 5
+        },
+        "after": {
+          "formulaCount": 85,
+          "herbTotal": 452,
+          "emptyHerbFormulas": 0,
+          "illegalHerbNames": 0
+        },
+        "clausesBefore": 189,
+        "clausesAfter": 198
+      },
+      {
+        "book": "guilin",
+        "file": {
+          "formulaCount": 319,
+          "herbTotal": 1436,
+          "emptyHerbFormulas": 2,
+          "illegalHerbNames": 24
+        },
+        "before": {
+          "formulaCount": 319,
+          "herbTotal": 1436,
+          "emptyHerbFormulas": 2,
+          "illegalHerbNames": 24
+        },
+        "after": {
+          "formulaCount": 319,
+          "herbTotal": 1437,
+          "emptyHerbFormulas": 2,
+          "illegalHerbNames": 24
+        },
+        "clausesBefore": 531,
+        "clausesAfter": 531
+      },
+      {
+        "book": "wenbing",
+        "file": {
+          "formulaCount": 225,
+          "herbTotal": 1368,
+          "emptyHerbFormulas": 17,
+          "illegalHerbNames": 461
+        },
+        "before": {
+          "formulaCount": 225,
+          "herbTotal": 1368,
+          "emptyHerbFormulas": 17,
+          "illegalHerbNames": 461
+        },
+        "after": {
+          "formulaCount": 225,
+          "herbTotal": 1368,
+          "emptyHerbFormulas": 17,
+          "illegalHerbNames": 461
+        },
+        "clausesBefore": 958,
+        "clausesAfter": 958
+      },
+      {
+        "book": "wenre",
+        "file": {
+          "formulaCount": 135,
+          "herbTotal": 624,
+          "emptyHerbFormulas": 35,
+          "illegalHerbNames": 204
+        },
+        "before": {
+          "formulaCount": 135,
+          "herbTotal": 624,
+          "emptyHerbFormulas": 35,
+          "illegalHerbNames": 204
+        },
+        "after": {
+          "formulaCount": 135,
+          "herbTotal": 624,
+          "emptyHerbFormulas": 35,
+          "illegalHerbNames": 204
+        },
+        "clausesBefore": 187,
+        "clausesAfter": 187
+      },
+      {
+        "book": "piwei",
+        "file": {
+          "formulaCount": 11,
+          "herbTotal": 11,
+          "emptyHerbFormulas": 8,
+          "illegalHerbNames": 9
+        },
+        "before": {
+          "formulaCount": 11,
+          "herbTotal": 11,
+          "emptyHerbFormulas": 8,
+          "illegalHerbNames": 9
+        },
+        "after": {
+          "formulaCount": 11,
+          "herbTotal": 11,
+          "emptyHerbFormulas": 8,
+          "illegalHerbNames": 9
+        },
+        "clausesBefore": 273,
+        "clausesAfter": 273
+      },
+      {
+        "book": "danxi",
+        "file": {
+          "formulaCount": 107,
+          "herbTotal": 79,
+          "emptyHerbFormulas": 82,
+          "illegalHerbNames": 61
+        },
+        "before": {
+          "formulaCount": 107,
+          "herbTotal": 79,
+          "emptyHerbFormulas": 82,
+          "illegalHerbNames": 61
+        },
+        "after": {
+          "formulaCount": 107,
+          "herbTotal": 79,
+          "emptyHerbFormulas": 82,
+          "illegalHerbNames": 61
+        },
+        "clausesBefore": 1541,
+        "clausesAfter": 1541
+      },
+      {
+        "book": "rumen",
+        "file": {
+          "formulaCount": 19,
+          "herbTotal": 0,
+          "emptyHerbFormulas": 19,
+          "illegalHerbNames": 0
+        },
+        "before": {
+          "formulaCount": 19,
+          "herbTotal": 0,
+          "emptyHerbFormulas": 19,
+          "illegalHerbNames": 0
+        },
+        "after": {
+          "formulaCount": 19,
+          "herbTotal": 0,
+          "emptyHerbFormulas": 19,
+          "illegalHerbNames": 0
+        },
+        "clausesBefore": 666,
+        "clausesAfter": 666
+      },
+      {
+        "book": "xiaoer",
+        "file": {
+          "formulaCount": 44,
+          "herbTotal": 8,
+          "emptyHerbFormulas": 41,
+          "illegalHerbNames": 8
+        },
+        "before": {
+          "formulaCount": 44,
+          "herbTotal": 8,
+          "emptyHerbFormulas": 41,
+          "illegalHerbNames": 8
+        },
+        "after": {
+          "formulaCount": 44,
+          "herbTotal": 8,
+          "emptyHerbFormulas": 41,
+          "illegalHerbNames": 8
+        },
+        "clausesBefore": 374,
+        "clausesAfter": 374
+      },
+      {
+        "book": "jingyue",
+        "file": {
+          "formulaCount": 1800,
+          "herbTotal": 12792,
+          "emptyHerbFormulas": 23,
+          "illegalHerbNames": 3353
+        },
+        "before": {
+          "formulaCount": 1800,
+          "herbTotal": 12792,
+          "emptyHerbFormulas": 23,
+          "illegalHerbNames": 3353
+        },
+        "after": {
+          "formulaCount": 1798,
+          "herbTotal": 12781,
+          "emptyHerbFormulas": 23,
+          "illegalHerbNames": 3344
+        },
+        "clausesBefore": 4746,
+        "clausesAfter": 4746
+      },
+      {
+        "book": "zhongxi",
+        "file": {
+          "formulaCount": 247,
+          "herbTotal": 590,
+          "emptyHerbFormulas": 80,
+          "illegalHerbNames": 344
+        },
+        "before": {
+          "formulaCount": 247,
+          "herbTotal": 590,
+          "emptyHerbFormulas": 80,
+          "illegalHerbNames": 344
+        },
+        "after": {
+          "formulaCount": 247,
+          "herbTotal": 590,
+          "emptyHerbFormulas": 80,
+          "illegalHerbNames": 344
+        },
+        "clausesBefore": 4211,
+        "clausesAfter": 4211
+      },
+      {
+        "book": "linzheng",
+        "file": {
+          "formulaCount": 187,
+          "herbTotal": 340,
+          "emptyHerbFormulas": 133,
+          "illegalHerbNames": 168
+        },
+        "before": {
+          "formulaCount": 187,
+          "herbTotal": 340,
+          "emptyHerbFormulas": 133,
+          "illegalHerbNames": 168
+        },
+        "after": {
+          "formulaCount": 187,
+          "herbTotal": 340,
+          "emptyHerbFormulas": 133,
+          "illegalHerbNames": 168
+        },
+        "clausesBefore": 266,
+        "clausesAfter": 266
+      },
+      {
+        "book": "mingyi",
+        "file": {
+          "formulaCount": 68,
+          "herbTotal": 0,
+          "emptyHerbFormulas": 68,
+          "illegalHerbNames": 0
+        },
+        "before": {
+          "formulaCount": 68,
+          "herbTotal": 0,
+          "emptyHerbFormulas": 68,
+          "illegalHerbNames": 0
+        },
+        "after": {
+          "formulaCount": 68,
+          "herbTotal": 0,
+          "emptyHerbFormulas": 68,
+          "illegalHerbNames": 0
+        },
+        "clausesBefore": 1142,
+        "clausesAfter": 1142
+      },
+      {
+        "book": "xumingyi",
+        "file": {
+          "formulaCount": 182,
+          "herbTotal": 0,
+          "emptyHerbFormulas": 182,
+          "illegalHerbNames": 0
+        },
+        "before": {
+          "formulaCount": 182,
+          "herbTotal": 0,
+          "emptyHerbFormulas": 182,
+          "illegalHerbNames": 0
+        },
+        "after": {
+          "formulaCount": 182,
+          "herbTotal": 0,
+          "emptyHerbFormulas": 182,
+          "illegalHerbNames": 0
+        },
+        "clausesBefore": 1998,
+        "clausesAfter": 1998
+      },
+      {
+        "book": "yizong",
+        "file": {
+          "formulaCount": 186,
+          "herbTotal": 1201,
+          "emptyHerbFormulas": 0,
+          "illegalHerbNames": 158
+        },
+        "before": {
+          "formulaCount": 186,
+          "herbTotal": 1201,
+          "emptyHerbFormulas": 0,
+          "illegalHerbNames": 158
+        },
+        "after": {
+          "formulaCount": 186,
+          "herbTotal": 1201,
+          "emptyHerbFormulas": 0,
+          "illegalHerbNames": 158
+        },
+        "clausesBefore": 186,
+        "clausesAfter": 186
+      },
+      {
+        "book": "qianjin",
+        "file": {
+          "formulaCount": 974,
+          "herbTotal": 9830,
+          "emptyHerbFormulas": 0,
+          "illegalHerbNames": 2183
+        },
+        "before": {
+          "formulaCount": 974,
+          "herbTotal": 9830,
+          "emptyHerbFormulas": 0,
+          "illegalHerbNames": 2183
+        },
+        "after": {
+          "formulaCount": 975,
+          "herbTotal": 9837,
+          "emptyHerbFormulas": 0,
+          "illegalHerbNames": 2175
+        },
+        "clausesBefore": 974,
+        "clausesAfter": 975
+      },
+      {
+        "book": "waitai",
+        "file": {
+          "formulaCount": 726,
+          "herbTotal": 4907,
+          "emptyHerbFormulas": 0,
+          "illegalHerbNames": 1255
+        },
+        "before": {
+          "formulaCount": 726,
+          "herbTotal": 4907,
+          "emptyHerbFormulas": 0,
+          "illegalHerbNames": 1255
+        },
+        "after": {
+          "formulaCount": 726,
+          "herbTotal": 4907,
+          "emptyHerbFormulas": 0,
+          "illegalHerbNames": 1255
+        },
+        "clausesBefore": 726,
+        "clausesAfter": 726
+      }
+    ],
+    "formulaLevelChanges": [
+      "songben HERBS songben-formula-附子泻心汤\n   - 大黄,黄连,黄芩\n   + 大黄,黄连,黄芩,附子",
+      "songben PREP songben-formula-瓜蒂散 0 -> 81",
+      "guilin HERBS guilin-formula-附子泻心汤\n   - 大黄,黄连,黄芩\n   + 大黄,黄连,黄芩,附子",
+      "guilin PREP guilin-formula-瓜蒂散 0 -> 76",
+      "guilin PREP guilin-formula-九痛丸 0 -> 89",
+      "jingyue HERBS jingyue-formula-约营煎\n   - 生地,芍药,甘草,续断,地榆,黄芩,槐花,荆芥穂,炒焦,乌梅\n   + 生地,芍药,甘草,续断,地榆,黄芩,槐花,荆芥穂,乌梅",
+      "jingyue HERBS jingyue-formula-川山甲散\n   - 川山甲,炒焦,鳖甲,醋炙,赤芍药,大黄,干漆,炒烟尽,桂心,川芎,芫花,醋炒,归尾,麝香\n   + 川山甲,鳖甲,醋炙,赤芍药,大黄,干漆,炒烟尽,桂心,川芎,芫花,醋炒,归尾,麝香",
+      "jingyue HERBS jingyue-formula-芦荟丸\n   - 胡黄连,黄芩,炒焦,木香,白芜荑,青皮,当归,茯苓,陈皮,甘草\n   + 胡黄连,黄芩,木香,白芜荑,青皮,当归,茯苓,陈皮,甘草",
+      "jingyue REMOVED jingyue-formula-一母丸 [知母,炒为末]",
+      "jingyue REMOVED jingyue-formula-知母丸 [知母,炒为末]",
+      "jingyue HERBS jingyue-formula-调中汤\n   - 人参,茯苓,干姜,藿香白术,甘草,木香,丁香香附,炒去毛,砂仁\n   + 人参,茯苓,干姜,藿香白术,甘草,木香,丁香香附,砂仁",
+      "jingyue HERBS jingyue-formula-凉惊丸\n   - 关紧急龙胆草,炒焦,防风,青黛,钩藤钩,黄连,龙脑,牛黄,麝香\n   + 关紧急龙胆草,防风,青黛,钩藤钩,黄连,龙脑,牛黄,麝香",
+      "jingyue HERBS jingyue-formula-六味肥儿丸\n   - 消疳化虫退热,黄连,陈皮,川练子,去核炒,神曲,麦蘖,白芜荑\n   + 消疳化虫退热,黄连,陈皮,川练子,神曲,麦蘖,白芜荑",
+      "jingyue HERBS jingyue-formula-代针膏\n   - 乳香,白丁香,巴豆,炒焦\n   + 乳香,白丁香,巴豆",
+      "qianjin HERBS qianjin-formula-鸡粪酒\n   - 鸡粪,熬令黄,乌豆,熬令声绝,勿焦\n   + 鸡粪,乌豆,熬令声绝,勿焦",
+      "qianjin HERBS qianjin-formula-桂蜜汤\n   - 便脓血赤白,日数十行,腹痛,桂心,干姜,甘草,附子,蜜,当归,赤石脂\n   + 桂心,干姜,甘草,附子,蜜,当归,赤石脂",
+      "qianjin HERBS qianjin-formula-石韦汤\n   - 气淋,血淋,石韦,黄芩,通草,甘草,榆皮,大枣,葵子,白术,生姜\n   + 石韦,黄芩,通草,甘草,榆皮,大枣,葵子,白术,生姜",
+      "qianjin HERBS qianjin-formula-栀子仁煎\n   - 痛如刺,栀子仁,蕤仁,决明子,车前叶,秦皮,石膏\n   + 栀子仁,蕤仁,决明子,车前叶,秦皮,石膏",
+      "qianjin HERBS qianjin-formula-洗肝干蓝煎\n   - 冲眼,干蓝,车前叶,苦竹叶,细辛,秦皮,蕤仁,栀子仁,芍药,决明子,升麻\n   + 干蓝,车前叶,苦竹叶,细辛,秦皮,蕤仁,栀子仁,芍药,决明子,升麻",
+      "qianjin ADDED qianjin-formula-大远志丸 [远志,甘草,桂心,茯苓,麦冬,人参,当归,白术,泽泻,独活,菖蒲,山药,阿胶,干姜,干地黄]"
+    ],
+    "notes": [
+      "jingyue 一母丸 / 知母丸（同方异名）消失：原文组成仅「知母（炒为末）」一味，旧结果靠把「炒为末」误当第二味药才过 jingyue-formula.ts 的「至少两味」门槛；现在「炒为末」并入知母炮制，被该门槛过滤。门槛在 jingyue-formula.ts（不属本次可改文件）。",
+      "其余变化均为去掉炮制 / 主治碎片药名（炒焦、去核炒、熬令黄、气淋、冲眼等）或补回漏收药味 / 煎服法（附子泻心汤补附子、瓜蒂散 / 九痛丸补煎服法、qianjin 新增大远志丸）。"
+    ]
+  }
+}
