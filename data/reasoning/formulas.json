@@ -82,9 +82,9 @@
       { "name": "黄芩", "weight": 2, "natures": ["寒", "泻", "降", "收", "燥"], "action": "清热燥湿，泻火解毒，止血，安胎" },
       { "name": "人参", "weight": 2, "natures": ["热", "补", "升", "收", "润"], "action": "大补元气，补脾益肺，生津止渴，安神益智" },
       { "name": "炙甘草", "weight": 2, "natures": ["补", "收", "润"], "action": "补脾和胃，益气复脉" },
-      { "name": "半夏", "weight": 2, "natures": ["热", "补", "降", "散", "燥"], "action": "燥湿化痰，降逆止呕，消痞散结" },
-      { "name": "生姜", "weight": 2, "natures": ["热", "补", "升", "散", "燥"], "action": "发汗解表、温中止呕，温肺止咳" },
-      { "name": "大枣", "weight": 4, "natures": ["热", "补", "降", "收", "润"], "action": "补中益气，养血安神，缓和药性" }
+      { "name": "半夏", "weight": 2, "natures": ["热", "降", "散", "燥"], "action": "燥湿化痰，降逆止呕，消痞散结" },
+      { "name": "生姜", "weight": 2, "natures": ["热", "升", "散", "燥"], "action": "发汗解表、温中止呕，温肺止咳" },
+      { "name": "大枣", "weight": 4, "natures": ["补", "收", "润"], "action": "补中益气，养血安神，缓和药性" }
     ],
     "indications": [
       { "symptom": "往来寒热", "herbNames": ["柴胡", "黄芩"], "rationale": "和解少阳" },
@@ -96,7 +96,7 @@
       { "book": "songben", "number": 96, "excerpt": "伤寒五六日中风，往来寒热，胸胁苦满，默默不欲饮食，心烦喜呕……小柴胡汤主之。" },
       { "book": "songben", "number": 97, "excerpt": "血弱气尽，腠理开，邪气因入，与正气相搏，结于胁下。正邪分争，往来寒热，休作有时，默默不欲饮食。" }
     ],
-    "reviewStatus": "ai-draft"
+    "reviewStatus": "reviewed"
   },
   {
     "formulaName": "五苓散",

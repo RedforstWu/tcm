@@ -1,5 +1,6 @@
 import { faArrowRight, faPills } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { isSingleHerbAddition } from '@/lib/formula-variants'
 import type { Formula, FormulaDiffPair } from '@/types/data'
 import { convertScript } from '@/lib/text'
 import { useAppContext } from '@/context/AppContext'
@@ -30,13 +31,13 @@ export function VariantPanel({
   }
 
   const outgoing = diffPairs
-    .filter((pair) => pair.fromId === formulaId && pair.kind === 'add')
+    .filter((pair) => pair.fromId === formulaId && isSingleHerbAddition(pair))
     .slice(0, 16)
 
   if (outgoing.length === 0) {
     return (
       <div className="rounded-xl border border-dashed border-stone-200 bg-white px-4 py-6 text-sm text-stone-400">
-        未找到以本方为起点的最小差异加味方对。
+        没有只加一味、不去药的加减方。
       </div>
     )
   }

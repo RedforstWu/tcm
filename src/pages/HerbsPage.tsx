@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import type { Herb } from '@/types/data'
+import { herbIndexEntries } from '@/lib/herb-groups'
 import { loadHerbs } from '@/lib/data'
 import { convertScript } from '@/lib/text'
 import { useAppContext } from '@/context/AppContext'
@@ -14,9 +15,11 @@ export function HerbsPage() {
     void loadHerbs().then(setHerbs)
   }, [])
 
+  const indexed = useMemo(() => herbIndexEntries(herbs), [herbs])
+
   const filtered = useMemo(
-    () => herbs.filter((herb) => !query || herb.name.includes(query)),
-    [herbs, query],
+    () => indexed.filter((herb) => !query || herb.label.includes(query) || herb.id.includes(query)),
+    [indexed, query],
   )
 
   return (
@@ -39,9 +42,9 @@ export function HerbsPage() {
             className="rounded-2xl border border-stone-200 bg-white/80 px-4 py-3 hover:border-cinnabar/40"
           >
             <div className="font-serif text-lg font-semibold">
-              {convertScript(herb.name, scriptMode)}
+              {convertScript(herb.label, scriptMode)}
             </div>
-            <div className="text-xs text-stone-500">出现 {herb.frequency} 次 · {herb.formulaIds.length} 方</div>
+            <div className="text-xs text-stone-500">出现 {herb.frequency} 次 · {herb.formulaCount} 方</div>
           </Link>
         ))}
       </div>

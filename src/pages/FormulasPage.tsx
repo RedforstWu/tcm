@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import type { Formula, Herb } from '@/types/data'
 import { BOOKS } from '@/types/data'
 import { loadFormulas, loadHerbs, bookTitle } from '@/lib/data'
-import { herbFilterMatches, herbFilterOptions } from '@/lib/herb-groups'
+import { herbFilterMatches, herbFilterOptions, isProcessingHerbName } from '@/lib/herb-groups'
 import { convertScript } from '@/lib/text'
 import { useAppContext } from '@/context/AppContext'
 import { EvidenceDisclosure } from '@/components/integration/EvidenceDisclosure'
@@ -25,7 +25,7 @@ export function FormulasPage() {
 
   const herbOptions = useMemo(() => {
     const frequencyById = new Map(herbs.map((herb) => [herb.id, herb.frequency]))
-    return herbFilterOptions(herbs.slice(0, 80)).map((option) => ({
+    return herbFilterOptions(herbs.filter((herb) => !isProcessingHerbName(herb.name)).slice(0, 80)).map((option) => ({
       ...option,
       frequency: frequencyById.get(option.id),
     }))

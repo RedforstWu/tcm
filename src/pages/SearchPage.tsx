@@ -3,7 +3,8 @@ import { useEffect, useMemo, useState } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 import type { SearchDoc } from '@/types/data'
 import { loadSearchDocs } from '@/lib/data'
-import { applySearchQuery, presentSearchResult, searchQueryFromParams } from '@/lib/search-presentation'
+import { searchSnippet } from '@/lib/formula-origin'
+import { applySearchQuery, orderSearchResults, presentSearchResult, searchQueryFromParams } from '@/lib/search-presentation'
 import { convertScript } from '@/lib/text'
 import { useAppContext } from '@/context/AppContext'
 
@@ -11,10 +12,26 @@ export function SearchPage() {
   const { scriptMode } = useAppContext()
   const [searchParams, setSearchParams] = useSearchParams()
   const [docs, setDocs] = useState<SearchDoc[]>([])
+  const [provenance, setProvenance] = useState<{
+    backfill: Record<string, string>
+    sameNameVariant: Record<string, string>
+  }>({ backfill: {}, sameNameVariant: {} })
   const query = searchQueryFromParams(searchParams)
 
   useEffect(() => {
     void loadSearchDocs().then(setDocs)
+    void fetch('/data/formula-provenance.json')
+      .then((response) => (response.ok ? response.json() : null))
+      .then((payload: { backfill?: Record<string, string>; sameNameVariant?: Record<string, string> } | null) => {
+        if (!payload) return
+        setProvenance({
+          backfill: payload.backfill ?? {},
+          sameNameVariant: payload.sameNameVariant ?? {},
+        })
+      })
+      .catch((error: unknown) => {
+        console.error('[search] 方剂来源标注加载失败', error)
+      })
   }, [])
 
   const engine = useMemo(() => {
@@ -29,7 +46,7 @@ export function SearchPage() {
 
   const results = useMemo(() => {
     if (!query.trim()) return []
-    return engine.search(query).slice(0, 40)
+    return orderSearchResults(engine.search(query)).slice(0, 40)
   }, [engine, query])
 
   return (
@@ -68,7 +85,7 @@ export function SearchPage() {
               {convertScript(presented.title, scriptMode)}
             </h2>
             <p className="mt-1 line-clamp-2 text-sm text-stone-600">
-              {convertScript(String(result.text).slice(0, 120), scriptMode)}
+              {convertScript(searchSnippet(String(result.id), String(result.text), provenance), scriptMode)}
             </p>
           </Link>
           )

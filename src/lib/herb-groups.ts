@@ -1,8 +1,16 @@
 const ALIAS_GROUPS: Array<{ id: string; members: string[] }> = [
-  { id: '芍药', members: ['芍药', '白芍'] },
+  { id: '芍药', members: ['芍药', '白芍', '白芍药'] },
   { id: '黄芪', members: ['黄芪', '黄茋'] },
   { id: '熟地黄', members: ['熟地黄', '熟地'] },
+  { id: '地黄', members: ['地黄', '生地', '生地黄'] },
+  { id: '炙甘草', members: ['炙甘草', '炙草'] },
 ]
+
+const PROCESSING_HERB_NAMES = new Set(['酒炒'])
+
+export function isProcessingHerbName(name: string): boolean {
+  return PROCESSING_HERB_NAMES.has(name)
+}
 
 export interface HerbFilterOption {
   id: string
@@ -34,6 +42,22 @@ export function herbFilterOptions(herbs: Array<{ id: string; name: string }>): H
   }
 
   return options
+}
+
+export function herbIndexEntries<T extends { id: string; name: string; frequency: number; formulaIds: string[] }>(
+  herbs: T[],
+): Array<{ id: string; label: string; frequency: number; formulaCount: number }> {
+  const byId = new Map(herbs.map((herb) => [herb.id, herb]))
+  return herbFilterOptions(herbs.filter((herb) => !isProcessingHerbName(herb.name))).map((option) => {
+    const members = option.memberIds.map((id) => byId.get(id)).filter((herb): herb is T => Boolean(herb))
+    const formulaIds = new Set(members.flatMap((herb) => herb.formulaIds))
+    return {
+      id: option.id,
+      label: option.label,
+      frequency: members.reduce((sum, herb) => sum + herb.frequency, 0),
+      formulaCount: formulaIds.size,
+    }
+  })
 }
 
 export function herbFilterMatches(formulaHerbIds: string[], filterId: string): boolean {

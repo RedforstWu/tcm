@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import type { Formula, Herb } from '@/types/data'
 import { loadFormulas, loadHerbs } from '@/lib/data'
+import { herbFilterOptions, isProcessingHerbName } from '@/lib/herb-groups'
 import { doseAwareScore, type MatchHerb } from '@/lib/formula-match'
 
 function jaccard(a: Set<string>, b: Set<string>): number {
@@ -27,6 +28,11 @@ export function LabPage() {
       setBaseId(songben.find((item) => item.name === '桂枝汤')?.id ?? songben[0]?.id ?? '')
     })
   }, [])
+
+  const herbChips = useMemo(
+    () => herbFilterOptions(herbs.filter((herb) => !isProcessingHerbName(herb.name))),
+    [herbs],
+  )
 
   const matches = useMemo(() => {
     if (selected.size === 0) return []
@@ -96,7 +102,7 @@ export function LabPage() {
         <h1 className="font-serif text-2xl font-bold">组方实验室</h1>
         <p className="text-sm text-stone-500">勾选药物，匹配最接近的经方并显示差异。</p>
         <div className="flex flex-wrap gap-2">
-          {herbs.map((herb) => (
+          {herbChips.map((herb) => (
             <button
               key={herb.id}
               type="button"
@@ -105,7 +111,7 @@ export function LabPage() {
                 selected.has(herb.id) ? 'bg-cinnabar text-white' : 'bg-white ring-1 ring-stone-200'
               }`}
             >
-              {herb.name}
+              {herb.label}
             </button>
           ))}
         </div>
@@ -145,9 +151,9 @@ export function LabPage() {
             className="rounded-xl border border-stone-200 px-3 py-2 text-sm"
           >
             <option value="">加味（可选）</option>
-            {herbs.map((herb) => (
+            {herbChips.map((herb) => (
               <option key={herb.id} value={herb.id}>
-                加 {herb.name}
+                加 {herb.label}
               </option>
             ))}
           </select>

@@ -9,6 +9,7 @@ import {
   loadHerbRoles,
 } from '@/lib/data'
 import { collationNoteForFormula } from '@/lib/formula-collation'
+import { formulaOriginNote } from '@/lib/formula-origin'
 import { formatDualGrams } from '@/lib/dose-display'
 import { convertScript } from '@/lib/text'
 import { useAppContext } from '@/context/AppContext'
@@ -85,6 +86,10 @@ export function FormulaDetailPage() {
     formula.id,
     formula.herbs.map((herb) => herb.name),
   )
+  const songbenTwin = allFormulas.find(
+    (item) => item.book === 'songben' && item.name === formula.name && item.id !== formula.id,
+  )
+  const originNote = formulaOriginNote(formula, songbenTwin)
 
   return (
     <div className="space-y-4 sm:space-y-6">
@@ -99,6 +104,11 @@ export function FormulaDetailPage() {
         {collationNote && (
           <p className="mt-2 rounded-xl border border-amber-200 bg-amber-soft px-3 py-2 text-sm text-amber-950">
             {convertScript(collationNote, scriptMode)}
+          </p>
+        )}
+        {originNote && (
+          <p className="mt-2 rounded-xl border border-amber-200 bg-amber-soft px-3 py-2 text-sm text-amber-950">
+            {convertScript(originNote, scriptMode)}
           </p>
         )}
         {formula.chapter && (
