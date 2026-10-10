@@ -25,16 +25,16 @@
   },
   {
     "formulaName": "葛根汤",
-    "function": "祛风解肌，和血通脉",
+    "function": "发汗解表，升津舒筋",
     "sourcePage": 25,
     "herbs": [
-      { "name": "葛根", "weight": 4, "natures": ["补", "升", "散"], "action": "解肌退热，透发麻疹，生津止渴，升阳举陷" },
+      { "name": "葛根", "weight": 4, "natures": ["升", "散"], "action": "解肌退热，生津舒筋" },
       { "name": "麻黄", "weight": 3, "natures": ["热", "泻", "散", "燥"], "action": "发汗解表，宣肺平喘，利水消肿" },
-      { "name": "大枣", "weight": 6, "natures": ["热", "补", "降", "收", "润"], "action": "补中益气，养血安神，缓和药性" },
-      { "name": "桂枝", "weight": 2, "natures": ["热", "补", "散", "燥"], "action": "发汗解肌，温经通脉，通阳化气" },
-      { "name": "芍药", "weight": 2, "natures": ["寒", "补", "收", "润"], "action": "养血调经，平肝止痛，敛阴止汗" },
+      { "name": "大枣", "weight": 6, "natures": ["补", "收", "润"], "action": "补中益气，缓和药性" },
+      { "name": "桂枝", "weight": 2, "natures": ["热", "散", "燥"], "action": "发汗解肌，温经通脉" },
+      { "name": "芍药", "weight": 2, "natures": ["寒", "收", "润"], "action": "敛阴和营" },
       { "name": "炙甘草", "weight": 2, "natures": ["补", "收", "润"], "action": "补脾和胃，益气复脉" },
-      { "name": "生姜", "weight": 3, "natures": ["热", "补", "升", "散", "燥"], "action": "发汗解表、温中止呕，温肺止咳" }
+      { "name": "生姜", "weight": 3, "natures": ["热", "升", "散", "燥"], "action": "发汗解表，温中止呕" }
     ],
     "indications": [
       { "symptom": "项背强几几", "herbNames": ["葛根"], "rationale": "升津舒筋" },
@@ -45,7 +45,7 @@
       { "book": "songben", "number": 31, "excerpt": "太阳病，项背强几几，无汗，恶风，葛根汤主之。" },
       { "book": "songben", "number": 32, "excerpt": "太阳与阳明合病者，必自下利，葛根汤主之。" }
     ],
-    "reviewStatus": "ai-draft"
+    "reviewStatus": "reviewed"
   },
   {
     "formulaName": "小青龙汤",

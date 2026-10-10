@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import type { Formula, Herb } from '@/types/data'
 import { BOOKS } from '@/types/data'
 import { loadFormulas, loadHerbs, bookTitle } from '@/lib/data'
+import { herbFilterMatches, herbFilterOptions } from '@/lib/herb-groups'
 import { convertScript } from '@/lib/text'
 import { useAppContext } from '@/context/AppContext'
 import { EvidenceDisclosure } from '@/components/integration/EvidenceDisclosure'
@@ -22,10 +23,18 @@ export function FormulasPage() {
     })
   }, [])
 
+  const herbOptions = useMemo(() => {
+    const frequencyById = new Map(herbs.map((herb) => [herb.id, herb.frequency]))
+    return herbFilterOptions(herbs.slice(0, 80)).map((option) => ({
+      ...option,
+      frequency: frequencyById.get(option.id),
+    }))
+  }, [herbs])
+
   const filtered = useMemo(() => {
     return formulas.filter((formula) => {
       if (bookFilter !== 'all' && formula.book !== bookFilter) return false
-      if (herbFilter && !formula.herbs.some((herb) => herb.herbId === herbFilter)) return false
+      if (herbFilter && !herbFilterMatches(formula.herbs.map((herb) => herb.herbId), herbFilter)) return false
       if (!query) return true
       const hay = `${formula.name} ${formula.herbs.map((herb) => herb.name).join(' ')}`
       return hay.includes(query)
@@ -69,9 +78,10 @@ export function FormulasPage() {
           className="rounded-xl border border-stone-200 px-3 py-2 text-sm"
         >
           <option value="">全部药物</option>
-          {herbs.slice(0, 80).map((herb) => (
-            <option key={herb.id} value={herb.id}>
-              {herb.name}（{herb.frequency}）
+          {herbOptions.map((option) => (
+            <option key={option.id} value={option.id}>
+              {option.label}
+              {option.frequency !== undefined ? `（${option.frequency}）` : ''}
             </option>
           ))}
         </select>

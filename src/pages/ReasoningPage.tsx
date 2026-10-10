@@ -22,6 +22,8 @@ import { ReasoningChain } from '@/components/reasoning/ReasoningChain'
 import { TreeOverview } from '@/components/reasoning/TreeOverview'
 import { VariantPanel } from '@/components/reasoning/VariantPanel'
 import { loadChenfuReasoning, loadDiffPairs, loadFormulas, loadReasoning } from '@/lib/data'
+import { reasoningCardVisibility } from '@/lib/reasoning-display'
+import { reasoningSafetyNotice } from '@/lib/reasoning-safety'
 import { CHENFU_BOOK_LABELS } from '@/lib/chenfu'
 import { convertScript } from '@/lib/text'
 import { useAppContext } from '@/context/AppContext'
@@ -354,6 +356,17 @@ export function ReasoningPage() {
             <TreeOverview tree={tree} path={path} />
           </section>
 
+          {result && (
+            <div className="rounded-xl border border-amber-200 bg-amber-soft px-4 py-3 text-sm text-amber-950">
+              {reasoningSafetyNotice(path.map((step) => step.optionLabel)).map((line) => (
+                <p key={line} className="flex items-start gap-2">
+                  <FontAwesomeIcon icon={faTriangleExclamation} className="mt-0.5" />
+                  <span>{line}</span>
+                </p>
+              ))}
+            </div>
+          )}
+
           {result?.addHerbs && result.addHerbs.length > 0 && (
             <div className="rounded-xl border border-amber-200 bg-amber-soft px-4 py-3 text-sm text-amber-900">
               加味：{result.addHerbs.map((herb) => convertScript(herb, scriptMode)).join('、')}
@@ -390,6 +403,7 @@ export function ReasoningPage() {
               className="space-y-4 rounded-2xl border border-stone-200 bg-white/90 p-3 shadow-sm sm:p-4"
             >
               <ReasoningChain formula={card} />
+              {reasoningCardVisibility(card.reviewStatus).showNatureChart && (
               <div>
                 <h3 className="mb-2 flex items-center gap-2 font-serif text-lg font-semibold">
                   <FontAwesomeIcon icon={faFlask} className="text-teal" />
@@ -397,6 +411,7 @@ export function ReasoningPage() {
                 </h3>
                 <NatureChart natureIndex={card.natureIndex} formulaName={card.formulaName} />
               </div>
+              )}
               <VariantPanel
                 formulaId={card.formulaId}
                 formulaName={card.formulaName}

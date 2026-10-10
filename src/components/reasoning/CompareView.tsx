@@ -5,6 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { ChenfuChain } from '@/components/reasoning/ChenfuChain'
 import { TreeOverview } from '@/components/reasoning/TreeOverview'
 import { CHENFU_BOOK_LABELS, caseTitle } from '@/lib/chenfu'
+import { reasoningCardVisibility } from '@/lib/reasoning-display'
 import { convertScript } from '@/lib/text'
 import { useAppContext } from '@/context/AppContext'
 import type {
@@ -41,6 +42,7 @@ function findFormulaReasoning(
 
 function CompactFormulaCard({ formulaRef, card }: { formulaRef: CompareFormulaRef; card?: FormulaReasoning }) {
   const { scriptMode } = useAppContext()
+  const visibility = card ? reasoningCardVisibility(card.reviewStatus) : null
   return (
     <li className="rounded-xl border border-stone-200 bg-white p-3">
       <div className="flex items-baseline justify-between gap-2">
@@ -64,7 +66,11 @@ function CompactFormulaCard({ formulaRef, card }: { formulaRef: CompareFormulaRe
       </div>
       {card ? (
         <>
-          <p className="mt-1 text-xs text-stone-600">{convertScript(card.function, scriptMode)}</p>
+          <p className="mt-1 text-xs text-stone-600">
+            {visibility?.showFunction
+              ? convertScript(card.function, scriptMode)
+              : visibility?.hiddenNote}
+          </p>
           <div className="mt-2 flex flex-wrap gap-1">
             {card.indications.map((indication) => (
               <span key={indication.symptom} className="rounded-full bg-cinnabar-soft px-2 py-0.5 text-[11px] text-cinnabar">

@@ -4,6 +4,7 @@ import { faBookOpen, faLink } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import type { FormulaReasoning } from '@/types/data'
 import { bookTitle } from '@/lib/data'
+import { reasoningCardVisibility } from '@/lib/reasoning-display'
 import { convertScript } from '@/lib/text'
 import { useAppContext } from '@/context/AppContext'
 
@@ -28,6 +29,7 @@ export function ReasoningChain({ formula }: ReasoningChainProps) {
   const { scriptMode } = useAppContext()
   const [hoverSymptom, setHoverSymptom] = useState<string | null>(null)
 
+  const visibility = reasoningCardVisibility(formula.reviewStatus)
   const highlightedHerbs = useMemo(() => {
     if (!hoverSymptom) return new Set<string>()
     const indication = formula.indications.find((item) => item.symptom === hoverSymptom)
@@ -42,7 +44,11 @@ export function ReasoningChain({ formula }: ReasoningChainProps) {
           <h3 className="font-serif text-xl font-bold text-cinnabar">
             {convertScript(formula.formulaName, scriptMode)}
           </h3>
-          <p className="text-sm text-stone-600">{convertScript(formula.function, scriptMode)}</p>
+          {visibility.showFunction ? (
+            <p className="text-sm text-stone-600">{convertScript(formula.function, scriptMode)}</p>
+          ) : (
+            <p className="text-sm text-stone-500">{visibility.hiddenNote}</p>
+          )}
         </div>
         {formula.formulaId && (
           <Link
@@ -124,6 +130,7 @@ export function ReasoningChain({ formula }: ReasoningChainProps) {
           </ul>
         </section>
 
+        {visibility.showFunction && (
         <section className="rounded-xl border border-stone-200 bg-white p-3">
           <h4 className="mb-2 text-sm font-semibold text-stone-700">功能 / 病机</h4>
           <p className="rounded-lg bg-teal-soft/60 px-3 py-3 font-serif text-base text-teal">
@@ -133,6 +140,7 @@ export function ReasoningChain({ formula }: ReasoningChainProps) {
             悬停或点按主症，可高亮对应药物，观察「症 → 药」映射。
           </p>
         </section>
+        )}
 
         <section className="rounded-xl border border-stone-200 bg-white p-3 lg:col-span-1">
           <h4 className="mb-2 text-sm font-semibold text-stone-700">单味药</h4>
@@ -161,6 +169,7 @@ export function ReasoningChain({ formula }: ReasoningChainProps) {
           </ul>
         </section>
 
+        {visibility.showNatures && (
         <section className="rounded-xl border border-stone-200 bg-white p-3">
           <h4 className="mb-2 text-sm font-semibold text-stone-700">药性标签</h4>
           <ul className="space-y-2">
@@ -189,6 +198,7 @@ export function ReasoningChain({ formula }: ReasoningChainProps) {
             })}
           </ul>
         </section>
+        )}
       </div>
     </div>
   )

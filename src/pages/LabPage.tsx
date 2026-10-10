@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import type { Formula, Herb } from '@/types/data'
 import { loadFormulas, loadHerbs } from '@/lib/data'
+import { doseAwareScore, type MatchHerb } from '@/lib/formula-match'
 
 function jaccard(a: Set<string>, b: Set<string>): number {
   let inter = 0
@@ -47,19 +48,38 @@ export function LabPage() {
   const deduction = useMemo(() => {
     const base = formulas.find((item) => item.id === baseId)
     if (!base) return null
-    const next = new Set(base.herbs.map((herb) => herb.herbId))
-    if (addHerb) next.add(addHerb)
-    if (removeHerb) next.delete(removeHerb)
+    const nextHerbs: MatchHerb[] = base.herbs
+      .filter((herb) => herb.herbId !== removeHerb)
+      .map((herb) => ({
+        herbId: herb.herbId,
+        name: herb.name,
+        doseLiang: herb.doseLiang,
+        doseCount: herb.doseCount,
+        doseRaw: herb.doseRaw,
+      }))
+    if (addHerb) {
+      const added = herbs.find((herb) => herb.id === addHerb)
+      nextHerbs.push({ herbId: addHerb, name: added?.name ?? addHerb })
+    }
     const ranked = formulas
       .filter((item) => item.id !== base.id)
-      .map((formula) => ({
-        formula,
-        score: jaccard(next, new Set(formula.herbs.map((herb) => herb.herbId))),
-      }))
+      .map((formula) => {
+        const matched = doseAwareScore(
+          nextHerbs,
+          formula.herbs.map((herb) => ({
+            herbId: herb.herbId,
+            name: herb.name,
+            doseLiang: herb.doseLiang,
+            doseCount: herb.doseCount,
+            doseRaw: herb.doseRaw,
+          })),
+        )
+        return { formula, score: matched.score, doseNotes: matched.doseNotes }
+      })
       .sort((a, b) => b.score - a.score)
       .slice(0, 5)
     return { base, ranked }
-  }, [formulas, baseId, addHerb, removeHerb])
+  }, [formulas, herbs, baseId, addHerb, removeHerb])
 
   function toggle(herbId: string) {
     setSelected((prev) => {
@@ -157,6 +177,9 @@ export function LabPage() {
               >
                 {item.formula.name}
                 <span className="ml-2 text-stone-500">{(item.score * 100).toFixed(0)}%</span>
+                {item.doseNotes.length > 0 && (
+                  <span className="mt-1 block text-xs text-stone-500">{item.doseNotes.join('；')}</span>
+                )}
               </Link>
             ))}
           </div>

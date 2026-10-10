@@ -8,6 +8,7 @@ import {
   loadFormulas,
   loadHerbRoles,
 } from '@/lib/data'
+import { collationNoteForFormula } from '@/lib/formula-collation'
 import { formatDualGrams } from '@/lib/dose-display'
 import { convertScript } from '@/lib/text'
 import { useAppContext } from '@/context/AppContext'
@@ -80,6 +81,11 @@ export function FormulaDetailPage() {
     return <p className="text-stone-500">未找到方剂。</p>
   }
 
+  const collationNote = collationNoteForFormula(
+    formula.id,
+    formula.herbs.map((herb) => herb.name),
+  )
+
   return (
     <div className="space-y-4 sm:space-y-6">
       {formula.fangjie && <DraftBanner />}
@@ -90,6 +96,11 @@ export function FormulaDetailPage() {
           {formula.doseSystem === 'qing' && ' · 清制剂量'}
         </p>
         <h1 className="font-serif text-2xl font-bold sm:text-3xl">{convertScript(formula.name, scriptMode)}</h1>
+        {collationNote && (
+          <p className="mt-2 rounded-xl border border-amber-200 bg-amber-soft px-3 py-2 text-sm text-amber-950">
+            {convertScript(collationNote, scriptMode)}
+          </p>
+        )}
         {formula.chapter && (
           <p className="mt-1 text-sm text-stone-500">{convertScript(formula.chapter, scriptMode)}</p>
         )}

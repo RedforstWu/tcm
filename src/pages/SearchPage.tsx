@@ -1,15 +1,17 @@
 import MiniSearch from 'minisearch'
 import { useEffect, useMemo, useState } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useSearchParams } from 'react-router-dom'
 import type { SearchDoc } from '@/types/data'
 import { loadSearchDocs } from '@/lib/data'
+import { applySearchQuery, presentSearchResult, searchQueryFromParams } from '@/lib/search-presentation'
 import { convertScript } from '@/lib/text'
 import { useAppContext } from '@/context/AppContext'
 
 export function SearchPage() {
   const { scriptMode } = useAppContext()
+  const [searchParams, setSearchParams] = useSearchParams()
   const [docs, setDocs] = useState<SearchDoc[]>([])
-  const [query, setQuery] = useState('')
+  const query = searchQueryFromParams(searchParams)
 
   useEffect(() => {
     void loadSearchDocs().then(setDocs)
@@ -38,30 +40,39 @@ export function SearchPage() {
       </div>
       <input
         value={query}
-        onChange={(event) => setQuery(event.target.value)}
+        onChange={(event) => {
+          setSearchParams(applySearchQuery(searchParams, event.target.value), { replace: true })
+        }}
         placeholder="例如：桂枝去芍药、心下痞、附子"
         className="w-full rounded-2xl border border-stone-200 bg-white px-4 py-3 text-base shadow-sm"
         autoFocus
       />
       <div className="space-y-2">
-        {results.map((result) => (
+        {results.map((result) => {
+          const presented = presentSearchResult({
+            type: result.type as SearchDoc['type'],
+            book: result.book as SearchDoc['book'],
+            title: String(result.title),
+          })
+          return (
           <Link
             key={result.id}
             to={String(result.href)}
             className="block rounded-2xl border border-stone-200 bg-white/80 p-4 hover:border-cinnabar/40"
           >
             <div className="mb-1 flex items-center gap-2 text-xs text-stone-400">
-              <span className="rounded bg-stone-100 px-2 py-0.5">{result.type}</span>
-              {result.book && <span>{result.book}</span>}
+              <span className="rounded bg-stone-100 px-2 py-0.5">{presented.typeLabel}</span>
+              {presented.bookLabel && <span>{presented.bookLabel}</span>}
             </div>
             <h2 className="font-serif text-lg font-semibold">
-              {convertScript(String(result.title), scriptMode)}
+              {convertScript(presented.title, scriptMode)}
             </h2>
             <p className="mt-1 line-clamp-2 text-sm text-stone-600">
               {convertScript(String(result.text).slice(0, 120), scriptMode)}
             </p>
           </Link>
-        ))}
+          )
+        })}
         {query && results.length === 0 && (
           <p className="text-sm text-stone-500">无结果，试试更短的关键词。</p>
         )}
